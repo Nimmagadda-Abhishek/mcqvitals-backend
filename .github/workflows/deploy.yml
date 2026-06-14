@@ -35,14 +35,13 @@ jobs:
           port: 22
           script: |
             # Update this path to where your application lives on the EC2 instance
-            cd /var/www/my-app
+            cd /home/ubuntu/mcqvitals-backend
             
             # Pull the latest changes from the repository
             git pull origin main
             
             # Install production dependencies
-            npm ci --production
+            npm install
             
-            # Restart the application using PM2 (or use systemctl/forever as appropriate)
-            # Make sure PM2 is installed globally on your EC2 instance
-            pm2 restart app_name || pm2 start index.js --name "app_name"
+            # Restart the application using PM2
+            pm2 restart mcqvitals-backend || pm2 start index.js --name "mcqvitals-backend"
