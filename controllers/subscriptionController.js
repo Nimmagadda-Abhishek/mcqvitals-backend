@@ -8,6 +8,42 @@ const razorpay = new Razorpay({
     key_secret: process.env.RAZORPAY_KEY_SECRET || 'mock_key_secret'
 });
 
+let razorpayPlansCache = { monthly: null, yearly: null };
+
+async function getOrCreatePlan(planType) {
+    if (razorpayPlansCache[planType]) return razorpayPlansCache[planType];
+
+    const amount = planType === 'monthly' ? 299 * 100 : 1499 * 100;
+    const period = planType === 'monthly' ? 'monthly' : 'yearly';
+    
+    try {
+        const { items: plans } = await razorpay.plans.all();
+        let existingPlan = plans.find(p => p.item.amount === amount && p.period === period);
+        
+        if (existingPlan) {
+            razorpayPlansCache[planType] = existingPlan.id;
+            return existingPlan.id;
+        }
+
+        const newPlan = await razorpay.plans.create({
+            period,
+            interval: 1,
+            item: {
+                name: `${planType === 'monthly' ? 'Monthly' : 'Yearly'} Pro`,
+                amount,
+                currency: 'INR',
+                description: `${planType === 'monthly' ? 'Monthly' : 'Yearly'} Pro Subscription`
+            }
+        });
+        
+        razorpayPlansCache[planType] = newPlan.id;
+        return newPlan.id;
+    } catch (err) {
+        console.error("Failed to fetch/create razorpay plan:", err);
+        throw err;
+    }
+}
+
 // @desc    Create Razorpay Order for Subscription
 // @route   POST /api/subscription/order
 // @access  Private
@@ -18,21 +54,22 @@ const createOrder = async (req, res) => {
             return res.status(400).json({ message: 'Invalid plan selected' });
         }
 
-        const amount = plan === 'monthly' ? 299 * 100 : 1200 * 100; // Amount in paise
+        const amount = plan === 'monthly' ? 299 * 100 : 1499 * 100; // Amount in paise
 
         // Mock Razorpay creation if keys are missing
         let order;
         if (process.env.RAZORPAY_KEY_ID && process.env.RAZORPAY_KEY_ID !== 'mock_key_id') {
+            const planIdRazorpay = await getOrCreatePlan(plan);
             const options = {
-                amount,
-                currency: 'INR',
-                receipt: `receipt_${Date.now()}`
+                plan_id: planIdRazorpay,
+                customer_notify: 1,
+                total_count: plan === 'monthly' ? 120 : 10 // e.g. 10 years max
             };
-            order = await razorpay.orders.create(options);
+            order = await razorpay.subscriptions.create(options);
         } else {
             // Mock order
             order = {
-                id: `order_mock_${Date.now()}`,
+                id: `sub_mock_${Date.now()}`,
                 amount,
                 currency: 'INR'
             };
@@ -48,9 +85,9 @@ const createOrder = async (req, res) => {
         await subscriptionOrder.save();
 
         res.status(201).json({
-            orderId: order.id,
-            amount: order.amount,
-            currency: order.currency,
+            orderId: order.id, // This is now a subscription ID
+            amount: amount,
+            currency: 'INR',
             key: process.env.RAZORPAY_KEY_ID || 'mock_key_id'
         });
     } catch (error) {
@@ -64,18 +101,20 @@ const createOrder = async (req, res) => {
 // @access  Private
 const verifyPayment = async (req, res) => {
     try {
-        const { razorpay_order_id, razorpay_payment_id, razorpay_signature, plan } = req.body;
+        const { razorpay_order_id, razorpay_subscription_id, razorpay_payment_id, razorpay_signature, plan } = req.body;
+        const incomingId = razorpay_subscription_id || razorpay_order_id;
 
-        const order = await SubscriptionOrder.findOne({ orderId: razorpay_order_id });
+        const order = await SubscriptionOrder.findOne({ orderId: incomingId });
         if (!order) {
-            return res.status(404).json({ message: 'Order not found' });
+            return res.status(404).json({ message: 'Order/Subscription not found' });
         }
 
         let isAuthentic = false;
 
         // Verify signature if we have real keys
         if (process.env.RAZORPAY_KEY_ID && process.env.RAZORPAY_KEY_ID !== 'mock_key_id') {
-            const body = razorpay_order_id + '|' + razorpay_payment_id;
+            // For subscriptions, signature is: payment_id + '|' + subscription_id
+            const body = razorpay_payment_id + '|' + incomingId;
             const expectedSignature = crypto
                 .createHmac('sha256', process.env.RAZORPAY_KEY_SECRET)
                 .update(body.toString())
@@ -132,7 +171,7 @@ const getSubscriptionHistory = async (req, res) => {
 
         const currentPlan = user.subscription?.status === 'active' ? user.subscription.plan : 'none';
         const nextBillingDate = user.subscription?.status === 'active' ? user.subscription.expiryDate : null;
-        const amount = currentPlan === 'yearly' ? 1200 : (currentPlan === 'monthly' ? 299 : 0);
+        const amount = currentPlan === 'yearly' ? 1499 : (currentPlan === 'monthly' ? 299 : 0);
 
         res.json({
             currentPlan,
@@ -181,30 +220,31 @@ const upgradeSubscription = async (req, res) => {
         }
 
         // Calculate prorated cost
-        let proratedAmount = 1200; // default yearly cost
+        let proratedAmount = 1499; // default yearly cost
         const now = new Date();
         if (user.subscription.expiryDate && user.subscription.expiryDate > now) {
             const timeDiff = user.subscription.expiryDate - now;
             const daysLeft = Math.ceil(timeDiff / (1000 * 3600 * 24));
             // Value of remaining days on monthly plan (299 per 30 days)
             const remainingValue = (299 / 30) * daysLeft;
-            proratedAmount = Math.max(0, 1200 - remainingValue);
+            proratedAmount = Math.max(0, 1499 - remainingValue);
         }
 
         const amountInPaise = Math.round(proratedAmount * 100);
 
         let order;
         if (process.env.RAZORPAY_KEY_ID && process.env.RAZORPAY_KEY_ID !== 'mock_key_id') {
+            const planIdRazorpay = await getOrCreatePlan('yearly');
             const options = {
-                amount: amountInPaise,
-                currency: 'INR',
-                receipt: `upgrade_${Date.now()}`
+                plan_id: planIdRazorpay,
+                customer_notify: 1,
+                total_count: 10
             };
-            order = await razorpay.orders.create(options);
+            order = await razorpay.subscriptions.create(options);
         } else {
             // Mock order
             order = {
-                id: `order_mock_${Date.now()}`,
+                id: `sub_upgrade_mock_${Date.now()}`,
                 amount: amountInPaise,
                 currency: 'INR'
             };
@@ -221,8 +261,8 @@ const upgradeSubscription = async (req, res) => {
 
         res.status(201).json({
             orderId: order.id,
-            amount: order.amount,
-            currency: order.currency,
+            amount: amountInPaise,
+            currency: 'INR',
             key: process.env.RAZORPAY_KEY_ID || 'mock_key_id',
             isUpgrade: true
         });
@@ -253,7 +293,7 @@ const getSubscriptionPlans = async (req, res) => {
             {
                 id: 'yearly',
                 name: 'Yearly Pro',
-                price: 1200,
+                price: 1499,
                 duration: '1 Year',
                 features: [
                     'Everything in Monthly plan',

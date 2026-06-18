@@ -1,0 +1,396 @@
+[
+  {
+    "id": 1,
+    "question": "Which cells project to pial surface?",
+    "options": {
+      "a": "Axons of Betz cells",
+      "b": "Martinotti cell",
+      "c": "Fusiform cell",
+      "d": "Stellate cell"
+    },
+    "correct_answer": ["b", "a"],
+    "explanation": "Martinotti cell is a small multipolar cell present throughout the cortex. It has small dendrites but its axon is directed towards the pial surface, where it ends in a more superficial layer. Pyramidal cell axon (Betz cell) also extends towards the pial surface.",
+    "reference": "Richard S. Snell's Clinical Neuroanatomy 7th edn. pp 286"
+  },
+  {
+    "id": 2,
+    "question": "Setting posture before planned movement is the function of:",
+    "options": {
+      "a": "Premotor cortex",
+      "b": "Motor cortex",
+      "c": "Frontal lobe",
+      "d": "Supplementary motor cortex"
+    },
+    "correct_answer": "a",
+    "explanation": "The premotor cortex is concerned with setting posture at the start of a planned movement and preparing the individual to move. The supplementary motor area is involved primarily in organizing or planning motor sequences.",
+    "reference": "Ganong's Physiology 25th edn. pp 237, 26th edn. pp 233"
+  },
+  {
+    "id": 3,
+    "question": "Pyramids are formed by:",
+    "options": {
+      "a": "Arcuate nucleus",
+      "b": "Vestibular nuclei",
+      "c": "Interstitial cells of Cajal",
+      "d": "Lateral corticospinal tract"
+    },
+    "correct_answer": "d",
+    "explanation": "About 80% (average) of the corticospinal fibers cross the midline in the medullary pyramids to form the lateral corticospinal tract. The medullary pyramids are formed by the corticospinal fibers.",
+    "reference": "Ganong's Physiology 25th edn. pp 238, 26th edn. pp 234"
+  },
+  {
+    "id": 4,
+    "question": "According to Herrington classification, decerebrate rigidity is characterised by all EXCEPT:",
+    "options": {
+      "a": "Rigidity occurs in all muscles of the body",
+      "b": "Increased in the rate of discharge of the gamma efferent neuron",
+      "c": "Increased excitability of the motor neuron pool",
+      "d": "Decerebration produces no phenomenon akin to spinal shock"
+    },
+    "correct_answer": "a",
+    "explanation": "Decerebrate rigidity involves hyperactivity in extensor muscles (not all muscles) in all four extremities. The hyperactivity is produced by excitatory input to γ-motor neurons, which indirectly activate α-motor neurons via Ia spindle afferent activity (gamma loop).",
+    "reference": "Ganong's Physiology 25th edn. pp 241, 26th edn. pp 238"
+  },
+  {
+    "id": 5,
+    "question": "The first reflex to return after recovery from spinal shock is:",
+    "options": {
+      "a": "Stretch reflex",
+      "b": "Flexor reflex",
+      "c": "Stepping reflex",
+      "d": "Postural antigravity reflex"
+    },
+    "correct_answer": "b",
+    "explanation": "The first reflex response to appear as spinal shock wears off in humans is often a slight contraction of the leg flexors and adductors in response to a noxious stimulus — this is the flexor (withdrawal) reflex.",
+    "reference": "Ganong's Physiology 25th edn. pp 234, 26th edn. pp 231"
+  },
+  {
+    "id": 6,
+    "question": "Effect of upper motor neuron on gamma motor neuron is:",
+    "options": {
+      "a": "Stimulatory",
+      "b": "Inhibitory",
+      "c": "Both",
+      "d": "None"
+    },
+    "correct_answer": "c",
+    "explanation": "UMN includes both pyramidal and extrapyramidal systems. Pontine reticulospinal neurons are primarily excitatory and medullary reticulospinal neurons are primarily inhibitory to gamma motor neurons.",
+    "reference": "Ganong's Physiology 25th edn. pp 242, 26th edn. pp 237"
+  },
+  {
+    "id": 7,
+    "question": "Which of the following is FALSE in decerebrate rigidity?",
+    "options": {
+      "a": "Upper limb flexed lower limb extended",
+      "b": "Both upper and lower limbs extended",
+      "c": "Lesion between the superior and inferior colliculi produces this rigidity",
+      "d": "Cutting dorsal root abolishes the rigidity"
+    },
+    "correct_answer": "a",
+    "explanation": "Upper limbs flexed and lower limbs extended is seen in DECORTICATE posturing (upper midbrain lesion), NOT decerebrate rigidity. In decerebrate rigidity, both upper and lower limbs are extended.",
+    "reference": "Ganong's Physiology 25th edn. pp 241"
+  },
+  {
+    "id": 8,
+    "question": "While doing a neurosurgery, the paracentral lobule was accidentally damaged. It will lead to which of the following? [AIIMS 00]",
+    "options": {
+      "a": "Hemiplegia",
+      "b": "Monoplegia",
+      "c": "Involvement of the perineum and lower limbs",
+      "d": "Quadriplegia"
+    },
+    "correct_answer": "c",
+    "explanation": "The paracentral area is the medial surface of the motor and sensory cortex. The body parts represented on the medial surface are the leg, foot, and perineum. Damage here leads to involvement of the perineum and lower limbs.",
+    "reference": "Ganong's Physiology 25th edn. pp 237, 26th edn. pp 232"
+  },
+  {
+    "id": 9,
+    "question": "Skilled voluntary movement is initiated at: [JIPMER 02]",
+    "options": {
+      "a": "Cerebral cortex (motor cortex)",
+      "b": "Basal ganglia",
+      "c": "Cortical association areas",
+      "d": "Cerebellum"
+    },
+    "correct_answer": "c",
+    "explanation": "Commands for voluntary movement originate in cortical association areas, which then relay to the motor cortex for execution.",
+    "reference": "Ganong's Physiology 25th edn. pp 236, 26th edn. pp 232, Fig. 12.6"
+  },
+  {
+    "id": 10,
+    "question": "UMN (Upper Motor Neuron) includes: [PGI June 02]",
+    "options": {
+      "a": "Pyramidal cells",
+      "b": "Peripheral nerves",
+      "c": "Anterior horn cells",
+      "d": "Glial cells",
+      "e": "Schwann cells"
+    },
+    "correct_answer": "a",
+    "explanation": "Upper motor neurons are those in the cortex and brainstem that activate the lower motor neurons. Pyramidal cells (Betz cells) are UMN. Lower motor neurons refer to spinal and cranial motor neurons (anterior horn cells) that directly innervate skeletal muscles.",
+    "reference": "Ganong's Physiology 25th edn. pp 240, 26th edn. pp 234"
+  },
+  {
+    "id": 11,
+    "question": "True about lateral corticospinal tract: [PGI Dec 06]",
+    "options": {
+      "a": "Crossed",
+      "b": "Uncrossed",
+      "c": "Stops in midthoracic region",
+      "d": "Crossed at midspinal level",
+      "e": "Only 20% crossed"
+    },
+    "correct_answer": "a",
+    "explanation": "About 80% of corticospinal fibers cross the midline at the medullary pyramids to form the lateral corticospinal tract (crossed). The remaining 20% form the ventral corticospinal tract, which does not cross until it reaches its termination level in the spinal cord.",
+    "reference": "Ganong's Physiology 25th edn. pp 238, 26th edn. pp 234"
+  },
+  {
+    "id": 12,
+    "question": "Which is NOT a medial pathway involved in maintenance of posture? [JIPMER 11]",
+    "options": {
+      "a": "Reticulospinal tract",
+      "b": "Rubrospinal tract",
+      "c": "Tectospinal tract",
+      "d": "Vestibulospinal tract"
+    },
+    "correct_answer": "b",
+    "explanation": "The medial brainstem pathways involved in posture maintenance are the pontine and medullary reticulospinal, vestibulospinal, and tectospinal tracts. The rubrospinal tract is a lateral pathway, not a medial pathway.",
+    "reference": "Ganong's Physiology 25th edn. pp 241, 26th edn. pp 235"
+  },
+  {
+    "id": 13,
+    "question": "Gamma motor neurons are mainly influenced by: [JIPMER 10]",
+    "options": {
+      "a": "Tectospinal tract",
+      "b": "Vestibulospinal tract",
+      "c": "Reticulospinal tract",
+      "d": "Corticospinal tract"
+    },
+    "correct_answer": "c",
+    "explanation": "The pontine and medullary reticulospinal tracts project to all spinal levels and are involved in the maintenance of posture and modulation of muscle tone, especially via input to γ-motor neurons.",
+    "reference": "Ganong's Physiology 25th edn. pp 242, 26th edn. pp 235"
+  },
+  {
+    "id": 14,
+    "question": "Corticospinal tract lesion leads to: [PGI Nov 10]",
+    "options": {
+      "a": "Spasticity",
+      "b": "Extensor plantar response",
+      "c": "Cog-wheel rigidity",
+      "d": "Resting tremors",
+      "e": "Exaggerated tendon reflexes"
+    },
+    "correct_answer": "b",
+    "explanation": "Babinski's sign (extensor plantar response) is a feature of pyramidal tract (corticospinal tract) lesion. Spasticity, cog-wheel rigidity, resting tremors, and exaggerated tendon reflexes are caused by extrapyramidal lesion. Pure pyramidal tract lesion actually produces hypotonia.",
+    "reference": "Richard S. Snell's Clinical Neuroanatomy 7th edn. pp 182"
+  },
+  {
+    "id": 15,
+    "question": "Following are features of corticospinal involvement EXCEPT: [AI 03]",
+    "options": {
+      "a": "Cog-wheel rigidity",
+      "b": "Spasticity",
+      "c": "Plantar extensor response",
+      "d": "Exaggerated deep tendon reflexes"
+    },
+    "correct_answer": "a",
+    "explanation": "Cog-wheel rigidity is a feature of extrapyramidal (basal ganglia) lesion, not corticospinal (pyramidal) tract lesion. The single best exclusion is cog-wheel rigidity.",
+    "reference": "Richard S. Snell's Clinical Neuroanatomy 7th edn. pp 182"
+  },
+  {
+    "id": 16,
+    "question": "Features of pyramidal tract lesion are all EXCEPT: [AI 98, 94]",
+    "options": {
+      "a": "Clasp knife rigidity",
+      "b": "Involuntary movements",
+      "c": "Positive Babinski sign",
+      "d": "Exaggerated reflexes and increased tone"
+    },
+    "correct_answer": "b",
+    "explanation": "Involuntary movements are NOT a feature of pyramidal tract lesion. They are characteristic of extrapyramidal (basal ganglia) lesions.",
+    "reference": "Richard S. Snell's Clinical Neuroanatomy 7th edn. pp 182"
+  },
+  {
+    "id": 17,
+    "question": "The first reflex response to appear as spinal shock wears off in humans is: [AI 06]",
+    "options": {
+      "a": "Tympanic reflex",
+      "b": "Withdrawal reflex",
+      "c": "Neck righting reflex",
+      "d": "Labyrinthine reflex"
+    },
+    "correct_answer": "b",
+    "explanation": "The first reflex response to appear as spinal shock wears off in humans is often a slight contraction of the leg flexors — this is the withdrawal (flexor) reflex.",
+    "reference": "Ganong's Physiology 25th edn. pp 234, 26th edn. pp 231"
+  },
+  {
+    "id": 18,
+    "question": "The maintenance of posture in a normal adult human being depends upon: [AI 06]",
+    "options": {
+      "a": "Integrity of reflex arc",
+      "b": "Muscle power",
+      "c": "Type of muscle fibers",
+      "d": "Joint movements in physiological range"
+    },
+    "correct_answer": "a",
+    "explanation": "Stretch reflex is fundamental to posture control. The major factor in posture control is a change in the threshold of the stretch reflex, which requires integrity of the reflex arc.",
+    "reference": "Ganong's Physiology 25th edn. pp 241, 26th edn. pp 225"
+  },
+  {
+    "id": 19,
+    "question": "Function of vestibulospinal tract: [JIPMER 15]",
+    "options": {
+      "a": "Facilitates flexors",
+      "b": "Facilitates extensors",
+      "c": "Inhibits flexors",
+      "d": "Inhibits extensors"
+    },
+    "correct_answer": "b",
+    "explanation": "The vestibulospinal tract activates motor neurons to antigravity muscles (e.g., proximal limb extensors) to control posture and balance — it facilitates extensors.",
+    "reference": "Ganong's Physiology 25th edn. pp 241, 26th edn. pp 235"
+  },
+  {
+    "id": 20,
+    "question": "The function of the neocerebellum is:",
+    "options": {
+      "a": "Maintenance of equilibrium",
+      "b": "Servo-correction of voluntary movements",
+      "c": "Planning and programming of voluntary movements",
+      "d": "Maintenance of muscle tone"
+    },
+    "correct_answer": "c",
+    "explanation": "Neocerebellum (cerebrocerebellum) is responsible for planning and programming of voluntary movements. Spinocerebellum smoothens and coordinates movements by comparing plan with performance.",
+    "reference": "Ganong's Physiology 25th edn. pp 251, 26th edn. pp 245"
+  },
+  {
+    "id": 21,
+    "question": "Not included in cerebellar nuclei:",
+    "options": {
+      "a": "Dentate nuclei",
+      "b": "Emboliform nuclei",
+      "c": "Fastigial nuclei",
+      "d": "Caudate nuclei"
+    },
+    "correct_answer": "d",
+    "explanation": "Caudate nucleus is a part of the basal ganglia, not the cerebellum. The cerebellar nuclei include the dentate, emboliform, globose, and fastigial nuclei.",
+    "reference": "Ganong's Physiology 25th edn. pp 244, 26th edn. pp 242"
+  },
+  {
+    "id": 22,
+    "question": "Purkinje fibers are inhibitory for:",
+    "options": {
+      "a": "Deep cerebellar nuclei",
+      "b": "Climbing fiber",
+      "c": "Basket cells",
+      "d": "Spinocerebellar tracts"
+    },
+    "correct_answer": "a",
+    "explanation": "The input from Purkinje cells to the deep cerebellar nuclei is inhibitory (GABAergic). However, the output from the deep cerebellar nuclei is always excitatory.",
+    "reference": "Ganong's Physiology 25th edn. pp 244, 26th edn. pp 242"
+  },
+  {
+    "id": 23,
+    "question": "Vestibulo-ocular reflex is concerned with:",
+    "options": {
+      "a": "Archicerebellum",
+      "b": "Flocculonodular lobe",
+      "c": "Neocerebellum",
+      "d": "Occipital lobe"
+    },
+    "correct_answer": "b",
+    "explanation": "The vestibulo-ocular reflex is controlled by the vestibulocerebellum (flocculonodular lobe), which is concerned with equilibrium and eye movements.",
+    "reference": "Ganong's Physiology 25th edn. pp 250, 26th edn. pp 246"
+  },
+  {
+    "id": 24,
+    "question": "True about spinocerebellar tract is:",
+    "options": {
+      "a": "Equilibrium",
+      "b": "Smoothens and coordinates movement",
+      "c": "Learning induced by change in vestibulocular reflex",
+      "d": "Planning and programming"
+    },
+    "correct_answer": "b",
+    "explanation": "The spinocerebellum (which receives input via spinocerebellar tract) smoothens and coordinates movements by comparing the motor plan with actual performance.",
+    "reference": "Ganong's Physiology 25th edn. pp 250, 26th edn. pp 245"
+  },
+  {
+    "id": 25,
+    "question": "Cells present in cerebellar cortex are all EXCEPT: [AIIMS Nov 08]",
+    "options": {
+      "a": "Purkinje",
+      "b": "Bipolar",
+      "c": "Granule",
+      "d": "Golgi"
+    },
+    "correct_answer": "b",
+    "explanation": "Bipolar cells are NOT present in the cerebellar cortex. The cerebellar cortex contains Purkinje cells, granule cells, Golgi cells, basket cells, and stellate cells.",
+    "reference": "Ganong's Physiology 25th edn. pp 244, 26th edn. pp 242"
+  },
+  {
+    "id": 26,
+    "question": "Cerebellar connection to other parts of the brain is projected through which cell? [AI 94]",
+    "options": {
+      "a": "Golgi cells",
+      "b": "Basket cells",
+      "c": "Purkinje cells",
+      "d": "Oligodendrocytes"
+    },
+    "correct_answer": "c",
+    "explanation": "Purkinje cells are the output neurons of the cerebellum. All cerebellar output to other parts of the brain is projected through Purkinje cells.",
+    "reference": "Ganong's Physiology 25th edn. pp 244, 26th edn. pp 242"
+  },
+  {
+    "id": 27,
+    "question": "Flocculonodular lobe has direct connection with: [AI 98]",
+    "options": {
+      "a": "Red nucleus",
+      "b": "Inferior olivary nucleus",
+      "c": "Vestibular nucleus",
+      "d": "Dentate nucleus"
+    },
+    "correct_answer": "c",
+    "explanation": "The vestibulocerebellum (flocculonodular lobe) has direct vestibular connections and is concerned with equilibrium and eye movements.",
+    "reference": "Ganong's Physiology 25th edn. pp 251, 26th edn. pp 245"
+  },
+  {
+    "id": 28,
+    "question": "Which one of the following clearly states the role of cerebellum in motor performance? [AIIMS May 04]",
+    "options": {
+      "a": "Planning and programming of movement",
+      "b": "Convert abstract thought into voluntary action",
+      "c": "Initiation of skilled voluntary action",
+      "d": "Smoothens and coordinates ongoing movements"
+    },
+    "correct_answer": "d",
+    "explanation": "The primary role of the cerebellum in motor performance is smoothening and coordinating ongoing movements (spinocerebellum). Planning and programming of movement is a secondary role of the neocerebellum.",
+    "reference": "Ganong's Physiology 25th edn. pp 251, 26th edn. pp 245"
+  },
+  {
+    "id": 29,
+    "question": "True about cerebellum: [PGI Dec 04]",
+    "options": {
+      "a": "Cerebral cortex have mostly inhibitory effects",
+      "b": "Coordination",
+      "c": "Planning of motor movements",
+      "d": "Decreased tone",
+      "e": "Excitatory effect from deep nuclei"
+    },
+    "correct_answer": ["b", "c", "d", "e"],
+    "explanation": "The cerebellum is responsible for coordination and planning of motor movements. Cerebellar disease produces hypotonia (decreased tone). The deep cerebellar nuclei always have excitatory output.",
+    "reference": "Ganong's Physiology 25th edn. pp 244, 26th edn. pp 242"
+  },
+  {
+    "id": 30,
+    "question": "Which of the following does NOT carry proprioceptive impulses? [JIPMER 11]",
+    "options": {
+      "a": "Olivocerebellar tract",
+      "b": "Tectocerebellar tract",
+      "c": "Spinocerebellar tract",
+      "d": "Cuneocerebellar tract"
+    },
+    "correct_answer": "b",
+    "explanation": "The tectocerebellar tract carries auditory and visual impulses via the inferior and superior colliculi — it does NOT carry proprioceptive impulses. The spinocerebellar and cuneocerebellar tracts carry proprioceptive impulses.",
+    "reference": "Ganong's Physiology 25th edn. pp 250, 26th edn. pp 245"
+  }
+]

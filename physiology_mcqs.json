@@ -1,0 +1,938 @@
+[
+  {
+    "id": 61,
+    "question": "Iodine uptake is seen in following organs:",
+    "source": "[PGI Dec 03]",
+    "options": {
+      "a": "Ovary",
+      "b": "Thyroid",
+      "c": "Parathyroid",
+      "d": "Salivary gland",
+      "e": "Mammary gland"
+    },
+    "answer": ["b", "d", "e"],
+    "explanation": "Apart from thyroid gland, iodine uptake is also seen in salivary glands, gastric mucosa, placenta, ciliary body of the eye, choroid plexus, mammary glands, and certain cancers derived from these tissues."
+  },
+  {
+    "id": 62,
+    "question": "Thyroxine injected to rat produces All/Except:",
+    "source": "[PGI June 2K]",
+    "options": {
+      "a": "Increased lipolysis",
+      "b": "Increased O2 consumption",
+      "c": "Decrease BMR",
+      "d": "Increased myocardial contractility"
+    },
+    "answer": ["c"],
+    "explanation": "BMR increases (not decreases) in response to thyroid hormone. All other options are true effects of thyroxine."
+  },
+  {
+    "id": 63,
+    "question": "Which of the following is correct regarding T3 and T4 acting on thyroid hormone receptor (THR)?",
+    "source": "(Nov 18)",
+    "options": {
+      "a": "It is a tyrosine kinase receptor",
+      "b": "It activates phospholipase A",
+      "c": "It acts as a transcription factor",
+      "d": "It acts by increasing cAMP"
+    },
+    "answer": ["c"],
+    "explanation": "T3 binds to thyroid receptors (TR) in the nuclei. The hormone-receptor complex then binds to DNA via zinc fingers and increases (or in some cases, decreases) the expression of a variety of different genes. Thus, the nuclear receptors for thyroid hormones are members of the superfamily of hormone-sensitive nuclear transcription factors."
+  },
+  {
+    "id": 64,
+    "question": "Zona glomerulosa secretes:",
+    "source": "NEET Pattern",
+    "options": {
+      "a": "Aldosterone",
+      "b": "Cortisol",
+      "c": "Testosterone",
+      "d": "Catecholamines"
+    },
+    "answer": ["a"],
+    "explanation": "Zona glomerulosa is the outermost zone of the adrenal cortex and is responsible for secreting mineralocorticoids, primarily aldosterone."
+  },
+  {
+    "id": 65,
+    "question": "Destruction of zona glomerulosa will deplete:",
+    "source": "NEET Pattern",
+    "options": {
+      "a": "Aldosterone",
+      "b": "Cortisol",
+      "c": "Testosterone",
+      "d": "Catecholamines"
+    },
+    "answer": ["a"],
+    "explanation": "Zona glomerulosa is the exclusive site of aldosterone synthesis. Destruction of this zone will specifically deplete aldosterone (mineralocorticoid) production."
+  },
+  {
+    "id": 66,
+    "question": "Which is not an action of cortisol?",
+    "source": "NEET Pattern",
+    "options": {
+      "a": "Stimulation of gluconeogenesis",
+      "b": "Increases liver and plasma proteins",
+      "c": "Mobilization of fatty acids",
+      "d": "Increases the number of eosinophils"
+    },
+    "answer": ["d"],
+    "explanation": "Cortisol decreases circulating basophils, eosinophils and lymphocytes (not increases them). All other cell counts increase in cortisol-treated persons."
+  },
+  {
+    "id": 67,
+    "question": "Anti-inflammatory action of steroids due to:",
+    "source": "NEET Pattern",
+    "options": {
+      "a": "Inhibition of phospholipase A2",
+      "b": "Inhibition of cyclooxygenase",
+      "c": "Increased activity of lipo lipase",
+      "d": "Inhibition of lipoxygenase"
+    },
+    "answer": ["a"],
+    "explanation": "Glucocorticoids induce the synthesis of lipocortin, an inhibitor of phospholipase A2. This prevents the release of arachidonic acid, thereby inhibiting both the cyclooxygenase and lipoxygenase pathways of inflammation."
+  },
+  {
+    "id": 68,
+    "question": "Major adrenal androgen is:",
+    "source": "NEET Pattern",
+    "options": {
+      "a": "Testosterone",
+      "b": "11-hydroxy derivative of androstenedione",
+      "c": "17-ketosteroid dehydroepiandrosterone",
+      "d": "Cortisol"
+    },
+    "answer": ["c"],
+    "explanation": "The major adrenal androgen is the 17-ketosteroid dehydroepiandrosterone (DHEA), although androstenedione is also secreted."
+  },
+  {
+    "id": 69,
+    "question": "Excessive production of aldosterone results in:",
+    "source": "NEET Pattern",
+    "options": {
+      "a": "Metabolic acidosis",
+      "b": "Severe hypotension",
+      "c": "Potassium retention",
+      "d": "Depressed plasma renin"
+    },
+    "answer": ["d"],
+    "explanation": "Prolonged mineralocorticoid excess causes Na+ reabsorption and K+ depletion (not retention) due to prolonged K+ diuresis. H+ is also lost (alkalosis, not acidosis). Extra Na+ increases ECF volume, raising blood pressure (not hypotension), and suppresses the renin-angiotensin system (depressed plasma renin)."
+  },
+  {
+    "id": 70,
+    "question": "Aldosterone synthesis is stimulated by which of the following?",
+    "source": "NEET Pattern",
+    "options": {
+      "a": "ACTH",
+      "b": "Hyperkalemia",
+      "c": "Hypernatremia",
+      "d": "Exogenous steroids"
+    },
+    "answer": ["b"],
+    "explanation": "Hyperkalemia directly stimulates aldosterone biosynthesis. Hypernatremia inhibits it via suppression of the renin-angiotensin system. ACTH has a minor role. Exogenous steroids suppress the HPA axis."
+  },
+  {
+    "id": 71,
+    "question": "Which of the following increases during surgical stress?",
+    "source": "NEET Pattern",
+    "options": {
+      "a": "Cortisol",
+      "b": "Estrogen",
+      "c": "Insulin",
+      "d": "Gastrin"
+    },
+    "answer": ["a"],
+    "explanation": "Cortisol increases 3–5 times during major stress. Other hormones that increase during stress include CRF, ACTH, catecholamines, vasopressin (ADH), prolactin, and GH. Insulin typically decreases during surgical stress."
+  },
+  {
+    "id": 72,
+    "question": "What is effect of cortisol on metabolism?",
+    "source": "[PGI Dec 08]",
+    "options": {
+      "a": "Neoglucogenesis",
+      "b": "Lipogenesis",
+      "c": "Proteolysis",
+      "d": "Protein anabolism in liver",
+      "e": "Glycolysis"
+    },
+    "answer": ["a", "c"],
+    "explanation": "Cortisol promotes protein catabolism (proteolysis) and increased hepatic glycogenesis and gluconeogenesis (neoglucogenesis). It also promotes mobilization of fatty acids from adipose tissue, increasing free fatty acids in plasma."
+  },
+  {
+    "id": 73,
+    "question": "During stress increased stimulation of cortisol release cause:",
+    "source": "[PGI Dec 04]",
+    "options": {
+      "a": "Neoglucogenesis",
+      "b": "Glycolysis",
+      "c": "Protein breakdown",
+      "d": "Glucose utilization",
+      "e": "Lipolysis"
+    },
+    "answer": ["a", "c", "e"],
+    "explanation": "During stress, cortisol promotes neoglucogenesis (gluconeogenesis), protein breakdown (proteolysis), and lipolysis. These are all catabolic actions that provide substrates for energy during stress."
+  },
+  {
+    "id": 74,
+    "question": "ACTH level is highest during:",
+    "source": "[PGI Dec 99]",
+    "options": {
+      "a": "Early morning",
+      "b": "Evening",
+      "c": "Afternoon",
+      "d": "Night"
+    },
+    "answer": ["a"],
+    "explanation": "Peak ACTH (and cortisol) level is observed at 8:30 AM in the morning. The nadir is reached around midnight. This diurnal variation follows a circadian rhythm."
+  },
+  {
+    "id": 75,
+    "question": "Mineralocorticoid receptors are present in all of the following sites, except:",
+    "source": "[AIIMS Nov 05, May 07, AI 11]",
+    "options": {
+      "a": "Hippocampus",
+      "b": "Kidney",
+      "c": "Colon",
+      "d": "Liver"
+    },
+    "answer": ["d"],
+    "explanation": "Mineralocorticoid receptors are present in kidney, colon, salivary gland, sweat gland, and hippocampus of the brain. They are NOT found in the liver."
+  },
+  {
+    "id": 76,
+    "question": "Hyperaldosteronism is associated with all except:",
+    "source": "[AIIMS May 10]",
+    "options": {
+      "a": "Hypernatremia",
+      "b": "Hypokalemia",
+      "c": "Hypertension",
+      "d": "Metabolic acidosis"
+    },
+    "answer": ["d"],
+    "explanation": "Hyperaldosteronism causes metabolic alkalosis (not acidosis) because H+ is lost in urine along with K+. It also causes hypernatremia, hypokalemia, and hypertension."
+  },
+  {
+    "id": 77,
+    "question": "Excess secretion of aldosterone causes all except:",
+    "source": "[AIIMS Nov 08]",
+    "options": {
+      "a": "Increased ECF",
+      "b": "Very high Na+ in plasma",
+      "c": "Increased BP",
+      "d": "Natriuresis"
+    },
+    "answer": ["b"],
+    "explanation": "Plasma Na+ is elevated only slightly (not very high) because water is retained with the osmotically active sodium ions. Excess aldosterone causes increased ECF volume, increased BP, and sodium retention (not natriuresis)."
+  },
+  {
+    "id": 78,
+    "question": "Aldosterone synthesis is inhibited by:",
+    "source": "[PGI June 03]",
+    "options": {
+      "a": "Renin",
+      "b": "Endothelin",
+      "c": "Dopamine",
+      "d": "Endorphin",
+      "e": "Hypernatremia"
+    },
+    "answer": ["c", "e"],
+    "explanation": "Dopamine (also bromocriptine) has a direct inhibitory role on aldosterone biosynthesis. Hypernatremia inhibits aldosterone synthesis via RAS system suppression. Renin, endorphin and endothelin stimulate aldosterone biosynthesis."
+  },
+  {
+    "id": 79,
+    "question": "Epinephrine action in liver:",
+    "source": "[PGI Dec 98]",
+    "options": {
+      "a": "Glycogenolysis",
+      "b": "Gluconeogenesis",
+      "c": "Glycolysis",
+      "d": "Lipolysis"
+    },
+    "answer": ["a", "b", "d"],
+    "explanation": "Epinephrine and norepinephrine both cause glycogenolysis and lipolysis. Epinephrine also stimulates gluconeogenesis in the liver. These are all counter-regulatory, hyperglycemic actions."
+  },
+  {
+    "id": 80,
+    "question": "Which of the following hormones are increased due to stress during surgery, especially in DM?",
+    "source": "[PGI Dec 00]",
+    "options": {
+      "a": "Epinephrine",
+      "b": "GH",
+      "c": "Glucocorticoids",
+      "d": "Thyroxine"
+    },
+    "answer": ["a", "b", "c"],
+    "explanation": "Surgery and general anesthesia stimulate a neuroendocrine stress response with the release of corticotropin (ACTH) and cortisol, growth hormone, catecholamines, and to varying degrees, glucagon. Thyroxine is not a primary stress hormone."
+  },
+  {
+    "id": 81,
+    "question": "In stress which hormone is increased?",
+    "source": "[PGI June 04]",
+    "options": {
+      "a": "Insulin",
+      "b": "Vasopressin",
+      "c": "Adrenaline"
+    },
+    "answer": ["b", "c"],
+    "explanation": "During stress, vasopressin (ADH) and adrenaline (epinephrine) are increased. Insulin typically decreases during stress due to catecholamine-mediated inhibition of insulin secretion."
+  },
+  {
+    "id": 82,
+    "question": "Stress-induced hyperglycemia is due to:",
+    "source": "[PGI June 02]",
+    "options": {
+      "a": "Glucocorticoids",
+      "b": "GH",
+      "c": "Thyroxine",
+      "d": "Epinephrine",
+      "e": "Insulin"
+    },
+    "answer": ["a", "b", "c", "d"],
+    "explanation": "Stress-induced hyperglycemia is due to counter-regulatory hormones: glucocorticoids, GH, thyroxine, and epinephrine — all of which increase hepatic glucose production and impair peripheral glucose utilization. Insulin (option e) lowers blood glucose and is not a cause of hyperglycemia."
+  },
+  {
+    "id": 83,
+    "question": "Stress induced hyperglycemia is mediated through which hormone?",
+    "source": "[PGI Dec 05]",
+    "options": {
+      "a": "Insulin",
+      "b": "Glucagon",
+      "c": "Thyroxine",
+      "d": "Epinephrine",
+      "e": "Cortisol"
+    },
+    "answer": ["b", "c", "d", "e"],
+    "explanation": "Stress-induced hyperglycemia is mediated by glucagon, thyroxine, epinephrine, and cortisol — all counter-regulatory hormones that raise blood glucose. Insulin lowers blood glucose and is not involved in causing hyperglycemia."
+  },
+  {
+    "id": 84,
+    "question": "All of these cause hyperglycemia except:",
+    "source": "[PGI June 02]",
+    "options": {
+      "a": "GH",
+      "b": "Cortisol",
+      "c": "Catecholamines",
+      "d": "Insulin",
+      "e": "Glucagons"
+    },
+    "answer": ["d"],
+    "explanation": "Insulin is the only hormone among the options that causes hypoglycemia (lowers blood glucose). GH, cortisol, catecholamines, and glucagon are all counter-regulatory hormones that cause hyperglycemia."
+  },
+  {
+    "id": 85,
+    "question": "In surgical stress all hormones are increased except:",
+    "source": "[PGI Nov 11]",
+    "options": {
+      "a": "Adrenalin",
+      "b": "ACTH",
+      "c": "Epinephrine",
+      "d": "Cortisol",
+      "e": "Insulin"
+    },
+    "answer": ["e"],
+    "explanation": "During surgical stress, adrenalin, ACTH, epinephrine, and cortisol are all increased as part of the neuroendocrine stress response. Insulin is decreased during stress due to catecholamine-mediated inhibition."
+  },
+  {
+    "id": 86,
+    "question": "Reason of diurnal variation in eosinophil count:",
+    "source": "[AI 12]",
+    "options": {
+      "a": "Variation in environmental temperature",
+      "b": "Variation in cortisol levels",
+      "c": "Bone marrow depression during sleep/night",
+      "d": "Increased physical activity"
+    },
+    "answer": ["b"],
+    "explanation": "Cortisol decreases eosinophil levels in blood. Due to the diurnal variation of cortisol (highest in early morning, lowest at midnight), eosinophil count is low in the morning (high cortisol) and high at midnight (low cortisol level)."
+  },
+  {
+    "id": 87,
+    "question": "C-peptide occurs in:",
+    "source": "NEET Pattern",
+    "options": {
+      "a": "Proinsulin",
+      "b": "Glucagon",
+      "c": "Parathormone",
+      "d": "Thyroxine"
+    },
+    "answer": ["a"],
+    "explanation": "Preproinsulin contains a 23-amino acid signal peptide removed as it enters the endoplasmic reticulum. The remainder is proinsulin, which contains A, B chains and the connecting peptide (C peptide). Separation of C peptide produces insulin."
+  },
+  {
+    "id": 88,
+    "question": "Insulin increases the entry of glucose into:",
+    "source": "NEET Pattern",
+    "options": {
+      "a": "All tissues",
+      "b": "Renal tubular cells",
+      "c": "The mucosa of the small intestine",
+      "d": "Skeletal muscle"
+    },
+    "answer": ["d"],
+    "explanation": "Skeletal and cardiac muscle and adipose tissues contain GLUT4, which is stimulated by insulin. Brain, renal tubular cells, and intestinal mucosa are insulin-independent for glucose entry."
+  },
+  {
+    "id": 89,
+    "question": "Insulin is essential for glucose entry in:",
+    "source": "NEET Pattern",
+    "options": {
+      "a": "Muscle",
+      "b": "Cortical neurons",
+      "c": "Renal tubular cells",
+      "d": "Beta cells of pancreas"
+    },
+    "answer": ["a"],
+    "explanation": "Insulin is essential for glucose entry into muscle (and adipose tissue) via GLUT4. Cortical neurons, renal tubular cells, and beta cells of the pancreas use insulin-independent glucose transporters."
+  },
+  {
+    "id": 90,
+    "question": "Glucose increases plasma insulin by a process that involves:",
+    "source": "NEET Pattern",
+    "options": {
+      "a": "GLUT1",
+      "b": "GLUT2",
+      "c": "GLUT3",
+      "d": "SGLT1"
+    },
+    "answer": ["b"],
+    "explanation": "GLUT2 is the pancreatic beta cell sensor for glucose. A rise in blood glucose stimulates GLUT2, which leads to increased glucose uptake by beta cells, triggering insulin secretion."
+  },
+  {
+    "id": 91,
+    "question": "Glucose transporter involved in insulin stimulated glucose transport is GLUT:",
+    "source": "NEET Pattern",
+    "options": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4"
+    },
+    "answer": ["d"],
+    "explanation": "GLUT4 is the glucose transporter responsible for insulin-stimulated glucose transport. It is found in skeletal muscle, cardiac muscle, and adipose tissue. Insulin causes translocation of GLUT4 to the cell surface."
+  },
+  {
+    "id": 92,
+    "question": "Increased ratio of insulin to glucagon causes:",
+    "source": "NEET Pattern",
+    "options": {
+      "a": "Decreased levels of cyclic AMP",
+      "b": "Decreased levels of lipoproteins lipase",
+      "c": "Decreased amino acid synthesis",
+      "d": "Enhanced lipolysis in adipose tissue"
+    },
+    "answer": ["a"],
+    "explanation": "Glucagon acts via increase in intracellular cAMP. So in high insulin:glucagon ratio, cAMP level in the cell decreases. Insulin also activates lipoprotein lipase (not decreases), increases amino acid synthesis, and inhibits lipolysis in adipose tissue."
+  },
+  {
+    "id": 93,
+    "question": "Which of the following compound antagonizes the actions of insulin?",
+    "source": "NEET Pattern",
+    "options": {
+      "a": "Neuropeptide Y",
+      "b": "Growth hormone",
+      "c": "Substance P",
+      "d": "Vasoactive intestinal peptide"
+    },
+    "answer": ["b"],
+    "explanation": "Growth hormone (GH) antagonizes the actions of insulin. Human growth hormone makes clinical diabetes worse, and 25% of patients with GH-secreting tumors of the anterior pituitary have diabetes."
+  },
+  {
+    "id": 94,
+    "question": "Half life of insulin is:",
+    "source": "NEET Pattern",
+    "options": {
+      "a": "1–2 min",
+      "b": "4–6 min",
+      "c": "0–12 min",
+      "d": "12–16 min"
+    },
+    "answer": ["b"],
+    "explanation": "The half-life of insulin in the circulation in humans is about 5 minutes (4–6 min range). The half-life of the insulin receptor itself is about 7 hours."
+  },
+  {
+    "id": 95,
+    "question": "How many parts are there in insulin receptor?",
+    "source": "NEET Pattern",
+    "options": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4"
+    },
+    "answer": ["d"],
+    "explanation": "The insulin receptor contains 4 subunits: 2 alpha subunits (extracellular, bind insulin) and 2 beta subunits (transmembrane, have tyrosine kinase activity). They are linked by disulfide bonds."
+  },
+  {
+    "id": 96,
+    "question": "Insulin like growth factors are secreted by:",
+    "source": "NEET Pattern",
+    "options": {
+      "a": "Liver",
+      "b": "Pancreas",
+      "c": "Adrenal gland",
+      "d": "Pituitary gland"
+    },
+    "answer": ["a"],
+    "explanation": "Insulin-like growth factors (IGF-1 and IGF-2) are primarily secreted by the liver in response to growth hormone stimulation. They mediate many of the growth-promoting effects of GH."
+  },
+  {
+    "id": 97,
+    "question": "Following hormones are produced by endocrinal part of pancreas:",
+    "source": "[PGI June 01]",
+    "options": {
+      "a": "Insulin",
+      "b": "Somatostatin",
+      "c": "Glucagons",
+      "d": "Bombesin",
+      "e": "Pancreatic polypeptide"
+    },
+    "answer": ["a", "b", "c", "e"],
+    "explanation": "The endocrine pancreas (islets of Langerhans) produces insulin (beta cells), glucagon (alpha cells), somatostatin (delta cells), and pancreatic polypeptide (PP cells). Bombesin is a peptide isolated from amphibian skin and is not produced by the endocrine pancreas."
+  },
+  {
+    "id": 98,
+    "question": "Insulin is/are secreted by:",
+    "source": "[PGI May 11]",
+    "options": {
+      "a": "Pancreas",
+      "b": "Islets of Langerhans",
+      "c": "Liver",
+      "d": "Heart",
+      "e": "Intestine"
+    },
+    "answer": ["a", "b"],
+    "explanation": "Insulin is secreted by the beta cells of the Islets of Langerhans, which are the endocrine component of the pancreas. The liver, heart, and intestine do not secrete insulin."
+  },
+  {
+    "id": 99,
+    "question": "Glucagon is secreted by:",
+    "source": "[PGI Nov 10]",
+    "options": {
+      "a": "Alpha cell",
+      "b": "Beta cell",
+      "c": "Delta cell",
+      "d": "G cell",
+      "e": "C cell"
+    },
+    "answer": ["a"],
+    "explanation": "Glucagon is secreted by the alpha cells of the islets of Langerhans. Beta cells secrete insulin, delta cells secrete somatostatin, G cells secrete gastrin, and C cells (parafollicular cells) of the thyroid secrete calcitonin."
+  },
+  {
+    "id": 100,
+    "question": "Insulin is secreted along with the following molecule in a 1:1 ratio:",
+    "source": "[PGI June 06]",
+    "options": {
+      "a": "Pancreatic polypeptide",
+      "b": "Glucagon",
+      "c": "GLP-1",
+      "d": "Somatostatin",
+      "e": "C peptide"
+    },
+    "answer": ["e"],
+    "explanation": "Normally, 90–97% of the product released from the B cells is insulin along with equimolar (1:1) amounts of C peptide. The rest is mostly proinsulin. C peptide is a useful clinical marker of endogenous insulin secretion."
+  },
+  {
+    "id": 101,
+    "question": "Insulin mediated glucose uptake occurs through:",
+    "source": "[JIPMER 11, AIIMS Nov 09]",
+    "options": {
+      "a": "GLUT1",
+      "b": "GLUT2",
+      "c": "GLUT3",
+      "d": "GLUT4"
+    },
+    "answer": ["d"],
+    "explanation": "Insulin-mediated glucose uptake occurs through GLUT4. Insulin causes translocation of GLUT4 from intracellular vesicles to the cell surface in muscle and adipose tissue."
+  },
+  {
+    "id": 102,
+    "question": "Insulin acts on glucose metabolism by:",
+    "source": "[PGI June 00]",
+    "options": {
+      "a": "Increase permeability of glucose across cell membrane",
+      "b": "Increase permeability across cell membrane against glucose gradient",
+      "c": "Increase permeability of renal cells",
+      "d": "Increase glucose transport to brain"
+    },
+    "answer": ["a"],
+    "explanation": "In muscle, adipose, and some other tissues, insulin stimulates glucose entry into cells by increasing the number of GLUT4 transporters. This is a type of facilitated diffusion along the concentration gradient (not against it). Brain glucose entry does not depend on insulin."
+  },
+  {
+    "id": 103,
+    "question": "Glucose transporter in myocyte:",
+    "source": "[AIIMS Nov 09]",
+    "options": {
+      "a": "GLUT1",
+      "b": "GLUT2",
+      "c": "GLUT3",
+      "d": "GLUT4"
+    },
+    "answer": ["d"],
+    "explanation": "The primary glucose transporter in myocytes (muscle cells) is GLUT4. It is insulin-responsive and translocates to the cell membrane upon insulin stimulation to facilitate glucose uptake."
+  },
+  {
+    "id": 104,
+    "question": "Not done by insulin:",
+    "source": "[AIIMS May 10, 09]",
+    "options": {
+      "a": "Glycogen synthesis",
+      "b": "Glycolysis",
+      "c": "Lipogenesis",
+      "d": "Ketogenesis"
+    },
+    "answer": ["d"],
+    "explanation": "Insulin inhibits ketogenesis (not promotes it). Insulin promotes glycogen synthesis, glycolysis, and lipogenesis. Ketogenesis is promoted when insulin is deficient (e.g., in diabetes mellitus)."
+  },
+  {
+    "id": 105,
+    "question": "Rapid infusion of insulin causes:",
+    "source": "[AIIMS May 10]",
+    "options": {
+      "a": "Hyperkalemia",
+      "b": "Hypokalemia",
+      "c": "Hypernatremia",
+      "d": "Hyponatremia"
+    },
+    "answer": ["b"],
+    "explanation": "Insulin causes K+ to enter cells, with a resultant lowering of extracellular K+ concentration (hypokalemia). Infusions of insulin and glucose significantly lower plasma K+ levels and are used for the temporary relief of hyperkalemia in patients with renal failure."
+  },
+  {
+    "id": 106,
+    "question": "Insulin secretion is/are increased by all except:",
+    "source": "[PGI Nov 10]",
+    "options": {
+      "a": "Gastrin",
+      "b": "Secretin",
+      "c": "VIP",
+      "d": "GIP",
+      "e": "CCK"
+    },
+    "answer": ["none"],
+    "explanation": "All of the options stimulate insulin release. Stimuli for insulin release include: Glucose, Mannose, Amino acids, Intestinal hormones (GIP, GLP-1, Gastrin, Secretin, CCK), beta-keto acids, Acetylcholine, Glucagon, cAMP, and VIP. The question answer is 'none' as all options stimulate insulin secretion."
+  },
+  {
+    "id": 107,
+    "question": "Insulin secretion is decreased by:",
+    "source": "[PGI June 03]",
+    "options": {
+      "a": "Glucagon",
+      "b": "Glucose",
+      "c": "Adrenaline",
+      "d": "Vagal stimulation"
+    },
+    "answer": ["c"],
+    "explanation": "Catecholamines (adrenaline/epinephrine) have a dual effect on insulin secretion — inhibiting via alpha2-adrenergic receptors and stimulating via beta-adrenergic receptors. The net effect is usually inhibition. Glucagon, glucose, and vagal stimulation all increase insulin secretion."
+  },
+  {
+    "id": 108,
+    "question": "Insulin secretion seen in:",
+    "source": "[PGI June 04]",
+    "options": {
+      "a": "Glucose",
+      "b": "Vagal stimulation",
+      "c": "Acetylcholine",
+      "d": "Adrenaline",
+      "e": "Calmodulin"
+    },
+    "answer": ["a", "b", "c"],
+    "explanation": "Insulin secretion is stimulated by glucose, vagal stimulation, and acetylcholine. Adrenaline generally inhibits insulin secretion (net effect via alpha2 receptors). Calmodulin is an intracellular calcium-binding protein involved in the signaling process but is not itself a stimulus."
+  },
+  {
+    "id": 109,
+    "question": "In a seriously ill patient, addition of amino acids in diet results in a positive nitrogen balance. The mechanism for this is:",
+    "source": "[AIIMS May 08]",
+    "options": {
+      "a": "Increased growth hormones secretion",
+      "b": "Enhanced rate of gluconogenesis",
+      "c": "Increased absorption of amino acids from diet",
+      "d": "Increased secretion of insulin"
+    },
+    "answer": ["d"],
+    "explanation": "Amino acids (especially leucine and arginine) are stimuli for insulin release. Insulin stimulates the incorporation of amino acids into proteins (positive nitrogen balance). This is the primary mechanism by which amino acid supplementation improves nitrogen balance."
+  },
+  {
+    "id": 110,
+    "question": "After a meal rich in carbohydrate, insulin secretion is stimulated by:",
+    "source": "[JIPMER 03]",
+    "options": {
+      "a": "CCK",
+      "b": "Serotonin",
+      "c": "VIP",
+      "d": "GLP-1 (7-36)"
+    },
+    "answer": ["d"],
+    "explanation": "GLP-1 (glucagon-like peptide-1) is the primary incretin hormone that stimulates insulin secretion after a carbohydrate-rich meal. The incretin effect accounts for at least 50% of the total insulin secreted after oral glucose. CCK may also have some role."
+  },
+  {
+    "id": 111,
+    "question": "In fetus the insulin secretion begins by:",
+    "source": "[AIIMS May 05]",
+    "options": {
+      "a": "3rd month",
+      "b": "5th month",
+      "c": "7th month",
+      "d": "9th month"
+    },
+    "answer": ["a"],
+    "explanation": "The production of insulin in the fetal pancreas begins in the first trimester, at approximately 11 or 12 weeks of gestation (3rd month). It is excreted in the fetal urine and is found in amniotic fluid by the 12th week of pregnancy."
+  },
+  {
+    "id": 112,
+    "question": "Amylin is secreted by which cells of the islet of Langerhans:",
+    "source": "[AI 11, 12]",
+    "options": {
+      "a": "Beta cells",
+      "b": "Alpha cells",
+      "c": "Delta cells",
+      "d": "Gamma cells"
+    },
+    "answer": ["a"],
+    "explanation": "Amylin (Islet Amyloid Polypeptide / IAPP) is co-secreted with insulin by the beta cells of the islets of Langerhans. It acts to slow gastric emptying and suppress glucagon secretion."
+  },
+  {
+    "id": 113,
+    "question": "Human insulin differs from beef insulin by how many number of amino acid residues?",
+    "source": "[AI 95]",
+    "options": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4"
+    },
+    "answer": ["c"],
+    "explanation": "Beef (bovine) insulin differs from human insulin by three amino acids. Pork (porcine) insulin differs from human insulin by only a single amino acid, making it more similar to human insulin."
+  },
+  {
+    "id": 114,
+    "question": "Calcium absorption is increased by:",
+    "source": "NEET Pattern",
+    "options": {
+      "a": "Proteins",
+      "b": "Bile",
+      "c": "Acid",
+      "d": "Phosphates"
+    },
+    "answer": ["a", "c"],
+    "explanation": "Calcium absorption is facilitated by proteins and acid (acidic pH). It is inhibited by phosphates and oxalates because these anions form insoluble salts with Ca2+ in the intestine. Magnesium absorption is also facilitated by protein."
+  },
+  {
+    "id": 115,
+    "question": "Site of 25-hydroxylation of cholecalciferol:",
+    "source": "NEET Pattern",
+    "options": {
+      "a": "Kidney",
+      "b": "Skin",
+      "c": "Liver",
+      "d": "Lung"
+    },
+    "answer": ["c"],
+    "explanation": "25-Hydroxylation of cholecalciferol (Vitamin D3) occurs in the liver to form 25-hydroxycholecalciferol. Subsequent 1-alpha hydroxylation occurs in the kidney to form the active form 1,25-dihydroxycholecalciferol (calcitriol). Skin synthesizes previtamin D3 from 7-dehydrocholesterol."
+  },
+  {
+    "id": 116,
+    "question": "Increased calcium levels lead to:",
+    "source": "NEET Pattern",
+    "options": {
+      "a": "Increased 1, 25 (OH)2 Vit-D",
+      "b": "Increased 24, 25 (OH)2 Vit-D",
+      "c": "Decreased calcitonin",
+      "d": "Increased parathyroid hormone"
+    },
+    "answer": ["b"],
+    "explanation": "When plasma Ca2+ level is high, 1-alpha-hydroxylase is suppressed, so little 1,25-dihydroxycholecalciferol is produced. Instead, the kidneys produce the relatively inactive metabolite 24,25-dihydroxycholecalciferol. High calcium also suppresses PTH and stimulates calcitonin."
+  },
+  {
+    "id": 117,
+    "question": "Active form of vitamin D is:",
+    "source": "[AIIMS May 07]",
+    "options": {
+      "a": "Cholecalciferol",
+      "b": "24, 25 (OH)2 Vit-D",
+      "c": "1, 25 (OH)2 Vit-D",
+      "d": "25-OH Vit-D"
+    },
+    "answer": ["c"],
+    "explanation": "The active form of Vitamin D is 1,25-dihydroxycholecalciferol (calcitriol). It is formed by 1-alpha hydroxylation in the kidney of 25-hydroxycholecalciferol (made in liver). 24,25-(OH)2 Vit D is a relatively inactive metabolite."
+  },
+  {
+    "id": 118,
+    "question": "Calcium absorption is from:",
+    "source": "[PGI Dec 99]",
+    "options": {
+      "a": "Proximal small intestine",
+      "b": "Distal ileum",
+      "c": "Middle small intestine",
+      "d": "Ascending colon"
+    },
+    "answer": ["a"],
+    "explanation": "Calcium is best absorbed in the proximal small intestine (duodenum and proximal jejunum) by a Vitamin D-dependent carrier protein TRPV6. This is an active, carrier-mediated process facilitated by 1,25-(OH)2 Vitamin D."
+  },
+  {
+    "id": 119,
+    "question": "True of the following:",
+    "source": "[PGI June 01]",
+    "options": {
+      "a": "Calcium reabsorbed in DCT",
+      "b": "90% calcium excreted by glomerulus",
+      "c": "Parathormone (PTH) promotes absorption of Ca++ from intestine",
+      "d": "PTH promote action of calcitonin"
+    },
+    "answer": ["a", "c"],
+    "explanation": "98–99% of filtered Ca2+ is reabsorbed. About 60% occurs in proximal tubules, and the remainder in the TAL and distal tubule (DCT). Distal tubular reabsorption via TRPV5 channel is regulated by PTH. PTH also promotes Ca2+ absorption from the intestine by stimulating active Vitamin D (1,25-(OH)2 Vit D) synthesis. PTH does not promote calcitonin action."
+  },
+  {
+    "id": 120,
+    "question": "True statement about calcium:",
+    "source": "[PGI Dec 04]",
+    "options": {
+      "a": "Absorbed in upper small intestine",
+      "b": "Absorbed in lower small intestine",
+      "c": "Absorption increased by alkaline pH",
+      "d": "Absorption increased by acidic pH"
+    },
+    "answer": ["a", "d"],
+    "explanation": "Calcium is absorbed primarily in the upper small intestine (duodenum and proximal jejunum). An acidic pH increases calcium absorption by keeping calcium in its soluble, ionized form. Alkaline pH decreases absorption by forming insoluble calcium salts."
+  },
+  {
+    "id": 121,
+    "question": "Which of the following organ is not involved in calcium metabolism?",
+    "source": "[PGI May 10, Dec 01]",
+    "options": {
+      "a": "Lung",
+      "b": "Liver",
+      "c": "Spleen",
+      "d": "Skin",
+      "e": "Kidney"
+    },
+    "answer": ["a", "c"],
+    "explanation": "Organs involved in calcium metabolism include: Skin (synthesis of previtamin D3 from 7-dehydrocholesterol), Liver (conversion of Vit D3 to 25-hydroxycholecalciferol), and Kidney (1-alpha hydroxylase producing active Vit D3). Lung and spleen are NOT involved in calcium metabolism."
+  },
+  {
+    "id": 122,
+    "question": "Parathyroid hormone is responsible for all actions except:",
+    "source": "[PGI Dec 97]",
+    "options": {
+      "a": "Absorption of phosphorous increase",
+      "b": "Vit D absorption increases",
+      "c": "Mobilizes calcium from bone",
+      "d": "Increase intestinal absorption of calcium"
+    },
+    "answer": ["a"],
+    "explanation": "PTH decreases phosphorus absorption from the kidney (causes phosphaturia). PTH increases Ca2+ mobilization from bone, increases intestinal absorption of calcium via Vitamin D3 activation, and increases Vitamin D3 production by stimulating 1-alpha hydroxylase in the kidney."
+  },
+  {
+    "id": 123,
+    "question": "In tetany hyperexcitability is due to:",
+    "source": "[PGI June 04]",
+    "options": {
+      "a": "Low Ca++ causes increase permeability to Na+",
+      "b": "Prevent K+ release",
+      "c": "Prevent Na+ and K+ release",
+      "d": "Decrease Ca++ produce generation of AP"
+    },
+    "answer": ["a"],
+    "explanation": "Normally, Ca2+ remains attached to the ECF side of voltage-gated Na+ channels. In hypocalcemia, Ca2+ detaches from the channel, leading to increased permeability of the channel to Na+. Increased Na+ permeability leads to hyperexcitability of nerves, resulting in tetany."
+  },
+  {
+    "id": 124,
+    "question": "Hypocalcemia due to calcitonin is by:",
+    "source": "[PGI Dec 99]",
+    "options": {
+      "a": "Increased excretion in kidney",
+      "b": "Decreased bone resorption",
+      "c": "Decreased intestinal absorption",
+      "d": "Decreased renal reabsorption"
+    },
+    "answer": ["b"],
+    "explanation": "Calcitonin causes hypocalcemia primarily by inhibiting osteoclasts, thereby decreasing bone resorption. Calcitonin has receptors directly on osteoclasts and inhibits their activity, reducing calcium release from bone."
+  },
+  {
+    "id": 125,
+    "question": "Which of the following is considered the active form of calcium?",
+    "source": "[AI 08]",
+    "options": {
+      "a": "Ionised calcium",
+      "b": "Albumin bound calcium",
+      "c": "Phosphate bound calcium",
+      "d": "Protein bound calcium"
+    },
+    "answer": ["a"],
+    "explanation": "It is the free, ionized calcium in body fluids that is biologically active. Ionized calcium is a vital second messenger necessary for blood coagulation, muscle contraction, and nerve function. Protein-bound and phosphate-bound calcium are physiologically inactive forms."
+  },
+  {
+    "id": 126,
+    "question": "Which of the following organs is not involved in calcium homeostasis?",
+    "source": "[AI 06]",
+    "options": {
+      "a": "Kidneys",
+      "b": "Skin",
+      "c": "Intestines",
+      "d": "Lungs"
+    },
+    "answer": ["d"],
+    "explanation": "Lungs are NOT involved in calcium homeostasis. The key organs are: Skin (Vitamin D3 synthesis), Liver (25-hydroxylation), Kidneys (1-alpha hydroxylation to active Vit D, calcium reabsorption), Intestines (calcium absorption), and Bone (calcium storage and mobilization)."
+  },
+  {
+    "id": 127,
+    "question": "Calcitonin is secreted by:",
+    "source": "[AI 06]",
+    "options": {
+      "a": "Thyroid gland",
+      "b": "Parathyroid gland",
+      "c": "Adrenal glands"
+    },
+    "answer": ["a"],
+    "explanation": "In mammals, calcitonin is produced by the parafollicular cells of the thyroid gland, which are also known as the clear or C cells. These cells are distinct from the follicular cells that produce thyroid hormones (T3 and T4)."
+  },
+  {
+    "id": 128,
+    "question": "Osteoclasts are inhibited by:",
+    "source": "[AI 05]",
+    "options": {
+      "a": "Parathyroid hormone",
+      "b": "Calcitonin",
+      "c": "1,25-dihydroxycholecalciferol",
+      "d": "Tumor necrosis factor"
+    },
+    "answer": ["b"],
+    "explanation": "Calcitonin directly inhibits osteoclasts. It has specific receptors on osteoclasts and reduces their bone-resorbing activity. PTH and 1,25-(OH)2 Vit D actually stimulate osteoclast activity (via osteoblasts). TNF promotes osteoclast activity."
+  },
+  {
+    "id": 129,
+    "question": "Osteoclast has specific receptor for:",
+    "source": "[AIIMS May 03]",
+    "options": {
+      "a": "Parathyroid hormone",
+      "b": "Calcitonin",
+      "c": "Thyroxin",
+      "d": "Vit D3"
+    },
+    "answer": ["b"],
+    "explanation": "Osteoclasts have specific receptors for calcitonin. PTH and Vitamin D receptors are present on osteoblasts, which then indirectly stimulate osteoclast development. Calcitonin acts directly on osteoclasts causing inhibition."
+  },
+  {
+    "id": 130,
+    "question": "Which of these can cause hypocalcemia?",
+    "source": "[AIIMS May 02]",
+    "options": {
+      "a": "Thyroxine",
+      "b": "Calcitonin",
+      "c": "Parathyroid hormone",
+      "d": "Cholecalciferol"
+    },
+    "answer": ["b"],
+    "explanation": "Calcitonin is the calcium-lowering hormone. It inhibits osteoclast activity, reducing bone resorption and lowering serum calcium. PTH and cholecalciferol (Vitamin D3) raise serum calcium. Thyroxine does not primarily regulate calcium."
+  },
+  {
+    "id": 131,
+    "question": "Which of the following would you expect to find in a patient whose diet has been low in calcium for 8 weeks?",
+    "source": "[AIIMS Nov 07]",
+    "options": {
+      "a": "Increased phosphate levels",
+      "b": "Raised calcitonin levels",
+      "c": "Increased parathyroid hormone secretion",
+      "d": "Activation of 24–25 dihydroxycholecalciferol"
+    },
+    "answer": ["c"],
+    "explanation": "A low calcium diet leads to hypocalcemia, which stimulates PTH release via negative feedback (low ionized calcium stimulates parathyroid glands). PTH causes hypophosphatemia (not hyperphosphatemia). In hypocalcemia, calcitonin levels decrease (not raise), and 1,25-(OH)2 Vit D increases while the inactive 24,25-(OH)2 Vit D decreases."
+  }
+]

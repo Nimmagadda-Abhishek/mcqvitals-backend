@@ -1,0 +1,641 @@
+[
+  {
+    "id": 31,
+    "question": "Fiber reaching directly to Purkinje cell of cerebellum arise from which of the following? (Nov 18)",
+    "options": {
+      "a": "Vestibular nucleus",
+      "b": "Inferior olivary nucleus",
+      "c": "Raphe nucleus",
+      "d": "Locus coeruleus"
+    },
+    "correct_answer": "b",
+    "explanation": "The two main inputs to the cerebellar cortex are climbing fibers and mossy fibers. Both are excitatory. The climbing fibers come from a single source — the inferior olivary nuclei — and directly project to the primary dendrites of a Purkinje cell.",
+    "reference": "Ganong's Physiology 25th edn. pp 251, 26th edn. pp 245"
+  },
+  {
+    "id": 32,
+    "question": "Lesions of the lateral cerebellum cause all of the following EXCEPT: [AI 10]",
+    "options": {
+      "a": "Incoordination",
+      "b": "Intention tremor",
+      "c": "Resting tremor",
+      "d": "Ataxia"
+    },
+    "correct_answer": "c",
+    "explanation": "Intention tremor occurs in cerebellar disease. Resting tremor is seen in Parkinson's disease (basal ganglia disorder), not in cerebellar lesions.",
+    "reference": "Ganong's Physiology 25th edn. pp 252, 26th edn. pp 247"
+  },
+  {
+    "id": 33,
+    "question": "Neurotransmitter involved in nigrostriatal pathway is:",
+    "options": {
+      "a": "Serotonin",
+      "b": "Dopamine",
+      "c": "Cholinergic",
+      "d": "Adrenergic"
+    },
+    "correct_answer": "b",
+    "explanation": "The nigrostriatal pathway uses dopamine as its neurotransmitter. There is a dopaminergic nigrostriatal projection from the substantia nigra pars compacta to the striatum.",
+    "reference": "Ganong's Physiology 25th edn. pp 248, 26th edn. pp 239"
+  },
+  {
+    "id": 34,
+    "question": "Globus pallidus, putamen are present in:",
+    "options": {
+      "a": "Pons",
+      "b": "Basal ganglia",
+      "c": "Thalamus",
+      "d": "Cerebellum"
+    },
+    "correct_answer": "b",
+    "explanation": "Globus pallidus and putamen are components of the basal ganglia.",
+    "reference": "Ganong's Physiology 25th edn. pp 248, 26th edn. pp 239"
+  },
+  {
+    "id": 35,
+    "question": "Nucleus of basal ganglia: [PGI Dec 04]",
+    "options": {
+      "a": "Dentate",
+      "b": "Thalamus",
+      "c": "Caudate",
+      "d": "Red nucleus"
+    },
+    "correct_answer": "c",
+    "explanation": "Caudate nucleus is a nucleus of the basal ganglia. Dentate is a cerebellar nucleus; thalamus and red nucleus are separate structures.",
+    "reference": "Ganong's Physiology 25th edn. pp 244, 26th edn. pp 239"
+  },
+  {
+    "id": 36,
+    "question": "The efferent fiber bundle of the substantia nigra transmits dopamine to one of the following areas: [AIIMS Nov 04]",
+    "options": {
+      "a": "Thalamus",
+      "b": "Corpus striatum",
+      "c": "Tegmentum of pons",
+      "d": "Tectum of midbrain"
+    },
+    "correct_answer": "b",
+    "explanation": "The dopaminergic nigrostriatal projection runs from the substantia nigra pars compacta to the striatum (corpus striatum). A corresponding GABAergic projection runs from the striatum back to substantia nigra pars reticulata.",
+    "reference": "Ganong's Physiology 25th edn. pp 244, 26th edn. pp 240"
+  },
+  {
+    "id": 37,
+    "question": "Glutamate as a neurotransmitter is synthesized mainly in which part of basal ganglia? [AI 12]",
+    "options": {
+      "a": "Globus pallidus interna",
+      "b": "Globus pallidus externa",
+      "c": "Subthalamic nucleus",
+      "d": "Putamen"
+    },
+    "correct_answer": "c",
+    "explanation": "Projections from the subthalamic nucleus to the globus pallidus are glutaminergic. The subthalamic nucleus is the main source of glutamate in the basal ganglia.",
+    "reference": "Ganong's Physiology 25th edn. pp 244, 26th edn. pp 240"
+  },
+  {
+    "id": 38,
+    "question": "Which of the following acts as the major neurotransmitter in substantia nigra? [AIIMS June 97]",
+    "options": {
+      "a": "Dopamine",
+      "b": "Noradrenaline",
+      "c": "Acetylcholine",
+      "d": "Serotonin"
+    },
+    "correct_answer": "a",
+    "explanation": "Dopamine is the major neurotransmitter in the substantia nigra. Loss of dopaminergic neurons here leads to Parkinson's disease.",
+    "reference": "Ganong's Physiology 25th edn. pp 244"
+  },
+  {
+    "id": 39,
+    "question": "Which of the following clearly states the role of basal ganglia in motor function? [PGI Dec 05]",
+    "options": {
+      "a": "Planning",
+      "b": "Skilled function",
+      "c": "Coordinate function",
+      "d": "Smoothens"
+    },
+    "correct_answer": ["a", "b", "c"],
+    "explanation": "Basal ganglia are involved in planning, skilled function, and coordination of movement (programming of movement). They determine the speed and size of movements.",
+    "reference": "Ganong's Physiology 25th edn. pp 244, 26th edn. pp 240"
+  },
+  {
+    "id": 40,
+    "question": "Functions of basal ganglia include: [PGI June 02]",
+    "options": {
+      "a": "Gross motor",
+      "b": "Skilled movements",
+      "c": "Emotions",
+      "d": "Maintenance of equilibrium",
+      "e": "Coordination of movements"
+    },
+    "correct_answer": ["b", "e"],
+    "explanation": "The basal ganglia are responsible for skilled movements and coordination of movements. They determine how rapidly a movement is performed and control the magnitude of movement.",
+    "reference": "Ganong's Physiology 25th edn. pp 244, 26th edn. pp 240"
+  },
+  {
+    "id": 41,
+    "question": "Which of the following is most prone to hypoxic injury: [PGI Dec 00]",
+    "options": {
+      "a": "Thalamus",
+      "b": "Hippocampus",
+      "c": "Caudate nucleus",
+      "d": "Cerebellum"
+    },
+    "correct_answer": "b",
+    "explanation": "The most sensitive neurons in adults to hypoxic injury are the pyramidal cells of the CA1 region of hippocampus (Sommer's sector), Purkinje cells of cerebellum, and striatal neurons. The most resistant are brainstem and spinal cord neurons. Irreversible damage occurs if there is no O2 supply for more than 5 minutes.",
+    "reference": "Neuropathology by Richard A. Prayson and Textbook of Pharmacology by Seth"
+  },
+  {
+    "id": 42,
+    "question": "Which of the following nucleus controls the circadian rhythm?",
+    "options": {
+      "a": "Supraoptic nucleus",
+      "b": "Paraventricular nucleus",
+      "c": "Suprachiasmatic nucleus",
+      "d": "Premammillary nucleus"
+    },
+    "correct_answer": "c",
+    "explanation": "Many endogenous body activities have rhythmic fluctuations approximately 24 hours in length (circadian). This rhythm is controlled by the suprachiasmatic nucleus.",
+    "reference": "Ganong's Physiology 25th edn. pp 352, 26th edn. pp 273"
+  },
+  {
+    "id": 43,
+    "question": "Daily rhythm regulation is controlled by:",
+    "options": {
+      "a": "Dorsomedial",
+      "b": "Ventromedial",
+      "c": "Supraoptic",
+      "d": "Suprachiasmatic"
+    },
+    "correct_answer": "d",
+    "explanation": "The suprachiasmatic nucleus controls daily (circadian) rhythm regulation.",
+    "reference": "Ganong's Physiology 25th edn. pp 352, 26th edn. pp 273"
+  },
+  {
+    "id": 44,
+    "question": "Diurnal variation of ACTH depends on:",
+    "options": {
+      "a": "Suprachiasmatic nucleus",
+      "b": "Supraoptic nucleus",
+      "c": "Ventrolateral nucleus",
+      "d": "Thalamus"
+    },
+    "correct_answer": "a",
+    "explanation": "ACTH is secreted in irregular bursts throughout the day and plasma cortisol tends to rise and fall in response to these bursts. This is an example of circadian rhythm controlled by the suprachiasmatic nucleus.",
+    "reference": "Ganong's Physiology 25th edn. pp 366, 26th edn. pp 274"
+  },
+  {
+    "id": 45,
+    "question": "Osmoreceptors are located in:",
+    "options": {
+      "a": "Supraoptic nuclei",
+      "b": "Paraventricular nuclei",
+      "c": "Anterior hypothalamus",
+      "d": "Lateral hypothalamus"
+    },
+    "correct_answer": "c",
+    "explanation": "Vasopressin secretion is regulated by osmoreceptors located in the anterior hypothalamus (preoptic nucleus area).",
+    "reference": "Ganong's Physiology 25th edn. pp 695, 26th edn. pp 304"
+  },
+  {
+    "id": 46,
+    "question": "Vasopressin induced thirst is mediated by:",
+    "options": {
+      "a": "Subfornical nuclei",
+      "b": "Posterior hypothalamus",
+      "c": "Osmoreceptors",
+      "d": "Pretectal nucleus"
+    },
+    "correct_answer": "none",
+    "explanation": "Vasopressin does not induce thirst. Angiotensin II (AgII) can stimulate the subfornical organ for stimulation of thirst. None of the listed options is correct.",
+    "reference": "Ganong's Physiology 25th edn. pp 696, 26th edn. pp 304"
+  },
+  {
+    "id": 47,
+    "question": "Thirst is activated by:",
+    "options": {
+      "a": "Increased angiotensin II level",
+      "b": "Extracellular hyperosmolarity",
+      "c": "Increased ANP levels",
+      "d": "Increased renin levels"
+    },
+    "correct_answer": ["b", "a", "d"],
+    "explanation": "Thirst is primarily activated by extracellular hyperosmolarity, followed by increased Angiotensin II levels, and then increased renin levels (indirectly). Drinking is regulated by plasma osmolality and extracellular fluid volume.",
+    "reference": "Ganong's Physiology 25th edn. pp 699, 26th edn. pp 304"
+  },
+  {
+    "id": 48,
+    "question": "Satiety centre is located at:",
+    "options": {
+      "a": "Ventromedial nucleus of hypothalamus",
+      "b": "Dorsomedial nucleus of hypothalamus",
+      "c": "Peritrigonal area",
+      "d": "Lateral nucleus"
+    },
+    "correct_answer": "a",
+    "explanation": "Satiety centre is located in the ventromedial nucleus of hypothalamus. The hunger centre is located in the lateral nucleus of hypothalamus.",
+    "reference": "Ganong's Physiology 25th edn. pp 308, 26th edn. pp 304"
+  },
+  {
+    "id": 49,
+    "question": "The primary motor area for shivering is:",
+    "options": {
+      "a": "Cerebrum",
+      "b": "Red nucleus",
+      "c": "Ventromedial anterior hypothalamus",
+      "d": "Dorsomedial posterior hypothalamus"
+    },
+    "correct_answer": "d",
+    "explanation": "Response to cold environment (including shivering) is controlled by the posterior hypothalamus (dorsomedial posterior hypothalamus).",
+    "reference": "Ganong's Physiology 25th edn. pp 317, 26th edn. pp 312"
+  },
+  {
+    "id": 50,
+    "question": "Function of preoptic nucleus of hypothalamus:",
+    "options": {
+      "a": "Temperature regulation",
+      "b": "Thirst",
+      "c": "GI stimulation",
+      "d": "Satiety centre"
+    },
+    "correct_answer": "a",
+    "explanation": "The preoptic nucleus is responsible for thermoregulation (response to heat) and GnRH secretion.",
+    "reference": "Ganong's Physiology 25th edn. pp 317, 26th edn. pp 312"
+  },
+  {
+    "id": 51,
+    "question": "Main mechanism in thermoregulation-heat loss is:",
+    "options": {
+      "a": "Radiation",
+      "b": "Evaporation",
+      "c": "Conduction",
+      "d": "Convection"
+    },
+    "correct_answer": "a",
+    "explanation": "Radiation is responsible for approximately 60% of thermoregulation heat loss from the body.",
+    "reference": "Ganong's Physiology 25th edn. pp 317, 26th edn. pp 311 & Guyton-Physiology-12th edn. pp 890"
+  },
+  {
+    "id": 52,
+    "question": "Reward centre is:",
+    "options": {
+      "a": "Insula",
+      "b": "Medial forebrain bundle",
+      "c": "Hypothalamus",
+      "d": "Preoptic nucleus"
+    },
+    "correct_answer": "b",
+    "explanation": "Neurons in the forebrain ventral tegmental area and nucleus accumbens are the reward/pleasure center. This is associated with the medial forebrain bundle.",
+    "reference": "Guyton-Physiology-12th edn. pp 735; Ganong's Physiology 26th edn. pp 304"
+  },
+  {
+    "id": 53,
+    "question": "True about experimental sham rage is: [AI 12]",
+    "options": {
+      "a": "Occurs in decorticate animals",
+      "b": "Is goal directed",
+      "c": "Is caused by removal of hypothalamus",
+      "d": "Appears slowly and goes slowly"
+    },
+    "correct_answer": "a",
+    "explanation": "Sham rage is believed to originate from centers in the hypothalamus (caudal hypothalamus) and occurs due to release of the hypothalamus from cortical control (decorticate state). Ablation of the hypothalamus eliminates sham rage.",
+    "reference": "Guyton-Physiology-12th edn. pp 735"
+  },
+  {
+    "id": 54,
+    "question": "Window of limbic system:",
+    "options": {
+      "a": "Hypothalamus",
+      "b": "Hippocampus",
+      "c": "Amygdala",
+      "d": "Cingulate gyrus"
+    },
+    "correct_answer": "c",
+    "explanation": "The amygdala is considered the window of the limbic system as it controls emotions and connects sensory information with emotional responses.",
+    "reference": "Guyton-Physiology-12th edn. pp 737"
+  },
+  {
+    "id": 55,
+    "question": "Functions of limbic system:",
+    "options": {
+      "a": "Emotion",
+      "b": "Movement",
+      "c": "Higher function",
+      "d": "Consciousness"
+    },
+    "correct_answer": ["a", "c"],
+    "explanation": "The limbic system is primarily concerned with emotions and higher functions. The amygdala controls emotions.",
+    "reference": "Guyton-Physiology-12th edn. pp 738"
+  },
+  {
+    "id": 56,
+    "question": "Limbic system is concerned with:",
+    "options": {
+      "a": "Control of emotions, food habits",
+      "b": "Sexual behavior",
+      "c": "Autonomic functions",
+      "d": "All of the above"
+    },
+    "correct_answer": "d",
+    "explanation": "The limbic system is concerned with control of emotions and food habits, sexual behavior, and autonomic functions — all of the above.",
+    "reference": "Guyton-Physiology-12th edn. pp 738"
+  },
+  {
+    "id": 57,
+    "question": "Korsakoff's psychosis is lesion of:",
+    "options": {
+      "a": "Thalamus",
+      "b": "Subthalamic nuclei",
+      "c": "Hippocampus",
+      "d": "Mammillary body"
+    },
+    "correct_answer": "d",
+    "explanation": "In Korsakoff's psychosis, the most commonly involved structure is the mammillary body.",
+    "reference": "Neuropsychol Rev. 2012; 22:72-80"
+  },
+  {
+    "id": 58,
+    "question": "Klüver-Bucy syndrome is due to the lesion in which of the following structure:",
+    "options": {
+      "a": "Amygdala",
+      "b": "Hippocampus",
+      "c": "Hypothalamus",
+      "d": "Temporal lobe"
+    },
+    "correct_answer": "d",
+    "explanation": "When the anterior temporal cortex is ablated bilaterally, the amygdalas are almost invariably damaged as well. Destruction of the temporal lobe is the most common cause of Klüver-Bucy syndrome.",
+    "reference": "Guyton-Physiology-12th edn. pp 738"
+  },
+  {
+    "id": 59,
+    "question": "All of the following are known functions of hypothalamus EXCEPT: [AI 97, AIIMS Dec 95]",
+    "options": {
+      "a": "Temperature regulation",
+      "b": "Increased in heart rate with exercise",
+      "c": "Food intake",
+      "d": "Hypophyseal control"
+    },
+    "correct_answer": "b",
+    "explanation": "The ANS is controlled by the hypothalamus, but heart rate increase during exercise is mainly controlled by the medulla oblongata, not the hypothalamus.",
+    "reference": "Ganong's Physiology 25th edn. pp 309"
+  },
+  {
+    "id": 60,
+    "question": "Part of hypothalamus which is involved in sexual behavior? [AI 12]",
+    "options": {
+      "a": "Preoptic area",
+      "b": "Supraoptic area",
+      "c": "Lateral hypothalamus",
+      "d": "Posterior hypothalamus"
+    },
+    "correct_answer": "a",
+    "explanation": "The most anterior portion (medial preoptic area is the main area) and most posterior portions of the hypothalamus are involved in sexual behavior.",
+    "reference": "Guyton-Physiology-12th edn. pp 735"
+  },
+  {
+    "id": 61,
+    "question": "Injection of hypertonic saline in which region of hypothalamus produces intense thirst? [AIIMS Dec 94]",
+    "options": {
+      "a": "Posterior region",
+      "b": "Paraventricular",
+      "c": "Preoptic",
+      "d": "Supraoptic"
+    },
+    "correct_answer": "c",
+    "explanation": "Osmoreceptors are located in the anterior hypothalamus (preoptic nucleus). They can only detect NaCl injection and stimulate the thirst center.",
+    "reference": "Ganong's Physiology 25th edn. pp 310; 26th edn. pp 303"
+  },
+  {
+    "id": 62,
+    "question": "Drinking can be induced by: [AIIMS May 04]",
+    "options": {
+      "a": "Electrical stimulation of the posterior hypothalamus",
+      "b": "Osmotic stimulation of supraoptic nucleus",
+      "c": "Lesions in the paraventricular nucleus",
+      "d": "Neuronal lesion of the preoptic nucleus"
+    },
+    "correct_answer": "b",
+    "explanation": "No option perfectly matches; the best single answer is option b. Osmotic stimulation of the preoptic nucleus can produce thirst, and osmoreceptors are located near the supraoptic area.",
+    "reference": "Ganong's Physiology 25th edn. pp 310, 26th edn. pp 304"
+  },
+  {
+    "id": 63,
+    "question": "Without external cue, the sleep-wake cycle in humans: [AI 12]",
+    "options": {
+      "a": "Unchanged",
+      "b": "Continues with cycle length of > 24 hours",
+      "c": "Continues with cycle length of < 24 hours",
+      "d": "Continue with cycle length of > 12 hours"
+    },
+    "correct_answer": "b",
+    "explanation": "Without external cues (light), the sleep-wake cycle becomes approximately 24.2 hours — slightly greater than 24 hours.",
+    "reference": "Berne & Levy Physiology, 6th edn. by Bruce M Koeppen, pp 20"
+  },
+  {
+    "id": 64,
+    "question": "The physiological effect in unacclimatised person suddenly exposed to cold is: [AIIMS May 01]",
+    "options": {
+      "a": "Tachycardia",
+      "b": "Shift of blood from shell to core",
+      "c": "Non-shivering thermogenesis",
+      "d": "Hypertension"
+    },
+    "correct_answer": "b",
+    "explanation": "Sudden exposure to cold environment produces skin vasoconstriction throughout the body, which shifts blood from the shell (periphery) to the core. This is caused by stimulation of the posterior hypothalamic sympathetic centers.",
+    "reference": "Ganong's Physiology 25th edn. pp 317, 26th edn. pp 312"
+  },
+  {
+    "id": 65,
+    "question": "In human being, the least useful physiological response to low environmental temperature is: [AI 06]",
+    "options": {
+      "a": "Shivering",
+      "b": "Vasoconstriction",
+      "c": "Release of thyroxine",
+      "d": "Piloerection"
+    },
+    "correct_answer": "d",
+    "explanation": "Piloerection means hairs standing on end. Sympathetic stimulation causes arrector pili muscles to contract, bringing hairs upright. This is not an important heat-conserving mechanism in human beings.",
+    "reference": "Guyton-Physiology-12th edn. pp 895"
+  },
+  {
+    "id": 66,
+    "question": "Non-shivering thermogenesis in adults is due to: [AI 02]",
+    "options": {
+      "a": "Thyroid hormone",
+      "b": "Brown fat between the shoulders",
+      "c": "Noradrenaline",
+      "d": "Muscle metabolism"
+    },
+    "correct_answer": "c",
+    "explanation": "Non-shivering thermogenesis is a cold-induced increase in heat production not associated with shivering. It is a metabolic process located primarily in brown adipose tissue and controlled by sympathetic nervous activity (noradrenaline).",
+    "reference": "Brain Res Bull. 1984 Feb;12:151-60"
+  },
+  {
+    "id": 67,
+    "question": "The first physiological response to high environmental temperature is: [AI 05]",
+    "options": {
+      "a": "Sweating",
+      "b": "Vasodilatation",
+      "c": "Decreased heat production",
+      "d": "Non-shivering thermogenesis"
+    },
+    "correct_answer": "b",
+    "explanation": "The first physiological response to high environmental temperature is vasodilation, followed by sweating.",
+    "reference": "Guyton-Physiology-12th edn. pp 895"
+  },
+  {
+    "id": 68,
+    "question": "Heat loss from the body depends mostly on: [AI 94]",
+    "options": {
+      "a": "Thermoregulatory center",
+      "b": "Warming of air during inspiration",
+      "c": "On the environmental temperature",
+      "d": "Radiation and evaporation"
+    },
+    "correct_answer": "d",
+    "explanation": "Heat loss from the body depends mostly on radiation and evaporation, which together account for the majority of heat dissipation.",
+    "reference": "Guyton-Physiology-12th edn. pp 890"
+  },
+  {
+    "id": 69,
+    "question": "Sweating as a result of exertion is mediated through: [PGI June 99]",
+    "options": {
+      "a": "Adrenal hormones",
+      "b": "Sympathetic cholinergic",
+      "c": "Sympathetic adrenergic",
+      "d": "Parasympathetic cholinergic"
+    },
+    "correct_answer": "b",
+    "explanation": "The sympathetic nerves to sweat glands consist of large numbers of cholinergic terminals and a few adrenergic terminals. Acetylcholine (cholinergic) is the primary neurotransmitter causing sweating.",
+    "reference": "Front Biosci (Schol ed);2:685-696"
+  },
+  {
+    "id": 70,
+    "question": "Under physiological conditions heat acclimatization is accomplished — All EXCEPT: [AIIMS Dec 98]",
+    "options": {
+      "a": "Decreased renal blood flow",
+      "b": "Increased urine sodium",
+      "c": "Increased aldosterone secretion",
+      "d": "Excessive sweating"
+    },
+    "correct_answer": "b",
+    "explanation": "During heat acclimatization, there is a DECREASE in NaCl in both sweat and urine (not increased urine sodium). Aldosterone secretion increases to conserve sodium.",
+    "reference": "Guyton-Physiology-12th edn. pp 895"
+  },
+  {
+    "id": 71,
+    "question": "A 10 degree decrease in temperature causes decrease in cerebral metabolic rate by: [AIIMS Nov 02]",
+    "options": {
+      "a": "10%",
+      "b": "30%",
+      "c": "50%",
+      "d": "70%"
+    },
+    "correct_answer": "d",
+    "explanation": "With each fall of 1°C, cerebral metabolism is reduced by 6.7%. Therefore, a 10°C drop results in approximately 67–70% reduction in cerebral metabolic rate.",
+    "reference": "Lee's Synopsis of Anaesthesia by N.J.H David et al. pp 292"
+  },
+  {
+    "id": 72,
+    "question": "Emotional effect to a physical stimulus is given by: [JIPMER 03]",
+    "options": {
+      "a": "Amygdaloid",
+      "b": "Cortex",
+      "c": "Cerebellum",
+      "d": "Hippocampus"
+    },
+    "correct_answer": "a",
+    "explanation": "The amygdala (amygdaloid complex) controls emotions and is responsible for giving emotional responses to physical stimuli.",
+    "reference": "Guyton-Physiology-12th edn. pp 738"
+  },
+  {
+    "id": 73,
+    "question": "Structure of brain involved in emotion: [PGI Dec 04]",
+    "options": {
+      "a": "Neocortex",
+      "b": "Limbic system",
+      "c": "Thalamus",
+      "d": "Hippocampus",
+      "e": "Basal ganglia"
+    },
+    "correct_answer": ["b", "d"],
+    "explanation": "The limbic system and hippocampus are primarily involved in emotion and memory. The amygdala (part of limbic system) controls emotions.",
+    "reference": "Guyton-Physiology-12th edn. pp 738"
+  },
+  {
+    "id": 74,
+    "question": "Upper limb counterpart of dorsal spinocerebellar tract is: [May 18]",
+    "options": {
+      "a": "Tectocerebellar tract",
+      "b": "Cuneocerebellar tract",
+      "c": "Vestibulocerebellar tract",
+      "d": "Ventral spinocerebellar tract"
+    },
+    "correct_answer": "b",
+    "explanation": "The cuneocerebellar tract is the upper limb counterpart of the dorsal spinocerebellar tract. It carries proprioceptive information from the upper limb to the cerebellum.",
+    "reference": "Ganong's Physiology 25th edn. pp 250, 26th edn. pp 245"
+  },
+  {
+    "id": 75,
+    "question": "Nucleus of cerebellum responsible for slow pursuit and saccades: [Dec 18]",
+    "options": {
+      "a": "Dentate",
+      "b": "Fastigial",
+      "c": "Emboliformis",
+      "d": "Globose"
+    },
+    "correct_answer": "b",
+    "explanation": "The dorsal oculomotor vermis and fastigial nucleus are responsible for saccades and pursuit initiation. The flocculus controls sustained pursuit eye movements and gaze holding.",
+    "reference": "Ganong's Physiology 26th edn."
+  },
+  {
+    "id": 76,
+    "question": "Which of the following body parts is represented most laterally and inferiorly within the primary motor cortex?",
+    "options": {
+      "a": "Face",
+      "b": "Hand",
+      "c": "Neck",
+      "d": "Abdomen"
+    },
+    "correct_answer": "a",
+    "explanation": "The face region of the motor cortex is most inferior and lateral in the territory of the middle cerebral artery, whereas the lower limb is in the paracentral lobule in the territory of the anterior cerebral artery.",
+    "reference": "Ganong's Physiology"
+  },
+  {
+    "id": 77,
+    "question": "Which component of the basal ganglia plays the major role in the control of cognitive (memory-guided) motor activity?",
+    "options": {
+      "a": "Globus pallidus",
+      "b": "Substantia nigra",
+      "c": "Caudate nucleus",
+      "d": "Putamen"
+    },
+    "correct_answer": "c",
+    "explanation": "The caudate nucleus is involved in the basal ganglia circuits that control memory-guided (cognitive) motor activity.",
+    "reference": "Ganong's Physiology"
+  },
+  {
+    "id": 78,
+    "question": "Which structure is an important pathway for communication between the limbic system and the brainstem?",
+    "options": {
+      "a": "Mamillothalamic tract",
+      "b": "Anterior commissure",
+      "c": "Indusium griseum",
+      "d": "Medial forebrain bundle"
+    },
+    "correct_answer": "d",
+    "explanation": "The medial forebrain bundle extends from the septal and orbitofrontal regions of the cerebral cortex downward through the center of the hypothalamus to the brainstem reticular area, serving as an important communication pathway between the limbic system and the brainstem.",
+    "reference": "Guyton-Physiology-12th edn. pp 735"
+  },
+  {
+    "id": 79,
+    "question": "Fine motor movement of the index finger can be elicited by stimulation of which of the following brain areas?",
+    "options": {
+      "a": "Primary motor cortex",
+      "b": "Lateral cerebellar hemisphere",
+      "c": "Premotor cortex",
+      "d": "Supplemental motor area"
+    },
+    "correct_answer": "a",
+    "explanation": "A large area of the primary motor cortex is dedicated to activating the muscles that control finger movement. Stimulation of the primary motor cortex results in very discrete contractions of small muscle groups. Premotor cortex stimulation produces large muscle group contractions; supplemental motor area stimulation produces bilateral movements.",
+    "reference": "Ganong's Physiology"
+  }
+]

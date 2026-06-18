@@ -1,0 +1,758 @@
+[
+  {
+    "id": 1,
+    "question": "What are the EEG waves recorded for parieto-occipital region with subject awake and eye closed?",
+    "options": {
+      "a": "Alpha waves",
+      "b": "Beta waves",
+      "c": "Delta waves",
+      "d": "Theta waves"
+    },
+    "correct_answer": "a",
+    "explanation": "Alpha rhythm is most marked in the parietal and occipital lobes and is associated with decreased levels of attention. It is recorded when the subject is awake with eyes closed.",
+    "reference": "Ganong's Physiology 25th edn. pp 272, 26th pp 271"
+  },
+  {
+    "id": 2,
+    "question": "Alpha rhythm on EEG seen in:",
+    "options": {
+      "a": "Awake state",
+      "b": "Mental work",
+      "c": "Light sleep",
+      "d": "Deep sleep"
+    },
+    "correct_answer": "a",
+    "explanation": "Alpha wave is seen when the person is awake, in a quiet, resting stage of cerebration. Mental work (focused attention) converts alpha to beta wave. Light sleep converts alpha to theta wave.",
+    "reference": "Ganong's Physiology 25th edn. pp 272, 26th pp 271"
+  },
+  {
+    "id": 3,
+    "question": "Bruxism occurs in which phase of sleep?",
+    "options": {
+      "a": "NREM 2",
+      "b": "NREM 3",
+      "c": "REM sleep",
+      "d": "NREM 4"
+    },
+    "correct_answer": "a",
+    "explanation": "Bruxism (teeth grinding) occurs in both stage I and stage II of NREM sleep, but is more common in stage II (NREM 2).",
+    "reference": "Kaplan and Sadock's Synopsis of Psychiatry by Benjamin J. Sadock et al. and Harrison's Principles of Internal Medicine 19th Edn. pp 184"
+  },
+  {
+    "id": 4,
+    "question": "Associative learning:",
+    "options": {
+      "a": "Associated with consciousness",
+      "b": "Includes skills and habits",
+      "c": "Relation of one stimulus to another",
+      "d": "Facilitation of recognition of words"
+    },
+    "correct_answer": "c",
+    "explanation": "In associative learning, the organism learns about the relation of one stimulus to another. It is the process by which an association between two stimuli or a behavior and a stimulus is learned.",
+    "reference": "Ganong's Physiology 25th edn. pp 287, 26th pp 280"
+  },
+  {
+    "id": 5,
+    "question": "Pavlov's experiment on dogs shows:",
+    "options": {
+      "a": "Conditional response",
+      "b": "Unconditioned response",
+      "c": "Procedural memory",
+      "d": "Familiarity"
+    },
+    "correct_answer": "a",
+    "explanation": "In Pavlov's classic experiments, salivation normally induced by placing meat in the mouth of a dog was studied. After conditioning (pairing a bell with food repeatedly), the dog salivates to the bell alone — this is an example of a conditional (conditioned) response.",
+    "reference": "Ganong's Physiology 25th edn. pp 287, 26th pp 281"
+  },
+  {
+    "id": 6,
+    "question": "Salivation of a dog when food is given along with bell is:",
+    "options": {
+      "a": "Conditioned reflex",
+      "b": "Reinforcement",
+      "c": "Habituation",
+      "d": "Innate reflex"
+    },
+    "correct_answer": "d",
+    "explanation": "For a conditioned reflex to occur, a bell should ring just before meat is placed in the dog's mouth, repeated many times, until the animal salivates to the bell alone without food. Placing food in the mouth and causing salivation is an innate (unconditioned) reflex — it occurs whether or not the bell is present.",
+    "reference": "Ganong's Physiology 25th edn. pp 287, 26th pp 281"
+  },
+  {
+    "id": 7,
+    "question": "Striatum damage affects priming:",
+    "options": {
+      "a": "Procedural memory",
+      "b": "Short-term memory",
+      "c": "Long-term memory",
+      "d": "Explicit memory"
+    },
+    "correct_answer": "a",
+    "explanation": "Procedural memory includes skills and habits which, once acquired, become unconscious and automatic. The striatum is responsible for this type of learning and memory. Damage to the striatum therefore affects procedural memory.",
+    "reference": "Ganong's Physiology 25th edn. pp 285, 26th pp 280"
+  },
+  {
+    "id": 8,
+    "question": "Vomiting center is situated in the:",
+    "options": {
+      "a": "Hypothalamus",
+      "b": "Amygdala",
+      "c": "Pons",
+      "d": "Medulla"
+    },
+    "correct_answer": "d",
+    "explanation": "The area postrema (AP) has been implicated as the chemoreceptor trigger zone for vomiting for over 40 years. It is located on the dorsal surface of the medulla oblongata at the caudal end of the fourth ventricle. It is one of the circumventricular organs that lacks a blood-brain barrier, allowing it to detect emetic toxins in blood and CSF. The nucleus of the solitary tract (NTS) in the medulla serves as the beginning of the final common pathway for triggering vomiting.",
+    "reference": "Front Neuroendocrinol. 1994 Dec;15:301-20"
+  },
+  {
+    "id": 9,
+    "question": "Vomiting center:",
+    "options": {
+      "a": "Area postrema",
+      "b": "Suprachiasmatic",
+      "c": "Medial nuclei",
+      "d": "Lateral nuclei"
+    },
+    "correct_answer": "a",
+    "explanation": "The vomiting center is located in the area postrema (chemoreceptor trigger zone) in the medulla oblongata.",
+    "reference": "Ganong's Physiology"
+  },
+  {
+    "id": 10,
+    "question": "Human brain is more intelligent than monkey's brain due to: [PGI June 03]",
+    "options": {
+      "a": "Larger brain",
+      "b": "Increased convolutions",
+      "c": "Increased brain area compared to body surface area",
+      "d": "More blood supply"
+    },
+    "correct_answer": "b",
+    "explanation": "The human brain is more intelligent than a monkey's brain primarily due to increased convolutions (gyri and sulci), which greatly increase the surface area of the cerebral cortex and allow for more complex neural processing.",
+    "reference": "Ganong's Physiology"
+  },
+  {
+    "id": 11,
+    "question": "Neurophysiological defects present in right lobe involvement all, except: [AIIMS May 09]",
+    "options": {
+      "a": "Visuospatial defect",
+      "b": "Anosognosia",
+      "c": "Dyscalculia",
+      "d": "Dysgraphia"
+    },
+    "correct_answer": "c",
+    "explanation": "Dyscalculia (difficulty with calculations) is primarily a function of the left hemisphere (categorical hemisphere). Right lobe involvement causes visuospatial defects, anosognosia (unawareness of one's own disability), and dysgraphia in some cases, but dyscalculia is predominantly a left hemisphere function.",
+    "reference": "Ganong's Physiology 25th edn. pp 292, 26th pp 284"
+  },
+  {
+    "id": 12,
+    "question": "Left lobe of brain is mainly responsible for: [AIIMS May 12]",
+    "options": {
+      "a": "Special recognition",
+      "b": "Written and spoken language",
+      "c": "Agnosia",
+      "d": "Music perception"
+    },
+    "correct_answer": "b",
+    "explanation": "The left hemisphere is the dominant or categorical hemisphere in 96% of right-handed individuals. It is mainly responsible for written and spoken language. Special recognition, music perception, and certain aspects of agnosia are primarily right hemisphere functions.",
+    "reference": "Ganong's Physiology 25th edn. pp 292, 26th pp 284"
+  },
+  {
+    "id": 13,
+    "question": "Buerger waves (alpha waves) of EEG have the rhythm per sec of: [PGI 04]",
+    "options": {
+      "a": "0–4",
+      "b": "4–7",
+      "c": "8–13",
+      "d": "13–30"
+    },
+    "correct_answer": "c",
+    "explanation": "In 1924, Berger made the first EEG recording in man. He described the alpha wave rhythm (8–12 Hz), also known as Berger's wave. The alpha wave frequency range is 8–13 Hz.",
+    "reference": "Review of clinical electroencephalography by GR Shamsaei, pp 10"
+  },
+  {
+    "id": 14,
+    "question": "Key regulators of sleep are located in: [AI 09]",
+    "options": {
+      "a": "Hypothalamus",
+      "b": "Thalamus",
+      "c": "Putamen",
+      "d": "Limbic cortex"
+    },
+    "correct_answer": "a",
+    "explanation": "The key regulators of sleep are located in the hypothalamus. The suprachiasmatic nucleus of the hypothalamus controls circadian rhythms and the sleep-wake cycle.",
+    "reference": "Ganong's Physiology 25th edn. pp 272, 26th pp 269"
+  },
+  {
+    "id": 15,
+    "question": "Alpha-wave in EEG is seen in: [PGI 96]",
+    "options": {
+      "a": "Sleep",
+      "b": "REM sleep",
+      "c": "Awake state",
+      "d": "Mental work"
+    },
+    "correct_answer": "c",
+    "explanation": "Alpha waves are seen in the awake state, best observed with eyes closed and under conditions of physical relaxation and relative mental inactivity. They are blocked or attenuated by attention, especially visual, and mental effort.",
+    "reference": "Review of clinical electroencephalography by GR Shamsaei, pp 10"
+  },
+  {
+    "id": 16,
+    "question": "Alpha-rhythm is seen in: [PGI 97]",
+    "options": {
+      "a": "Sleep with eyes closed with mind wandering",
+      "b": "Mental activity",
+      "c": "Awake with eyes open",
+      "d": "REM sleep"
+    },
+    "correct_answer": "a",
+    "explanation": "Alpha wave is best seen with eyes closed and under conditions of physical relaxation and relative mental inactivity. It is blocked or attenuated by attention, especially visual, and mental effort. When mind is still wandering, alpha wave can be seen.",
+    "reference": "Review of clinical electroencephalography by GR Shamsaei, pp 10"
+  },
+  {
+    "id": 17,
+    "question": "Delta waves are seen in: [AI 07, AIIMS May 14]",
+    "options": {
+      "a": "Deep sleep",
+      "b": "REM sleep",
+      "c": "Awake state",
+      "d": "Stage I NREM sleep"
+    },
+    "correct_answer": "a",
+    "explanation": "Delta waves begin to appear in stage III NREM sleep and more than 50% delta activity is seen in stage IV (deep) sleep. Delta waves have a frequency of 0–4 Hz.",
+    "reference": "Review of clinical electroencephalography by GR Shamsaei, pp 10"
+  },
+  {
+    "id": 18,
+    "question": "EEG rhythm recorded from the surface of the scalp during REM sleep: [AIIMS 96]",
+    "options": {
+      "a": "Alpha",
+      "b": "Beta",
+      "c": "Delta",
+      "d": "Theta"
+    },
+    "correct_answer": "b",
+    "explanation": "REM sleep is defined by rapid eye movements, muscle atonia, and EEG desynchronization. The EEG background changes from slow wave sleep (stage III or IV) to faster and lower voltage activity (theta and beta), resembling wakefulness. Beta is the predominant wave seen during REM sleep.",
+    "reference": "Review of clinical electroencephalography by GR Shamsaei, pp 10"
+  },
+  {
+    "id": 19,
+    "question": "Sleep waves in hippocampal area is: [AI 98]",
+    "options": {
+      "a": "Delta waves",
+      "b": "Theta waves",
+      "c": "Beta waves",
+      "d": "Alpha waves"
+    },
+    "correct_answer": "b",
+    "explanation": "Theta waves are seen in the cortex (in humans) and hippocampus (in non-human mammals). Theta wave activity is associated with the hippocampal area.",
+    "reference": "Review of clinical electroencephalography by GR Shamsaei, pp 10"
+  },
+  {
+    "id": 20,
+    "question": "Beta waveforms in electroencephalogram designate which of the following states of the patient? [AIIMS Nov 05]",
+    "options": {
+      "a": "Deep anesthesia",
+      "b": "Surgical anesthesia",
+      "c": "Light anesthesia, eyes closed, relaxed",
+      "d": "Awake/alert state"
+    },
+    "correct_answer": "d",
+    "explanation": "When attention is focused on something, the alpha rhythm is replaced by an irregular 13–30 Hz low-voltage activity, the beta rhythm. Beta waveforms designate the awake/alert state.",
+    "reference": "Ganong's Physiology 25th edn. pp 272, 26th pp 271"
+  },
+  {
+    "id": 21,
+    "question": "Nightmare is seen in: [AI 00]",
+    "options": {
+      "a": "REM sleep",
+      "b": "Stage II NREM sleep",
+      "c": "Stage IV NREM sleep",
+      "d": "Stage I NREM sleep"
+    },
+    "correct_answer": "a",
+    "explanation": "Nightmares occur during REM sleep, whereas night terrors occur during NREM stage N3 (deep sleep).",
+    "reference": "Harrison's Principles of Internal Medicine 19th Edn. pp 184"
+  },
+  {
+    "id": 22,
+    "question": "Which one of the following phenomena is closely associated with slow wave sleep? [AIIMS Nov 04]",
+    "options": {
+      "a": "Dreaming",
+      "b": "Atonia",
+      "c": "Sleep walking",
+      "d": "Irregular heart rate"
+    },
+    "correct_answer": "c",
+    "explanation": "Sleepwalking is a disorder of NREM stage N3 (slow wave sleep). Dreams can occur in both NREM and REM sleep, but recallable dreams occur in REM sleep. Atonia is a characteristic of REM sleep, not slow wave sleep.",
+    "reference": "Harrison's Principles of Internal Medicine 19th Edn. pp 184"
+  },
+  {
+    "id": 23,
+    "question": "Slow wave sleep associated with: [PGI Dec 06]",
+    "options": {
+      "a": "Dreams",
+      "b": "Cardiac arrhythmia",
+      "c": "Penile tumescence",
+      "d": "Delta activity"
+    },
+    "correct_answer": "d",
+    "explanation": "Slow wave sleep (NREM stages III and IV) is associated with delta activity on EEG. Penile tumescence and recallable dreams are associated with REM sleep.",
+    "reference": "Harrison's Principles of Internal Medicine 19th Edn. pp 184"
+  },
+  {
+    "id": 24,
+    "question": "The normal adult human electroencephalogram (EEG): [AIIMS May 04]",
+    "options": {
+      "a": "Will not show high frequency waves during stage 3 sleep",
+      "b": "Shows alpha rhythm when a person is awake but inattentive",
+      "c": "Has lower frequency waves during mental activity",
+      "d": "Is predominated by large amplitude waves during REM sleep"
+    },
+    "correct_answer": "a",
+    "explanation": "Stage 3 sleep will never show high frequency waves. Alpha rhythm diminishes or attenuates during focused attention (not during inattention). Mental activity produces higher frequency beta waves, not lower frequency. REM sleep is characterized by low amplitude, desynchronized activity similar to wakefulness.",
+    "reference": "Review of clinical electroencephalography by GR Shamsaei, pp 10"
+  },
+  {
+    "id": 25,
+    "question": "The processing of short-term memory to long-term memory is done in: [AI 07]",
+    "options": {
+      "a": "Prefrontal cortex",
+      "b": "Hippocampus",
+      "c": "Neocortex",
+      "d": "Amygdala"
+    },
+    "correct_answer": "b",
+    "explanation": "The hippocampus is responsible for processing short-term memory to long-term memory (consolidation). When the hippocampus is removed, people have virtually no capability for storing verbal and symbolic types of memories (declarative memory) in long-term memory.",
+    "reference": "Guyton-Physiology-12th edn. pp 726"
+  },
+  {
+    "id": 26,
+    "question": "Events occurring in the past one week is an example of: [AIIMS Nov 09]",
+    "options": {
+      "a": "Recent memory",
+      "b": "Remote memory",
+      "c": "Working memory",
+      "d": "Delayed memory"
+    },
+    "correct_answer": "a",
+    "explanation": "Memory is classified by duration: Working memory (seconds to minutes), Recent memory (minutes/weeks/months), and Remote memory (months to years). Events occurring in the past one week fall under recent memory.",
+    "reference": "Memory: From Mind to Molecules by Squire and Kandel 2009"
+  },
+  {
+    "id": 27,
+    "question": "Bitter taste is mediated by action of:",
+    "options": {
+      "a": "Guanylyl cyclase",
+      "b": "G protein",
+      "c": "Tyrosine kinase",
+      "d": "Epithelial Na+ chain"
+    },
+    "correct_answer": "b",
+    "explanation": "Salt-sensitive taste is mediated by a Na+-selective channel (ENaC). Sour taste is mediated by H+ ions permeable to ENaCs. The other three primary tastes — umami, bitter, and sweet — are mediated by G protein-coupled receptors.",
+    "reference": "Ganong's Physiology 25th edn. pp 223, 26th pp 281"
+  },
+  {
+    "id": 28,
+    "question": "The receptors/buds responsible for carrying bitter taste sensation are situated:",
+    "options": {
+      "a": "At the tip of the tongue",
+      "b": "Just behind the tip",
+      "c": "At the sides",
+      "d": "At the posterior aspect"
+    },
+    "correct_answer": "d",
+    "explanation": "Bitter taste buds are located primarily in the posterior aspect of the tongue, associated with circumvallate papillae.",
+    "reference": "Ganong's Physiology 25th edn. pp 223"
+  },
+  {
+    "id": 29,
+    "question": "Photoreceptors on exposure to dark release:",
+    "options": {
+      "a": "Acetylcholine",
+      "b": "Glutamate",
+      "c": "Adrenaline",
+      "d": "Epinephrine"
+    },
+    "correct_answer": "b",
+    "explanation": "The neurotransmitter released from photoreceptor cells is glutamate. In the dark, photoreceptors are depolarized and continuously release glutamate.",
+    "reference": "Ganong's Physiology 25th edn. pp 184, 26th pp 194"
+  },
+  {
+    "id": 30,
+    "question": "Which are first order neuron in optic pathway?",
+    "options": {
+      "a": "Bipolar cells",
+      "b": "Ganglionic cells",
+      "c": "Cells of lateral geniculate body",
+      "d": "Astrocytes"
+    },
+    "correct_answer": "a",
+    "explanation": "In the optic pathway: First order neurons are rods and cones (photoreceptors), second order neurons are bipolar cells, and third order neurons are ganglion cells. However, in this question, bipolar cell is the answer as the first-order neuron listed.",
+    "reference": "Molecular Vision 2008;14:706-720 and Concept and challenge in retinal biology by H Klob, H Ripps"
+  },
+  {
+    "id": 31,
+    "question": "Second order neuron:",
+    "options": {
+      "a": "ON (optic nerve)",
+      "b": "MGB",
+      "c": "LGB",
+      "d": "Layer of retina"
+    },
+    "correct_answer": "a",
+    "explanation": "According to recent trends, 2nd order neurons are bipolar cells. The optic nerve (ON) carries signals from the ganglion cells (3rd order neurons). The answer reflects the classical classification where bipolar cells are the 2nd order neurons in the visual pathway.",
+    "reference": "Molecular Vision 2008;14:706-720"
+  },
+  {
+    "id": 32,
+    "question": "Ganglion cell — order of neuron:",
+    "options": {
+      "a": "1st",
+      "b": "2nd",
+      "c": "3rd",
+      "d": "4th"
+    },
+    "correct_answer": "c",
+    "explanation": "Ganglion cells are the 3rd order neurons in the visual pathway: 1st order = rods/cones, 2nd order = bipolar cells, 3rd order = ganglion cells.",
+    "reference": "Molecular Vision 2008;14:706-720"
+  },
+  {
+    "id": 33,
+    "question": "Transducin is required for:",
+    "options": {
+      "a": "Smell",
+      "b": "Hearing",
+      "c": "Taste",
+      "d": "Vision"
+    },
+    "correct_answer": "d",
+    "explanation": "Transducin is the G-protein present in rods and cones, responsible for visual signal transduction (phototransduction).",
+    "reference": "Ganong's Physiology 25th edn. pp 184, 26th pp 193"
+  },
+  {
+    "id": 34,
+    "question": "The rod receptor potential differs from other sensory receptors in that it shows:",
+    "options": {
+      "a": "Depolarization",
+      "b": "Decreased negativity",
+      "c": "Increased conductance of sodium",
+      "d": "Hyperpolarization"
+    },
+    "correct_answer": "d",
+    "explanation": "Phototransduction is unique in that light causes hyperpolarization of photoreceptor cells. In the dark, photoreceptors are depolarized. When light falls on the retina, hyperpolarization of photoreceptor cells occurs — the opposite of most sensory receptors.",
+    "reference": "Ganong's Physiology 25th edn. pp 184, 26th pp 194"
+  },
+  {
+    "id": 35,
+    "question": "The blobs of the visual cortex are associated with:",
+    "options": {
+      "a": "Ocular dominance",
+      "b": "Orientation",
+      "c": "Color processing",
+      "d": "Saccadic eye movements"
+    },
+    "correct_answer": "c",
+    "explanation": "Layers 2 and 3 of the visual cortex contain clusters of cells (~0.2 mm diameter) named 'blobs' that contain a high concentration of cytochrome oxidase. These blobs are concerned with color vision (color processing).",
+    "reference": "Ganong's Physiology 25th edn. pp 186, 26th pp 200"
+  },
+  {
+    "id": 36,
+    "question": "Amacrine cells secrete:",
+    "options": {
+      "a": "Acetylcholine",
+      "b": "Glutamate",
+      "c": "Adrenaline",
+      "d": "Noradrenaline"
+    },
+    "correct_answer": "a",
+    "explanation": "The major neurotransmitters in amacrine cells are GABA and glycine. Among less common neurotransmitters, acetylcholine is released by cholinergic amacrine cells known as starburst cells, which are more numerous than dopamine-producing cells.",
+    "reference": "Ehinger and Lindberg-Bauer 1976, Miller, Dacheux et al 1977"
+  },
+  {
+    "id": 37,
+    "question": "Rods and cones differ in all except: [AIIMS May 09]",
+    "options": {
+      "a": "Signal transduction",
+      "b": "Light sensitivity",
+      "c": "Wavelength",
+      "d": "Acuity"
+    },
+    "correct_answer": "a",
+    "explanation": "The mechanism of phototransduction is almost similar in rods and cones. They differ in light sensitivity (rods more sensitive), wavelength sensitivity (cones sensitive to different colors), and acuity (cones provide sharper vision).",
+    "reference": "Ganong's Physiology 25th edn. pp 184, 26th pp 192"
+  },
+  {
+    "id": 38,
+    "question": "Initiation of visual impulse is associated with: [AI 09]",
+    "options": {
+      "a": "Condensation of opsin with vitamin A aldehyde",
+      "b": "Photoisomerization and hydrolysis of visual purple",
+      "c": "NADP",
+      "d": "NAD"
+    },
+    "correct_answer": "b",
+    "explanation": "The initiation of visual impulse is associated with photoisomerization and hydrolysis of visual purple (rhodopsin). Light causes photoisomerization of 11-cis-retinal to all-trans-retinal, which initiates the visual cascade.",
+    "reference": "Ganong's Physiology"
+  },
+  {
+    "id": 39,
+    "question": "During the dark phase of visual cycle, which form of vitamin A combines with opsin to make Rhodopsin: [AIIMS Nov 04]",
+    "options": {
+      "a": "All trans-retinaldehyde",
+      "b": "All trans-retinol",
+      "c": "11-cis-retinaldehyde",
+      "d": "11-cis-retinol"
+    },
+    "correct_answer": "c",
+    "explanation": "During the dark phase of the visual cycle, 11-cis-retinaldehyde combines with opsin to form rhodopsin. Light converts 11-cis-retinal to all-trans-retinal, bleaching rhodopsin and initiating the phototransduction cascade.",
+    "reference": "Ganong's Physiology 25th edn. pp 184, 26th pp 193"
+  },
+  {
+    "id": 40,
+    "question": "Relative color and luminosity of photoreceptive input under changing light conditions are regulated and maintained by: [AIIMS 03]",
+    "options": {
+      "a": "Muller cells",
+      "b": "Amacrine cells",
+      "c": "Ganglion cells",
+      "d": "Retinal astrocytes"
+    },
+    "correct_answer": "b",
+    "explanation": "Amacrine cells are interneurons that help analyze visual signals before they leave the retina. They are responsible for regulating and maintaining the relative color and luminosity of photoreceptive input under changing light conditions.",
+    "reference": "Guyton-Physiology-12th edn. pp 636"
+  },
+  {
+    "id": 41,
+    "question": "The only neurons in retina showing action potential are: [PGI May 04]",
+    "options": {
+      "a": "Rods and cones",
+      "b": "Bipolar cells",
+      "c": "Amacrine cells",
+      "d": "Ganglion cells",
+      "e": "Color vision"
+    },
+    "correct_answer": "d",
+    "explanation": "The eye is unique in that the receptor potentials of photoreceptors and the electrical responses of most other neural elements in the retina are local, graded potentials. Only in the ganglion cells are all-or-none action potentials generated and transmitted over appreciable distances.",
+    "reference": "Ganong's Physiology 25th edn. pp 183, 26th pp 194"
+  },
+  {
+    "id": 42,
+    "question": "Visible range of electromagnetic spectrum of human eye: [PGI June 04]",
+    "options": {
+      "a": "370–740 nm",
+      "b": "740–1140 nm",
+      "c": "200–370 nm",
+      "d": "370–570 nm",
+      "e": "370–770 nm"
+    },
+    "correct_answer": "a",
+    "explanation": "The visible range of the electromagnetic spectrum for the human eye is 370–740 nm (approximately 400–700 nm). Wavelengths below this range are ultraviolet, and above this range are infrared.",
+    "reference": "Guyton-Physiology-12th edn. pp 636"
+  },
+  {
+    "id": 43,
+    "question": "For color vision, which is true? [AIIMS May 09]",
+    "options": {
+      "a": "Independent of wavelength of light",
+      "b": "Depends on intensity discrimination",
+      "c": "Involves opponent color cells",
+      "d": "Minimum at fixation point"
+    },
+    "correct_answer": "c",
+    "explanation": "Color vision involves opponent color cells. The opponent color theory states that certain cells in the visual pathway are excited by one color and inhibited by its complementary color (e.g., red-green, blue-yellow). Color vision is wavelength-dependent and is maximum at the fixation point (fovea).",
+    "reference": "Guyton-Physiology-12th edn. pp 636"
+  },
+  {
+    "id": 44,
+    "question": "Protonopes have defect in identifying red color: [AIIMS May 02]",
+    "options": {
+      "a": "Red",
+      "b": "Blue",
+      "c": "Green",
+      "d": "Black"
+    },
+    "correct_answer": "a",
+    "explanation": "Protanopes (protonopes) have a defect in red cone photopigment and therefore cannot correctly identify red color. They confuse red with green.",
+    "reference": "Guyton-Physiology-12th edn. pp 636"
+  },
+  {
+    "id": 45,
+    "question": "Any spectral color can be matched by a mixture of three monochromatic lights (red, green, blue) in different proportions. If a person needs more of one of the color for matching than a normal person, then he has a color anomaly. More red color is needed in the case of: [AI 02]",
+    "options": {
+      "a": "Deuteranomaly",
+      "b": "Tritanomaly",
+      "c": "Protanomaly",
+      "d": "Tritanopia"
+    },
+    "correct_answer": "c",
+    "explanation": "A normal person with three functional cones is a trichromat. Weakness of one cone type is called anomaly. Red cone weakness = Protanomaly (needs more red to match); Green cone weakness = Deuteranomaly; Blue cone weakness = Tritanomaly.",
+    "reference": "Guyton-Physiology-12th edn. pp 636"
+  },
+  {
+    "id": 46,
+    "question": "Odorant receptors are which type of receptor? [May 18]",
+    "options": {
+      "a": "Thermoreceptors",
+      "b": "Mechanoreceptor",
+      "c": "Chemoreceptors",
+      "d": "Photoreceptor"
+    },
+    "correct_answer": "c",
+    "explanation": "Odorant receptors are chemoreceptors. They respond to chemical stimuli (odorant molecules) in the air. These receptors are located in the olfactory epithelium and are G protein-coupled receptors.",
+    "reference": "Ganong's Physiology"
+  },
+  {
+    "id": 47,
+    "question": "Which of the following is correctly matched? [Dec 18]",
+    "options": {
+      "a": "Neocortex-associative learning",
+      "b": "Hippocampus-implicit memory",
+      "c": "Medial temporal lobe-declarative memory",
+      "d": "Neocortex-associative learning"
+    },
+    "correct_answer": "c",
+    "explanation": "The medial temporal lobe, including the hippocampus and surrounding cortex, is responsible for declarative memory (explicit memory — facts and events). The hippocampus is associated with explicit/declarative memory, not implicit memory.",
+    "reference": "Ganong's Physiology"
+  },
+  {
+    "id": 48,
+    "question": "Neurotransmitter released by inner hair cells during depolarization: [Dec 18]",
+    "options": {
+      "a": "Glutamate",
+      "b": "Glycine",
+      "c": "GABA",
+      "d": "Acetylcholine"
+    },
+    "correct_answer": "a",
+    "explanation": "Inner hair cells release glutamate as their neurotransmitter during depolarization. Glutamate acts on afferent auditory nerve fibers (spiral ganglion neurons) to transmit auditory signals to the brain.",
+    "reference": "Ganong's Physiology"
+  },
+  {
+    "id": 49,
+    "question": "Blood retinal barrier is formed by: [Dec 18]",
+    "options": {
+      "a": "Amacrine cell",
+      "b": "Muller cell",
+      "c": "Interplexiform cells",
+      "d": "Ganglion cell"
+    },
+    "correct_answer": "b",
+    "explanation": "The blood-retinal barrier is formed by Muller cells (radial glia of the retina) along with tight junctions of retinal pigment epithelium (RPE) and retinal capillary endothelium. Muller cells play a key role in maintaining retinal homeostasis.",
+    "reference": "Ganong's Physiology"
+  },
+  {
+    "id": 50,
+    "question": "Sensitive area to hypoxia: [Dec 18]",
+    "options": {
+      "a": "Locus coerulus",
+      "b": "Hippocampus",
+      "c": "Amygdala",
+      "d": "Basal ganglia"
+    },
+    "correct_answer": "b",
+    "explanation": "The most sensitive neurons to hypoxic injury are the pyramidal cells of the CA1 region of the hippocampus (Sommer's sector). Irreversible damage occurs if there is no oxygen supply for more than 5 minutes.",
+    "reference": "Neuropathology by Richard A. Prayson"
+  },
+  {
+    "id": 51,
+    "question": "Olfactory receptor cells belong to which of the following groups of cells?",
+    "options": {
+      "a": "Bipolar neurons",
+      "b": "Modified epithelial cells",
+      "c": "Multipolar neurons",
+      "d": "Pseudounipolar neurons"
+    },
+    "correct_answer": "a",
+    "explanation": "Olfactory receptor cells are bipolar neurons. They are derived originally from the central nervous system itself. Each bipolar cell has a single dendrite extending to the olfactory epithelium surface and an axon projecting to the olfactory bulb.",
+    "reference": "Guyton-Physiology"
+  },
+  {
+    "id": 52,
+    "question": "Visual contrast is enhanced due to lateral inhibition by which retinal cells?",
+    "options": {
+      "a": "Amacrine cells",
+      "b": "Bipolar cells",
+      "c": "Ganglion cells",
+      "d": "Horizontal cells"
+    },
+    "correct_answer": "d",
+    "explanation": "Horizontal cells, which are always inhibitory, have lateral connections between photoreceptors and bipolar cells. This lateral connection provides lateral inhibition, which is important for enhancing visual contrast — the same phenomenon seen in other sensory systems.",
+    "reference": "Guyton-Physiology"
+  },
+  {
+    "id": 53,
+    "question": "Which lobe of the cerebral cortex contains the small bilateral cortical area that controls voluntary fixation movements?",
+    "options": {
+      "a": "Frontal",
+      "b": "Limbic",
+      "c": "Occipital",
+      "d": "Parietal"
+    },
+    "correct_answer": "a",
+    "explanation": "A bilateral premotor cortical region of the frontal lobes controls voluntary fixation movements. A lesion of this region makes it difficult for a person to 'unlock' their eyes from one point of fixation and then move them to another point.",
+    "reference": "Guyton-Physiology"
+  },
+  {
+    "id": 54,
+    "question": "Which of the following sensory systems has the smallest range of intensity discrimination?",
+    "options": {
+      "a": "Auditory",
+      "b": "Gustatory",
+      "c": "Olfactory",
+      "d": "Somatosensory"
+    },
+    "correct_answer": "c",
+    "explanation": "The olfactory system has the smallest range of intensity discrimination. Concentrations only 10 to 50 times above threshold values evoke maximum intensity of smell, in contrast to most other sensory systems where the range may reach 1 trillion to 1.",
+    "reference": "Guyton-Physiology"
+  },
+  {
+    "id": 55,
+    "question": "Which of the following molecules moves from the endolymph into the stereocilia and depolarizes the hair cell?",
+    "options": {
+      "a": "Calcium ions",
+      "b": "Sodium ions",
+      "c": "Hydrogen ions",
+      "d": "Potassium ions"
+    },
+    "correct_answer": "d",
+    "explanation": "Unlike most cells in the nervous system that depolarize in response to sodium entry, hair cells are one group of cells that depolarize in response to potassium entry. Potassium ions from the endolymph move into the stereocilia through mechanically gated channels, depolarizing the hair cell.",
+    "reference": "Guyton-Physiology"
+  },
+  {
+    "id": 56,
+    "question": "Which of the following retinal cells have action potentials?",
+    "options": {
+      "a": "Amacrine cells",
+      "b": "Bipolar cells",
+      "c": "Ganglion cells",
+      "d": "Horizontal cells"
+    },
+    "correct_answer": "c",
+    "explanation": "Only ganglion cells have action potentials in the retina. Photoreceptors, bipolar cells, amacrine cells, and horizontal cells all operate through graded potentials.",
+    "reference": "Guyton-Physiology"
+  },
+  {
+    "id": 57,
+    "question": "Which type of papillae is located in the folds along the lateral surfaces of the tongue?",
+    "options": {
+      "a": "Circumvallate",
+      "b": "Foliate",
+      "c": "Fungiform",
+      "d": "Fungiform and circumvallate"
+    },
+    "correct_answer": "b",
+    "explanation": "Foliate papillae are located in the folds along the lateral surfaces of the tongue. Fungiform papillae are in the anterior part of the tongue, and circumvallate papillae are in the posterior part of the tongue.",
+    "reference": "Guyton-Physiology"
+  },
+  {
+    "id": 58,
+    "question": "The primary auditory cortex lies primarily in which lobe of the cerebral cortex?",
+    "options": {
+      "a": "Limbic lobe",
+      "b": "Occipital lobe",
+      "c": "Parietal lobe",
+      "d": "Temporal lobe"
+    },
+    "correct_answer": "d",
+    "explanation": "Most of the primary auditory cortex is in the temporal lobe (Heschl's gyri). The association auditory cortices extend over much of the insular lobe and even onto the lateral portion of the parietal lobe.",
+    "reference": "Guyton-Physiology"
+  }
+]

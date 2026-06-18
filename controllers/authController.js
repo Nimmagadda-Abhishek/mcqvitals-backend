@@ -20,12 +20,20 @@ const registerUser = async (req, res) => {
         throw new Error('User already exists');
     }
 
+    const expiryDate = new Date();
+    expiryDate.setMonth(expiryDate.getMonth() + 1);
+
     const user = await User.create({
         name,
         email,
         password,
         role: 'student',
         isApproved: false,
+        subscription: {
+            plan: 'monthly',
+            status: 'active',
+            expiryDate: expiryDate,
+        },
     });
 
     if (!user) {
@@ -122,6 +130,20 @@ const requestDeviceChange = async (req, res) => {
 
     user.deviceChangeRequested = true;
     await user.save();
+
+    try {
+        const adminEmail = process.env.ADMIN_EMAIL || (await User.findOne({ role: 'admin' })).email;
+        if (adminEmail) {
+            await sendEmail({
+                to: adminEmail,
+                subject: 'Device Change Request - waiting for approval',
+                text: `Hi Admin,\n\nA scholar has requested a device change and is waiting for your approval.\n\nScholar: ${user.name} (${user.email})\n\nPlease review and approve the request from the admin dashboard.`,
+                html: `<p>Hi Admin,</p><p>A scholar has requested a <b>device change</b> and is <b>waiting for your approval</b>.</p><p><b>Scholar:</b> ${user.name} (${user.email})</p><p>Please review and approve the request from the admin dashboard.</p>`,
+            });
+        }
+    } catch (e) {
+        console.error('Admin device change email failed:', e.message || e);
+    }
 
     res.json({ message: 'Device change request submitted successfully. Please wait for admin approval.' });
 };

@@ -1,0 +1,809 @@
+[
+  {
+    "id": 1,
+    "question": "Blood-testis barrier is formed by:",
+    "source": "NEET Pattern",
+    "options": {
+      "a": "Sertoli cells",
+      "b": "Leydig cells",
+      "c": "Epididymis",
+      "d": "Vas deferens"
+    },
+    "answer": ["a"],
+    "explanation": "Cytoplasmic processes from Sertoli cells along with tight junctions between adjacent Sertoli cells form the blood-testis barrier. This barrier protects developing sperm from the immune system."
+  },
+  {
+    "id": 2,
+    "question": "Testosterone production is mainly contributed by:",
+    "source": "NEET Pattern",
+    "options": {
+      "a": "Leydig cells",
+      "b": "Sertoli cells",
+      "c": "Seminiferous tubules",
+      "d": "Epididymis"
+    },
+    "answer": ["a"],
+    "explanation": "The interstitial cells of Leydig secrete testosterone into the bloodstream. They are located in the interstitial tissue between the seminiferous tubules and respond to LH stimulation."
+  },
+  {
+    "id": 3,
+    "question": "Sperm acquires motility in:",
+    "source": "NEET Pattern",
+    "options": {
+      "a": "Seminal vesicle",
+      "b": "Testes",
+      "c": "Epididymis",
+      "d": "Ejaculatory duct"
+    },
+    "answer": ["c"],
+    "explanation": "Sperm acquires forward progressive motility during their passage through the epididymis. Sperm produced in the seminiferous tubules are initially non-motile."
+  },
+  {
+    "id": 4,
+    "question": "Sperm maturation takes place in:",
+    "source": "NEET Pattern",
+    "options": {
+      "a": "Vas deferens",
+      "b": "Seminiferous tubules",
+      "c": "Epididymis",
+      "d": "Female genital tract"
+    },
+    "answer": ["d"],
+    "explanation": "Final maturation (capacitation) of sperm occurs in the female genital tract. Capacitation begins in the cervix and ends at the level of the isthmus of the fallopian tube, where sperm acquire the ability to fertilize an egg."
+  },
+  {
+    "id": 5,
+    "question": "Spermatogenesis is mostly controlled by:",
+    "source": "NEET Pattern",
+    "options": {
+      "a": "Inhibin",
+      "b": "FSH",
+      "c": "LH",
+      "d": "GnRH"
+    },
+    "answer": ["b"],
+    "explanation": "FSH is the main hormone controlling spermatogenesis. FSH acts on Sertoli cells to stimulate spermatogenesis. FSH, by stimulating Sertoli cell mitosis during testicular development, influences spermatogenic capacity. Both FSH and testosterone exert synergistic actions on germ cells."
+  },
+  {
+    "id": 6,
+    "question": "PGs in semen are secreted by:",
+    "source": "NEET Pattern",
+    "options": {
+      "a": "Prostate",
+      "b": "Seminal vesicle",
+      "c": "Sperms",
+      "d": "Testes"
+    },
+    "answer": ["b"],
+    "explanation": "Prostaglandins (PGs) in semen are secreted by the seminal vesicles. Despite being named 'prostaglandins' (originally thought to come from the prostate), they are primarily produced by seminal vesicles."
+  },
+  {
+    "id": 7,
+    "question": "Velocity of human sperm:",
+    "source": "NEET Pattern",
+    "options": {
+      "a": "1–3 mm/min",
+      "b": "4–6 mm/min",
+      "c": "6–9 mm/min",
+      "d": "10–13 mm/min"
+    },
+    "answer": ["a"],
+    "explanation": "Human sperms move at a speed of about 3 mm/min through the female genital tract. This velocity allows sperm to travel through the reproductive tract to reach the ovum."
+  },
+  {
+    "id": 8,
+    "question": "Semen is released by:",
+    "source": "NEET Pattern",
+    "options": {
+      "a": "Epididymis",
+      "b": "Testes",
+      "c": "Vas deferens",
+      "d": "Prostate"
+    },
+    "answer": ["c"],
+    "explanation": "Contraction of the smooth muscle of the vasa deferentia and seminal vesicles in response to stimuli in the hypogastric nerves leads to ejaculation (release of sperm/semen). The seminal vesicles produce the main component of semen."
+  },
+  {
+    "id": 9,
+    "question": "The principal steroid secreted by testis is:",
+    "source": "NEET Pattern",
+    "options": {
+      "a": "Testosterone",
+      "b": "Dihydrotestosterone",
+      "c": "Androstenedione",
+      "d": "Dehydroepiandrosterone"
+    },
+    "answer": ["a"],
+    "explanation": "Testosterone is the main androgen produced by the testis (from Leydig cells). The testosterone metabolite dihydrotestosterone (DHT) induces the formation of male external genitalia and male secondary sex characteristics."
+  },
+  {
+    "id": 10,
+    "question": "Mullerian inhibiting substance (MIS) is produced by:",
+    "source": "NEET Pattern",
+    "options": {
+      "a": "Stroma",
+      "b": "Sertoli cells",
+      "c": "Leydig cells",
+      "d": "All of the above"
+    },
+    "answer": ["b"],
+    "explanation": "Sertoli cells secrete androgen binding protein (ABP), inhibin, and Mullerian Inhibiting Substance (MIS/AMH). MIS causes regression of the Mullerian (paramesonephric) ducts in male fetuses."
+  },
+  {
+    "id": 11,
+    "question": "In male testosterone secreted from:",
+    "source": "NEET Pattern",
+    "options": {
+      "a": "Leydig's cell",
+      "b": "Sertoli cell",
+      "c": "Epididymis",
+      "d": "Vas Deferens"
+    },
+    "answer": ["a"],
+    "explanation": "Interstitial cells of Leydig secrete testosterone. Sertoli cells secrete androgen binding protein, activin, inhibin, and anti-Mullerian hormone (AMH/MIS)."
+  },
+  {
+    "id": 12,
+    "question": "Sertoli cells in the testis have receptors for:",
+    "source": "[AIIMS Nov 07, AI 04]",
+    "options": {
+      "a": "FSH",
+      "b": "LH",
+      "c": "Inhibin",
+      "d": "GnRH"
+    },
+    "answer": ["a"],
+    "explanation": "Sertoli cells have receptors for FSH. Leydig cells have receptors for LH. This is the basis of the two-cell, two-gonadotropin hypothesis in males: LH acts on Leydig cells to produce testosterone, while FSH acts on Sertoli cells to support spermatogenesis."
+  },
+  {
+    "id": 13,
+    "question": "Spermatogenesis is maintained by which hormones?",
+    "source": "[PGI Dec 08]",
+    "options": {
+      "a": "Testosterone",
+      "b": "FSH",
+      "c": "LH",
+      "d": "Prolactin",
+      "e": "Gonadotropin releasing hormone (GnRH)"
+    },
+    "answer": ["a", "b", "c", "e"],
+    "explanation": "Spermatogenesis is maintained by FSH (acts directly on Sertoli cells), Testosterone (acts on Sertoli cells), LH (maintains testosterone production by Leydig cells), and GnRH (regulates LH and FSH production). Prolactin is not a primary hormone for spermatogenesis."
+  },
+  {
+    "id": 14,
+    "question": "Capacitation of sperms takes place in:",
+    "source": "[AIIMS May 10, 09]",
+    "options": {
+      "a": "Seminiferous tubules",
+      "b": "Epididymis",
+      "c": "Vas deference",
+      "d": "Uterus"
+    },
+    "answer": ["d"],
+    "explanation": "Capacitation starts in the cervix and ends at the level of the isthmus of the fallopian tube (within the female genital tract/uterus). Capacitation is the final functional maturation of sperm that enables fertilization."
+  },
+  {
+    "id": 15,
+    "question": "Which of the following organs secretes zinc in large amount in man?",
+    "source": "[AIIMS May 06]",
+    "options": {
+      "a": "Seminal vesicle",
+      "b": "Prostate",
+      "c": "Epididymis",
+      "d": "Vas deferens"
+    },
+    "answer": ["b"],
+    "explanation": "The prostate gland secretes zinc in large amounts. Prostatic secretions are rich in zinc, citric acid, and prostatic acid phosphatase. Zinc plays a role in sperm function and chromatin stability."
+  },
+  {
+    "id": 16,
+    "question": "Sertoli cells play a key role in which of the following process?",
+    "source": "[AI 09]",
+    "options": {
+      "a": "Spermiogenesis",
+      "b": "Testosterone secretion",
+      "c": "Secretion of seminal fluid",
+      "d": "Production of germ cells"
+    },
+    "answer": ["a"],
+    "explanation": "Sertoli cells play a key role in spermiogenesis — the transformation of spermatids into mature spermatozoa. Maturation from spermatids to spermatozoa depends on androgens acting on the Sertoli cells in which the developing spermatozoa are embedded. FSH also acts on Sertoli cells to facilitate the last stages of spermatid maturation."
+  },
+  {
+    "id": 17,
+    "question": "Spermatogenesis occurs at:",
+    "source": "[AI 08]",
+    "options": {
+      "a": "Body temperature",
+      "b": "Temperature lower than core body temperature",
+      "c": "Temperature higher than core body temperature",
+      "d": "Temperature does not play a role"
+    },
+    "answer": ["b"],
+    "explanation": "Spermatogenesis requires a temperature considerably lower than that of the interior of the body. The testes are normally maintained at about 32°C (lower than core body temperature of 37°C). They are kept cool by air circulating around the scrotum. When the testes are retained in the abdomen (cryptorchidism), sterility results."
+  },
+  {
+    "id": 18,
+    "question": "Which of the following is not seen in human?",
+    "source": "NEET Pattern",
+    "options": {
+      "a": "Estrous cycle",
+      "b": "Menstrual cycle",
+      "c": "Endometrial cycle",
+      "d": "Ovarian cycle"
+    },
+    "answer": ["a"],
+    "explanation": "Mammals other than primates do not menstruate, and their sexual cycle is called an estrous cycle. It is named for the conspicuous period of 'heat' (estrus) at the time of ovulation. Humans have a menstrual cycle. The endometrial cycle and ovarian cycle are components of the human menstrual cycle."
+  },
+  {
+    "id": 19,
+    "question": "Ovulation in a women with 28-day cycle:",
+    "source": "NEET Pattern",
+    "options": {
+      "a": "Just before LH surge",
+      "b": "Just after corpus luteal maturation",
+      "c": "Due to progesterone rise",
+      "d": "14 days prior to menstruation"
+    },
+    "answer": ["d"],
+    "explanation": "In a 28-day cycle, ovulation occurs at about the 14th day of the cycle (i.e., 14 days prior to menstruation). After ovulation, the ruptured follicle forms the corpus luteum (CL), which survives for another 14 days if pregnancy does not occur. Complete regression of CL leads to loss of hormonal support and onset of the next menstruation."
+  },
+  {
+    "id": 20,
+    "question": "The interval between ovulation and LH surge:",
+    "source": "NEET Pattern",
+    "options": {
+      "a": "12–24 hours",
+      "b": "24–48 hours",
+      "c": "72 hours",
+      "d": "72–96 hours"
+    },
+    "answer": ["b"],
+    "explanation": "At 36–48 hours before ovulation, the estrogen feedback effect becomes positive, initiating the burst of LH secretion (LH surge) that produces ovulation. Ovulation occurs about 9 hours after the LH peak. So the interval between the LH surge and ovulation is approximately 24–48 hours."
+  },
+  {
+    "id": 21,
+    "question": "Increased LH secretion just before ovulation is due to:",
+    "source": "NEET Pattern",
+    "options": {
+      "a": "Positive feedback by progesterone",
+      "b": "Positive feedback by estrogen",
+      "c": "Positive feedback by FSH",
+      "d": "Positive feedback by relaxin"
+    },
+    "answer": ["b"],
+    "explanation": "The LH surge just before ovulation is due to the positive feedback effect of estrogen. At 36–48 hours before ovulation, rising estrogen levels switch from negative to positive feedback, triggering the LH surge that causes ovulation."
+  },
+  {
+    "id": 22,
+    "question": "Positive feedback action of estrogen for inducing luteinizing hormone surge is associated with which of the following steroid hormone ratios in peripheral circulation?",
+    "source": "NEET Pattern",
+    "options": {
+      "a": "High estrogen: low progesterone",
+      "b": "Low estrogen: high progesterone",
+      "c": "Low estrogen: low progesterone",
+      "d": "High estrogen: high progesterone"
+    },
+    "answer": ["a"],
+    "explanation": "High estrogen must be present for at least 48 hours for positive feedback effect. When estrogen was increased about 300% for 24 hours, only negative feedback was seen; but when increased for 48 hours or more, the LH surge occurred. When circulating levels of progesterone are high, the positive feedback effect of estrogen is inhibited. Therefore, high estrogen with low progesterone is needed for the LH surge."
+  },
+  {
+    "id": 23,
+    "question": "There is a mid-cycle shift in the basal body temperature (BBT) after ovulation in women. This is caused by:",
+    "source": "NEET Pattern",
+    "options": {
+      "a": "FSH-peak",
+      "b": "LH-peak",
+      "c": "Estradiol",
+      "d": "Progesterone"
+    },
+    "answer": ["d"],
+    "explanation": "The rise in basal body temperature (BBT) at the time of ovulation is caused by progesterone, which is thermogenic. After ovulation, the corpus luteum secretes progesterone, causing a 0.2–0.5°C rise in BBT that persists through the luteal phase."
+  },
+  {
+    "id": 24,
+    "question": "Corpus luteum starts regressing after how many days of ovulation:",
+    "source": "NEET Pattern",
+    "options": {
+      "a": "5 days",
+      "b": "10 days",
+      "c": "24 days",
+      "d": "None"
+    },
+    "answer": ["b"],
+    "explanation": "If pregnancy does not occur, the corpus luteum begins to degenerate about 4 days before the next menses (the 24th day of the cycle), which is approximately 10 days after ovulation (ovulation occurs on day 14)."
+  },
+  {
+    "id": 25,
+    "question": "Corpus luteum in pregnancy is maintained by which hormone:",
+    "source": "NEET Pattern",
+    "options": {
+      "a": "Progesterone",
+      "b": "Estrogen",
+      "c": "LH",
+      "d": "FSH"
+    },
+    "answer": ["c"],
+    "explanation": "A burst of LH secretion is responsible for ovulation and initial formation of the corpus luteum. LH secretion must continue for corpus luteum function. During pregnancy, hCG produced by the developing conceptus maintains the steroidogenic function of the corpus luteum until approximately the 9th week of gestation, when placental function is well established. The best single answer is LH (hCG being structurally similar to LH)."
+  },
+  {
+    "id": 26,
+    "question": "Luteal phase dominant hormone:",
+    "source": "NEET Pattern",
+    "options": {
+      "a": "Estrogen",
+      "b": "Progesterone",
+      "c": "Prolactin",
+      "d": "Oxytocin"
+    },
+    "answer": ["b"],
+    "explanation": "The predominant hormone in the luteal (post-ovulatory) phase is progesterone, secreted by the corpus luteum. Progesterone prepares the endometrium for implantation and maintains the secretory phase."
+  },
+  {
+    "id": 27,
+    "question": "In post-ovulatory phase thickness of endometrium is because of:",
+    "source": "NEET Pattern",
+    "options": {
+      "a": "Progesterone",
+      "b": "Estrogen",
+      "c": "FSH",
+      "d": "LH"
+    },
+    "answer": ["a"],
+    "explanation": "Progesterone stimulates the stroma and glandular components of the endometrium and induces secretory changes (post-ovulatory thickening). The epithelial cells exhibit a marked increase in secretory activity. Estrogen causes proliferative changes in the pre-ovulatory phase."
+  },
+  {
+    "id": 28,
+    "question": "Ovary produces all except:",
+    "source": "NEET Pattern",
+    "options": {
+      "a": "Gonadotropin",
+      "b": "Testosterone",
+      "c": "Estrogen",
+      "d": "Inhibin B"
+    },
+    "answer": ["a"],
+    "explanation": "Gonadotropins (LH and FSH) are secreted by the anterior pituitary gland, not the ovary. The ovary produces estrogen, progesterone, small amounts of testosterone (androgens), and inhibin B."
+  },
+  {
+    "id": 29,
+    "question": "True about estrogen production in menstrual cycle:",
+    "source": "NEET Pattern",
+    "options": {
+      "a": "Only by theca cells",
+      "b": "Only by granulosa cells",
+      "c": "Both theca and granulosa cells",
+      "d": "None of the above"
+    },
+    "answer": ["b"],
+    "explanation": "A unique aspect of estradiol synthesis is that it requires contribution of two distinct cell types: theca and granulosa cells. However, estrogen is actually produced (synthesized) by granulosa cells. Theca interna cells convert cholesterol to androstenedione (androgens), which are then supplied to granulosa cells. Granulosa cells convert androgens to estradiol via aromatase."
+  },
+  {
+    "id": 30,
+    "question": "Estrogen is secreted by:",
+    "source": "NEET Pattern",
+    "options": {
+      "a": "Granulosa cells",
+      "b": "Theca luteal cells",
+      "c": "Theca interna",
+      "d": "Theca externa"
+    },
+    "answer": ["a"],
+    "explanation": "Granulosa cells make estradiol when provided with androgens from theca interna cells. The estradiol formed in primates is secreted into follicular fluid. This is the basis of the two-cell, two-gonadotropin theory: LH acts on theca cells to produce androgens; FSH acts on granulosa cells to convert androgens to estrogens."
+  },
+  {
+    "id": 31,
+    "question": "Two cell two gonadotropin hypothesis is:",
+    "source": "NEET Pattern",
+    "options": {
+      "a": "FSH and LH inhibits the release of estrogen and progesterone",
+      "b": "FSH acts on granulosa cell and LH on theca cells",
+      "c": "FSH stimulates estrogen while LH inhibits estrogen",
+      "d": "FSH feedback inhibits hypothalamus, while LH feedback inhibits pituitary"
+    },
+    "answer": ["b"],
+    "explanation": "The two-cell two-gonadotropin hypothesis states: Theca interna cells have LH receptors, and LH converts cholesterol to androstenedione. Androstenedione is supplied to granulosa cells. Granulosa cells (with FSH receptors) use FSH-stimulated aromatase to convert androgens to estradiol."
+  },
+  {
+    "id": 32,
+    "question": "The type of estrogen found in highest concentration in adult female is:",
+    "source": "NEET Pattern",
+    "options": {
+      "a": "Estrone",
+      "b": "Estriol",
+      "c": "Estradiol",
+      "d": "None"
+    },
+    "answer": ["c"],
+    "explanation": "Estradiol (E2) is the main form of estrogen during the reproductive age group. Estrone (E1) is the main form in postmenopausal women. Estriol (E3) is the main form during pregnancy. Estradiol is the most potent of the three."
+  },
+  {
+    "id": 33,
+    "question": "Estrogen is secreted during pregnancy, mostly by:",
+    "source": "NEET Pattern",
+    "options": {
+      "a": "Maternal ovary",
+      "b": "Fetal ovary",
+      "c": "Pituitary",
+      "d": "Hypothalamus"
+    },
+    "answer": ["a"],
+    "explanation": "During the first 6–12 weeks of pregnancy, the corpus luteum of the maternal ovary is the major source of estrogens. After this, the placenta becomes the main source of estrogen production for the remainder of pregnancy."
+  },
+  {
+    "id": 34,
+    "question": "Secretion of estrogen is maximum at:",
+    "source": "NEET Pattern",
+    "options": {
+      "a": "Just before menopause",
+      "b": "At puberty",
+      "c": "At menstruation",
+      "d": "Before ovulation"
+    },
+    "answer": ["d"],
+    "explanation": "The estradiol secretion rate is 36 μg/day in the early follicular phase, 380 μg/day just before ovulation (peak), and 250 μg/day during the mid-luteal phase. The highest levels overall are seen during pregnancy, but within the menstrual cycle, the peak is just before ovulation."
+  },
+  {
+    "id": 35,
+    "question": "Following pubertal change is not due to estrogen:",
+    "source": "NEET Pattern",
+    "options": {
+      "a": "Vaginal cornification",
+      "b": "Pubic and axillary hair growth",
+      "c": "Cervical mucus production",
+      "d": "Menstruation"
+    },
+    "answer": ["b"],
+    "explanation": "Growth of pubic and axillary hair in both sexes is due primarily to androgens rather than estrogens. Estrogens are responsible for vaginal cornification, cervical mucus production, breast development, uterine growth, menstruation, and female fat distribution patterns."
+  },
+  {
+    "id": 36,
+    "question": "Estrogen Beta receptors are found on:",
+    "source": "NEET Pattern",
+    "options": {
+      "a": "Uterus",
+      "b": "Blood vessels",
+      "c": "Ovary",
+      "d": "Vagina"
+    },
+    "answer": ["c"],
+    "explanation": "ERα (estrogen receptor alpha) is found primarily in the uterus, kidneys, liver, and heart. ERβ (estrogen receptor beta) is found primarily in the ovaries, prostate, lungs, gastrointestinal tract, hemopoietic system, and central nervous system (CNS)."
+  },
+  {
+    "id": 37,
+    "question": "False about estrogen action:",
+    "source": "NEET Pattern",
+    "options": {
+      "a": "Stimulates secondary sex characters in female",
+      "b": "Stimulates osteoclasts",
+      "c": "Decreases LDL",
+      "d": "Increases blood coagulability"
+    },
+    "answer": ["b"],
+    "explanation": "Estrogens INHIBIT osteoclasts (not stimulate them), thereby preventing osteoporosis. This is why postmenopausal women (with low estrogen) are at higher risk for osteoporosis. Estrogen does stimulate secondary sex characters, decrease LDL, and increase blood coagulability."
+  },
+  {
+    "id": 38,
+    "question": "Source of progesterone during normal menstrual cycle:",
+    "source": "NEET Pattern",
+    "options": {
+      "a": "Corpus luteum",
+      "b": "Stroma",
+      "c": "Surface epithelium of ovary",
+      "d": "Endothelium cell"
+    },
+    "answer": ["a"],
+    "explanation": "Progesterone is a C21 steroid secreted primarily by the corpus luteum during the normal menstrual cycle. The corpus luteum forms from the ruptured follicle after ovulation and secretes progesterone during the luteal phase."
+  },
+  {
+    "id": 39,
+    "question": "Progesterone has how many carbons?",
+    "source": "NEET Pattern",
+    "options": {
+      "a": "18",
+      "b": "19",
+      "c": "20",
+      "d": "21"
+    },
+    "answer": ["d"],
+    "explanation": "Progesterone is a C21 steroid (21 carbon atoms). 21-carbon steroids include progesterone, deoxycorticosterone, aldosterone, and cortisol. 19-carbon steroids are androgens (DHEA, androstenedione). 18-carbon steroids are estrogens."
+  },
+  {
+    "id": 40,
+    "question": "Action of progesterone:",
+    "source": "NEET Pattern",
+    "options": {
+      "a": "Increased sensitivity of uterus to oxytocin",
+      "b": "Inhibits LH secretion",
+      "c": "Decrease in body temperature",
+      "d": "Causes proliferative changes in uterus"
+    },
+    "answer": ["b"],
+    "explanation": "Large doses of progesterone inhibit LH secretion and potentiate the inhibitory effect of estrogens, thereby preventing ovulation. Progesterone decreases (not increases) uterine sensitivity to oxytocin, raises (not lowers) body temperature (thermogenic), and causes secretory (not proliferative) changes in the uterus."
+  },
+  {
+    "id": 41,
+    "question": "Subnuclear cytoplasmic vacuolization is seen in which stage of menstrual cycle?",
+    "source": "NEET Pattern",
+    "options": {
+      "a": "Proliferative phase",
+      "b": "During menstruation",
+      "c": "Secretory phase",
+      "d": "None"
+    },
+    "answer": ["c"],
+    "explanation": "Subnuclear vacuolization is due to cytoplasmic glycogen deposits, which begin on the 16th day of the menstrual cycle (early secretory phase). These subnuclear vacuoles are the earliest histological sign of secretory (post-ovulatory) change in the endometrium and indicate that ovulation has occurred."
+  },
+  {
+    "id": 42,
+    "question": "17 OH steroid:",
+    "source": "NEET Pattern",
+    "options": {
+      "a": "Androgen",
+      "b": "Progesterone",
+      "c": "Estrogen",
+      "d": "Testosterone"
+    },
+    "answer": ["b"],
+    "explanation": "17-alpha-hydroxyprogesterone is secreted along with progesterone and has essentially the same effects. 21-carbon steroids include progesterone, deoxycorticosterone, aldosterone, and cortisol. 19-carbon steroids include DHEA and androstenedione (androgenic activity). 18-carbon steroids are estrogens."
+  },
+  {
+    "id": 43,
+    "question": "FSH and LH both are inhibited by:",
+    "source": "NEET Pattern",
+    "options": {
+      "a": "Cortisol",
+      "b": "Aldosterone",
+      "c": "Estrogen",
+      "d": "Progesterone"
+    },
+    "answer": ["c"],
+    "explanation": "Estrogens decrease FSH secretion and under some circumstances also inhibit LH secretion (negative feedback effect). Large doses of progesterone also inhibit LH secretion, but estrogen is the primary hormone that inhibits both FSH and LH."
+  },
+  {
+    "id": 44,
+    "question": "Inhibin is secreted by:",
+    "source": "NEET Pattern",
+    "options": {
+      "a": "Ovarian follicle",
+      "b": "Stroma",
+      "c": "Surface epithelium of ovary",
+      "d": "Corpus luteum"
+    },
+    "answer": ["a"],
+    "explanation": "Inhibins are produced by granulosa cells of the ovarian follicle. Inhibin B is produced predominantly by granulosa cells of small antral follicles, and inhibin A by the dominant follicle and corpus luteum. Inhibin specifically inhibits FSH secretion."
+  },
+  {
+    "id": 45,
+    "question": "Hormone with no change in levels in menstrual cycle:",
+    "source": "NEET Pattern",
+    "options": {
+      "a": "Activin",
+      "b": "Inhibin",
+      "c": "FSH",
+      "d": "GnRH"
+    },
+    "answer": ["a"],
+    "explanation": "Activin blood levels do not change throughout the menstrual cycle, unlike other options. Inhibin, FSH, and GnRH all show significant variation during the menstrual cycle. Activin acts locally in the pituitary and ovary in a paracrine/autocrine fashion."
+  },
+  {
+    "id": 46,
+    "question": "Common precursor of mineralocorticoids, glucocorticoids and sex steroids:",
+    "source": "NEET Pattern",
+    "options": {
+      "a": "Pregnenolone",
+      "b": "Alpha-hydroxyprogesterone",
+      "c": "Dehydrotestosterone",
+      "d": "Deoxycortisol"
+    },
+    "answer": ["a"],
+    "explanation": "Pregnenolone is the common precursor for all steroid hormones including mineralocorticoids (aldosterone), glucocorticoids (cortisol), and sex steroids (estrogens, androgens, progesterone). It is synthesized from cholesterol by the enzyme desmolase (CYP11A1)."
+  },
+  {
+    "id": 47,
+    "question": "Aromatase produces estrogen from:",
+    "source": "NEET Pattern",
+    "options": {
+      "a": "Progesterone",
+      "b": "Cortisol",
+      "c": "Aldosterone",
+      "d": "Androgen"
+    },
+    "answer": ["d"],
+    "explanation": "Aromatase (CYP19A1) converts androgens to estrogens. Specifically, it converts androstenedione to estrone and testosterone to estradiol. Progesterone is first converted to androstenedione (androgens), which then enters granulosa cells for estrogen synthesis by aromatase."
+  },
+  {
+    "id": 48,
+    "question": "Beta hCG is secreted by:",
+    "source": "NEET Pattern",
+    "options": {
+      "a": "Ovary",
+      "b": "Pituitary",
+      "c": "Corpus luteum",
+      "d": "Placenta"
+    },
+    "answer": ["d"],
+    "explanation": "Human chorionic gonadotropin (hCG) is a placental gonadotropin secreted by the syncytiotrophoblast cells of the placenta. It maintains the corpus luteum in early pregnancy (until approximately week 9) when the placenta takes over progesterone production."
+  },
+  {
+    "id": 49,
+    "question": "Function of oxytocin:",
+    "source": "NEET Pattern",
+    "options": {
+      "a": "Milk ejection",
+      "b": "Milk secretion",
+      "c": "Ovulation",
+      "d": "Maintenance of pregnancy"
+    },
+    "answer": ["a"],
+    "explanation": "Oxytocin causes milk ejection (let-down reflex) by contracting myoepithelial cells surrounding the mammary alveoli. Milk secretion (production) is stimulated by prolactin, not oxytocin. Oxytocin also causes uterine contractions during labor but does not maintain pregnancy."
+  },
+  {
+    "id": 50,
+    "question": "After ovulation, corpus luteum releases which of the following hormone?",
+    "source": "NEET Pattern",
+    "options": {
+      "a": "Progesterone",
+      "b": "Estrogen",
+      "c": "LH",
+      "d": "Inhibin"
+    },
+    "answer": ["a"],
+    "explanation": "After ovulation, the corpus luteum primarily releases progesterone, which is the dominant hormone of the luteal phase. The corpus luteum also secretes some estrogen and inhibin, but progesterone is its main product."
+  },
+  {
+    "id": 51,
+    "question": "Ovulation is associated with sudden rise in:",
+    "source": "[AIIMS May 04]",
+    "options": {
+      "a": "Prolactin",
+      "b": "Testosterone",
+      "c": "LH",
+      "d": "Oxytocin"
+    },
+    "answer": ["c"],
+    "explanation": "Ovulation is associated with a sudden rise in LH (LH surge). The LH surge is triggered by positive feedback of high estrogen levels and occurs approximately 36–48 hours before ovulation. Ovulation occurs about 9 hours after the LH peak."
+  },
+  {
+    "id": 52,
+    "question": "Corpus luteum is maintained by:",
+    "source": "[AI 97]",
+    "options": {
+      "a": "Progesterone",
+      "b": "LH",
+      "c": "FSH",
+      "d": "Estrogen"
+    },
+    "answer": ["b"],
+    "explanation": "LH secretion must continue for the functioning of the corpus luteum. During pregnancy, hCG (which has structural and functional similarity to LH) produced by the conceptus maintains the corpus luteum until the 9th week of gestation."
+  },
+  {
+    "id": 53,
+    "question": "Follicular stimulating hormone receptors are present on:",
+    "source": "[AIIMS May 06, May 02]",
+    "options": {
+      "a": "Theca cells",
+      "b": "Granulosa cells",
+      "c": "Leydig cells",
+      "d": "Basement membrane of ovarian follicle"
+    },
+    "answer": ["b"],
+    "explanation": "FSH receptors are present on granulosa cells of the ovarian follicle (and Sertoli cells in the male). LH receptors are present on theca cells (and Leydig cells in the male). This forms the basis of the two-cell, two-gonadotropin hypothesis."
+  },
+  {
+    "id": 54,
+    "question": "The laboratory report shows values of gonadotropin and ovarian hormones of the blood sample taken, on day 20 of the menstrual cycle of a young woman. Whether her cycle was ovulatory or not may be validly assessed by the reported serum level of:",
+    "source": "[AIIMS Nov 02]",
+    "options": {
+      "a": "FSH",
+      "b": "LH",
+      "c": "Estradiol",
+      "d": "Progesterone"
+    },
+    "answer": ["d"],
+    "explanation": "Day 20 of the menstrual cycle falls in the luteal (secretory) phase. The presence of elevated progesterone at this stage confirms that ovulation has occurred and the corpus luteum is functioning. Progesterone is the best indicator of an ovulatory cycle when measured in the mid-luteal phase (day 20–22)."
+  },
+  {
+    "id": 55,
+    "question": "Which of the following statements can be regarded as primary action of inhibin?",
+    "source": "[AI 05]",
+    "options": {
+      "a": "It inhibits secretion of prolactin",
+      "b": "It stimulates synthesis of estradiol",
+      "c": "It stimulates secretion of TSH",
+      "d": "It inhibits secretion of FSH"
+    },
+    "answer": ["d"],
+    "explanation": "The primary action of inhibin is to selectively inhibit the secretion of FSH from the anterior pituitary. Inhibin is secreted by granulosa cells of the ovarian follicle and Sertoli cells in males, providing negative feedback specifically on FSH without significantly affecting LH."
+  },
+  {
+    "id": 56,
+    "question": "Progesterone is produced by:",
+    "source": "[AI 95]",
+    "options": {
+      "a": "Granulosa luteal cells",
+      "b": "Theca cells",
+      "c": "Stroma of ovary",
+      "d": "Sertoli cells"
+    },
+    "answer": ["a"],
+    "explanation": "Progesterone is produced primarily by granulosa luteal cells (luteinized granulosa cells of the corpus luteum). After ovulation, the granulosa cells undergo luteinization under LH influence and become the primary progesterone-secreting cells of the corpus luteum."
+  },
+  {
+    "id": 57,
+    "question": "Hormones exclusively secreted by placenta:",
+    "source": "[PGI 03]",
+    "options": {
+      "a": "hCG",
+      "b": "Estrogen",
+      "c": "HPL",
+      "d": "PRL"
+    },
+    "answer": ["a", "c"],
+    "explanation": "Hormones exclusively secreted by the placenta are hCG (human chorionic gonadotropin) and HPL (human placental lactogen / hCS). Estrogen and progesterone are also secreted by the placenta but are not exclusive to it (also produced by ovary, adrenal). Prolactin (PRL) is secreted by the pituitary."
+  },
+  {
+    "id": 58,
+    "question": "The hormone primarily responsible for development of ovarian follicles prior to ovulation is:",
+    "source": "FUTURE TRENDS",
+    "options": {
+      "a": "Chorionic gonadotropin",
+      "b": "Estradiol",
+      "c": "Follicle-stimulating hormone",
+      "d": "Luteinizing hormone"
+    },
+    "answer": ["c"],
+    "explanation": "FSH is primarily responsible for development of ovarian follicles prior to ovulation. FSH stimulates growth and maturation of ovarian follicles, stimulates granulosa cell proliferation, and induces aromatase activity in granulosa cells for estrogen synthesis."
+  },
+  {
+    "id": 59,
+    "question": "Administration of estrogens in women will:",
+    "source": "FUTURE TRENDS",
+    "options": {
+      "a": "Limit the growth of ovarian follicles",
+      "b": "Produce cyclic changes in the vagina and endometrium",
+      "c": "Cause cervical mucus to become thicker and more acidic",
+      "d": "Produce glandular proliferation in the breast"
+    },
+    "answer": ["d"],
+    "explanation": "Administration of estrogen produces glandular proliferation in the breast (ductal growth). Estrogen causes proliferation of the endometrium (not cyclic changes). Estrogen makes cervical mucus thinner, more alkaline and more copious (not thicker or acidic — that is progesterone's action). Exogenous estrogen would suppress FSH, limiting follicular growth."
+  },
+  {
+    "id": 60,
+    "question": "Progesterone:",
+    "source": "FUTURE TRENDS",
+    "options": {
+      "a": "Secreted by the corpus luteum",
+      "b": "Secretion by the placenta increases at week 6 of gestation",
+      "c": "Plasma levels increase during the menses",
+      "d": "Plasma levels decrease subsequent to ovulation"
+    },
+    "answer": ["a"],
+    "explanation": "Progesterone is secreted by the corpus luteum (correct). Placental progesterone secretion begins to increase significantly around weeks 8–10 of gestation (not week 6). Plasma progesterone levels decrease (not increase) during menses due to corpus luteum regression. Levels increase (not decrease) subsequent to ovulation due to corpus luteum activity."
+  },
+  {
+    "id": 61,
+    "question": "Assuming a regular menstrual cycle of 30 to 32 days, ovulation would be expected to occur between:",
+    "source": "FUTURE TRENDS",
+    "options": {
+      "a": "Days 12 and 14",
+      "b": "Days 16 and 18",
+      "c": "Days 18 and 20",
+      "d": "Days 22 and 24"
+    },
+    "answer": ["b"],
+    "explanation": "Ovulation occurs 14 days BEFORE the next menstruation (the luteal phase is constant at 14 days). For a 30-day cycle: ovulation on day 16 (30-14=16). For a 32-day cycle: ovulation on day 18 (32-14=18). Therefore, ovulation is expected between days 16 and 18."
+  },
+  {
+    "id": 62,
+    "question": "Which of the following treatments is most likely to elicit an early surge of luteinizing hormone (LH) in a normal nonpregnant 21-year-old woman? An injection of:",
+    "source": "FUTURE TRENDS",
+    "options": {
+      "a": "Estradiol 10 days after the onset of menses",
+      "b": "Progesterone 10 days after the onset of menses",
+      "c": "Estradiol 20 days after the onset of menses",
+      "d": "Progesterone 20 days after the onset of menses"
+    },
+    "answer": ["a"],
+    "explanation": "An early LH surge is best elicited by estradiol given 10 days after onset of menses (during the follicular phase). High estrogen maintained for 48 hours or more triggers the positive feedback LH surge. Estrogen on day 10 mimics the pre-ovulatory estrogen peak that normally triggers the LH surge. Progesterone at high circulating levels actually inhibits the positive feedback effect of estrogen on LH release."
+  }
+]

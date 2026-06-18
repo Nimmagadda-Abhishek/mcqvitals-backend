@@ -1,0 +1,778 @@
+[
+  {
+    "id": 1,
+    "question": "Which is not a peptide hormone?",
+    "options": {
+      "a": "Somatostatin",
+      "b": "Serotonin",
+      "c": "Neuropeptide",
+      "d": "Enkephalin"
+    },
+    "correct_answer": "b",
+    "explanation": "Serotonin (5-hydroxytryptamine) is NOT a peptide hormone \u2014 it is a monoamine neurotransmitter derived from the amino acid tryptophan. Somatostatin is a polypeptide hormone. Neuropeptides are peptide-based signaling molecules. Enkephalins are pentapeptide endogenous opioids. Serotonin belongs to the biogenic amine class, not the peptide class.",
+    "reference": "Ganong's Physiology 25th edn. pp 325, 26th pp 423"
+  },
+  {
+    "id": 2,
+    "question": "Not a glycoprotein:",
+    "options": {
+      "a": "FSH",
+      "b": "LH",
+      "c": "TSH",
+      "d": "GH"
+    },
+    "correct_answer": "d",
+    "explanation": "GH (Growth Hormone) is a simple protein hormone (single polypeptide chain of 191 amino acids), NOT a glycoprotein. The glycoprotein hormones \u2014 which have carbohydrate side chains on their protein backbone \u2014 include: FSH, LH, TSH, and hCG. All glycoprotein hormones share a common alpha subunit and differ in their beta subunits.",
+    "reference": "Ganong's Physiology 25th edn. pp 324, 26th pp 308"
+  },
+  {
+    "id": 3,
+    "question": "Which of the following act through tyrosine kinase receptor?",
+    "options": {
+      "a": "Insulin",
+      "b": "Glucagon",
+      "c": "GH",
+      "d": "FSH"
+    },
+    "correct_answer": "a",
+    "explanation": "Insulin acts via a receptor tyrosine kinase (RTK) \u2014 its receptor has intrinsic tyrosine kinase activity that autophosphorylates on ligand binding. Other hormones that act via tyrosine kinase include: IGF-1, EGF, PDGF, M-CSF, and NGF. GH and Prolactin act via associated tyrosine kinases (JAK-STAT pathway). Glucagon acts via Gs-GPCR (cAMP). FSH acts via Gs-GPCR (cAMP).",
+    "reference": "Ganong's Physiology 25th edn. pp 61, 26th pp 94"
+  },
+  {
+    "id": 4,
+    "question": "cAMP action mediates all except:",
+    "options": {
+      "a": "Glucagon",
+      "b": "Follicle stimulating hormone",
+      "c": "Luteinizing hormone",
+      "d": "Estrogen"
+    },
+    "correct_answer": "d",
+    "explanation": "Estrogen acts via intracellular nuclear receptors (ER-\u03b1 and ER-\u03b2), NOT via cAMP. It is a lipid-soluble steroid that crosses the cell membrane and binds nuclear receptors to regulate gene transcription. Glucagon, FSH, and LH all act via Gs-coupled GPCRs that stimulate adenylyl cyclase, increasing intracellular cAMP as their second messenger.",
+    "reference": "Williams Textbook of Endocrinology 12th edn."
+  },
+  {
+    "id": 5,
+    "question": "All of the following hormones have receptors on the plasma membrane of target tissues except:",
+    "options": {
+      "a": "Thyrotropin",
+      "b": "Glucagon",
+      "c": "Estradiol",
+      "d": "Epinephrine"
+    },
+    "correct_answer": "c",
+    "explanation": "Estradiol (estrogen) is a lipid-soluble steroid hormone that crosses the plasma membrane and acts via intracellular (nuclear) receptors \u2014 it does NOT have its primary receptor on the plasma membrane. Thyrotropin (TSH), glucagon, and epinephrine are all water-soluble hormones that cannot cross the membrane and therefore act via cell surface (plasma membrane) receptors.",
+    "reference": "Williams Textbook of Endocrinology 12th edn."
+  },
+  {
+    "id": 6,
+    "question": "Steroid receptor superfamily is present in:",
+    "options": {
+      "a": "Vitamin D3",
+      "b": "Insulin",
+      "c": "Glucagon",
+      "d": "Thyroid"
+    },
+    "correct_answer": "a,d",
+    "explanation": "The steroid receptor superfamily (nuclear receptor superfamily) includes receptors for: all steroid hormones (glucocorticoids, mineralocorticoids, sex steroids), thyroid hormones (T3/T4), Vitamin D3, and retinoids (Vitamin A). These share a common structural motif \u2014 zinc finger DNA-binding domains. Insulin acts via tyrosine kinase receptor; glucagon acts via Gs-GPCR. Neither belongs to the steroid receptor superfamily.",
+    "reference": "Williams Textbook of Endocrinology 12th edn."
+  },
+  {
+    "id": 7,
+    "question": "Endothelium derived relaxing factor (EDRF) induced vasodilatation is mediated by:",
+    "options": {
+      "a": "Increased intracellular cGMP",
+      "b": "Decreased intracellular cGMP",
+      "c": "Increased extracellular cAMP",
+      "d": "Decreased intracellular cAMP"
+    },
+    "correct_answer": "a",
+    "explanation": "EDRF is nitric oxide (NO), produced by endothelial cells via eNOS. NO diffuses into vascular smooth muscle cells and activates soluble guanylyl cyclase, increasing intracellular cGMP. cGMP then activates PKG, leading to smooth muscle relaxation and vasodilation. ANP also acts via cGMP (particulate guanylyl cyclase). This is the basis of action of nitrates in angina.",
+    "reference": "Ganong's Physiology 25th edn. pp 594, 26th pp 62"
+  },
+  {
+    "id": 8,
+    "question": "Which of the following hormones is an example of a peptide hormone? [AIIMS May 05]",
+    "options": {
+      "a": "Parathormone",
+      "b": "Adrenaline",
+      "c": "Cortisol",
+      "d": "Thyroxine"
+    },
+    "correct_answer": "a",
+    "explanation": "Parathormone (PTH) is a peptide hormone \u2014 an 84 amino acid polypeptide secreted by the chief cells of the parathyroid glands. Adrenaline (epinephrine) is a catecholamine (biogenic amine). Cortisol is a steroid hormone derived from cholesterol. Thyroxine (T4) is an iodinated amino acid derivative (thyronine). Among the options, only PTH is a true peptide hormone.",
+    "reference": "Ganong's Physiology 25th edn. pp 380, 26th pp 374"
+  },
+  {
+    "id": 9,
+    "question": "cAMP action mediates all except: [PGI June 2000]",
+    "options": {
+      "a": "Glucagon",
+      "b": "FSH",
+      "c": "LH",
+      "d": "Estrogen"
+    },
+    "correct_answer": "d",
+    "explanation": "Estrogen acts via intracellular nuclear receptors (not cAMP). Glucagon, FSH, and LH all act via Gs-coupled GPCRs that stimulate adenylyl cyclase to produce cAMP as their second messenger. This is a commonly repeated MCQ concept \u2014 all steroid hormones (estrogen, progesterone, cortisol, aldosterone, testosterone) use intracellular receptors, not cAMP.",
+    "reference": "Williams Textbook of Endocrinology 12th edn."
+  },
+  {
+    "id": 10,
+    "question": "All of the following use cAMP as a second messenger except: [AIIMS Nov 09]",
+    "options": {
+      "a": "Corticotropin",
+      "b": "Dopamine",
+      "c": "Glucagon",
+      "d": "Vasopressin"
+    },
+    "correct_answer": "d",
+    "explanation": "Vasopressin (ADH) is the single best answer here. Vasopressin V1 and V3 receptors act via the IP3/Ca2+ pathway (Gq-coupled), NOT cAMP. The V2 receptor does use cAMP, but the primary/dominant vasopressin receptors (V1a on smooth muscle causing vasoconstriction) use IP3. Corticotropin (ACTH), dopamine (D1/D5 receptors), and glucagon all use cAMP as their second messenger.",
+    "reference": "Ganong's Physiology 25th edn. pp 696, 26th pp 685"
+  },
+  {
+    "id": 11,
+    "question": "cGMP is second messenger for which hormone(s)? [PGI May 09]",
+    "options": {
+      "a": "Somatostatin",
+      "b": "Atrial natriuretic factor",
+      "c": "Angiotensin II",
+      "d": "Antidiuretic hormone (ADH)",
+      "e": "Nitric oxide (NO)"
+    },
+    "correct_answer": "b,e",
+    "explanation": "cGMP is the second messenger for: (1) Atrial Natriuretic Peptide (ANP/ANF) \u2014 via particulate (receptor) guanylyl cyclase; and (2) Nitric Oxide (NO/EDRF) \u2014 via soluble guanylyl cyclase in smooth muscle cells. Somatostatin acts via Gi-GPCR (inhibiting cAMP). Angiotensin II acts via Gq-GPCR (IP3/Ca2+ pathway). ADH (V1/V3) acts via IP3/Ca2+; V2 uses cAMP.",
+    "reference": "Ganong's Physiology 25th edn. pp 594, 26th pp 62"
+  },
+  {
+    "id": 12,
+    "question": "Receptors on cell membrane that activate ion channel after binding with agonists are: [PGI June 03]",
+    "options": {
+      "a": "Nicotinic cholinergic",
+      "b": "Muscarinic cholinergic",
+      "c": "Opioid mu receptors",
+      "d": "GABAA",
+      "e": "GABAB"
+    },
+    "correct_answer": "a,d",
+    "explanation": "Nicotinic cholinergic and GABAA receptors are ionotropic receptors (ligand-gated ion channels) \u2014 they directly activate ion channels upon agonist binding. Muscarinic cholinergic, opioid mu, and GABAB receptors are metabotropic receptors (G-protein coupled receptors) that act via second messenger systems rather than directly opening ion channels.",
+    "reference": "Ganong's Physiology 25th edn. pp 57, 26th pp 139"
+  },
+  {
+    "id": 13,
+    "question": "Intracellular receptors are found in: [PGI June 06]",
+    "options": {
+      "a": "Insulin",
+      "b": "Glucagon",
+      "c": "Corticosteroids",
+      "d": "Androgen",
+      "e": "Thyroxine"
+    },
+    "correct_answer": "c,d,e",
+    "explanation": "Intracellular receptors are found for lipid-soluble hormones that can cross the cell membrane: corticosteroids (glucocorticoids/mineralocorticoids), androgens, estrogens, progesterone, thyroxine (T3/T4), Vitamin D, and retinoids. Insulin and glucagon are peptide hormones that are water-soluble and cannot cross the membrane \u2014 they act via cell surface receptors (tyrosine kinase and GPCR respectively).",
+    "reference": "Williams Textbook of Endocrinology 12th edn."
+  },
+  {
+    "id": 14,
+    "question": "Which sets of hormones have nuclear receptor? [PGI Dec 08]",
+    "options": {
+      "a": "Estrogen, thyroxin and glucagon",
+      "b": "Estrogen, thyroxin and TSH",
+      "c": "Estrogen, TSH and gonadotropin releasing hormone (GnRH)",
+      "d": "Retinoid acid, thyroxin and luteinizing hormone (LH)",
+      "e": "Testosterone, cortisol and estrogen"
+    },
+    "correct_answer": "e",
+    "explanation": "Nuclear/intracellular receptors are found for: thyroid hormone (TR), estrogen (ER \u03b1/\u03b2), progesterone (PR-A), Vitamin D (VDR), Vitamin A/retinoids (RAR). Cytoplasmic receptors: glucocorticoid (GR), androgen (AR), progesterone (PR-B). Testosterone, cortisol, and estrogen all have intracellular/nuclear receptors. TSH, LH, GnRH, and glucagon act via cell surface GPCRs and do NOT have nuclear receptors.",
+    "reference": "Biochimica et Biophysica Acta 2005;1745:382-389; Williams Textbook of Endocrinology 12th edn."
+  },
+  {
+    "id": 15,
+    "question": "Atrial natriuretic factor (ANF) is mediated by: [AIIMS Nov 01, June 97]",
+    "options": {
+      "a": "Inositol phosphate",
+      "b": "DAG",
+      "c": "cAMP",
+      "d": "cGMP"
+    },
+    "correct_answer": "d",
+    "explanation": "Atrial Natriuretic Peptide (ANP/ANF) acts via increasing intracellular cGMP. ANP binds to receptor guanylyl cyclase on the cell membrane, which directly generates cGMP from GTP. Nitric oxide (NO) also acts via cGMP. This is distinct from the cAMP pathway (used by most peptide hormones) and the IP3/DAG pathway (used by Gq-coupled receptors).",
+    "reference": "Ganong's Physiology 25th edn. pp 594, 26th pp 62"
+  },
+  {
+    "id": 16,
+    "question": "cAMP acts as a second messenger of: [AIIMS May 95, 94]",
+    "options": {
+      "a": "FSH",
+      "b": "Thyroxine",
+      "c": "Growth hormone",
+      "d": "Insulin"
+    },
+    "correct_answer": "a",
+    "explanation": "FSH acts via a Gs-coupled GPCR that activates adenylyl cyclase, producing cAMP as its second messenger. Thyroxine acts via nuclear receptors. Growth hormone acts via JAK-STAT pathway (cytokine receptor superfamily). Insulin acts via tyrosine kinase receptor. Among the options, FSH uses cAMP as its second messenger.",
+    "reference": "Ganong's Physiology 25th edn. pp 61, 26th pp 62"
+  },
+  {
+    "id": 17,
+    "question": "All are second messengers except: [AIIMS Nov 08]",
+    "options": {
+      "a": "Guanylyl cyclase",
+      "b": "cAMP",
+      "c": "IP3",
+      "d": "DAG"
+    },
+    "correct_answer": "a",
+    "explanation": "Guanylyl cyclase is an ENZYME (not a second messenger) \u2014 it generates cGMP (which IS a second messenger) from GTP. True second messengers include: cAMP, cGMP, IP3 (inositol trisphosphate), DAG (diacylglycerol), Ca2+, and arachidonic acid. The enzyme that produces a second messenger should not be confused with the messenger itself.",
+    "reference": "Ganong's Physiology 25th edn. pp 61, 26th pp 62"
+  },
+  {
+    "id": 18,
+    "question": "Steroid receptors present at: [JIPMER 2011]",
+    "options": {
+      "a": "Cell membrane",
+      "b": "Cytoplasm",
+      "c": "Nucleus",
+      "d": "All of the above"
+    },
+    "correct_answer": "d",
+    "explanation": "Steroid hormone receptors are classically intracellular (cytoplasmic or nuclear), but some steroid hormones (estrogen, progesterone, testosterone) also have membrane receptors that mediate rapid non-genomic effects. Cytoplasmic receptors include GR, AR, PR-B. Nuclear receptors include ER, TR, VDR, RAR. Therefore all three locations are correct.",
+    "reference": "Ganong's Physiology 25th edn."
+  },
+  {
+    "id": 19,
+    "question": "Secondary messengers include: [PGI June 02]",
+    "options": {
+      "a": "cAMP",
+      "b": "IP3",
+      "c": "Diacylglycerol",
+      "d": "GMP"
+    },
+    "correct_answer": "a,b,c,d",
+    "explanation": "All of the listed molecules can act as second messengers: cAMP (cyclic AMP \u2014 Gs pathway), IP3 (inositol trisphosphate \u2014 Gq pathway, releases Ca2+), DAG (diacylglycerol \u2014 Gq pathway, activates PKC), and GMP/cGMP (generated by guanylyl cyclase \u2014 ANP and NO pathway). All four are recognized second messengers.",
+    "reference": "Harrison's Principles of Internal Medicine 19th edn. pp 4000"
+  },
+  {
+    "id": 20,
+    "question": "Which one of the following acts as second messenger? [AIIMS May 06]",
+    "options": {
+      "a": "Mg2+",
+      "b": "CT (Calcitonin)",
+      "c": "Ca2+",
+      "d": "PO43\u2013"
+    },
+    "correct_answer": "c",
+    "explanation": "Ca2+ (calcium ions) are important intracellular second messengers. They are released from the endoplasmic reticulum by IP3 and activate calmodulin and other Ca2+-dependent enzymes. Calcitonin (CT) is a hormone (first messenger), not a second messenger. Mg2+ and PO43\u2013 are not classic second messengers.",
+    "reference": "Harrison's Principles of Internal Medicine 19th edn. pp 4000"
+  },
+  {
+    "id": 21,
+    "question": "True about second messenger: [PGI May 11]",
+    "options": {
+      "a": "Bind first messenger",
+      "b": "Integral protein",
+      "c": "Hormone secreted by stimulation of other hormones",
+      "d": "Substance that increase or decrease function",
+      "e": "Intracellular receptor"
+    },
+    "correct_answer": "d",
+    "explanation": "A second messenger is an intracellular signaling molecule that is produced in response to a first messenger (hormone/neurotransmitter) binding a cell surface receptor, and which increases or decreases specific cellular functions. Second messengers do NOT bind the first messenger (the receptor does). They are not proteins or hormones themselves. They are small molecules like cAMP, IP3, DAG, Ca2+, cGMP.",
+    "reference": "Ganong's Physiology 25th edn. pp 56-60, 26th pp 62"
+  },
+  {
+    "id": 22,
+    "question": "Steroid hormone receptors have attachment site for all except: [AIIMS May 08]",
+    "options": {
+      "a": "Steroid hormone",
+      "b": "Transcription repressors",
+      "c": "Hormone responsive element (HRE)",
+      "d": "Transcription activators"
+    },
+    "correct_answer": "b",
+    "explanation": "Steroid hormone receptors have binding domains for: the steroid hormone itself (ligand-binding domain), DNA at hormone response elements (HRE), and transcription activators (co-activators). Transcription repressors are separate proteins that bind to DNA to block transcription \u2014 they are not ligands for steroid receptors. Steroid receptor complexes recruit co-activators, not repressors.",
+    "reference": "Harper's 30th edn. pp 445"
+  },
+  {
+    "id": 23,
+    "question": "True about intracellular receptors: [PGI June 01]",
+    "options": {
+      "a": "Mainly on nuclear surface",
+      "b": "Steroids act on them",
+      "c": "Estrogen does not act on it",
+      "d": "GH acts on it"
+    },
+    "correct_answer": "b",
+    "explanation": "Steroid hormones (including corticosteroids, androgens, estrogens, progesterone) act on intracellular receptors (cytoplasmic or nuclear). Estrogen DOES act on intracellular receptors (nuclear ER-\u03b1 and ER-\u03b2). GH acts via cell surface JAK-STAT receptors (not intracellular receptors). Intracellular receptors are located in the cytoplasm or nucleus, not primarily on the nuclear surface.",
+    "reference": "Williams Textbook of Endocrinology 12th edn."
+  },
+  {
+    "id": 24,
+    "question": "True about G protein coupled receptors is: [AIIMS May 08]",
+    "options": {
+      "a": "G protein binds to hormones on the cell surface",
+      "b": "All three subunits alpha, beta and gamma should bind to each other for G protein to act",
+      "c": "G protein acts as inhibitory and excitatory because of difference in alpha subunit",
+      "d": "G protein is bound to GTP in resting state"
+    },
+    "correct_answer": "c",
+    "explanation": "G proteins act as either inhibitory (Gi) or excitatory (Gs) depending on the type of alpha subunit. In the resting state, the G protein is bound to GDP (not GTP) \u2014 GDP is exchanged for GTP upon receptor activation. G proteins do not directly bind hormones (the receptor does). The alpha subunit dissociates from the beta-gamma complex to become active (not all three together).",
+    "reference": "Ganong's Physiology 25th edn. pp 56-60, 26th pp 61-62"
+  },
+  {
+    "id": 25,
+    "question": "Various cells respond differentially to a second messenger (such as increased cAMP) because they have different: [AIIMS May 03]",
+    "options": {
+      "a": "Receptors",
+      "b": "Enzymatic composition",
+      "c": "Nuclei",
+      "d": "Membrane lipid"
+    },
+    "correct_answer": "b",
+    "explanation": "Different cells respond differently to the same second messenger (e.g., cAMP) because of their different enzymatic composition. cAMP activates protein kinase A, which phosphorylates different target enzymes, ion channels, and structural proteins depending on which enzymes are expressed in that particular cell type. This is why the same second messenger produces different effects in heart vs. liver vs. adipose tissue.",
+    "reference": "Endocrinology: An Integrated Approach by S Nussey and S Whitehead, 2001"
+  },
+  {
+    "id": 26,
+    "question": "Action of \u03b1-subunit of G protein is: [AIIMS Nov 08]",
+    "options": {
+      "a": "Breakdown of GTP to GDP",
+      "b": "Conversion of GDP to GTP",
+      "c": "Internalization of receptors",
+      "d": "Binding of agonist"
+    },
+    "correct_answer": "a",
+    "explanation": "The \u03b1-subunit of G protein has intrinsic GTPase activity \u2014 it hydrolyzes (breaks down) GTP to GDP, which inactivates the \u03b1-subunit and terminates the signal. Conversion of GDP to GTP occurs on receptor activation (exchange of GDP for GTP), but this is driven by the receptor (GEF activity), not the alpha subunit itself. The alpha subunit does not bind agonist or internalize receptors.",
+    "reference": "Ganong's Physiology 25th edn. pp 61, 26th pp 62"
+  },
+  {
+    "id": 27,
+    "question": "Adrenaline, noradrenaline and dopamine act through: [AIIMS Nov 06]",
+    "options": {
+      "a": "Single-pass receptors",
+      "b": "Four-pass receptors",
+      "c": "Seven-pass receptor",
+      "d": "Ligand-gated channel"
+    },
+    "correct_answer": "c",
+    "explanation": "Adrenaline, noradrenaline, and dopamine act via G protein-coupled receptors (GPCRs), which are seven-transmembrane (seven-pass) domain receptors. All catecholamines (\u03b1-adrenergic, \u03b2-adrenergic, and dopamine receptors) are GPCRs with seven helical transmembrane segments.",
+    "reference": "Harrison's Principles of Internal Medicine 19th edn. pp 4000"
+  },
+  {
+    "id": 28,
+    "question": "cAMP acts through: [PGI Dec 06]",
+    "options": {
+      "a": "Activation of protein kinase",
+      "b": "Activation of adenylate cyclase",
+      "c": "Increased Ca2+ release",
+      "d": "PIP3 pathway"
+    },
+    "correct_answer": "a",
+    "explanation": "cAMP (cyclic AMP) acts as a second messenger by activating protein kinase A (PKA), which then phosphorylates specific target proteins in the cell, altering their activity. Adenylate cyclase (adenylyl cyclase) is the enzyme that PRODUCES cAMP \u2014 it is upstream, not downstream. IP3 (not cAMP) causes Ca2+ release. PIP3 is part of the PI3K pathway, not cAMP.",
+    "reference": "Ganong's Physiology 25th edn. pp 59, 26th pp 61"
+  },
+  {
+    "id": 29,
+    "question": "Steroid receptor superfamily is present in: [AIIMS Dec 98]",
+    "options": {
+      "a": "Vitamin D3",
+      "b": "Insulin",
+      "c": "Glucagon",
+      "d": "Thyroid"
+    },
+    "correct_answer": "a,d",
+    "explanation": "The steroid receptor superfamily includes receptors for: all steroid hormones, thyroid hormones (T3/T4), Vitamin D, and retinoids (Vitamin A). All of these are lipid-soluble and use intracellular nuclear receptors with a common structural motif (zinc finger DNA-binding domain). Insulin and glucagon are peptide hormones acting via cell surface receptors and are NOT members of the steroid receptor superfamily.",
+    "reference": "Williams Textbook of Endocrinology 12th edn."
+  },
+  {
+    "id": 30,
+    "question": "The following hormone does not have any intracellular receptor: [AI 01]",
+    "options": {
+      "a": "Vitamin D3",
+      "b": "Cortisone",
+      "c": "Adrenaline",
+      "d": "Thyroxine"
+    },
+    "correct_answer": "c",
+    "explanation": "Adrenaline (epinephrine) is a catecholamine that acts via cell surface membrane receptors (adrenergic GPCRs \u2014 \u03b11, \u03b12, \u03b21, \u03b22) and does NOT have intracellular receptors. Vitamin D3, cortisone (glucocorticoid), and thyroxine all have intracellular (nuclear or cytoplasmic) receptors as members of the steroid/nuclear receptor superfamily.",
+    "reference": "Harrison's Principles of Internal Medicine 19th edn. pp 4000"
+  },
+  {
+    "id": 31,
+    "question": "The hormone using an enzyme receptor for its action: [AI 00]",
+    "options": {
+      "a": "Insulin",
+      "b": "Steroid",
+      "c": "Oestrogen",
+      "d": "Thyroxine"
+    },
+    "correct_answer": "a",
+    "explanation": "Insulin acts via a tyrosine kinase receptor (enzyme-linked receptor). The insulin receptor is a receptor tyrosine kinase (RTK) \u2014 upon insulin binding, the intrinsic tyrosine kinase activity of the receptor is activated, phosphorylating tyrosine residues on downstream substrates (IRS-1, IRS-2). Steroids and oestrogen act via intracellular nuclear receptors. Thyroxine also acts via nuclear receptors.",
+    "reference": "Harrison's Principles of Internal Medicine 19th edn. pp 4000"
+  },
+  {
+    "id": 32,
+    "question": "IP3 increases intracellular level of: [Dec 18]",
+    "options": {
+      "a": "Na+",
+      "b": "K+",
+      "c": "Ca2+",
+      "d": "Cl\u2013"
+    },
+    "correct_answer": "c",
+    "explanation": "IP3 (Inositol 1,4,5-trisphosphate) is a second messenger generated by phospholipase C from PIP2. IP3 binds to IP3 receptors on the endoplasmic reticulum, causing release of Ca2+ into the cytoplasm. The resulting rise in intracellular Ca2+ activates calmodulin and downstream signaling cascades. This is the Gq \u2192 PLC \u2192 IP3 \u2192 Ca2+ pathway.",
+    "reference": "Ganong's Physiology 26th edn.; Table 17.1"
+  },
+  {
+    "id": 33,
+    "question": "IGF-1 acts through which type of receptors? [Dec 18]",
+    "options": {
+      "a": "Tyrosine kinase",
+      "b": "G protein coupled",
+      "c": "Nuclear/cytoplasmic",
+      "d": "JAK/STAT"
+    },
+    "correct_answer": "a",
+    "explanation": "IGF-1 (Insulin-like Growth Factor 1) acts via tyrosine kinase receptors, similar to insulin. The IGF-1 receptor (IGF-1R) is a receptor tyrosine kinase with intrinsic kinase activity that autophosphorylates upon ligand binding. Other tyrosine kinase receptors include: insulin, EGF, PDGF, M-CSF, NGF, and GH/PRL (via JAK-STAT, which are associated tyrosine kinases).",
+    "reference": "Ganong's Physiology 25th edn. pp 61, 26th pp 94; Table 17.1"
+  },
+  {
+    "id": 34,
+    "question": "Phospholipase C acts through: [Dec 18]",
+    "options": {
+      "a": "Gq",
+      "b": "Gs",
+      "c": "Gi",
+      "d": "G12"
+    },
+    "correct_answer": "a",
+    "explanation": "Phospholipase C (PLC) is activated by the Gq protein. When a Gq-coupled receptor is activated, the Gq alpha subunit activates PLC-\u03b2, which cleaves PIP2 into IP3 and DAG. IP3 releases Ca2+ from ER; DAG activates PKC. Gs activates adenylyl cyclase (cAMP pathway). Gi inhibits adenylyl cyclase. G12 activates Rho GTPases.",
+    "reference": "Ganong's Physiology 26th edn.; Table 17.1"
+  },
+  {
+    "id": 35,
+    "question": "Oxytocin receptor is which type? [Dec 18]",
+    "options": {
+      "a": "GPCR",
+      "b": "Tyrosine kinase mediated",
+      "c": "Cytokine mediated",
+      "d": "Nuclear"
+    },
+    "correct_answer": "a",
+    "explanation": "The oxytocin receptor is a G protein-coupled receptor (GPCR), specifically a Gq-coupled receptor. Upon oxytocin binding, it activates phospholipase C, generating IP3 and DAG, which increases intracellular Ca2+ \u2014 leading to uterine contraction and milk ejection. The vasopressin V1 and V3 receptors similarly act via the IP3/calcium pathway (Gq-coupled).",
+    "reference": "Ganong's Physiology 26th edn.; Table 17.1"
+  },
+  {
+    "id": 36,
+    "question": "True about thyroid hormones: [Dec 18]",
+    "options": {
+      "a": "Thyroid peroxidases are used for formation T1 and T2 from T3 and T4",
+      "b": "Thyroglobulin protein is needed for organification of iodine",
+      "c": "T1/2 of T3 is more than T4",
+      "d": "T4 is more protein bound to TBG than T3"
+    },
+    "correct_answer": "d",
+    "explanation": "T4 is more protein bound to TBG (thyroxine-binding globulin) than T3 \u2014 this is true. T4 has ~99.97% protein binding while T3 has ~99.7% protein binding. False options: Thyroid peroxidase is used for organification of iodide and coupling of iodotyrosines (to form T3 and T4, not the other way). Thyroglobulin is the scaffold protein for synthesis (not organification per se). T1/2 of T3 (~1 day) is SHORTER than T4 (~7 days).",
+    "reference": "Ganong's Physiology 26th edn.; Table 17.8"
+  },
+  {
+    "id": 37,
+    "question": "Acidophils secrete:",
+    "options": {
+      "a": "GH",
+      "b": "TSH",
+      "c": "ACTH",
+      "d": "FSH"
+    },
+    "correct_answer": "a",
+    "explanation": "Acidophilic cells of the anterior pituitary include: Somatotrophs (50%) \u2014 secrete GH; and Lactotrophs (10\u201330%) \u2014 secrete Prolactin. Basophilic cells include: Gonadotropes (20%) \u2014 secrete FSH and LH; Corticotropes (10%) \u2014 secrete ACTH; and Thyrotropes (5%) \u2014 secrete TSH. Among the options, only GH is secreted by acidophils.",
+    "reference": "Ganong's Physiology 25th edn. pp 324, 26th pp 316"
+  },
+  {
+    "id": 38,
+    "question": "Secretion of all the following hormones are decreased in section of pituitary stalk except:",
+    "options": {
+      "a": "Prolactin",
+      "b": "GH",
+      "c": "Vasopressin",
+      "d": "FSH"
+    },
+    "correct_answer": "a",
+    "explanation": "Prolactin is the exception \u2014 its secretion INCREASES after pituitary stalk section. This is because prolactin is normally under tonic inhibitory control by dopamine from the hypothalamus. Cutting the stalk removes this inhibition, releasing lactotrophs to secrete prolactin freely. All other anterior pituitary hormones (GH, FSH, LH, TSH, ACTH) decrease because they lose hypothalamic releasing hormones. Vasopressin decreases as its axonal transport to the posterior pituitary is interrupted.",
+    "reference": "Guyton-Physiology-13th edn. pp 552"
+  },
+  {
+    "id": 39,
+    "question": "All are types of cells present in anterior pituitary except:",
+    "options": {
+      "a": "Somatotropes",
+      "b": "Isotropes",
+      "c": "Gonadotropes",
+      "d": "Thyrotropes"
+    },
+    "correct_answer": "b",
+    "explanation": "Isotropes do NOT exist in the anterior pituitary. The five types of secretory cells in the anterior pituitary are: Somatotropes (GH), Lactotropes/Mammotropes (Prolactin), Corticotropes (ACTH), Thyrotropes (TSH), and Gonadotropes (FSH and LH). 'Isotropes' is a fabricated term and is not a recognized cell type.",
+    "reference": "Ganong's Physiology 25th edn. pp 322, 26th pp 316"
+  },
+  {
+    "id": 40,
+    "question": "GH secretion is:",
+    "options": {
+      "a": "Greater in early morning",
+      "b": "Greater in evening",
+      "c": "Increases on prolonged fasting",
+      "d": "Stimulates B-cells of pancreas directly"
+    },
+    "correct_answer": "c",
+    "explanation": "GH secretion increases on prolonged fasting and hypoglycemia (important physiological stimulus). GH is under a weak circadian rhythm with peak secretion at night (around 1\u20133 AM), not early morning or evening. Other stimuli for GH include: exercise, protein meal, stress, pyrogen, sleep, estrogen, and androgens. GH does not directly stimulate pancreatic B-cells; rather, GH is anti-insulin in its metabolic effects.",
+    "reference": "Ganong's Physiology 25th edn. pp 329, 26th pp 319"
+  },
+  {
+    "id": 41,
+    "question": "Hypothalamus controls the hormone secretion of:",
+    "options": {
+      "a": "Anterior hypophysis",
+      "b": "Posterior hypophysis",
+      "c": "Kidney",
+      "d": "Pineal gland"
+    },
+    "correct_answer": "a",
+    "explanation": "The hypothalamus controls the anterior pituitary (adenohypophysis) via releasing and inhibiting hormones transported through the hypothalamo-hypophyseal portal blood system. The posterior pituitary (neurohypophysis) hormones (ADH, oxytocin) are synthesized IN the hypothalamus and merely stored and released from the posterior pituitary \u2014 they are not controlled by the hypothalamus via separate releasing hormones.",
+    "reference": "Ganong's Physiology 25th edn. pp 308, 26th pp 308"
+  },
+  {
+    "id": 42,
+    "question": "ADH formation site:",
+    "options": {
+      "a": "Pituitary",
+      "b": "Hypothalamus",
+      "c": "Pineal",
+      "d": "None"
+    },
+    "correct_answer": "b",
+    "explanation": "ADH (Antidiuretic Hormone / Vasopressin) is synthesized in the magnocellular neurons of the supraoptic and paraventricular nuclei of the hypothalamus. It is then transported along the axons of these neurons to the posterior pituitary (neurohypophysis), where it is stored and released into the bloodstream. The site of FORMATION is the hypothalamus, not the pituitary.",
+    "reference": "Ganong's Physiology 25th edn. pp 313, 26th pp 305"
+  },
+  {
+    "id": 43,
+    "question": "Vasopressin is secreted by:",
+    "options": {
+      "a": "Supraoptic nucleus",
+      "b": "Preoptic nucleus",
+      "c": "Paraventricular nucleus",
+      "d": "Posterior nucleus"
+    },
+    "correct_answer": "a",
+    "explanation": "Vasopressin (ADH) is produced predominantly by the supraoptic nucleus (>> paraventricular nucleus). Oxytocin is produced predominantly by the paraventricular nucleus (>> supraoptic nucleus). Both hormones are then transported to and released from the posterior pituitary. The preoptic nucleus contains osmoreceptors that stimulate ADH release but do not produce ADH themselves.",
+    "reference": "Ganong's Physiology 25th edn. pp 313, 26th pp 305"
+  },
+  {
+    "id": 44,
+    "question": "ADH regulates which of the following aquaporin?",
+    "options": {
+      "a": "Aquaporin 1",
+      "b": "Aquaporin 2",
+      "c": "Aquaporin 3",
+      "d": "Aquaporin 4"
+    },
+    "correct_answer": "b",
+    "explanation": "ADH (vasopressin) regulates Aquaporin-2 (AQP2) on the luminal (apical) membrane of collecting duct epithelial cells. ADH via V2 receptor \u2192 cAMP \u2192 PKA \u2192 inserts AQP2 vesicles into the apical membrane, increasing water permeability. Aquaporin 3 and 4 are constitutively present on the basolateral membrane of collecting duct cells and are NOT regulated by ADH.",
+    "reference": "Ganong's Physiology 26th edn."
+  },
+  {
+    "id": 45,
+    "question": "Basophilic cells of pituitary secretes: [PGI Dec 02]",
+    "options": {
+      "a": "Prolactin",
+      "b": "GH",
+      "c": "TSH",
+      "d": "ACTH",
+      "e": "LH"
+    },
+    "correct_answer": "c,d,e",
+    "explanation": "Basophilic cells of the anterior pituitary include: Gonadotropes \u2014 secrete FSH and LH (20%); Corticotropes \u2014 secrete ACTH (10%); Thyrotropes \u2014 secrete TSH (5%). Acidophilic cells include Somatotropes (GH) and Lactotropes (Prolactin). Therefore TSH, ACTH, and LH are secreted by basophils.",
+    "reference": "Ganong's Physiology 25th edn. pp 324, 26th pp 316"
+  },
+  {
+    "id": 46,
+    "question": "Posterior pituitary secretes: [PGI Dec 01]",
+    "options": {
+      "a": "Oxytocin",
+      "b": "Prolactin",
+      "c": "ADH",
+      "d": "FSH",
+      "e": "MSH"
+    },
+    "correct_answer": "a,c",
+    "explanation": "The posterior pituitary (neurohypophysis) releases only two hormones: Oxytocin and ADH (vasopressin). Both are synthesized in the hypothalamus and transported via axons to be stored and released from the posterior pituitary. Prolactin, FSH, and MSH are secreted by the anterior pituitary (adenohypophysis).",
+    "reference": "Ganong's Physiology 25th edn. pp 313, 26th pp 305"
+  },
+  {
+    "id": 47,
+    "question": "Hormone secreted by adenohypophysis are/is: [PGI June 03]",
+    "options": {
+      "a": "Oxytocin",
+      "b": "TSH",
+      "c": "Gonadotropins",
+      "d": "Arginine vasopressin",
+      "e": "ACTH"
+    },
+    "correct_answer": "b,c,e",
+    "explanation": "The adenohypophysis (anterior pituitary) secretes: GH, Prolactin, TSH, ACTH, FSH, and LH. Gonadotropins (FSH and LH) and TSH and ACTH are all anterior pituitary hormones. Oxytocin and Arginine vasopressin (ADH) are produced in the hypothalamus and released from the posterior pituitary (neurohypophysis), not the adenohypophysis.",
+    "reference": "Ganong's Physiology 25th edn. pp 322, 26th pp 308"
+  },
+  {
+    "id": 48,
+    "question": "Prolactin is secreted by: [JIPMER 11]",
+    "options": {
+      "a": "Acidophil",
+      "b": "Basophil",
+      "c": "Chromophobe",
+      "d": "Herring bodies"
+    },
+    "correct_answer": "a",
+    "explanation": "Prolactin is secreted by Lactotrophs (Mammotrophs), which are acidophilic cells of the anterior pituitary. They constitute 10\u201330% of anterior pituitary cells. Herring bodies are axonal swellings in the posterior pituitary containing stored ADH and oxytocin. Chromophobes are non-secretory cells. Basophils secrete TSH, ACTH, FSH, and LH.",
+    "reference": "Ganong's Physiology 25th edn. pp 322, 26th pp 308"
+  },
+  {
+    "id": 49,
+    "question": "Somatomedin mediates: [AIIMS May 10, 09]",
+    "options": {
+      "a": "Deposition of chondroitin sulfate",
+      "b": "Lipolysis",
+      "c": "Gluconeogenesis",
+      "d": "Decreased rate of glucose uptake by cells"
+    },
+    "correct_answer": "a",
+    "explanation": "Somatomedins (IGF-1 and IGF-2) mediate the growth-promoting effects of GH. Specifically, somatomedin/IGF-1 causes increased protein synthesis in chondrocytes, increased deposition of chondroitin sulfate in cartilage, and promotes linear growth (pubertal growth spurt). Lipolysis, gluconeogenesis, and decreased glucose uptake are direct effects of GH itself (metabolic effects), not of somatomedin.",
+    "reference": "Ganong's Physiology 25th edn. pp 324, 26th pp 321"
+  },
+  {
+    "id": 50,
+    "question": "Acromegaly is due to excess of: [PGI Dec 99]",
+    "options": {
+      "a": "Somatomedin",
+      "b": "Growth hormone",
+      "c": "Somatostatin",
+      "d": "Insulin"
+    },
+    "correct_answer": "b",
+    "explanation": "Acromegaly is caused by excess Growth Hormone (GH) secretion in adults (after epiphyseal closure), most commonly due to a GH-secreting pituitary adenoma. GH excess leads to soft tissue and bony overgrowth, particularly of the hands, feet, and facial features. In children (before epiphyseal closure), GH excess causes gigantism. Somatomedin (IGF-1) levels are elevated secondarily in acromegaly but the primary cause is GH excess.",
+    "reference": "Ganong's Physiology 25th edn. pp 324, 26th pp 319"
+  },
+  {
+    "id": 51,
+    "question": "When NaCl is injected in the internal carotid artery, it causes release of ADH by acting on? [AIIMS Nov 01]",
+    "options": {
+      "a": "Paramedian nucleus",
+      "b": "Anterior pituitary",
+      "c": "Paraoptic nucleus",
+      "d": "Supraoptic nucleus"
+    },
+    "correct_answer": "c",
+    "explanation": "NaCl injection into the internal carotid artery increases plasma osmolality, which is sensed by osmoreceptors located in the anterior hypothalamus (preoptic/paraoptic nucleus). These osmoreceptors have stimulatory connections to the thirst center and the ADH-secreting supraoptic nucleus. The osmoreceptors are in the preoptic/paraoptic nucleus, which then stimulates ADH release from the supraoptic nucleus.",
+    "reference": "Ganong's Physiology 25th edn. pp 310, 26th pp 307"
+  },
+  {
+    "id": 52,
+    "question": "Which of the pairs about vasopressin receptors is incorrect? [AIIMS Nov 10]",
+    "options": {
+      "a": "V1 \u2014 smooth muscles",
+      "b": "V2 \u2014 collecting ducts",
+      "c": "V3 \u2014 anterior pituitary",
+      "d": "V4 \u2014 CNS"
+    },
+    "correct_answer": "d",
+    "explanation": "V4 does not exist as a vasopressin receptor subtype \u2014 this pairing is incorrect. The recognized vasopressin receptor subtypes are: V1a \u2014 vascular smooth muscle (vasoconstriction); V1b (V3) \u2014 anterior pituitary (ACTH release); V2 \u2014 collecting duct (water reabsorption via AQP2). There is no V4 receptor for vasopressin.",
+    "reference": "Ganong's Physiology 26th edn."
+  },
+  {
+    "id": 53,
+    "question": "About ADH secretion all are true except: [AIIMS 12]",
+    "options": {
+      "a": "Secretion increased in early postoperative period",
+      "b": "Causes increased permeability of DCT",
+      "c": "Neurosecretion",
+      "d": "Level increased by low plasma osmolality"
+    },
+    "correct_answer": "d",
+    "explanation": "ADH level is increased by HIGH plasma osmolality (hyperosmolality), not low. Low plasma osmolality suppresses ADH secretion, promoting water diuresis. ADH is a neurosecretion (made in hypothalamic neurons). Its secretion increases postoperatively (stress response). ADH acts on collecting duct (and DCT to a lesser extent) to increase water permeability via AQP2.",
+    "reference": "Ganong's Physiology 25th edn."
+  },
+  {
+    "id": 54,
+    "question": "All except one are caused by accidental transection of pituitary stalk: [AIIMS June 97]",
+    "options": {
+      "a": "Diabetes mellitus",
+      "b": "Polyuria",
+      "c": "Galactorrhea",
+      "d": "Diabetes insipidus"
+    },
+    "correct_answer": "a",
+    "explanation": "Transection of the pituitary stalk causes: Diabetes Insipidus (ADH cannot reach posterior pituitary \u2192 polyuria), Galactorrhea (loss of dopamine inhibition \u2192 hyperprolactinemia), and deficiency of anterior pituitary hormones (GH, FSH, LH, TSH, ACTH). Diabetes MELLITUS (hyperglycemia) is NOT caused by stalk section \u2014 ADH deficiency causes diabetes INSIPIDUS, not diabetes mellitus.",
+    "reference": "Ganong's Physiology 25th edn. pp 698, 26th pp 688"
+  },
+  {
+    "id": 55,
+    "question": "Hormones which is/are under inhibitory control of hypothalamus? (Nov 18)",
+    "options": {
+      "a": "Prolactin",
+      "b": "Prolactin only",
+      "c": "Both GH and prolactin",
+      "d": "GH"
+    },
+    "correct_answer": "c",
+    "explanation": "Both GH and Prolactin are under inhibitory control of the hypothalamus. GH is inhibited by somatostatin (GHIH) from the hypothalamus. Prolactin is inhibited by dopamine (PIH \u2014 Prolactin Inhibiting Hormone) from the hypothalamus. If the question asks which is ONLY under inhibitory control (without a corresponding releasing hormone), the answer would be prolactin only. But as stated, both are under inhibitory control.",
+    "reference": "Ganong's Physiology 25th edn."
+  },
+  {
+    "id": 56,
+    "question": "Which hormone has permissive role in puberty? (Nov 18)",
+    "options": {
+      "a": "Leptin",
+      "b": "GnRH",
+      "c": "Insulin",
+      "d": "GH"
+    },
+    "correct_answer": "a",
+    "explanation": "Leptin, the adipocyte-derived hormone, plays a permissive role in the onset of puberty by increasing the pulsatile rate of GnRH secretion from the hypothalamus. A critical body fat mass (and thus leptin level) is required for puberty to begin, which explains why severely underweight individuals (e.g., anorexia nervosa) have delayed puberty. GnRH then drives puberty, but leptin provides the permissive signal.",
+    "reference": "Ganong's Physiology 26th edn."
+  },
+  {
+    "id": 57,
+    "question": "Which is not an effect of T3 hormone?",
+    "options": {
+      "a": "It increases the heart rate",
+      "b": "It increases the stroke volume",
+      "c": "It decreases the peripheral vascular resistance",
+      "d": "Decreases protein breakdown"
+    },
+    "correct_answer": "d",
+    "explanation": "Thyroid hormones (T3) INCREASE protein catabolism (breakdown), not decrease it. The muscle weakness seen in hyperthyroidism is partly due to increased protein catabolism. T3 increases heart rate, increases stroke volume (via increased cardiac contractility), and decreases peripheral vascular resistance (via cutaneous vasodilation for heat dissipation). All other options are true effects of T3.",
+    "reference": "Ganong's Physiology 25th edn. pp 347, 26th pp 364"
+  },
+  {
+    "id": 58,
+    "question": "In thyroid follicle for how long thyroxine is stored:",
+    "options": {
+      "a": "2\u20133 weeks",
+      "b": "2\u20133 days",
+      "c": "2\u20133 months",
+      "d": "2\u20133 years"
+    },
+    "correct_answer": "c",
+    "explanation": "Thyroid hormones are stored in the thyroid follicles bound to thyroglobulin as colloid. Each thyroglobulin molecule contains up to 30 thyroxine molecules and a few triiodothyronine molecules. This storage is sufficient to supply the body's normal thyroid hormone requirements for 2\u20133 months. This large storage capacity explains why thyroid hormone deficiency takes weeks to months to develop after thyroidectomy.",
+    "reference": "Guyton-Physiology-13th edn. pp 566"
+  },
+  {
+    "id": 59,
+    "question": "Thyroid hormones in blood is transported by: [PGI Dec 01]",
+    "options": {
+      "a": "Albumin",
+      "b": "Globulin",
+      "c": "Prealbumin",
+      "d": "Transferrin",
+      "e": "Ceruloplasmin"
+    },
+    "correct_answer": "a,b,c",
+    "explanation": "Thyroid hormones in blood are transported by three proteins: (1) Thyroxine-Binding Globulin (TBG) \u2014 carries ~70% of T4 and T3, highest affinity; (2) Transthyretin (Thyroxine-Binding Prealbumin, TBPA) \u2014 carries ~20% of T4; (3) Albumin \u2014 low affinity but large capacity, carries ~10%. Transferrin carries iron; ceruloplasmin carries copper. Neither transferrin nor ceruloplasmin transport thyroid hormones.",
+    "reference": "Ganong's Physiology 25th edn. pp 341, 26th pp 359"
+  }
+]

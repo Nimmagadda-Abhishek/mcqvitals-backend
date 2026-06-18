@@ -5,6 +5,7 @@ const Question = require('../models/Question');
 const Result = require('../models/Result');
 const Resource = require('../models/Resource');
 const SubscriptionOrder = require('../models/SubscriptionOrder');
+const sendEmail = require('../utils/sendEmail');
 
 // @desc    Get admin dashboard stats
 // @route   GET /api/admin/dashboard
@@ -84,6 +85,17 @@ const approveDeviceChange = async (req, res) => {
     user.deviceId = null;
     user.deviceChangeRequested = false;
     await user.save();
+
+    try {
+        await sendEmail({
+            to: user.email,
+            subject: 'Device Change Request Approved',
+            text: `Hi ${user.name},\n\nYour device change request has been approved by the admin.\n\nYou can now log in from your new device.`,
+            html: `<p>Hi ${user.name},</p><p>Your device change request has been <b>approved</b> by the admin.</p><p>You can now log in from your new device.</p>`,
+        });
+    } catch (e) {
+        console.error('User device change approval email failed:', e.message || e);
+    }
 
     res.json({ message: 'Device change request approved successfully' });
 };

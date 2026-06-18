@@ -1,0 +1,1136 @@
+[
+  {
+    "id": 1,
+    "question": "BER produced by: [Dec 2016]",
+    "options": {
+      "a": "Smooth muscle at cardiac end of stomach",
+      "b": "Antral G cell",
+      "c": "Interstitial cells of Cajal",
+      "d": "Myenteric plexus"
+    },
+    "correct_answer": "c",
+    "explanation": "The Basic Electrical Rhythm (BER), also called slow waves, is initiated by the interstitial cells of Cajal (ICC). These are stellate mesenchymal pacemaker cells with smooth muscle-like features located in the muscularis propria. They set the rhythm and frequency of GI contractions but do not themselves cause contraction \u2014 muscle contraction requires additional excitatory input.",
+    "reference": "Ganong's Review of Physiology 25th pp 496, 26th pp 486"
+  },
+  {
+    "id": 2,
+    "question": "Which of the following movement has housekeeping role in GIT? [Dec 2016]",
+    "options": {
+      "a": "MMC",
+      "b": "Segmentation",
+      "c": "Mixing movement",
+      "d": "Peristalsis"
+    },
+    "correct_answer": "a",
+    "explanation": "The Migrating Motor Complex (MMC) serves a 'housekeeping' function in the GI tract. It occurs during fasting (interdigestive period) and sweeps residual food, bacteria, and debris from the stomach and small intestine in preparation for the next meal. It is sometimes called the 'intestinal housekeeper'. MMC is regulated by motilin.",
+    "reference": "Ganong's Review of Physiology 25th pp 497, 26th pp 486"
+  },
+  {
+    "id": 3,
+    "question": "Function of myenteric plexus: [Dec 2016]",
+    "options": {
+      "a": "Absorption",
+      "b": "Secretion",
+      "c": "Basal output",
+      "d": "Motility"
+    },
+    "correct_answer": "d",
+    "explanation": "The myenteric plexus (Auerbach's plexus) controls mainly gastrointestinal movements (motility). It is located between the circular and longitudinal muscle layers of the muscularis externa. The submucosal plexus (Meissner's plexus) controls GI secretion and local blood flow. Together they form the enteric nervous system.",
+    "reference": "Guyton and Hall Physiology 13th Ed pp 799"
+  },
+  {
+    "id": 4,
+    "question": "Mixing waves of stomach:",
+    "options": {
+      "a": "Originates in body of stomach",
+      "b": "Originates in fundus of stomach",
+      "c": "Originates at incisura angularis",
+      "d": "Originates in any part of stomach"
+    },
+    "correct_answer": "a",
+    "explanation": "Mixing waves (peristaltic mixing contractions) originate in the mid-to-upper body of the stomach and move toward the pylorus about every 15\u201325 seconds. As digestion proceeds, more vigorous mixing waves begin at the body and intensify as they reach the antrum and pylorus. The fundus primarily serves a storage function and few mixing waves are observed there.",
+    "reference": "Tortora's Principles of Anatomy and Physiology 12th edn. pp 939; Guyton's Physiology"
+  },
+  {
+    "id": 5,
+    "question": "Which of the following does NOT stimulate the enterogastric reflex?",
+    "options": {
+      "a": "Products of protein digestion in the duodenum",
+      "b": "Duodenal distension",
+      "c": "H+ ions bathing duodenal mucosa",
+      "d": "Hormones"
+    },
+    "correct_answer": "d",
+    "explanation": "The enterogastric reflex is a neural reflex triggered by: irritants and acids (H+ ions) in the duodenum, breakdown products of protein digestion, hypotonic or hypertonic fluids, and duodenal distension. Hormones (like CCK, secretin) also inhibit gastric motility but do so via hormonal pathways \u2014 NOT through the enterogastric reflex itself. Hormones control gastric motility by a separate mechanism.",
+    "reference": "Guyton-Physiology-12th edn. pp 786, 13th pp 451"
+  },
+  {
+    "id": 6,
+    "question": "Gastric emptying is mainly regulated by:",
+    "options": {
+      "a": "Neural reflexes",
+      "b": "Enteric reflexes",
+      "c": "Local hormones produced in stomach",
+      "d": "Local hormones produced in duodenum"
+    },
+    "correct_answer": "a",
+    "explanation": "Gastric emptying is predominantly regulated by neural reflexes \u2014 specifically vagovagal reflexes initiated by extrinsic vagal afferent fibers. The most powerful duodenal inhibitory factor for stomach emptying is the enterogastric nervous reflex from the duodenum. CCK may also act via vagal afferent fibers to mediate a vagovagal reflex-mediated decrease in gastric emptying.",
+    "reference": "Berne & Levy Physiology 6th edn. pp 514; Guyton's Physiology"
+  },
+  {
+    "id": 7,
+    "question": "Migrating motility complex:",
+    "options": {
+      "a": "Occurs upon arrival of food in the stomach",
+      "b": "Begins in the lower part of the small intestine",
+      "c": "Are initiated by pacemaker cells in the intestine",
+      "d": "Occurs at a rate of 5 cm per minute from the stomach"
+    },
+    "correct_answer": "d",
+    "explanation": "The Migrating Motor Complex (MMC): occurs during FASTING (not upon arrival of food); initiates in the stomach (not lower small intestine); is regulated by motilin (not pacemaker cells directly); and migrates aborally at approximately 5 cm/min (slow but strong contraction). It is suppressed by eating and resumes about 90 minutes after a meal.",
+    "reference": "Ganong's Physiology 25th edn. pp 496, 26th pp 486"
+  },
+  {
+    "id": 8,
+    "question": "Gastric emptying sequence into duodenum:",
+    "options": {
+      "a": "Fat > protein > carbohydrate",
+      "b": "Fat < carbohydrate < protein",
+      "c": "Protein < fat < carbohydrate",
+      "d": "Protein > fat > carbohydrate"
+    },
+    "correct_answer": "a",
+    "explanation": "Gastric emptying is slowest for fat, intermediate for protein, and fastest for carbohydrates. Fat causes the slowest gastric emptying because it is the most potent stimulus for CCK and enterogastric inhibitory reflexes. Therefore the order of delay is: Fat > Protein > Carbohydrate. Carbohydrate-rich food causes the most rapid gastric emptying.",
+    "reference": "Johnson's Essential Medical Physiology 3rd edn. pp 488"
+  },
+  {
+    "id": 9,
+    "question": "In infants, defecation often follows a meal. The cause of colonic contractions in this situation is:",
+    "options": {
+      "a": "Gastroileal reflex",
+      "b": "Enterogastric reflex",
+      "c": "Increased circulating levels of CCK",
+      "d": "Gastrocolic reflex"
+    },
+    "correct_answer": "d",
+    "explanation": "The gastrocolic reflex is responsible for mass movements in the colon following a meal. The appearance of food in the stomach triggers reflex colonic contractions, which are especially prominent in infants, often causing defecation after eating. The duodenocolic reflex similarly contributes. The gastrocolic reflex explains the clinical phenomenon of post-prandial urge to defecate.",
+    "reference": "Guyton-Physiology-12th edn. pp 786, 13th pp 450"
+  },
+  {
+    "id": 10,
+    "question": "Mass movement of the colon would be abolished by:",
+    "options": {
+      "a": "Extrinsic denervation",
+      "b": "Distension of the colon",
+      "c": "Gastrocolic reflex",
+      "d": "Destruction of Auerbach's plexus"
+    },
+    "correct_answer": "d",
+    "explanation": "Mass movements of the colon are controlled by the myenteric plexus (Auerbach's plexus). Destruction of Auerbach's plexus would abolish colonic motility, including mass movements. Distension of the colon and the gastrocolic reflex are stimuli for mass movements. Extrinsic denervation alone would not abolish mass movement as the enteric nervous system can function independently.",
+    "reference": "Guyton-Physiology-12th edn. pp 786, 13th pp 450"
+  },
+  {
+    "id": 11,
+    "question": "Major regulator of interdigestive myoelectric complexes:",
+    "options": {
+      "a": "VIP",
+      "b": "GIP",
+      "c": "Motilin",
+      "d": "Neurotensin"
+    },
+    "correct_answer": "c",
+    "explanation": "The interdigestive motility pattern in the small intestine (Migrating Motor Complex / interdigestive myoelectric complex) is initiated and regulated by motilin. Motilin is secreted by enterochromaffin and Mo cells in the GI mucosa and is released cyclically during fasting to trigger MMC cycles approximately every 90 minutes.",
+    "reference": "Ganong's Physiology 25th edn. pp 470, 26th pp 486"
+  },
+  {
+    "id": 12,
+    "question": "Intestinal motility is increased by:",
+    "options": {
+      "a": "Secretin",
+      "b": "Gastrin",
+      "c": "CCK",
+      "d": "Motilin"
+    },
+    "correct_answer": "c",
+    "explanation": "CCK (Cholecystokinin) is the major hormone for intestinal motility \u2014 it enhances motility of the small intestine and colon. Motilin primarily regulates fasting (interdigestive) motility via MMC. Gastrin has mild stimulatory effects on gastric motor function. Secretin inhibits gastric motility. Among the options, CCK is the major hormone increasing intestinal motility.",
+    "reference": "Shackelford's Surgery of the Alimentary Tract by CJ Yeo et al. 2012, pp 946"
+  },
+  {
+    "id": 13,
+    "question": "Slow waves/BER maximum in:",
+    "options": {
+      "a": "Stomach",
+      "b": "Ileum",
+      "c": "Colon",
+      "d": "Rectum"
+    },
+    "correct_answer": "b",
+    "explanation": "The BER (Basic Electrical Rhythm/slow wave) frequency: Stomach ~4/min, Duodenum ~12/min (highest in small intestine), falling to ~8/min in the distal ileum. In the colon, BER rises from ~2/min at the cecum to ~6/min at the sigmoid. The maximum BER frequency in the small intestine is in the duodenum, but among the options given, ileum represents the small intestinal segment with BER (~8/min), which is higher than stomach (4/min) or colon.",
+    "reference": "Ganong's Physiology 25th edn. pp 496, 26th pp 486"
+  },
+  {
+    "id": 14,
+    "question": "Stimulation for gastric emptying:",
+    "options": {
+      "a": "Secretin",
+      "b": "CCK",
+      "c": "Gastrin",
+      "d": "Distension"
+    },
+    "correct_answer": "c",
+    "explanation": "Gastrin stimulates gastric emptying and has mild to moderate stimulatory effects on gastric motor functions. It is released by stomach wall stretch and products of protein digestion. CCK and secretin inhibit gastric emptying. Distension of the duodenum inhibits gastric emptying (enterogastric reflex), while stomach distension triggers gastrin release which promotes emptying.",
+    "reference": "Guyton-Physiology-12th edn. pp 785, 13th pp 447"
+  },
+  {
+    "id": 15,
+    "question": "Which of the following substance causes anterograde relaxation during gut peristalsis?",
+    "options": {
+      "a": "Acetylcholine",
+      "b": "Substance P",
+      "c": "Serotonin",
+      "d": "Vasoactive intestinal peptide (VIP)"
+    },
+    "correct_answer": "d",
+    "explanation": "During peristalsis, the 'Law of the Intestine' describes: retrograde contraction (behind the bolus) mediated by Substance P and Acetylcholine; and anterograde relaxation (ahead of the bolus) mediated by NO (nitric oxide), VIP (Vasoactive Intestinal Peptide), and ATP. VIP is the key neurotransmitter for descending (anterograde) inhibitory relaxation in the peristaltic reflex.",
+    "reference": "Ganong's Physiology 25th edn."
+  },
+  {
+    "id": 16,
+    "question": "Pacemaker of the GIT is located in: [PGI June 98]",
+    "options": {
+      "a": "Cardiac end of stomach",
+      "b": "Pyloric end of stomach",
+      "c": "Central control of CBD origin",
+      "d": "Fundus of stomach"
+    },
+    "correct_answer": "b",
+    "explanation": "The dominant pacemaker of the GIT (interstitial cells of Cajal) is located along the greater curvature in the proximal body of the stomach (near the pyloric end), not in the cardiac end or fundus. Pacemaker cells are NOT present in the esophagus, cardiac region, or fundus. In the stomach and small intestine, they are in the outer circular muscle layer near the myenteric plexus.",
+    "reference": "Ganong's Physiology 25th edn. pp 496, 26th pp 486"
+  },
+  {
+    "id": 17,
+    "question": "Enterogastric reflex is stimulated by all except: [PGI Dec 98]",
+    "options": {
+      "a": "Alkaline content of small intestine",
+      "b": "Hyperosmolarity of chyme",
+      "c": "Distension of duodenum",
+      "d": "None"
+    },
+    "correct_answer": "a",
+    "explanation": "The enterogastric reflex is stimulated by: acid (low pH) in the duodenum, hyperosmolar chyme, distension of the duodenum, irritants, and protein digestion products. Alkaline content of the small intestine does NOT stimulate the enterogastric inhibitory reflex \u2014 rather, it is acid and hypertonic contents that trigger this inhibitory response. So option A does not stimulate the reflex.",
+    "reference": "Ganong's Physiology 25th edn."
+  },
+  {
+    "id": 18,
+    "question": "Which of the following is TRUE regarding gastric emptying? [AIIMS Dec 98, AI 95]",
+    "options": {
+      "a": "Decreased by CCK",
+      "b": "Decreased by gastrin",
+      "c": "Increased by secretin",
+      "d": "Decreased by insulin"
+    },
+    "correct_answer": "a",
+    "explanation": "CCK decreases (inhibits) gastric emptying \u2014 this is true. Gastrin actually stimulates gastric emptying (not decreases). Secretin inhibits (not increases) gastric emptying by contracting the pyloric sphincter. Insulin stimulates gastric acid secretion when given parenterally in sufficient doses to cause hypoglycemia. Among the options, only A is correct.",
+    "reference": "Guyton-Physiology-12th edn. pp 785, 13th pp 446"
+  },
+  {
+    "id": 19,
+    "question": "Chyme is propelled forward in small intestine by: [PGI June 98]",
+    "options": {
+      "a": "Segmentation",
+      "b": "Haustrations",
+      "c": "Migratory motor complexes (MMC)",
+      "d": "Peristalsis"
+    },
+    "correct_answer": "d",
+    "explanation": "Peristalsis is the propulsive movement that moves chyme forward in the small intestine. Mass movement is the propulsive movement in the colon. Segmentation and haustrations are non-propulsive (mixing) movements. MMC is a fasting interdigestive movement for housekeeping, not primarily for propulsion of chyme during digestion.",
+    "reference": "Ganong's Physiology 25th edn. pp 496, 26th pp 485"
+  },
+  {
+    "id": 20,
+    "question": "All of the following statements are true for 'Intestinal motility' except: [AI 07]",
+    "options": {
+      "a": "Does not depend on gastric motility",
+      "b": "Increased by distension",
+      "c": "Increased by acetylcholine",
+      "d": "Increased by cholecystokinin"
+    },
+    "correct_answer": "a",
+    "explanation": "Intestinal motility DOES depend on gastric motility through the gastrocolic and duodenocolic reflexes. When the stomach is active (filling with food), it triggers increased motility in the colon via these reflexes. Therefore, the statement that intestinal motility 'does not depend on gastric motility' is FALSE. Distension, acetylcholine, and CCK all increase intestinal motility.",
+    "reference": "Ganong's Physiology 25th edn. pp 496, 26th pp 494"
+  },
+  {
+    "id": 21,
+    "question": "Maximum postprandial motility is seen in: [AIIMS May 11, Nov 08]",
+    "options": {
+      "a": "Ascending colon",
+      "b": "Transverse colon",
+      "c": "Descending colon",
+      "d": "Sigmoid colon"
+    },
+    "correct_answer": "d",
+    "explanation": "Eating elicits increased motor activity throughout the colon (the gastrocolic response). This increased postprandial motility is greater in the sigmoid colon than in the transverse colon. The sigmoid colon shows maximum postprandial motility, which is why patients with irritable bowel syndrome often experience urgency after meals.",
+    "reference": "Yamada Gastroenterology 5th edn. pp 244"
+  },
+  {
+    "id": 22,
+    "question": "Longest transit time in GIT is seen in: [PGI Dec 97]",
+    "options": {
+      "a": "Stomach",
+      "b": "Jejunum",
+      "c": "Colon",
+      "d": "Ileum"
+    },
+    "correct_answer": "c",
+    "explanation": "The colon has the longest transit time in the GI tract (~10\u201359 hours, approximately 20 hours on average). Transit times: Esophagus \u2014 4\u20138 seconds; Stomach \u2014 2\u20135 hours; Small intestine \u2014 3\u20136 hours; Colon \u2014 10\u201359 hours. The slow transit through the colon allows for water and electrolyte absorption.",
+    "reference": "Johnson's Essential Medical Physiology 3rd edn. pp 488"
+  },
+  {
+    "id": 23,
+    "question": "While doing sigmoidoscopy, if the rectum is inflated with gas, increased peristalsis is seen: [AIIMS May 01]",
+    "options": {
+      "a": "Whole colon",
+      "b": "Proximal colon",
+      "c": "Distal colon",
+      "d": "Whole intestine"
+    },
+    "correct_answer": "c",
+    "explanation": "Distension of the rectum (as with gas during sigmoidoscopy) produces both passive tension from wall stretching and active contraction of smooth muscle locally in the distal colon. Increased peristalsis in response to rectal distension is seen in the distal colon (sigmoid and rectum), not the entire colon or intestine.",
+    "reference": "Ganong's Physiology 25th edn. pp 502, Fig. 27-8, 26th pp 492"
+  },
+  {
+    "id": 24,
+    "question": "Following are gastrointestinal hormones except:",
+    "options": {
+      "a": "CCK-PZ",
+      "b": "GIP",
+      "c": "Motilin",
+      "d": "Chymotrypsin"
+    },
+    "correct_answer": "d",
+    "explanation": "Chymotrypsin is NOT a gastrointestinal hormone \u2014 it is a proteolytic enzyme secreted by the pancreas as chymotrypsinogen, activated in the duodenum. CCK-PZ (Cholecystokinin-Pancreozymin), GIP (Gastric Inhibitory Peptide/Glucose-dependent Insulinotropic Peptide), and Motilin are all true GI hormones secreted by enteroendocrine cells.",
+    "reference": "Ganong's Physiology 25th edn. pp 470, 26th pp 457"
+  },
+  {
+    "id": 25,
+    "question": "Gastrin:",
+    "options": {
+      "a": "Is a hormone secreted by pepsinogen cells",
+      "b": "Is a polypeptide",
+      "c": "Is released in cephalic phase",
+      "d": "Causes gastric juice secretion at a rate of 500\u2013700 mL/hr"
+    },
+    "correct_answer": "b",
+    "explanation": "Gastrin is a polypeptide hormone secreted by G cells (not pepsinogen/chief cells) in the antral portion of the gastric mucosa. It is primarily released during the gastric phase (not cephalic phase), in response to stomach distension and protein digestion products. It stimulates HCl secretion and has mild stimulatory effects on gastric motility.",
+    "reference": "Ganong's Physiology 25th edn. pp 467, 26th pp 457"
+  },
+  {
+    "id": 26,
+    "question": "Which one of the following is the primary site of production of gastrin?",
+    "options": {
+      "a": "Pylorus",
+      "b": "Antrum",
+      "c": "Pancreas",
+      "d": "Small intestine"
+    },
+    "correct_answer": "b",
+    "explanation": "Gastrin is primarily produced by G cells located in the antrum of the stomach. Small amounts are also produced in the proximal duodenum and the pancreas (in Zollinger-Ellison syndrome, gastrinoma arises in the pancreas). The antrum is the primary and most important site of gastrin production.",
+    "reference": "Ganong's Physiology 25th edn."
+  },
+  {
+    "id": 27,
+    "question": "Which causes antral gastrin release?",
+    "options": {
+      "a": "Antral distension",
+      "b": "Acid",
+      "c": "Secretin",
+      "d": "Calcitonin"
+    },
+    "correct_answer": "a",
+    "explanation": "Gastrin is released from G cells in the antrum in response to: distension of the stomach (antral distension), products of protein digestion, and gastrin-releasing peptide (GRP) released during vagal stimulation. Acid (low pH) inhibits gastrin release via a negative feedback. Secretin and calcitonin inhibit gastrin secretion.",
+    "reference": "Guyton-Physiology-12th edn. pp 776, 13th pp 410"
+  },
+  {
+    "id": 28,
+    "question": "Motilin is secreted by cells in:",
+    "options": {
+      "a": "Stomach",
+      "b": "Duodenum/ileum",
+      "c": "Pancreas",
+      "d": "Liver"
+    },
+    "correct_answer": "b",
+    "explanation": "Motilin is secreted by enterochromaffin cells and Mo cells in the stomach, small intestine, and colon, with maximum production in the duodenum and jejunum. Although motilin is produced in the stomach as well, the predominant and maximum secretion is from the duodenum-jejunum region.",
+    "reference": "Ganong's Physiology 25th edn. pp 471, 26th pp 459"
+  },
+  {
+    "id": 29,
+    "question": "I cells of duodenum secrete:",
+    "options": {
+      "a": "Secretin",
+      "b": "Gastrin",
+      "c": "CCK",
+      "d": "Motilin"
+    },
+    "correct_answer": "c",
+    "explanation": "I cells (also called CCK cells) in the mucosa of the upper small intestine (duodenum and jejunum) secrete CCK (Cholecystokinin). CCK is also found in nerves in the distal ileum, colon, and brain (especially cerebral cortex). S cells secrete secretin; G cells secrete gastrin; Mo cells/enterochromaffin cells secrete motilin.",
+    "reference": "Ganong's Physiology 25th edn. pp 470, 26th pp 458"
+  },
+  {
+    "id": 30,
+    "question": "Paneth cells in the mucosa of the small intestine secrete:",
+    "options": {
+      "a": "Lysozyme",
+      "b": "Bioactive peptides and bioamines",
+      "c": "Bicarbonate",
+      "d": "Pepsin and rennin"
+    },
+    "correct_answer": "a",
+    "explanation": "Paneth cells are located at the base of the crypts of Lieberk\u00fchn in the small intestine. They secrete lysozyme (a bacteriolytic enzyme) and immunoglobulins. Evidence of degenerating bacteria within their lysosomal elements suggests Paneth cells regulate the microbiological flora of the gut. They are part of the innate immune defense of the intestine.",
+    "reference": "Johnson's Essential Medical Physiology 3rd edn. pp 531"
+  },
+  {
+    "id": 31,
+    "question": "Which of the following statements, regarding 'secretin' is least correct? [AI 08]",
+    "options": {
+      "a": "Increases bicarbonate rich secretion",
+      "b": "Inhibits gastric acid secretion",
+      "c": "Increases gastric acid secretion",
+      "d": "Causes contraction of pyloric sphincter"
+    },
+    "correct_answer": "c",
+    "explanation": "Secretin INHIBITS gastric acid secretion (not increases) \u2014 this is the least correct statement. Secretin increases bicarbonate-rich pancreatic and biliary secretion, inhibits gastric acid secretion, and causes contraction of the pyloric sphincter (inhibiting gastric emptying). Secretin is released from S cells in response to acid in the duodenum and serves to neutralize gastric acid.",
+    "reference": "Ganong's Physiology 25th edn. pp 470, 26th pp 458"
+  },
+  {
+    "id": 32,
+    "question": "All are true about secretin except: [PGI June 08]",
+    "options": {
+      "a": "Inhibits gastric emptying",
+      "b": "Increases bicarbonate rich pancreatic secretion",
+      "c": "Potentiates action of CCK",
+      "d": "Increases bile salt and bile acids",
+      "e": "Increases bile secretion"
+    },
+    "correct_answer": "d",
+    "explanation": "Secretin: inhibits gastric emptying (true), increases bicarbonate-rich pancreatic secretion (true), potentiates CCK action (true), increases bile flow/secretion by stimulating active secretion of chloride-rich fluid by bile ducts (true). However, secretin does NOT increase bile salts and bile acids \u2014 it increases bile FLOW (volume) not bile salt/acid content. Bile salt secretion is primarily stimulated by bile salts themselves (choleresis).",
+    "reference": "Ganong's Physiology 25th edn. pp 470, 26th pp 458; Blumgart's Surgery of the Liver, Pancreas and Biliary Tract"
+  },
+  {
+    "id": 33,
+    "question": "True about secretin is: [PGI June 99]",
+    "options": {
+      "a": "Increased gallbladder contraction and HCO3 rich pancreatic fluid",
+      "b": "Increased gastrin secretion",
+      "c": "Gastric hypermotility",
+      "d": "Increase enzyme rich pancreatic fluid"
+    },
+    "correct_answer": "a",
+    "explanation": "True about secretin: (a) In physiological doses, secretin inhibits gastric motility, can increase gallbladder contraction, and increases HCO3\u2013-rich pancreatic secretion. Secretin inhibits (not increases) gastrin secretion. Secretin inhibits gastric motility (not hypermotility). Enzyme-rich pancreatic fluid is stimulated by CCK, not secretin (secretin stimulates volume/bicarbonate-rich fluid).",
+    "reference": "General Surgery by M Alex Jacocks pp 52; Ganong's Physiology 25th edn. pp 446, 26th pp 458"
+  },
+  {
+    "id": 34,
+    "question": "All are actions of CCK except: [AI 99]",
+    "options": {
+      "a": "Relaxes lower esophageal sphincter",
+      "b": "Increased pancreatic secretion",
+      "c": "Increased gastric secretion",
+      "d": "Causes gallbladder contraction"
+    },
+    "correct_answer": "c",
+    "explanation": "CCK is a NEGATIVE regulator of gastric acid secretion \u2014 it inhibits (not increases) gastric acid secretion. Actions of CCK include: gallbladder contraction, increased pancreatic enzyme secretion, inhibition of gastric emptying, augmentation of pyloric sphincter contraction, enhanced small intestinal and colonic motility, and transient relaxation of the lower esophageal sphincter. Increased gastric secretion is NOT an action of CCK.",
+    "reference": "Ganong's Physiology 25th edn. pp 470, 26th pp 458; Gastroenterology 1994;107:1610-20"
+  },
+  {
+    "id": 35,
+    "question": "Fat in the duodenum lumen: [AI 00]",
+    "options": {
+      "a": "Stimulates gallbladder contraction",
+      "b": "Inhibits gallbladder contraction",
+      "c": "Inhibits CCK secretion",
+      "d": "Releases secretin"
+    },
+    "correct_answer": "a",
+    "explanation": "Fatty acids and amino acids in the duodenal lumen stimulate I cells to release CCK, which causes gallbladder contraction. Fat in the duodenum is therefore a potent stimulus for gallbladder contraction (via CCK). It does not inhibit CCK \u2014 rather, fat stimulates CCK release. Acid in the duodenum releases secretin, not fat per se.",
+    "reference": "Ganong's Physiology 25th edn. pp 514, Fig. 28-8, 26th pp 509"
+  },
+  {
+    "id": 36,
+    "question": "Gallbladder contraction is stimulated by: [AI 98]",
+    "options": {
+      "a": "Gastrin",
+      "b": "Secretin",
+      "c": "Vagus",
+      "d": "Cholecystokinin"
+    },
+    "correct_answer": "d",
+    "explanation": "By far the most potent stimulus for gallbladder contraction is CCK (Cholecystokinin). Vagal stimulation causes only weak contraction of the gallbladder. Gastrin has a mild effect similar to CCK but is far less potent. Secretin has little direct effect on gallbladder contraction (it primarily stimulates bile duct bicarbonate secretion).",
+    "reference": "Guyton-Physiology-12th edn. pp 803, 13th pp 421"
+  },
+  {
+    "id": 37,
+    "question": "All of the following are trypsin inhibitors, except: [AI 08]",
+    "options": {
+      "a": "Alpha-1 antitrypsin",
+      "b": "Alpha-1 antiproteinase",
+      "c": "Enterokinase",
+      "d": "Egg-white"
+    },
+    "correct_answer": "c",
+    "explanation": "Enterokinase (enteropeptidase) is NOT a trypsin inhibitor \u2014 it is a brush border enzyme that ACTIVATES trypsin by converting trypsinogen to trypsin. Trypsin inhibitors include: alpha-1 antitrypsin, alpha-1 antiproteinase, aprotinin, ovomucin (egg white), soybean trypsin inhibitor. These are serine protease inhibitors that reduce the biological activity of trypsin.",
+    "reference": "Ganong's Physiology 25th edn. pp 479, 26th pp 471"
+  },
+  {
+    "id": 38,
+    "question": "All of the following are actions of secretin except: [Dec 2016]",
+    "options": {
+      "a": "Increase secretion of gastric acid",
+      "b": "Alkaline secretion from Brunner glands",
+      "c": "Increases bile flow",
+      "d": "Augments the actions of CCK"
+    },
+    "correct_answer": "a",
+    "explanation": "Secretin DECREASES (not increases) gastric acid secretion \u2014 this is the exception. True actions of secretin include: alkaline (bicarbonate-rich) secretion from Brunner glands of the duodenum, increased bile flow (by stimulating bicarbonate/chloride-rich fluid from bile ducts), and augmentation of CCK actions (potentiation). Secretin is the classic inhibitor of gastric acid secretion.",
+    "reference": "Ganong's Review of Physiology 25th pp 497, 26th pp 458"
+  },
+  {
+    "id": 39,
+    "question": "Gastric mucosal barrier stabilized by: [Dec 2016]",
+    "options": {
+      "a": "Bicarbonate",
+      "b": "Trefoil peptides",
+      "c": "Prostaglandins",
+      "d": "Acid"
+    },
+    "correct_answer": "b",
+    "explanation": "Trefoil peptides are secreted by surface mucous cells and stabilize the mucus-bicarbonate layer, which forms the gastric mucosal barrier. While bicarbonate and prostaglandins also contribute to mucosal protection, it is trefoil peptides that specifically stabilize the barrier structure.",
+    "reference": "Ganong's Physiology 25th edn."
+  },
+  {
+    "id": 40,
+    "question": "Which of the following is an inhibitor of gastric acid secretion? [Dec 2016]",
+    "options": {
+      "a": "Acetylcholine (Ach)",
+      "b": "Gastrin",
+      "c": "Histamine",
+      "d": "Secretin"
+    },
+    "correct_answer": "d",
+    "explanation": "Secretin decreases gastric acid secretion. It is released from S cells in the duodenum in response to acid and inhibits acid production in the stomach. Acetylcholine, gastrin, and histamine are all stimulants of gastric acid secretion (the three classic agonists of parietal cells).",
+    "reference": "Ganong's Review of Physiology 25th pp 497, 26th pp 458"
+  },
+  {
+    "id": 41,
+    "question": "Myenteric plexus is present in:",
+    "options": {
+      "a": "Muscularis externa",
+      "b": "Submucosa",
+      "c": "Mucosa",
+      "d": "Serosa"
+    },
+    "correct_answer": "a",
+    "explanation": "The myenteric plexus (Auerbach's plexus) is located in the muscularis propria (muscularis externa), between the inner circular muscle layer and the outer longitudinal muscle layer. It controls GI motility. The submucosal plexus (Meissner's plexus) is located in the submucosa and controls secretion and local blood flow.",
+    "reference": "Ganong's Physiology 25th edn. pp 454, 26th pp 446"
+  },
+  {
+    "id": 42,
+    "question": "Rennin is present in:",
+    "options": {
+      "a": "Gastric juice",
+      "b": "Liver",
+      "c": "Kidney",
+      "d": "Lung"
+    },
+    "correct_answer": "a",
+    "explanation": "Rennin (chymosin) is a proteolytic enzyme present in the gastric juice of milk-fed calves. It coagulates milk by converting caseinogen to casein. Note: Rennin (digestive enzyme) is different from Renin (renal enzyme involved in blood pressure regulation).",
+    "reference": "Essentials of Food Science by V Vaclavik, E W. Christian"
+  },
+  {
+    "id": 43,
+    "question": "Intrinsic factor of Castle is secreted by which of the following cells in gastric glands?",
+    "options": {
+      "a": "Chief cell",
+      "b": "Parietal cell",
+      "c": "Enterochromaffin cells",
+      "d": "B cells"
+    },
+    "correct_answer": "b",
+    "explanation": "Intrinsic factor (Castle's intrinsic factor) is a glycoprotein secreted by the parietal cells (oxyntic cells) of the gastric glands. These same parietal cells also secrete hydrochloric acid. Intrinsic factor is essential for the absorption of vitamin B12 (cobalamin) in the terminal ileum.",
+    "reference": "Guyton-Physiology-12th edn. pp 820, 13th pp 406"
+  },
+  {
+    "id": 44,
+    "question": "Parietal cell secretes:",
+    "options": {
+      "a": "Mucus",
+      "b": "Pepsinogens",
+      "c": "Gastrin",
+      "d": "Intrinsic factor"
+    },
+    "correct_answer": "d",
+    "explanation": "Parietal cells (oxyntic cells) secrete hydrochloric acid (HCl) and intrinsic factor. Chief cells secrete pepsinogen. G cells secrete gastrin. Mucous neck cells and surface epithelial cells secrete mucus. Intrinsic factor is essential for vitamin B12 absorption.",
+    "reference": "Guyton-Physiology-12th edn. pp 820, 13th pp 406"
+  },
+  {
+    "id": 45,
+    "question": "Cephalic phase of gastric secretion contributes what percentage of total gastric secretion?",
+    "options": {
+      "a": "20%",
+      "b": "70%",
+      "c": "10%",
+      "d": "100%"
+    },
+    "correct_answer": "a",
+    "explanation": "Gastric acid secretion is divided into three phases: Cephalic phase (20\u201330%) \u2014 triggered by sight, smell, taste, or thought of food, mediated by vagus nerve; Gastric phase (60\u201370%) \u2014 triggered when food enters the stomach; Intestinal phase (10%) \u2014 triggered when chyme enters the duodenum.",
+    "reference": "Guyton-Physiology-12th edn. pp 820, 13th pp 410"
+  },
+  {
+    "id": 46,
+    "question": "In the stomach, H+ ions are secreted in exchange for:",
+    "options": {
+      "a": "Na+",
+      "b": "K+",
+      "c": "Ca2+",
+      "d": "Cl\u2013"
+    },
+    "correct_answer": "b",
+    "explanation": "In the parietal cells, hydrogen ions are actively secreted into the canaliculus in exchange for potassium ions. This active exchange process is catalyzed by the H+/K+-ATPase (proton pump). K+ moves from the canaliculus into the cell while H+ is pumped out, with Cl\u2013 following H+ into the lumen to form HCl.",
+    "reference": "Guyton-Physiology-12th edn. pp 796, 13th pp 409"
+  },
+  {
+    "id": 47,
+    "question": "Minimum sodium is secreted in which of the following:",
+    "options": {
+      "a": "Saliva",
+      "b": "Bile",
+      "c": "Duodenal secretion",
+      "d": "Stomach"
+    },
+    "correct_answer": "a",
+    "explanation": "Among GI secretions, the minimum sodium concentration is found in saliva. The maximum Na+ concentration is found in bile, followed by pancreatic juice, then small intestinal secretions. Saliva has a Na+ concentration significantly lower than plasma (hypotonic), because ductal cells actively reabsorb Na+ as saliva passes through the ducts.",
+    "reference": "Fluid and Electrolyte Balance by Norma Metheny; Harrison's Principles of Internal Medicine 19th edn. Table 98e-2"
+  },
+  {
+    "id": 48,
+    "question": "Salivary amylase is activated by:",
+    "options": {
+      "a": "Na+",
+      "b": "K+",
+      "c": "HCO3\u2013",
+      "d": "Cl\u2013"
+    },
+    "correct_answer": "d",
+    "explanation": "Salivary \u03b1-amylase is activated by chloride ions (Cl\u2013), which serve as allosteric effectors. The enzyme has an optimal pH of 6.7. Its action is inhibited when food enters the acidic environment of the stomach. Chloride is the allosteric effector of both vertebrate pancreatic and salivary \u03b1-amylases.",
+    "reference": "Guyton-Physiology-12th edn. pp 809, 13th pp 427; Journal of Biological Chemistry 1996;271:23836-23841"
+  },
+  {
+    "id": 49,
+    "question": "Gastric secretions are increased by all of the following except:",
+    "options": {
+      "a": "Somatostatin",
+      "b": "Histamine",
+      "c": "Vagal stimulation",
+      "d": "Gastrin"
+    },
+    "correct_answer": "a",
+    "explanation": "Somatostatin is an inhibitor of gastric acid secretion \u2014 it inhibits gastrin release and directly inhibits parietal cells. Histamine, vagal stimulation (via acetylcholine), and gastrin are all major stimulants of gastric acid secretion. Other inhibitors include secretin, GIP, VIP, and acid in the duodenum.",
+    "reference": "Guyton-Physiology-12th edn. pp 799, 13th pp 410"
+  },
+  {
+    "id": 50,
+    "question": "Which inhibits gastric secretion?",
+    "options": {
+      "a": "Secretin",
+      "b": "High gastric pH",
+      "c": "Insulin",
+      "d": "Calcium"
+    },
+    "correct_answer": "a",
+    "explanation": "Secretin inhibits gastric acid secretion. High gastric pH would actually stimulate more acid production (not inhibit). Insulin (parenteral, causing blood sugar <40\u201350 mg%) stimulates gastric acid secretion via vagal activation. Calcium stimulates gastrin release, which increases acid secretion.",
+    "reference": "Guyton-Physiology-12th edn. pp 798, 13th pp 410"
+  },
+  {
+    "id": 51,
+    "question": "Gastric secretion is increased by all except:",
+    "options": {
+      "a": "Histamine",
+      "b": "Acetylcholine",
+      "c": "Gastrin",
+      "d": "HCl"
+    },
+    "correct_answer": "d",
+    "explanation": "HCl (hydrochloric acid) itself inhibits further gastric acid secretion through a negative feedback mechanism. When luminal pH falls below 3, gastrin release is suppressed and somatostatin release is stimulated. Histamine, acetylcholine, and gastrin are the three classic stimulants of parietal cell acid secretion.",
+    "reference": "Guyton-Physiology-12th edn. pp 798, 13th pp 410"
+  },
+  {
+    "id": 52,
+    "question": "Cephalic phase of gastric secretion is triggered:",
+    "options": {
+      "a": "On food entering stomach",
+      "b": "On food entering intestine",
+      "c": "On seeing food",
+      "d": "On stress"
+    },
+    "correct_answer": "c",
+    "explanation": "The cephalic phase of gastric secretion occurs before food enters the stomach \u2014 it is triggered by the sight, smell, taste, or thought of food. It is mediated via the vagus nerve (parasympathetic). It does not occur during stress, which activates the sympathetic system. Option a describes the gastric phase; option b describes the intestinal phase.",
+    "reference": "Guyton-Physiology-12th edn. pp 798, 13th pp 411"
+  },
+  {
+    "id": 53,
+    "question": "Gastric acid is decreased by:",
+    "options": {
+      "a": "Secretin",
+      "b": "Vagal stimulation",
+      "c": "Proteins in gastric fluids",
+      "d": "Gastric antral distension"
+    },
+    "correct_answer": "a",
+    "explanation": "Secretin, released from duodenal S cells in response to acid, inhibits gastric acid secretion. Vagal stimulation increases acid secretion. Proteins in gastric fluids buffer acid and stimulate gastrin release (increasing secretion). Gastric antral distension also releases gastrin, stimulating further acid secretion.",
+    "reference": "Guyton-Physiology-12th edn. pp 799, 13th pp 412"
+  },
+  {
+    "id": 54,
+    "question": "HCl secretion in gastric phase is increased by:",
+    "options": {
+      "a": "Pepsinogen",
+      "b": "CCK",
+      "c": "Gastrin",
+      "d": "Secretin"
+    },
+    "correct_answer": "c",
+    "explanation": "During the gastric phase, the major stimuli for HCl secretion are: local nervous secretory reflexes (triggered by stomach distension), vagal reflexes, and gastrin-histamine stimulation. Gastrin is the primary hormonal stimulus in this phase. CCK and secretin are intestinal phase hormones that generally inhibit gastric acid. Pepsinogen is a substrate, not a stimulant.",
+    "reference": "Guyton-Physiology-12th edn. pp 798, 13th pp 411"
+  },
+  {
+    "id": 55,
+    "question": "Secretion of bile into bile canaliculus is by:",
+    "options": {
+      "a": "Osmotic gradient",
+      "b": "Facilitated diffusion",
+      "c": "Active transport across the membrane",
+      "d": "Simple diffusion"
+    },
+    "correct_answer": "c",
+    "explanation": "Bile secretion into bile canaliculi is driven by active secretion of osmotically active compounds (primarily bile acids) by hepatocytes into the canalicular space, followed by passive movement of water through tight junctions. Bile acids are the major osmotic driving force in bile flow generation and are actively transported across the canalicular membrane.",
+    "reference": "Ganong's Physiology 25th edn. pp 513, 26th pp 502"
+  },
+  {
+    "id": 56,
+    "question": "Normal gastric juice contains all except: [AI 95]",
+    "options": {
+      "a": "Na+",
+      "b": "K+",
+      "c": "Ca++",
+      "d": "Mg2+"
+    },
+    "correct_answer": "c",
+    "explanation": "Normal gastric juice does not contain Ca++. Gastric juice contains Na+, K+, Cl\u2013, H+, HCO3\u2013, pepsinogen, intrinsic factor, and mucus. Calcium is not a component of gastric juice.",
+    "reference": "Ganong's Physiology 25th edn. pp 457, 26th pp 449"
+  },
+  {
+    "id": 57,
+    "question": "HCl secretion is stimulated by: [PGI June 01]",
+    "options": {
+      "a": "Secretin",
+      "b": "Somatostatin",
+      "c": "Histamine",
+      "d": "Gastrin",
+      "e": "VIP"
+    },
+    "correct_answer": "c,d",
+    "explanation": "The three classic agonists (stimulants) of parietal cells for HCl secretion are: gastrin, histamine, and acetylcholine. Secretin, somatostatin, and VIP (Vasoactive Intestinal Peptide) are all inhibitors of gastric acid secretion.",
+    "reference": "Ganong's Physiology 25th edn. pp 457, 26th pp 450"
+  },
+  {
+    "id": 58,
+    "question": "Highest concentration of potassium is in: [AIIMS Nov 09]",
+    "options": {
+      "a": "Bile",
+      "b": "Pancreatic juice",
+      "c": "Terminal ileal secretions",
+      "d": "Rectal fluid"
+    },
+    "correct_answer": "d",
+    "explanation": "The highest concentration of potassium in GI secretions is found in rectal fluid (colon/rectum). The colon actively secretes K+ into the lumen, resulting in progressively increasing K+ concentration distally. The highest per-day K+ secretion is in saliva, but the highest concentration is in rectal/colonic fluid.",
+    "reference": "Fluid and Electrolyte Balance by Norma Metheny; Harrison's Principles of Internal Medicine 19th edn. Table 98e-2"
+  },
+  {
+    "id": 59,
+    "question": "Maximum potassium ions secretion is seen in: [AIIMS May 09]",
+    "options": {
+      "a": "Saliva",
+      "b": "Gastric secretions",
+      "c": "Jejunal secretions",
+      "d": "Colonic secretions"
+    },
+    "correct_answer": "a",
+    "explanation": "Saliva has the maximum potassium secretion per day among GI secretions. Saliva has a K+ concentration of approximately 20 mEq/L (much higher than plasma), making it relatively K+-rich. The salivary glands actively secrete K+ via Na+/K+-ATPase in ductal cells. Note: highest K+ concentration is in rectal fluid, but maximum daily K+ secretion is in saliva.",
+    "reference": "Fluid and Electrolyte Balance by Norma Metheny; Harrison's Principles of Internal Medicine 19th edn."
+  },
+  {
+    "id": 60,
+    "question": "Most important stimulant for bile secretion is: [JIPMER 99, AIIMS 97, AI 97]",
+    "options": {
+      "a": "Cholecystokinin",
+      "b": "Secretin",
+      "c": "Bile acid",
+      "d": "Bile salt"
+    },
+    "correct_answer": "d",
+    "explanation": "Bile salts are the most potent stimulus for bile secretion (choleresis). They undergo enterohepatic circulation and when returned to the liver, they stimulate further bile secretion. CCK is the most potent stimulus for gallbladder contraction (not bile secretion per se). Secretin stimulates bicarbonate-rich bile secretion from ductal cells.",
+    "reference": "Human Physiology: From Cells to Systems by Lauralee Sherwood 8th edn. pp 413"
+  },
+  {
+    "id": 61,
+    "question": "Bilirubin is secreted by: [AIIMS May 95]",
+    "options": {
+      "a": "Bile salts",
+      "b": "Bile pigments",
+      "c": "Secretin",
+      "d": "CCK"
+    },
+    "correct_answer": "a",
+    "explanation": "Bilirubin is secreted into bile via active transport driven by bile salts. Bile salts are the major driving force for bile flow and facilitate the secretion of bilirubin (a bile pigment) into the bile canaliculi. Bile secretion (and hence bilirubin excretion) is stimulated by bile salts through the enterohepatic circulation.",
+    "reference": "Johnson's Essential Medical Physiology 3rd edn. pp 524"
+  },
+  {
+    "id": 62,
+    "question": "Maximum contraction of gallbladder is seen with: [PGI June 2000]",
+    "options": {
+      "a": "CCK",
+      "b": "Secretin",
+      "c": "Gastrin",
+      "d": "Enterogastrone"
+    },
+    "correct_answer": "a",
+    "explanation": "Cholecystokinin (CCK) is the most potent stimulus for gallbladder contraction. It is released from I cells in the duodenum and jejunum in response to fats and proteins in the duodenum. CCK simultaneously causes gallbladder contraction and relaxation of the sphincter of Oddi, promoting bile flow into the duodenum.",
+    "reference": "Ganong's Physiology 25th edn."
+  },
+  {
+    "id": 63,
+    "question": "Which of the following secretions has a very high pH? [AI 06]",
+    "options": {
+      "a": "Gastric juice",
+      "b": "Pancreatic juice",
+      "c": "Bile in gallbladder",
+      "d": "Saliva"
+    },
+    "correct_answer": "b",
+    "explanation": "Pancreatic juice has a very high pH of approximately 8.0\u20138.3, making it the most alkaline of all GI secretions. It contains high bicarbonate (HCO3\u2013) concentrations secreted by ductal cells under secretin stimulation. This alkalinity neutralizes the acidic chyme entering the duodenum from the stomach.",
+    "reference": "Fluid and Electrolyte Balance by Norma Metheny; Harrison's Principles of Internal Medicine 19th edn. Table 98e-2"
+  },
+  {
+    "id": 64,
+    "question": "Vit. D increases absorption of calcium in intestine with the help of which of the following protein? [Dec 2016]",
+    "options": {
+      "a": "Calbindin",
+      "b": "Calreticulin",
+      "c": "Calsequestrin",
+      "d": "Calmodulin"
+    },
+    "correct_answer": "a",
+    "explanation": "Vitamin D (1,25-dihydroxycholecalciferol) increases calcium absorption in the duodenum by inducing synthesis of calbindin (also called calcium-binding protein or CaBP). Calbindin buffers intracellular Ca2+ after it enters through apical Ca2+ channels, allowing transcellular transport. A Ca2+ pump and Na-Ca exchanger on the basolateral membrane then extrude Ca2+ into the interstitial fluid.",
+    "reference": "Boron and Boulpaep Medical Physiology 2nd edn. pp 974"
+  },
+  {
+    "id": 65,
+    "question": "Vit. B12 is mainly absorbed from: [Dec 2016]",
+    "options": {
+      "a": "Terminal ileum",
+      "b": "Duodenum",
+      "c": "Jejunum",
+      "d": "Stomach"
+    },
+    "correct_answer": "a",
+    "explanation": "Vitamin B12 (cobalamin) is absorbed in the terminal ileum via cubilin receptors, which bind the cobalamin-intrinsic factor complex. Most other vitamins are absorbed in the upper small intestine, but vitamin B12 is unique in requiring intrinsic factor and specific ileal receptors for its absorption.",
+    "reference": "Ganong's Review of Physiology 25th pp 484, 26th pp 478"
+  },
+  {
+    "id": 66,
+    "question": "The mechanism involved in the absorption of glucose from the small intestine is:",
+    "options": {
+      "a": "Passive diffusion",
+      "b": "Facilitated diffusion",
+      "c": "Secondary active cotransport with sodium",
+      "d": "Actively by insulin dependent uptake"
+    },
+    "correct_answer": "c",
+    "explanation": "Glucose is absorbed from the intestinal lumen via SGLT-1 (sodium-glucose linked transporter 1), which is a secondary active cotransporter. Glucose is transported along with Na+ (which moves down its electrochemical gradient), so glucose moves against its own concentration gradient driven by the Na+ gradient established by the Na+/K+-ATPase. This is not insulin dependent.",
+    "reference": "Ganong's Physiology 25th edn. pp 478, 26th pp 471"
+  },
+  {
+    "id": 67,
+    "question": "Intestinal absorption is faster for:",
+    "options": {
+      "a": "Hexoses",
+      "b": "Disaccharides",
+      "c": "Oligosaccharides",
+      "d": "Polysaccharides"
+    },
+    "correct_answer": "a",
+    "explanation": "Hexoses (monosaccharides with 6 carbons, e.g., glucose, galactose, fructose) are rapidly absorbed directly across the wall of the small intestine via specific transporters. Disaccharides, oligosaccharides, and polysaccharides must first be digested to monosaccharides by brush border and pancreatic enzymes before absorption \u2014 making them slower to absorb.",
+    "reference": "Ganong's Physiology 25th edn. pp 478, 26th pp 469"
+  },
+  {
+    "id": 68,
+    "question": "Fastest absorbing sugar in intestine:",
+    "options": {
+      "a": "Glucose",
+      "b": "Sucrose",
+      "c": "Maltose",
+      "d": "Mannose"
+    },
+    "correct_answer": "a",
+    "explanation": "Glucose is the fastest absorbing sugar in the intestine. It is actively transported via SGLT-1 (secondary active transport with Na+) and is essentially completely absorbed before the intestinal contents reach the terminal ileum. Sucrose and maltose are disaccharides that must be digested first. Mannose is absorbed by facilitated diffusion at a slower rate.",
+    "reference": "Ganong's Physiology 25th edn. pp 478, 26th pp 469"
+  },
+  {
+    "id": 69,
+    "question": "Best absorbable monosaccharide:",
+    "options": {
+      "a": "Glucose",
+      "b": "Mannose",
+      "c": "Fructose",
+      "d": "Lactose"
+    },
+    "correct_answer": "a",
+    "explanation": "Glucose is the fastest and best absorbing sugar from the intestine. It uses the high-affinity active transporter SGLT-1 for intestinal uptake. Galactose also uses SGLT-1. Fructose uses GLUT-5 (facilitated diffusion, slower). Mannose is absorbed slowly. Lactose is a disaccharide, not a monosaccharide.",
+    "reference": "The Good Gut by J Sonnenburg, E Sonnenburg"
+  },
+  {
+    "id": 70,
+    "question": "Amount of protein undigested in small intestine is:",
+    "options": {
+      "a": "1\u20135%",
+      "b": "10\u201320%",
+      "c": "5\u201310%",
+      "d": "25\u201330%"
+    },
+    "correct_answer": "a",
+    "explanation": "Only 2\u20135% of the protein in the small intestine escapes digestion and absorption. The vast majority (95\u201398%) of dietary protein is digested and absorbed in the small intestine. The small undigested fraction passes to the colon where it is acted upon by colonic bacteria.",
+    "reference": "Ganong's Physiology 25th edn. pp 480, 26th pp 473"
+  },
+  {
+    "id": 71,
+    "question": "Gastric secretions are essential for absorption of:",
+    "options": {
+      "a": "Cobalamin",
+      "b": "Fat",
+      "c": "Thiamine",
+      "d": "Protein"
+    },
+    "correct_answer": "a",
+    "explanation": "Gastric secretions are essential for the absorption of cobalamin (Vitamin B12). Parietal cells secrete intrinsic factor, which is crucial for B12 absorption in the ileum. Gastric acid also releases B12 from food proteins. Without intrinsic factor (as in pernicious anaemia or post-gastrectomy), B12 cannot be absorbed, leading to megaloblastic anaemia.",
+    "reference": "Ganong's Physiology 25th edn. pp 457, 26th pp 449"
+  },
+  {
+    "id": 72,
+    "question": "Resection of which intestinal segment causes marked electrolyte imbalance?",
+    "options": {
+      "a": "Duodenum",
+      "b": "Jejunum",
+      "c": "Ileum",
+      "d": "Sigmoid"
+    },
+    "correct_answer": "b",
+    "explanation": "Most fluid and electrolyte absorption occurs in the jejunum. Resection of the jejunum causes the most marked electrolyte imbalance because the largest volume of fluid and electrolytes is normally absorbed there. Ileal resection primarily causes bile salt malabsorption and vitamin B12 deficiency.",
+    "reference": "Raff's Medical Physiology A Systems Approach, 2011, pp 528"
+  },
+  {
+    "id": 73,
+    "question": "Which of the following is absorbed in the colon?",
+    "options": {
+      "a": "Iron",
+      "b": "Proteins",
+      "c": "Bile salts",
+      "d": "Electrolytes"
+    },
+    "correct_answer": "d",
+    "explanation": "Among the options, electrolytes (Na+, Cl\u2013, K+, water) are absorbed in the colon. Iron is absorbed mainly in the duodenum and proximal jejunum. Proteins are absorbed in the small intestine. Bile salts undergo enterohepatic recirculation and are absorbed in the terminal ileum, not the colon.",
+    "reference": "Raff's Medical Physiology A Systems Approach, 2011, pp 528"
+  },
+  {
+    "id": 74,
+    "question": "Iron absorption takes place in which part of intestine?",
+    "options": {
+      "a": "Duodenum",
+      "b": "Ileum",
+      "c": "Jejunum",
+      "d": "Colon"
+    },
+    "correct_answer": "a",
+    "explanation": "Almost all iron absorption occurs in the duodenum, with a small amount in the proximal jejunum. The acidic environment from gastric acid keeps iron in the ferrous (Fe2+) form, which is more readily absorbed. DMT-1 (divalent metal transporter 1) on the apical surface of duodenal enterocytes is the primary iron transporter.",
+    "reference": "Ganong's Physiology 25th edn. pp 483, 26th pp 477"
+  },
+  {
+    "id": 75,
+    "question": "Glucose is absorbed in intestine by:",
+    "options": {
+      "a": "Secondary active transport",
+      "b": "Facilitated diffusion",
+      "c": "Simple diffusion",
+      "d": "Primary active transport"
+    },
+    "correct_answer": "a",
+    "explanation": "Glucose absorption in the intestine is accomplished by SGLT-1 (sodium-glucose linked transporter 1), which is a secondary active transporter. The Na+ gradient (maintained by Na+/K+-ATPase \u2014 primary active transport) drives glucose uptake against its concentration gradient. On the basolateral side, glucose exits via GLUT-2 by facilitated diffusion.",
+    "reference": "Ganong's Physiology 25th edn. pp 478, 26th pp 471"
+  },
+  {
+    "id": 76,
+    "question": "Iron is actively absorbed in: [AIIMS May 07]",
+    "options": {
+      "a": "Stomach",
+      "b": "Duodenum and proximal jejunum",
+      "c": "Large intestine",
+      "d": "Ileum"
+    },
+    "correct_answer": "b",
+    "explanation": "Iron is actively absorbed primarily in the duodenum and proximal jejunum. The duodenum is the major site of iron absorption. Gastric acid from the stomach keeps iron reduced (Fe2+), facilitating duodenal absorption via DMT-1. Heme iron and non-heme iron are both maximally absorbed in the duodenum.",
+    "reference": "Ganong's Physiology 25th edn. pp 483, 26th pp 477"
+  },
+  {
+    "id": 77,
+    "question": "The amount of water absorbed in the intestine in a day is: [AIIMS Dec 95]",
+    "options": {
+      "a": "5 litres",
+      "b": "1 litre",
+      "c": "10 litres",
+      "d": "8 litres"
+    },
+    "correct_answer": "d",
+    "explanation": "The daily fluid load in the GI tract approximates 9 litres in normal adults: about 2L from oral intake plus ~7L from GI secretions. Small intestinal absorption accounts for ~7000 mL and colon absorption ~1900 mL (~21%), with only ~100 mL excreted in stool. Total intestinal water absorption per day is approximately 8 litres.",
+    "reference": "Raff's Medical Physiology A Systems Approach, 2011, pp 528"
+  },
+  {
+    "id": 78,
+    "question": "Maximum water reabsorption in the gastrointestinal tract occurs in: [AI 11, 10]",
+    "options": {
+      "a": "Stomach",
+      "b": "Jejunum",
+      "c": "Ileum",
+      "d": "Colon"
+    },
+    "correct_answer": "b",
+    "explanation": "Maximum water absorption in the GI tract occurs in the jejunum. The order of water absorption is: Jejunum > Ileum > Colon. The jejunum absorbs the largest volume of fluid daily due to its large surface area and the high osmotic gradient generated by nutrient absorption.",
+    "reference": "Raff's Medical Physiology A Systems Approach, 2011, pp 528"
+  },
+  {
+    "id": 79,
+    "question": "Receptor for absorption of Vit. B12 intrinsic factor complex is located in: [JIPMER 11, 10]",
+    "options": {
+      "a": "Ileum",
+      "b": "Duodenum",
+      "c": "Transverse colon",
+      "d": "Descending colon"
+    },
+    "correct_answer": "a",
+    "explanation": "The receptor for the cobalamin (Vit. B12)\u2013intrinsic factor complex is cubilin, located on the apical membrane of enterocytes in the terminal ileum. After B12 is released from food proteins in the stomach and binds intrinsic factor in the small intestine, the complex travels to the ileum where cubilin mediates its endocytosis and absorption.",
+    "reference": "Medical Physiology by WF Boron and EL Boulpaep 2nd edn. Chapter 45"
+  },
+  {
+    "id": 80,
+    "question": "Vitamin B12 is absorbed in: [PGI June 97]",
+    "options": {
+      "a": "Duodenum",
+      "b": "Jejunum",
+      "c": "Ileum",
+      "d": "Stomach"
+    },
+    "correct_answer": "c",
+    "explanation": "Vitamin B12 (cobalamin) is absorbed in the terminal ileum via specific cubilin receptors that recognize the cobalamin-intrinsic factor complex. Though intrinsic factor is produced in the stomach and the complex forms in the duodenum (after haptocorrin is degraded by pancreatic proteases), absorption occurs only in the ileum.",
+    "reference": "Medical Physiology by WF Boron and EL Boulpaep 2nd edn. Chapter 45"
+  },
+  {
+    "id": 81,
+    "question": "Short chain fatty acids produced by bacteria are maximally absorbed in: [JIPMER 02]",
+    "options": {
+      "a": "Duodenum",
+      "b": "Colon",
+      "c": "Ileum",
+      "d": "Jejunum"
+    },
+    "correct_answer": "b",
+    "explanation": "Short chain fatty acids (SCFAs) such as acetate, propionate, and butyrate are 2\u20135 carbon weak acids produced by colonic bacteria from fermentation of dietary fibre and resistant starches. They are produced AND maximally absorbed in the colon. Butyrate serves as the primary energy source for colonocytes.",
+    "reference": "Ganong's Physiology 25th edn. pp 483, 26th pp 476"
+  },
+  {
+    "id": 82,
+    "question": "Following constitute dietary fibres except: [AI 99]",
+    "options": {
+      "a": "Pectin",
+      "b": "Cellulose",
+      "c": "Hemicellulose",
+      "d": "Riboflavin"
+    },
+    "correct_answer": "d",
+    "explanation": "Dietary fibres include: pectin, cellulose, hemicellulose, and lignin \u2014 all plant-derived polysaccharides or structural polymers that resist digestion by human enzymes. Riboflavin (Vitamin B2) is a water-soluble vitamin, not a dietary fibre.",
+    "reference": "Understanding Medical Physiology by RL Bijlani 3rd edn. pp 456"
+  },
+  {
+    "id": 83,
+    "question": "True about dietary fiber: [PGI Dec 07]",
+    "options": {
+      "a": "Soluble fiber increases metabolism of sugar in GIT",
+      "b": "Increase bulk of stool",
+      "c": "Only soluble fibers are included in diet",
+      "d": "Increase GI transit time",
+      "e": "Not prevention against colonic cancer"
+    },
+    "correct_answer": "a,b",
+    "explanation": "True statements about dietary fibre: (a) Soluble fibre slows sugar absorption and reduces postprandial glycemia (increases metabolism/processing of sugar in GIT); (b) Dietary fibre increases bulk and softness of stool, stimulating bowel movements. False: Both soluble and insoluble fibres are included in diet. High fibre DECREASES (not increases) GI transit time. Dietary fibre does help protect against colonic cancer.",
+    "reference": "Understanding Medical Physiology by RL Bijlani 3rd edn. pp 456"
+  },
+  {
+    "id": 84,
+    "question": "True about high roughage in diet is: [AI 00]",
+    "options": {
+      "a": "Decreases stool transit time",
+      "b": "Increase stool transit time",
+      "c": "Normalize stool transit",
+      "d": "No effect on stool transit time"
+    },
+    "correct_answer": "a",
+    "explanation": "High roughage (dietary fibre) in diet decreases stool transit time (i.e., speeds up transit and reduces constipation). It increases stool bulk and water content, stimulating peristalsis. This reduction in transit time is one of the mechanisms by which dietary fibre helps protect against colorectal cancer and diverticulitis.",
+    "reference": "Understanding Medical Physiology by RL Bijlani 3rd edn. pp 456"
+  },
+  {
+    "id": 85,
+    "question": "Which of the following plant components is not fermented by gastrointestinal microorganisms? [AI 09]",
+    "options": {
+      "a": "Lignin",
+      "b": "Cellulose",
+      "c": "Hemicellulose",
+      "d": "Pectin"
+    },
+    "correct_answer": "a",
+    "explanation": "Lignin is a non-carbohydrate dietary fibre (a phenolic polymer) that is NOT fermented by the bacterial flora of the colon. Resistant starch, most pectin, and parts of hemicellulose and cellulose are fermented by colonic bacteria to produce short chain fatty acids. Lignin passes through the GI tract largely unchanged.",
+    "reference": "Understanding Medical Physiology by RL Bijlani 3rd edn. pp 456"
+  },
+  {
+    "id": 86,
+    "question": "Colonic bacteria, on digestion of dietary fibres would give: [AIIMS Nov 01]",
+    "options": {
+      "a": "Free radicals",
+      "b": "Glycerol",
+      "c": "Butyrate",
+      "d": "Sucrose"
+    },
+    "correct_answer": "c",
+    "explanation": "Colonic bacteria ferment dietary fibres (complex carbohydrates, resistant starches) to produce short chain fatty acids (SCFAs): acetate, propionate, and butyrate. Butyrate is the primary energy substrate for colonocytes (colonic epithelial cells) and has important roles in maintaining colonic mucosal health and preventing colorectal cancer.",
+    "reference": "Understanding Medical Physiology by RL Bijlani 3rd edn. pp 456"
+  },
+  {
+    "id": 87,
+    "question": "Which of the following is not a function of gut flora? [AIIMS Nov 11]",
+    "options": {
+      "a": "Fermentation of mucin",
+      "b": "Production of vitamin K",
+      "c": "Decreased proliferation of epithelial cells",
+      "d": "Synthesis of short chain fatty acid"
+    },
+    "correct_answer": "c",
+    "explanation": "Gut flora (colonic microbiome) functions include: fermentation of non-digestible dietary residue and endogenous mucin, production of SCFAs and vitamin K, absorption of ions, INCREASED (not decreased) epithelial cell proliferation (trophic effect of SCFAs), development of immune system, and protection against pathogens. Therefore, decreased proliferation of epithelial cells is NOT a function \u2014 gut flora actually increases epithelial proliferation.",
+    "reference": "Lancet 2003;361:512-19"
+  }
+]

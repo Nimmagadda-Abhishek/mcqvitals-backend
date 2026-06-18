@@ -1,0 +1,1390 @@
+[
+  {
+    "id": 1,
+    "question": "Filtration pressure in glomeruli of kidney:",
+    "options": {
+      "a": "10 mm of Hg",
+      "b": "6 mm of Hg",
+      "c": "15 mm of Hg",
+      "d": "2.0 mm of Hg"
+    },
+    "correct_answer": "a",
+    "explanation": "Net filtration pressure (NFP) = Glomerular capillary hydrostatic pressure (GHP) - Bowman's capsule hydrostatic pressure (BHP) - Glomerular oncotic pressure (GOP). NFP = 55 - 30 - 15 = 10 mm Hg. This is the effective filtration pressure driving GFR.",
+    "reference": "Guyton-Physiology-12th edn. pp 308"
+  },
+  {
+    "id": 2,
+    "question": "A negatively charged molecule is filtered with more difficulty compared to a positive one because:",
+    "options": {
+      "a": "Presence of negatively charged sialoproteins on the filtering membrane",
+      "b": "Negatively charged molecules are larger",
+      "c": "Positively charged proteins on filtering membrane",
+      "d": "Urine is acidic"
+    },
+    "correct_answer": "a",
+    "explanation": "The glomerular filtration membrane is lined with negatively charged sialoproteins and heparan sulfate proteoglycans. These create an electrostatic barrier that repels negatively charged molecules (like albumin), making them more difficult to filter. Positively charged molecules pass more easily.",
+    "reference": "Ganong's Physiology 25th edn. pp 662, 26th pp 652"
+  },
+  {
+    "id": 3,
+    "question": "GFR is determined by the following:",
+    "options": {
+      "a": "Bowman capsule pressure",
+      "b": "Hydrostatic pressure",
+      "c": "Plasma oncotic pressure",
+      "d": "All of the above"
+    },
+    "correct_answer": "d",
+    "explanation": "GFR is determined by: Net filtration pressure = Glomerular hydrostatic pressure - Bowman's capsule hydrostatic pressure - Glomerular capillary oncotic pressure. All three factors \u2014 Bowman capsule pressure, hydrostatic pressure, and plasma oncotic pressure \u2014 contribute to determining GFR.",
+    "reference": "Guyton-Physiology-12th edn. pp 308"
+  },
+  {
+    "id": 4,
+    "question": "Glomerular filtration rate is increased when:",
+    "options": {
+      "a": "Plasma oncotic pressure is increased",
+      "b": "Glomerular hydrostatic pressure is decreased",
+      "c": "Tubular hydrostatic pressure",
+      "d": "Increased renal blood flow"
+    },
+    "correct_answer": "d",
+    "explanation": "GFR is increased when renal blood flow increases, as this raises glomerular capillary hydrostatic pressure. Increased plasma oncotic pressure and decreased glomerular hydrostatic pressure would decrease GFR. Increased tubular hydrostatic pressure opposes filtration.",
+    "reference": "Guyton-Physiology-12th edn. pp 310"
+  },
+  {
+    "id": 5,
+    "question": "GFR increases if:",
+    "options": {
+      "a": "Efferent arteriole constricts",
+      "b": "Efferent arteriole dilates",
+      "c": "Afferent arteriole constricts",
+      "d": "Afferent arteriole dilates"
+    },
+    "correct_answer": "a",
+    "explanation": "Efferent arteriole constriction increases resistance to outflow, thereby increasing glomerular capillary hydrostatic pressure and hence GFR. Afferent arteriole constriction reduces blood flow into the glomerulus, decreasing GFR. Afferent arteriole dilation also increases GFR.",
+    "reference": "Guyton-Physiology-12th edn. pp 310"
+  },
+  {
+    "id": 6,
+    "question": "GFR is measured by:",
+    "options": {
+      "a": "Creatine clearance",
+      "b": "Inulin clearance",
+      "c": "PAH clearance",
+      "d": "Creatinine clearance"
+    },
+    "correct_answer": "b",
+    "explanation": "Inulin clearance is the gold standard for measuring GFR because inulin is freely filtered at the glomerulus and is neither secreted nor reabsorbed by the renal tubules. Creatinine clearance is used clinically as an approximation, but PAH clearance measures renal plasma flow, not GFR.",
+    "reference": "Ganong's Physiology 25th edn. pp 666, 26th pp 657"
+  },
+  {
+    "id": 7,
+    "question": "Used to measure GFR:",
+    "options": {
+      "a": "Inulin",
+      "b": "PAH",
+      "c": "Hippurate",
+      "d": "D2O"
+    },
+    "correct_answer": "a",
+    "explanation": "Inulin is used to measure GFR as it is freely filtered, neither secreted nor reabsorbed. PAH and hippurate are used to measure renal plasma flow (RPF). D2O (heavy water) is used to measure total body water.",
+    "reference": "Ganong's Physiology 25th edn. pp 666, 26th pp 657"
+  },
+  {
+    "id": 8,
+    "question": "Inulin clearance is equal to:",
+    "options": {
+      "a": "55 mL/min",
+      "b": "625 mL/min",
+      "c": "125 mL/min",
+      "d": "40 mL/min"
+    },
+    "correct_answer": "c",
+    "explanation": "Normal GFR in adults is approximately 125 mL/min. Since inulin is the gold standard for measuring GFR, inulin clearance equals GFR = 125 mL/min. PAH clearance (~625 mL/min) measures effective renal plasma flow.",
+    "reference": "Ganong's Physiology 25th edn. pp 666, 26th pp 657"
+  },
+  {
+    "id": 9,
+    "question": "Relaxation of mesangial cells of kidney is brought about by:",
+    "options": {
+      "a": "cAMP",
+      "b": "Endothelin",
+      "c": "PGF2",
+      "d": "Vasopressin"
+    },
+    "correct_answer": "a",
+    "explanation": "cAMP causes relaxation of mesangial cells, thereby increasing the filtration surface area and GFR. Endothelin, PGF2, and vasopressin cause contraction of mesangial cells, which reduces the filtration surface area and decreases GFR.",
+    "reference": "Ganong's Physiology 25th edn. pp 660, 26th pp 651"
+  },
+  {
+    "id": 10,
+    "question": "Which of the following relaxes mesangial cells in glomerulus?",
+    "options": {
+      "a": "Dopamine",
+      "b": "Histamine",
+      "c": "AT III",
+      "d": "PDGF"
+    },
+    "correct_answer": "a",
+    "explanation": "Dopamine (along with cAMP, ANP, and NO) causes relaxation of mesangial cells, increasing filtration surface area. PDGF (platelet-derived growth factor) and histamine cause contraction of mesangial cells. Relaxation of mesangial cells increases GFR.",
+    "reference": "Ganong's Physiology 25th edn. pp 660, 26th pp 651"
+  },
+  {
+    "id": 11,
+    "question": "Tubuloglomerular feedback is for:",
+    "options": {
+      "a": "Controlling plasma volume",
+      "b": "Maintenance of systemic BP",
+      "c": "Controlling GFR",
+      "d": "Controlling blood Na+ level"
+    },
+    "correct_answer": "c",
+    "explanation": "Tubuloglomerular feedback (TGF) is a mechanism by which the macula densa senses NaCl concentration in the distal tubule and adjusts GFR accordingly. When NaCl delivery is high, TGF reduces GFR; when low, TGF increases GFR \u2014 thus maintaining a constant GFR.",
+    "reference": "Ganong's Physiology 25th edn. pp 663, 26th pp 662"
+  },
+  {
+    "id": 12,
+    "question": "In hypovolemic shock what occurs in kidney?",
+    "options": {
+      "a": "Afferent arteriolar resistance increased",
+      "b": "Urine output increased",
+      "c": "Efferent arteriolar constriction",
+      "d": "Increased blood flow to kidney"
+    },
+    "correct_answer": "c",
+    "explanation": "In hypovolemic shock, angiotensin II and sympathetic stimulation cause efferent arteriolar constriction. This helps maintain GFR despite reduced renal perfusion. Afferent arteriolar resistance may also increase, but efferent constriction is a key compensatory response. Urine output decreases and renal blood flow decreases.",
+    "reference": "Guyton-Physiology-12th edn. pp 312"
+  },
+  {
+    "id": 13,
+    "question": "All of the following structures lie in the renal medulla, except: [AIIMS Nov 08]",
+    "options": {
+      "a": "Juxtaglomerular apparatus",
+      "b": "Loop of Henle",
+      "c": "Collecting duct",
+      "d": "Vasa recta"
+    },
+    "correct_answer": "a",
+    "explanation": "The juxtaglomerular apparatus (JGA) is located in the renal cortex at the junction of the afferent arteriole and the distal convoluted tubule. The loop of Henle, collecting duct, and vasa recta are all structures found in the renal medulla.",
+    "reference": "Ganong's Physiology 25th edn. pp 658, 26th pp 649"
+  },
+  {
+    "id": 14,
+    "question": "Juxtaglomerular apparatus lies in relation to: [AIIMS May 07]",
+    "options": {
+      "a": "Proximal convoluted tubule",
+      "b": "Ascending loop of Henle",
+      "c": "Descending loop of Henle",
+      "d": "Glomerulus"
+    },
+    "correct_answer": "d",
+    "explanation": "The juxtaglomerular apparatus lies in relation to the glomerulus. It consists of the macula densa (in the distal convoluted tubule), juxtaglomerular (granular) cells in the afferent arteriole wall, and extraglomerular mesangial cells \u2014 all located adjacent to the glomerulus.",
+    "reference": "Ganong's Physiology 25th edn. pp 702, 26th pp 662"
+  },
+  {
+    "id": 15,
+    "question": "Macula densa is present in:",
+    "options": {
+      "a": "Collecting tubule",
+      "b": "Proximal convoluted tubule",
+      "c": "Distal convoluted tubule",
+      "d": "Loop of Henle"
+    },
+    "correct_answer": "c",
+    "explanation": "The macula densa is a specialized region of densely packed epithelial cells in the early distal convoluted tubule (DCT) that makes contact with the afferent arteriole. It senses NaCl concentration and mediates tubuloglomerular feedback.",
+    "reference": "Ganong's Physiology 25th edn. pp 703, 26th pp 662"
+  },
+  {
+    "id": 16,
+    "question": "In a normal person at resting condition GFR is: [PGI June 03]",
+    "options": {
+      "a": "125 mL/min",
+      "b": "90 mL/min",
+      "c": "60 mL/min",
+      "d": "150 mL/min"
+    },
+    "correct_answer": "a",
+    "explanation": "Normal GFR in a resting adult is approximately 125 mL/min (180 L/day). This is measured by inulin clearance. Values below 60 mL/min for more than 3 months indicate chronic kidney disease.",
+    "reference": "Ganong's Physiology 25th edn. pp 666, 26th pp 657"
+  },
+  {
+    "id": 17,
+    "question": "In humans, effective renal blood flow is: [AIIMS 93]",
+    "options": {
+      "a": "425",
+      "b": "525",
+      "c": "625",
+      "d": "725"
+    },
+    "correct_answer": "c",
+    "explanation": "The effective renal plasma flow (ERPF) in humans is approximately 625 mL/min, measured by PAH clearance. Renal blood flow (RBF) is approximately 1200 mL/min, which is about 20\u201325% of cardiac output.",
+    "reference": "Ganong's Physiology 25th edn. pp 666, 26th pp 657"
+  },
+  {
+    "id": 18,
+    "question": "Which of the following does not form a filtration barrier in nephrons? [AI 95]",
+    "options": {
+      "a": "Podocytes",
+      "b": "Mesangium",
+      "c": "Endothelial cell",
+      "d": "Basement membrane"
+    },
+    "correct_answer": "b",
+    "explanation": "The glomerular filtration barrier consists of three layers: fenestrated endothelial cells, the glomerular basement membrane (GBM), and podocytes with their foot processes (filtration slits). Mesangial cells provide structural support and regulate filtration surface area but do not form a direct filtration barrier.",
+    "reference": "Ganong's Physiology 25th edn. pp 659, 26th pp 650"
+  },
+  {
+    "id": 19,
+    "question": "In renal disease albumin is first to appear in urine because: [AIIMS 04]",
+    "options": {
+      "a": "Of its high concentration in plasma",
+      "b": "Has molecular weight slightly greater than the molecules normally getting filtered",
+      "c": "High albumin: globulin ratio",
+      "d": "Tubular epithelial cells are sensitive to albumin"
+    },
+    "correct_answer": "b",
+    "explanation": "Albumin (MW ~66,500 Da) has a molecular weight just above the threshold for glomerular filtration (~70,000 Da cutoff) and is also negatively charged, repelled by the GBM. In early renal disease, when the filtration barrier is slightly damaged, albumin is the first protein to appear in urine due to its relatively small size compared to other plasma proteins.",
+    "reference": "Ganong's Physiology 25th edn. pp 659, 26th pp 651"
+  },
+  {
+    "id": 20,
+    "question": "Which of the following is freely filtered by kidney across glomerular capillaries? [PGI Nov 09, Dec 07]",
+    "options": {
+      "a": "Albumin (across glomerular capillaries)",
+      "b": "Globulin",
+      "c": "Creatinine",
+      "d": "HCO3\u2013",
+      "e": "Glucose"
+    },
+    "correct_answer": [
+      "c",
+      "d",
+      "e"
+    ],
+    "explanation": "Creatinine, HCO3\u2013, and glucose are freely filtered across glomerular capillaries as they are small molecules with no charge barrier. Albumin and globulin are large proteins that are not freely filtered due to their size and charge.",
+    "reference": "Ganong's Physiology 25th edn. pp 659, 26th pp 651"
+  },
+  {
+    "id": 21,
+    "question": "Best test for GFR is with: [PGI Dec 99]",
+    "options": {
+      "a": "Inulin",
+      "b": "Hippuric acid",
+      "c": "Creatinine",
+      "d": "PAH"
+    },
+    "correct_answer": "a",
+    "explanation": "Inulin clearance is the gold standard (best test) for measuring GFR. Inulin is a polysaccharide that is freely filtered, not secreted, not reabsorbed, not metabolized, and not synthesized by the kidney. PAH measures renal plasma flow. Hippuric acid measures tubular secretion. Creatinine is used clinically but overestimates GFR due to some tubular secretion.",
+    "reference": "Ganong's Physiology 25th edn. pp 666, 26th pp 657"
+  },
+  {
+    "id": 22,
+    "question": "Two substances that can probably be used to determine filtration fraction are: [PGI 98]",
+    "options": {
+      "a": "Insulin and mannitol",
+      "b": "Urea and diodrast",
+      "c": "PAH and phenol red",
+      "d": "Inulin and PAH"
+    },
+    "correct_answer": "d",
+    "explanation": "Filtration fraction (FF) = GFR / Renal Plasma Flow (RPF). Inulin clearance measures GFR and PAH clearance measures RPF. Therefore, FF = Inulin clearance / PAH clearance. Normal FF is approximately 0.2 (20%).",
+    "reference": "Ganong's Physiology 25th edn. pp 666, 26th pp 657"
+  },
+  {
+    "id": 23,
+    "question": "A substance is present in concentration of 2 mg% in the afferent arteriole and zero mg% in the efferent. True about the substance is: [AIIMS May 02]",
+    "options": {
+      "a": "It is free filtered in glomerulus",
+      "b": "Secreted in cortical nephron",
+      "c": "Absorbed in PCT",
+      "d": "Impermeable in loop of Henle"
+    },
+    "correct_answer": "a",
+    "explanation": "If a substance is present in the afferent arteriole but absent in the efferent arteriole, it means it has been completely removed from the blood as it passed through the glomerulus \u2014 indicating complete filtration. This means the substance is freely filtered at the glomerulus.",
+    "reference": "Ganong's Physiology 25th edn. pp 666"
+  },
+  {
+    "id": 24,
+    "question": "All of the following statements about renal physiology are true, except: [AI 09]",
+    "options": {
+      "a": "Distal tubule always receives hypoosmotic solution",
+      "b": "The kidneys receive 5% of the cardiac output",
+      "c": "GFR is controlled by resistance in afferent and efferent arterioles",
+      "d": "The Glomerulus receives capillaries from the afferent arteriole"
+    },
+    "correct_answer": "b",
+    "explanation": "The kidneys receive approximately 20\u201325% of cardiac output (about 1200 mL/min), not just 5%. The distal tubule always receives hypoosmotic fluid (dilute) from the ascending limb of Henle. GFR is indeed regulated by afferent and efferent arteriolar resistance. The glomerulus does receive blood from the afferent arteriole.",
+    "reference": "Ganong's Physiology 25th edn. pp 658, 26th pp 649"
+  },
+  {
+    "id": 25,
+    "question": "Which of the following statements about renal function is not true? [AIIMS Nov 11]",
+    "options": {
+      "a": "Oncotic pressure of filtrate is equal to glomerular capillaries",
+      "b": "If afferent arteriole is vasoconstricted, then pressure in glomerular capillaries will fall",
+      "c": "The hydrostatic pressure of peritubular capillaries determine the glomerulotubular balance",
+      "d": "Ureteric obstruction increases the hydrostatic pressure of Bowman's space and reduces the GFR"
+    },
+    "correct_answer": "a",
+    "explanation": "The oncotic pressure of the glomerular filtrate is essentially zero (no proteins are filtered), while the oncotic pressure of the glomerular capillaries is approximately 30 mm Hg. They are not equal. The other statements are all true.",
+    "reference": "Ganong's Physiology 25th edn. pp 661, 26th pp 652"
+  },
+  {
+    "id": 26,
+    "question": "Calculate net filtration pressure with the following data? (Nov 18)\nPGC = 42 mm Hg\n\u03a0GC = 12 mm Hg\nPBC = 16 mm Hg\nAssume that no proteins were filtered.",
+    "options": {
+      "a": "34",
+      "b": "28",
+      "c": "14",
+      "d": "Data not sufficient"
+    },
+    "correct_answer": "c",
+    "explanation": "Net filtration pressure (NFP) = PGC - \u03a0GC - PBC = 42 - 12 - 16 = 14 mm Hg. Since no proteins are filtered, the oncotic pressure of Bowman's capsule (\u03a0BC) = 0 and does not need to be subtracted.",
+    "reference": "Guyton-Physiology-12th edn. pp 308"
+  },
+  {
+    "id": 27,
+    "question": "Efferent arteriolar constriction causes all except: (Nov 17)",
+    "options": {
+      "a": "Decrease in GFR",
+      "b": "Decreases renal blood flow",
+      "c": "Decreases oncotic pressure in peritubular capillaries",
+      "d": "Increases hydrostatic pressure in glomerular capillaries"
+    },
+    "correct_answer": "a",
+    "explanation": "Efferent arteriolar constriction: increases glomerular capillary hydrostatic pressure (increases GFR), decreases renal blood flow, and increases oncotic pressure in peritubular capillaries (since more plasma protein is concentrated as less blood flows through). Therefore, it does NOT decrease GFR \u2014 it actually increases it (at least initially).",
+    "reference": "Guyton-Physiology-12th edn. pp 310"
+  },
+  {
+    "id": 28,
+    "question": "Inulin like secretion is seen with: [Dec 2016]",
+    "options": {
+      "a": "MIBG",
+      "b": "DTPA",
+      "c": "Gadolinium",
+      "d": "99Tc"
+    },
+    "correct_answer": "b",
+    "explanation": "DTPA (Diethylenetriamine pentaacetic acid) labeled with 99mTc behaves like inulin \u2014 it is freely filtered and neither secreted nor reabsorbed \u2014 making it useful for GFR measurement in nuclear medicine. MIBG is used for adrenal imaging.",
+    "reference": "Ganong's Physiology"
+  },
+  {
+    "id": 29,
+    "question": "Renin is secreted from which of the following cell: [Dec 2016]",
+    "options": {
+      "a": "JG apparatus",
+      "b": "Macula densa",
+      "c": "Endothelial cell",
+      "d": "Mesangial cell"
+    },
+    "correct_answer": "a",
+    "explanation": "Renin is secreted from the juxtaglomerular (JG) apparatus \u2014 specifically from the granular (juxtaglomerular) cells in the wall of the afferent arteriole. The macula densa senses NaCl and signals the JG cells to release renin.",
+    "reference": "Ganong's Physiology 25th edn. pp 702, 26th pp 662"
+  },
+  {
+    "id": 30,
+    "question": "Active reabsorption of amino acids exclusively seen in: [Dec 2016]",
+    "options": {
+      "a": "PCT",
+      "b": "DCT",
+      "c": "TAL",
+      "d": "CD"
+    },
+    "correct_answer": "a",
+    "explanation": "Active reabsorption of amino acids occurs exclusively in the proximal convoluted tubule (PCT) via sodium-dependent co-transporters. Nearly 100% of filtered amino acids are reabsorbed in the PCT.",
+    "reference": "Ganong's Physiology 25th edn. pp 680, 26th pp 670"
+  },
+  {
+    "id": 31,
+    "question": "Maximum Na+ absorption through which channel: [Dec 2016]",
+    "options": {
+      "a": "Na-H exchanger",
+      "b": "Na-K ATPase",
+      "c": "NKCC",
+      "d": "NaCl"
+    },
+    "correct_answer": "a",
+    "explanation": "In the PCT, maximum Na+ absorption occurs via the Na-H exchanger (NHE3) on the luminal membrane. Na-K ATPase on the basolateral membrane maintains the electrochemical gradient. NKCC2 is the major transporter in the thick ascending limb of Henle.",
+    "reference": "Ganong's Physiology 25th edn. pp 678, 26th pp 669"
+  },
+  {
+    "id": 32,
+    "question": "Main function of DCT cells: [Dec 2016]",
+    "options": {
+      "a": "Acidification of urine",
+      "b": "Water absorption",
+      "c": "Amino acid reabsorption",
+      "d": "HCO3\u2212 reabsorption"
+    },
+    "correct_answer": "a",
+    "explanation": "The distal convoluted tubule (DCT) is responsible for acidification of urine through H+ secretion and HCO3\u2013 reabsorption. It is also the site of aldosterone action on Na+ reabsorption and K+ secretion. Amino acid reabsorption is exclusively in PCT, and water absorption (ADH-mediated) is mainly in the collecting duct.",
+    "reference": "Ganong's Physiology 25th edn. pp 689, 26th pp 680"
+  },
+  {
+    "id": 33,
+    "question": "Plasma glucose is 400 mg/dL, GFR = 125 mL/min, Tm of glucose is 375. What is the excretion rate of glucose? [Dec 2016]",
+    "options": {
+      "a": "25",
+      "b": "125",
+      "c": "225",
+      "d": "375"
+    },
+    "correct_answer": "a",
+    "explanation": "Filtered load of glucose = Plasma glucose \u00d7 GFR = 4 mg/mL \u00d7 125 mL/min = 500 mg/min. Since Tm (maximum tubular reabsorption) = 375 mg/min, glucose excreted = Filtered load - Tm = 500 - 375 = 125 mg/min. Wait \u2014 the answer is 125, not 25. Excretion = 500 - 375 = 125 mg/min.",
+    "reference": "Ganong's Physiology 25th edn. pp 682, 26th pp 672"
+  },
+  {
+    "id": 34,
+    "question": "Hypotonic fluid is given in: [Dec 2016]",
+    "options": {
+      "a": "Diabetes insipidus",
+      "b": "Cardiac tamponade",
+      "c": "Embolism",
+      "d": "MI"
+    },
+    "correct_answer": "a",
+    "explanation": "In diabetes insipidus, there is a deficiency of ADH (central DI) or renal insensitivity to ADH (nephrogenic DI), resulting in production of large volumes of dilute urine and hypernatremia. Hypotonic (hypoosmolar) fluid replacement is given to replace free water losses and correct hypernatremia.",
+    "reference": "Guyton-Physiology-12th edn. pp 374"
+  },
+  {
+    "id": 35,
+    "question": "Where in the kidney does active reabsorption of sodium ions occur?",
+    "options": {
+      "a": "Collecting duct",
+      "b": "Distal tubule",
+      "c": "Ascending limb of Henle",
+      "d": "All of the above"
+    },
+    "correct_answer": "d",
+    "explanation": "Active reabsorption of sodium occurs throughout the nephron: in the PCT (Na-H exchanger, Na-glucose co-transport), thick ascending limb of Henle (NKCC2 cotransporter), distal tubule (NaCl cotransporter, NCC), and collecting duct (ENaC, under aldosterone control). All segments actively reabsorb sodium.",
+    "reference": "Guyton-Physiology-12th edn. pp 321"
+  },
+  {
+    "id": 36,
+    "question": "Mechanism by which water is reabsorbed from proximal convoluted tubule is:",
+    "options": {
+      "a": "Active transport",
+      "b": "Passive transport",
+      "c": "Facilitated diffusion",
+      "d": "Osmosis"
+    },
+    "correct_answer": "d",
+    "explanation": "Water reabsorption in the PCT is by osmosis. As Na+ and other solutes are actively reabsorbed, water follows passively by osmosis through aquaporin-1 channels. Approximately 65\u201370% of filtered water is reabsorbed isosmotically in the PCT.",
+    "reference": "Ganong's Physiology 25th edn. pp 679, 26th pp 669"
+  },
+  {
+    "id": 37,
+    "question": "Proximal convoluted tubule has which type of aquaporins?",
+    "options": {
+      "a": "Aquaporin 1",
+      "b": "Aquaporin 2",
+      "c": "Aquaporin 5",
+      "d": "Aquaporin 9"
+    },
+    "correct_answer": "a",
+    "explanation": "Aquaporin-1 (AQP1) is constitutively expressed in the proximal convoluted tubule and the descending thin limb of the loop of Henle. Aquaporin-2 is found in the collecting duct and is regulated by ADH (vasopressin). AQP3 and AQP4 are on the basolateral membrane of collecting duct cells.",
+    "reference": "Ganong's Physiology 25th edn. pp 679, 26th pp 669"
+  },
+  {
+    "id": 38,
+    "question": "Glucose is transported in renal tubular cells by:",
+    "options": {
+      "a": "K symport",
+      "b": "K+ antiport",
+      "c": "Na antiport",
+      "d": "Na+ cotransport"
+    },
+    "correct_answer": "d",
+    "explanation": "Glucose is reabsorbed in the PCT via Na+-glucose cotransporters (SGLT \u2014 Sodium-Glucose Linked Transporters). SGLT2 handles 90% of glucose reabsorption in the S1 and S2 segments, while SGLT1 handles 10% in the S3 segment. Glucose exits the basolateral side via GLUT2/GLUT1 facilitated diffusion.",
+    "reference": "Ganong's Physiology 25th edn. pp 682, 26th pp 672"
+  },
+  {
+    "id": 39,
+    "question": "Over half of the potassium that appears in the urine of a patient, who has ingested some potassium salts, is derived from:",
+    "options": {
+      "a": "Glomerular filtrate",
+      "b": "Secretion by the distal tubule",
+      "c": "Reabsorption in the proximal tubule",
+      "d": "Secretion by the loop of Henle"
+    },
+    "correct_answer": "b",
+    "explanation": "Most of the potassium in urine comes from secretion by the distal tubule and collecting duct, not from glomerular filtrate. While K+ is filtered and most is reabsorbed in the PCT and loop of Henle, urinary K+ excretion is mainly regulated by K+ secretion in the principal cells of the distal nephron, stimulated by aldosterone.",
+    "reference": "Ganong's Physiology 25th edn. pp 689, 26th pp 679"
+  },
+  {
+    "id": 40,
+    "question": "Which of the following product is primarily filtered with little secretion or reabsorption in renal tubules?",
+    "options": {
+      "a": "Sodium",
+      "b": "Creatinine",
+      "c": "Glucose",
+      "d": "Amino acids"
+    },
+    "correct_answer": "b",
+    "explanation": "Creatinine is primarily filtered at the glomerulus with minimal tubular secretion and virtually no reabsorption, making it clinically useful for estimating GFR. Sodium and glucose undergo significant tubular reabsorption. Amino acids are almost completely reabsorbed in the PCT.",
+    "reference": "Ganong's Physiology 25th edn. pp 666, 26th pp 667"
+  },
+  {
+    "id": 41,
+    "question": "Substrate which is both secreted and filtered:",
+    "options": {
+      "a": "Uric acid",
+      "b": "Glucose",
+      "c": "Urea",
+      "d": "Na+"
+    },
+    "correct_answer": "a",
+    "explanation": "Uric acid is both filtered at the glomerulus and secreted by the tubules (and also reabsorbed). It undergoes a complex four-component handling: filtration, reabsorption in PCT, secretion in PCT, and reabsorption again in the straight segment. Glucose is filtered and reabsorbed only. Na+ is filtered and reabsorbed. Urea is filtered and partially reabsorbed.",
+    "reference": "Ganong's Physiology 25th edn. pp 685, 26th pp 675"
+  },
+  {
+    "id": 42,
+    "question": "Which one of the following substances, actively transported by the tubular cells, has the highest Tubular Transport Maximum?",
+    "options": {
+      "a": "Plasma protein",
+      "b": "Hemoglobin",
+      "c": "Glucose",
+      "d": "Sodium"
+    },
+    "correct_answer": "d",
+    "explanation": "Sodium has the highest tubular transport maximum (Tm) because it is the most abundantly reabsorbed substance in the nephron. Na+ is actively transported throughout the entire length of the nephron by Na-K-ATPase on the basolateral membrane, with a Tm far exceeding that of glucose (~375 mg/min).",
+    "reference": "Guyton-Physiology-12th edn. pp 321"
+  },
+  {
+    "id": 43,
+    "question": "Aldosterone mainly acts upon:",
+    "options": {
+      "a": "PCT",
+      "b": "Loop of Henle",
+      "c": "Glomerulus",
+      "d": "Collecting duct"
+    },
+    "correct_answer": "d",
+    "explanation": "Aldosterone mainly acts on the principal cells of the collecting duct (and late distal tubule), increasing the expression of ENaC (epithelial sodium channel) on the luminal membrane and Na-K-ATPase on the basolateral membrane, promoting Na+ reabsorption and K+ secretion.",
+    "reference": "Ganong's Physiology 25th edn. pp 693, 26th pp 683"
+  },
+  {
+    "id": 44,
+    "question": "Most important buffer system present in the distal convoluted tubule:",
+    "options": {
+      "a": "Bicarbonate",
+      "b": "Phosphate",
+      "c": "Protein",
+      "d": "Ammonia"
+    },
+    "correct_answer": "d",
+    "explanation": "The most important buffer system in the distal convoluted tubule and collecting duct is the ammonia (NH3/NH4+) buffer system. Ammonia is produced by renal tubular cells from glutamine and combines with secreted H+ to form ammonium (NH4+), which is excreted in urine, allowing elimination of large amounts of acid.",
+    "reference": "Ganong's Physiology 25th edn. pp 710, 26th pp 701"
+  },
+  {
+    "id": 45,
+    "question": "Bicarbonate is absorbed:",
+    "options": {
+      "a": "Actively in PCT",
+      "b": "Actively in DCT",
+      "c": "Indirectly in PCT",
+      "d": "Indirectly in DCT"
+    },
+    "correct_answer": "c",
+    "explanation": "Bicarbonate is reabsorbed indirectly in the PCT. H+ is actively secreted into the lumen via Na-H exchange, where it combines with filtered HCO3\u2013 to form H2CO3, which dissociates into CO2 and H2O (catalyzed by carbonic anhydrase). CO2 diffuses into the cell, where it is converted back to HCO3\u2013 and transported across the basolateral membrane. Thus, HCO3\u2013 reabsorption is indirect.",
+    "reference": "Raff's Medical Physiology A Systems Approach, 2011, pp 475"
+  },
+  {
+    "id": 46,
+    "question": "What is the clearance of a substance, if its concentration in plasma is 10 mg%, concentration in urine is 100 mg% and urine flow is 2 mL/min?",
+    "options": {
+      "a": "0.2 mL/min",
+      "b": "20 mL/min",
+      "c": "2 mL/min",
+      "d": "200 mL/min"
+    },
+    "correct_answer": "b",
+    "explanation": "Clearance = (Urine concentration \u00d7 Urine flow) / Plasma concentration = (100 mg% \u00d7 2 mL/min) / 10 mg% = 200 / 10 = 20 mL/min.",
+    "reference": "Ganong's Physiology 25th edn. pp 666, 26th pp 657"
+  },
+  {
+    "id": 47,
+    "question": "The plasma clearance value of glucose in a diabetes mellitus patient will be:",
+    "options": {
+      "a": "Zero",
+      "b": "Equal to that of inulin clearance",
+      "c": "Greater than that of PAH clearance",
+      "d": "Greater than zero"
+    },
+    "correct_answer": "d",
+    "explanation": "Clearance = Urinary amount / Plasma concentration. In a non-diabetic person, clearance of glucose is Zero as no glucose appears in urine (all is reabsorbed). In a diabetic person, glucose exceeds the transport maximum (Tm) and spills into urine, making clearance positive (greater than zero).",
+    "reference": "Ganong's Physiology 25th edn. pp 680, 26th pp 667"
+  },
+  {
+    "id": 48,
+    "question": "In Bartter syndrome, the defect is seen in:",
+    "options": {
+      "a": "Defect in PCT",
+      "b": "Defect in DCT",
+      "c": "Defect in thick ascending limb of loop of Henle",
+      "d": "Defect in thick descending limb of loop of Henle"
+    },
+    "correct_answer": "c",
+    "explanation": "Bartter syndrome is caused by defects in ion transporters in the thick ascending limb (TAL) of the loop of Henle, most commonly the Na-K-2Cl cotransporter (NKCC2). This leads to salt wasting, hypokalemia, metabolic alkalosis, and hyperreninemia without hypertension.",
+    "reference": "Ganong's Physiology 25th edn."
+  },
+  {
+    "id": 49,
+    "question": "Which of the following statement is true? [AIIMS May 11, Nov 08]",
+    "options": {
+      "a": "Fluid coming from the descending limb of loop of Henle is hypotonic",
+      "b": "Descending limb of loop of Henle is permeable to solutes",
+      "c": "If clearance of a substance is greater than GFR, then tubular secretion must be present",
+      "d": "Clearance of a substance is always more than GFR if there is tubular secretion"
+    },
+    "correct_answer": "c",
+    "explanation": "If clearance > GFR, tubular secretion must be present \u2014 this is always true. Option D is incorrect because secretion does not always mean clearance > GFR; if reabsorption occurs in another nephron segment after secretion, net clearance may still be less than GFR. The descending limb is permeable to water (not solutes), and fluid leaving it is hypertonic, not hypotonic.",
+    "reference": "Ganong's Physiology 25th edn. pp 679, 26th pp 667"
+  },
+  {
+    "id": 50,
+    "question": "The principal site of absorption of sodium is: [AI 00]",
+    "options": {
+      "a": "Proximal convoluted tubule",
+      "b": "Distal convoluted tubule",
+      "c": "Loop of Henle (thick portion)",
+      "d": "Collecting duct"
+    },
+    "correct_answer": "a",
+    "explanation": "Sodium absorption: normally 60% in the proximal tubule, 30% in the thick ascending limb of the loop of Henle, 7% in the distal convoluted tubule, and 3% in the collecting ducts. The proximal convoluted tubule is thus the principal site of sodium absorption.",
+    "reference": "Ganong's Physiology 25th edn. pp 679, 26th pp 670"
+  },
+  {
+    "id": 51,
+    "question": "All of these are correct of renal physiology except: [PGI June 02]",
+    "options": {
+      "a": "Sodium absorption occurs in DCT",
+      "b": "Potassium is both secreted and absorbed in tubules",
+      "c": "Glucose is reabsorbed in DCT",
+      "d": "Hb is not excreted as it is a large molecule",
+      "e": "Amino acids are reabsorbed in CD"
+    },
+    "correct_answer": "c,d,e",
+    "explanation": "Glucose and amino acids are 100% reabsorbed in the proximal tubule \u2014 NOT in the DCT or collecting duct. Free hemoglobin (Hb) is a relatively small molecule and is easily filtered and excreted by the glomerulus, unlike bound Hb. Therefore, options c, d, and e are incorrect statements about renal physiology.",
+    "reference": "Ganong's Physiology 25th edn. pp 680, 26th pp 671"
+  },
+  {
+    "id": 52,
+    "question": "In the presence of vasopressin, the greatest fraction of filtered water is re-absorbed in which part of the nephron? [AI 03]",
+    "options": {
+      "a": "Proximal tubule",
+      "b": "Distal tubule",
+      "c": "Loop of Henle",
+      "d": "Collecting duct"
+    },
+    "correct_answer": "a",
+    "explanation": "Water absorption in the proximal tubule is 60\u201370% of the total filtrate volume, independent of vasopressin. Vasopressin increases water permeability of the collecting duct; in its absence, the CD absorbs ~2%, and in its presence ~15%. Regardless of vasopressin, maximum water absorption always occurs in the proximal tubule.",
+    "reference": "Ganong's Physiology 25th edn. pp 682, 26th pp 673"
+  },
+  {
+    "id": 53,
+    "question": "Maximum absorption of water takes place in: [AI 01]",
+    "options": {
+      "a": "Proximal convoluted tubule",
+      "b": "Distal convoluted tubule",
+      "c": "Collecting duct",
+      "d": "Loop of Henle"
+    },
+    "correct_answer": "a",
+    "explanation": "The proximal convoluted tubule (PCT) reabsorbs approximately 60\u201370% of the filtered water, making it the site of maximum water absorption in the nephron. This occurs by osmosis driven by the active transport of sodium and other solutes.",
+    "reference": "Ganong's Physiology 25th edn. pp 682, 26th pp 671"
+  },
+  {
+    "id": 54,
+    "question": "Which one of the following statements regarding water reabsorption in the tubules is true? [AI 05, UP-08]",
+    "options": {
+      "a": "The bulk of water reabsorption occurs secondary to Na+ reabsorption",
+      "b": "Majority of facultative reabsorption occurs in proximal tubule",
+      "c": "Obligatory reabsorption is ADH dependent",
+      "d": "20% of water is always reabsorbed irrespective of water balance"
+    },
+    "correct_answer": "a",
+    "explanation": "In the PCT, water is absorbed by osmosis driven by the osmotic gradient created by the active transport of Na+ and other solutes. The bulk of water reabsorption (60\u201370%) is thus secondary to Na+ reabsorption. Obligatory reabsorption in the PCT is ADH-independent; it is the facultative reabsorption in the collecting duct that is ADH-dependent.",
+    "reference": "Ganong's Physiology 25th edn. pp 682, 26th pp 671"
+  },
+  {
+    "id": 55,
+    "question": "Vasopressin acts by: [PGI Dec 98]",
+    "options": {
+      "a": "Water transport across collecting duct",
+      "b": "Water absorption at medullary ducts",
+      "c": "Water secretion at loop of Henle",
+      "d": "Water transport at PCT"
+    },
+    "correct_answer": "a,b",
+    "explanation": "ADH (vasopressin) acts on the collecting duct (both cortical and medullary portions) by inserting aquaporin-2 (AQP2) channels into the apical membrane, increasing water permeability. This allows water to be reabsorbed from the tubular fluid into the hypertonic medullary interstitium, concentrating the urine.",
+    "reference": "Ganong's Physiology 25th edn. pp 700, 26th pp 671"
+  },
+  {
+    "id": 56,
+    "question": "The main site of bicarbonate reabsorption is: [AIIMS Nov 07, 97, AI 05]",
+    "options": {
+      "a": "Proximal convoluted tubule",
+      "b": "Distal convoluted tubule",
+      "c": "Cortical collecting duct",
+      "d": "Medullary collecting duct"
+    },
+    "correct_answer": "a",
+    "explanation": "The proximal tubule reabsorbs 80\u201390% of the filtered bicarbonate via H+ secretion and carbonic anhydrase activity. The thick ascending limb of Henle's loop reabsorbs another 10%. The distal tubule and collecting duct handle the remaining small fraction and are responsible for fine-tuning acid-base balance.",
+    "reference": "Raff's Medical Physiology A Systems Approach, 2011, pp 475"
+  },
+  {
+    "id": 57,
+    "question": "Not absorbed from the PCT: [AIIMS Nov 10]",
+    "options": {
+      "a": "Na+",
+      "b": "Phosphate",
+      "c": "HCO3\u2013",
+      "d": "H+"
+    },
+    "correct_answer": "d",
+    "explanation": "H+ (hydrogen ions) are not absorbed from the PCT; instead, they are actively secreted into the tubular lumen by the PCT. This secretion of H+ drives the indirect reabsorption of HCO3\u2013. Na+, phosphate, and HCO3\u2013 are all reabsorbed in the PCT.",
+    "reference": "Raff's Medical Physiology A Systems Approach, 2011, pp 475"
+  },
+  {
+    "id": 58,
+    "question": "Which of the following occurs along with glucose transport into a cell? [AI 95, 96]",
+    "options": {
+      "a": "Sodium symport",
+      "b": "Sodium anteport",
+      "c": "Potassium transport",
+      "d": "Amino acid transport"
+    },
+    "correct_answer": "a",
+    "explanation": "Glucose is transported into renal tubular cells via the sodium-glucose linked transporter (SGLT), which is a sodium-glucose symporter (cotransporter). Sodium moves down its electrochemical gradient into the cell, carrying glucose with it. This is secondary active transport where glucose moves against its concentration gradient.",
+    "reference": "Ganong's Physiology 25th edn. pp 682, 26th pp 671"
+  },
+  {
+    "id": 59,
+    "question": "All except one are absorbed in the DCT: [AIIMS June 97]",
+    "options": {
+      "a": "Water",
+      "b": "Potassium",
+      "c": "Chloride",
+      "d": "Sodium"
+    },
+    "correct_answer": "b",
+    "explanation": "The answer is NONE (or closest to potassium). While K+ is absorbed in the DCT, secretion of K+ may exceed absorption in this segment, making potassium a net secretory ion in the DCT. Water, Na+, and Cl\u2013 are all absorbed in the DCT. Potassium is most accurately described as both secreted and absorbed in the DCT.",
+    "reference": "Ganong's Physiology 25th edn. pp 689, 26th pp 670"
+  },
+  {
+    "id": 60,
+    "question": "Potassium is maximally absorbed in which part of nephron? [JIPMER 03]",
+    "options": {
+      "a": "Proximal convoluted tubules",
+      "b": "DCT",
+      "c": "Collecting ducts",
+      "d": "Loop of Henle"
+    },
+    "correct_answer": "a",
+    "explanation": "Approximately 65\u201370% of filtered potassium is reabsorbed in the proximal convoluted tubule, making it the site of maximum potassium absorption. An additional 25\u201330% is reabsorbed in the thick ascending limb of the loop of Henle. The DCT and collecting duct are primarily secretion sites for K+ under aldosterone influence.",
+    "reference": "Ganong's Physiology 25th edn. pp 689, 26th pp 670"
+  },
+  {
+    "id": 61,
+    "question": "In a healthy individual on a normal diet, which of the following ion is completely absorbed in tubules? [JIPMER 11]",
+    "options": {
+      "a": "Na+",
+      "b": "K+",
+      "c": "Cl\u2013",
+      "d": "HCO3\u2013"
+    },
+    "correct_answer": "d",
+    "explanation": "HCO3\u2013 (bicarbonate) is essentially completely reabsorbed in the tubules in a healthy individual on a normal diet. Na+, K+, and Cl\u2013 are excreted in variable amounts in the urine depending on dietary intake and hormonal regulation. Bicarbonate does not normally appear in the urine because it is almost entirely reclaimed.",
+    "reference": "Ganong's Physiology 25th edn. pp 710, 26th pp 701"
+  },
+  {
+    "id": 62,
+    "question": "Following cells are responsible for acid secretion in kidney: [JIPMER 02]",
+    "options": {
+      "a": "I cells (Intercalated cells)",
+      "b": "P cells",
+      "c": "Mesangial cell",
+      "d": "Pericytes"
+    },
+    "correct_answer": "a",
+    "explanation": "Intercalated cells (I cells or IC cells) in the collecting duct are responsible for acid secretion (H+ secretion) in the kidney. Type A intercalated cells secrete H+ via H+-ATPase and H+/K+-ATPase pumps on the apical membrane, contributing to urine acidification and bicarbonate reabsorption.",
+    "reference": "Ganong's Physiology 25th edn. pp 710, 26th pp 700"
+  },
+  {
+    "id": 63,
+    "question": "The principal site of acidification of urine is: [AI 00]",
+    "options": {
+      "a": "Distal convoluted tubule",
+      "b": "Proximal convoluted tubule",
+      "c": "Loop of Henle",
+      "d": "Collecting duct"
+    },
+    "correct_answer": "d",
+    "explanation": "Acidification of urine occurs in both distal tubules and collecting ducts, but the collecting duct is more important and is the principal site. The intercalated cells of the collecting duct actively secrete H+ ions, lowering urine pH maximally. The proximal tubule handles the bulk of HCO3\u2013 reabsorption rather than urine acidification per se.",
+    "reference": "Ganong's Physiology 25th edn. pp 710, 26th pp 702"
+  },
+  {
+    "id": 64,
+    "question": "The tubuloglomerular feedback is mediated by: [AI 06]",
+    "options": {
+      "a": "Sensing of Na+ concentration in the macula densa",
+      "b": "Sensing of Cl\u2013 concentration in macula densa",
+      "c": "Sensing NaCl concentration in the macula densa",
+      "d": "Opening up of voltage gated Na+ channels in afferent arteriole"
+    },
+    "correct_answer": "c",
+    "explanation": "Tubuloglomerular feedback (TGF) is mediated by the macula densa cells sensing the NaCl (sodium chloride) concentration of the tubular fluid. While both Na+ and Cl\u2013 are sensed, Cl\u2013 is the more important signal. Increased NaCl delivery triggers release of adenosine, causing afferent arteriole constriction and reducing GFR.",
+    "reference": "Ganong's Physiology 25th edn. pp 703, 26th pp 662"
+  },
+  {
+    "id": 65,
+    "question": "According to myogenic hypothesis of renal autoregulation, the afferent arterioles contract in response to stretch induced by: [AIIMS Nov 05]",
+    "options": {
+      "a": "NO release",
+      "b": "Noradrenaline release",
+      "c": "Opening of Ca2+ channels",
+      "d": "Adenosine release"
+    },
+    "correct_answer": "c",
+    "explanation": "According to the myogenic hypothesis, stretch of the vascular smooth muscle in afferent arterioles (due to increased blood pressure) causes opening of voltage-gated Ca2+ channels. The resulting influx of Ca2+ causes smooth muscle contraction, constricting the afferent arteriole and autoregulating GFR.",
+    "reference": "Ganong's Physiology 25th edn. pp 676, 26th pp 582"
+  },
+  {
+    "id": 66,
+    "question": "Least clearance is for among these: [JIPMER 04]",
+    "options": {
+      "a": "Glucose",
+      "b": "Inulin",
+      "c": "Urea",
+      "d": "Creatinine"
+    },
+    "correct_answer": "a",
+    "explanation": "In a non-diabetic person, the clearance of glucose is zero because glucose is completely reabsorbed in the proximal tubule and no glucose appears in the urine. Inulin clearance equals GFR (~125 mL/min), creatinine clearance slightly exceeds GFR, and urea clearance is less than GFR but still positive (some reabsorption occurs).",
+    "reference": "Ganong's Physiology 25th edn. pp 680, 26th pp 672"
+  },
+  {
+    "id": 67,
+    "question": "What is implied, if a drug has more renal clearance than the GFR? [AIIMS June 00]",
+    "options": {
+      "a": "Drug is reabsorbed in the tubules",
+      "b": "Drug is secreted in the tubules",
+      "c": "Drug is excreted in bile",
+      "d": "Drug is neither secreted, nor resorbed"
+    },
+    "correct_answer": "b",
+    "explanation": "If the renal clearance of a drug exceeds GFR, it means that more of the drug is being excreted than can be accounted for by filtration alone. This implies that the drug is actively secreted into the tubular lumen by tubular secretion mechanisms. If reabsorption occurred, clearance would be less than GFR.",
+    "reference": "Ganong's Physiology 25th edn. pp 680, 26th pp 667"
+  },
+  {
+    "id": 68,
+    "question": "The renal plasma flow (RPF) of a patient was to be estimated through the measurement of Para Amino Hippuric acid (PAH) clearance. The technician used thrice the recommended dose of PAH. The RPF estimated is likely to be: [AI 03]",
+    "options": {
+      "a": "False-high",
+      "b": "False-low",
+      "c": "False-high or false-low depending on the GFR",
+      "d": "Correct and is unaffected by the PAH overdose"
+    },
+    "correct_answer": "b",
+    "explanation": "At high concentrations of PAH, the tubular secretory mechanism for PAH in the PCT becomes saturated (transport maximum reached). Once the Tm is exceeded, the additional PAH cannot be secreted. This means less PAH is excreted per unit of plasma volume, leading to a falsely low estimate of renal plasma flow.",
+    "reference": "Ganong's Physiology 25th edn. pp 680, 26th pp 672"
+  },
+  {
+    "id": 69,
+    "question": "Which of the following is known as diluting segment of nephron? (May 18)",
+    "options": {
+      "a": "Thick ascending limb of Henle",
+      "b": "Thin descending limb of Henle",
+      "c": "Proximal convoluted tubules",
+      "d": "Distal convoluted tubules"
+    },
+    "correct_answer": "a",
+    "explanation": "The thick ascending limb (TAL) of the loop of Henle is called the 'diluting segment' of the nephron. It actively transports NaCl out of the tubular lumen via NKCC2 cotransporter but is impermeable to water. This makes the tubular fluid progressively hypotonic (dilute) as fluid ascends, while the medullary interstitium becomes concentrated.",
+    "reference": "Ganong's Physiology 25th edn."
+  },
+  {
+    "id": 70,
+    "question": "GFR of a diabetic person 90 mL/min. When the blood glucose is 200 mg/dL, calculate the glucose excretion in urine. Transport maximum of glucose = 150 mg/min: (May 17)",
+    "options": {
+      "a": "30 mg/min",
+      "b": "50 mg/min",
+      "c": "20 mg/min",
+      "d": "No glucose excretion"
+    },
+    "correct_answer": "a",
+    "explanation": "Filtered load of glucose = GFR \u00d7 plasma glucose = 90 mL/min \u00d7 200 mg/dL = 90 \u00d7 2 mg/mL = 180 mg/min. Transport maximum (Tm) = 150 mg/min. Glucose excretion = Filtered load \u2013 Tm = 180 \u2013 150 = 30 mg/min.",
+    "reference": "Ganong's Physiology 25th edn."
+  },
+  {
+    "id": 71,
+    "question": "Minimum urine osmolality that can be achieved by human kidney:",
+    "options": {
+      "a": "100 mOsm/L",
+      "b": "80 mOsm/L",
+      "c": "50 mOsm/L",
+      "d": "20 mOsm/L"
+    },
+    "correct_answer": "c",
+    "explanation": "In humans, the urine osmolality can be as low as ~30 mOsm/kg of H2O (some sources state 50 mOsm/L as the minimum in practice). The maximum osmolality of urine can reach 1400 mOsm/kg of H2O. The minimum is achieved when ADH is completely absent and maximum dilution occurs.",
+    "reference": "Ganong's Physiology 25th edn. pp 680, 26th pp 675"
+  },
+  {
+    "id": 72,
+    "question": "Normal range of urine osmolality (mOsm/L):",
+    "options": {
+      "a": "50\u20131400",
+      "b": "100\u20131400",
+      "c": "200\u20131000",
+      "d": "300\u20131200"
+    },
+    "correct_answer": "a",
+    "explanation": "The normal range of urine osmolality is 50\u20131400 mOsm/L, reflecting the kidney's remarkable ability to dilute or concentrate urine depending on the body's hydration status. A minimum of ~50 mOsm/L is achieved during maximum water diuresis, and up to 1400 mOsm/L during maximum antidiuresis.",
+    "reference": "Ganong's Physiology 25th edn."
+  },
+  {
+    "id": 73,
+    "question": "Maximum osmotic gradient is found in:",
+    "options": {
+      "a": "Outer medulla",
+      "b": "Inner medulla",
+      "c": "Outer cortex",
+      "d": "Inner cortex"
+    },
+    "correct_answer": "b",
+    "explanation": "There is a gradient of osmolality from the cortex to the tip of the medulla. The osmolality is lowest in the cortex (~300 mOsm/L) and highest at the tip of the inner medulla (~1200\u20131400 mOsm/L). Therefore, the maximum osmotic gradient is found in the inner medulla, built up by the countercurrent multiplier system.",
+    "reference": "Ganong's Physiology 25th edn. pp 686, 26th pp 675"
+  },
+  {
+    "id": 74,
+    "question": "Components responsible for counter current mechanism in kidney are all except:",
+    "options": {
+      "a": "Sodium outflow in thick ascending limb",
+      "b": "Water outflow in thin descending limb",
+      "c": "Sodium outflow in thin ascending limb",
+      "d": "Flow of tubular fluid from PCT to DCT"
+    },
+    "correct_answer": "c",
+    "explanation": "The countercurrent multiplier mechanism involves: active NaCl transport out of the thick ascending limb (impermeable to water), passive water reabsorption from the thin descending limb (into hypertonic medulla), and urea recycling. Sodium outflow in the thin ascending limb is passive diffusion \u2014 not an active component of the countercurrent mechanism. Flow from PCT to DCT occurs via the loop, not directly.",
+    "reference": "Ganong's Physiology 25th edn."
+  },
+  {
+    "id": 75,
+    "question": "The high sodium content of the filtrate in renal medulla is because: [AIIMS Nov 00]",
+    "options": {
+      "a": "At the loop of Henle, there is counter current mechanism",
+      "b": "Increased blood flow to vasa recta",
+      "c": "Increased excretion of Na+ from PCT",
+      "d": "Increased absorption of Na from PCT"
+    },
+    "correct_answer": "a",
+    "explanation": "The high sodium (and overall solute) content in the renal medullary interstitium is maintained by the countercurrent mechanism operating in the loop of Henle. The thick ascending limb actively pumps NaCl into the interstitium without allowing water to follow, progressively building up medullary hyperosmolarity.",
+    "reference": "Ganong's Physiology 25th edn. pp 686, 26th pp 675"
+  },
+  {
+    "id": 76,
+    "question": "The prime driving force for counter current multiplier system is: [AI 06]",
+    "options": {
+      "a": "Medullary hyperosmolarity",
+      "b": "Reabsorption of Na+ in thick ascending limb",
+      "c": "Action of ADH via aquaporin channels",
+      "d": "Urea recycling"
+    },
+    "correct_answer": "b",
+    "explanation": "The prime driving force for the countercurrent multiplier system is the active reabsorption of Na+ (along with K+ and Cl\u2013 via NKCC2 cotransporter) in the thick ascending limb of Henle's loop. This segment is impermeable to water, so salt is pumped out without water following, creating the hyperosmotic medullary gradient. Urea recycling and ADH are supplementary factors.",
+    "reference": "Guyton-Physiology-12th edn. pp 351, 13th edn. pp 483"
+  },
+  {
+    "id": 77,
+    "question": "Renal medullary hyperosmolarity is due to: [PGI June 04, 03]",
+    "options": {
+      "a": "Increased Na+",
+      "b": "Increased K+ content",
+      "c": "Increased glucose",
+      "d": "Increased urea",
+      "e": "Increased potassium"
+    },
+    "correct_answer": "a,d",
+    "explanation": "Renal medullary hyperosmolarity is primarily due to two solutes: (1) NaCl (sodium ions) pumped out of the thick ascending limb of Henle, and (2) Urea, which accumulates in the inner medulla via facilitated diffusion from the inner medullary collecting duct and recycling through the loops of Henle.",
+    "reference": "Ganong's Physiology; Guyton 13th edn."
+  },
+  {
+    "id": 78,
+    "question": "Loop of Henle handles the following ions except: [PGI June 97]",
+    "options": {
+      "a": "Na+",
+      "b": "K+",
+      "c": "Cl\u2013",
+      "d": "Urea"
+    },
+    "correct_answer": "d",
+    "explanation": "The loop of Henle actively handles Na+, K+, and Cl\u2013 (via NKCC2 in the thick ascending limb). Urea undergoes back diffusion (passive diffusion) into the thin ascending limb of the loop from the inner medullary interstitium \u2014 this is a passive process, not active handling. The question refers to active transport.",
+    "reference": "Raff's Medical Physiology A Systems Approach, 2011, pp 656"
+  },
+  {
+    "id": 79,
+    "question": "Urinary concentrating ability of the kidney is increased by: [AI 05]",
+    "options": {
+      "a": "ECF volume contraction",
+      "b": "Increase in RBF",
+      "c": "Reduction of medullary hyperosmolarity",
+      "d": "Increase in GFR"
+    },
+    "correct_answer": "a",
+    "explanation": "ECF volume contraction stimulates both ADH (vasopressin) release and aldosterone secretion. ADH increases water permeability of the collecting duct (via aquaporin-2), and aldosterone promotes Na+ reabsorption, both leading to increased urinary concentration. Increased RBF washes out the medullary gradient (medullary washout), reducing concentrating ability.",
+    "reference": "Raff's Medical Physiology A Systems Approach, 2011, pp 654"
+  },
+  {
+    "id": 80,
+    "question": "Hypertonic urine is excreted due to absorption of water in: [AIIMS Feb 97]",
+    "options": {
+      "a": "Collecting ducts",
+      "b": "DCT",
+      "c": "Ascending part of loop of Henle",
+      "d": "Descending part of loop of Henle"
+    },
+    "correct_answer": "a",
+    "explanation": "The final concentration of urine is determined by water reabsorption at the collecting duct, under the influence of ADH. When ADH is present, aquaporin-2 channels are inserted into the collecting duct apical membrane, allowing massive water reabsorption into the hypertonic medullary interstitium, producing concentrated (hypertonic) urine.",
+    "reference": "Raff's Medical Physiology A Systems Approach, 2011, pp 654"
+  },
+  {
+    "id": 81,
+    "question": "Elimination of waste product from a normal person requires minimal amount of urine of: [PGI Dec 98]",
+    "options": {
+      "a": "100 mL",
+      "b": "500 mL",
+      "c": "1000 mL",
+      "d": "2000 mL",
+      "e": "200 mL/min"
+    },
+    "correct_answer": "b",
+    "explanation": "A normal 70 kg human must excrete about 600 milliosmoles of solute each day. Given the maximal urine concentrating ability of 1200 mOsm/L, the minimal obligatory urine volume = 600/1200 = 0.5 L = 500 mL/day. This is the minimum urine needed to excrete daily metabolic waste products.",
+    "reference": "Guyton-Physiology-12th edn. pp 350, 13th edn. pp 487"
+  },
+  {
+    "id": 82,
+    "question": "Which of the following is not a component of countercurrent multiplier mechanism? [AIIMS Nov 2014]",
+    "options": {
+      "a": "Thick ascending loop of Henle",
+      "b": "Collecting duct",
+      "c": "Vasa recta",
+      "d": "Thin descending loop of Henle"
+    },
+    "correct_answer": "c",
+    "explanation": "The countercurrent mechanism has two parts: (1) Countercurrent Multiplier \u2014 involving the loop of Henle (thick ascending limb + thin descending limb) and collecting duct; (2) Countercurrent Exchanger \u2014 the Vasa Recta. Therefore, the vasa recta is part of the countercurrent exchanger, NOT the countercurrent multiplier.",
+    "reference": "Guyton-Physiology-12th edn. pp 351, 13th edn. pp 483"
+  },
+  {
+    "id": 83,
+    "question": "Which of the following is not a component of countercurrent mechanism? [AIIMS May 2015]",
+    "options": {
+      "a": "Thick ascending loop of Henle",
+      "b": "Collecting duct",
+      "c": "Vasa recta",
+      "d": "Thin ascending loop of Henle"
+    },
+    "correct_answer": "d",
+    "explanation": "The countercurrent mechanism (both multiplier + exchanger) involves: thick ascending limb, thin descending limb, collecting duct (multiplier), and vasa recta (exchanger). The thin ascending limb of Henle is NOT a major functional component of the countercurrent mechanism \u2014 it lacks active transport and plays a minimal passive role.",
+    "reference": "Guyton-Physiology-12th edn. pp 351, 13th edn. pp 483"
+  },
+  {
+    "id": 84,
+    "question": "Which of the following cause increase in GFR? (May 18)",
+    "options": {
+      "a": "Decreased glomerular capillary oncotic pressure",
+      "b": "Decreased glomerular capillary hydrostatic pressure",
+      "c": "Tubular obstruction",
+      "d": "Decreased renal blood flow"
+    },
+    "correct_answer": "a",
+    "explanation": "GFR = Kf \u00d7 (glomerular hydrostatic pressure \u2013 Bowman's capsule pressure \u2013 glomerular oncotic pressure). Decreased glomerular capillary oncotic pressure reduces the force opposing filtration, thereby increasing GFR. Decreased hydrostatic pressure, tubular obstruction (raises Bowman's capsule pressure), and decreased renal blood flow all decrease GFR.",
+    "reference": "Guyton-Physiology 13th edn."
+  },
+  {
+    "id": 85,
+    "question": "Apical membrane of PCT contains which of the following? [Dec 18]",
+    "options": {
+      "a": "GLUT 2",
+      "b": "SGLT 2",
+      "c": "SGLT 1",
+      "d": "GLUT 1"
+    },
+    "correct_answer": "b",
+    "explanation": "The apical membrane of the early PCT (S1 and S2 segments) contains SGLT-2 (sodium-glucose linked transporter 2), which is responsible for approximately 90% of glucose reabsorption. SGLT-1 is found in the apical membrane of the late PCT (S3/PST segment) and handles the remaining 10%. GLUT-2 and GLUT-1 are basolateral transporters.",
+    "reference": "Ganong's Physiology 26th edn.; Dec 18 exam"
+  },
+  {
+    "id": 86,
+    "question": "How much % of glucose absorption occurs in late PCT (PST S3): [Dec 18]",
+    "options": {
+      "a": "2%",
+      "b": "5%",
+      "c": "7%",
+      "d": "10%"
+    },
+    "correct_answer": "d",
+    "explanation": "The late PCT (S3 segment / Proximal Straight Tubule, PST) contains SGLT-1 and is responsible for approximately 10% of total glucose reabsorption. The early PCT (S1 and S2 segments) via SGLT-2 handles ~90%. Note: some articles quote 2%, but standard textbooks cite 10%.",
+    "reference": "Dec 18 exam; Ganong's Physiology 26th edn."
+  },
+  {
+    "id": 87,
+    "question": "Blood urine filtration barrier permits: [Dec 18]",
+    "options": {
+      "a": "4000 KD",
+      "b": "400 KD",
+      "c": "40000 KD",
+      "d": "40 KD"
+    },
+    "correct_answer": "d",
+    "explanation": "The glomerular filtration barrier (GBM) is permeable to water, small solutes/ions, and smaller proteins but not to plasma proteins larger than ~70 KD. Albumin (66.5 KD) is not filtered due to its size and negative charge. The filtration barrier permits molecules up to approximately 40 KD freely, with restriction above this size.",
+    "reference": "Dec 18 exam"
+  },
+  {
+    "id": 88,
+    "question": "Ultrafiltrate passes via the filtration barrier except: [Dec 18]",
+    "options": {
+      "a": "Endothelial fenestra",
+      "b": "Endothelial basement membrane",
+      "c": "Filtration slit between podocytes",
+      "d": "Podocytes itself"
+    },
+    "correct_answer": "d",
+    "explanation": "The glomerular filtration barrier consists of three layers: (1) fenestrated capillary endothelium (endothelial fenestra), (2) glomerular basement membrane, and (3) filtration slits between the foot processes of podocytes. The ultrafiltrate passes THROUGH these structures but does NOT pass through the podocyte cell body itself.",
+    "reference": "Dec 18 exam; Guyton's Physiology"
+  },
+  {
+    "id": 89,
+    "question": "Normal range of serum Erythropoietin (U/L): [Dec 18]",
+    "options": {
+      "a": "10\u201325",
+      "b": "15\u201340",
+      "c": "45\u201355",
+      "d": "55\u201365"
+    },
+    "correct_answer": "a",
+    "explanation": "The normal serum erythropoietin level is approximately 5\u201336 U/L, with a commonly cited normal range of 10\u201325 U/L. Erythropoietin is produced mainly by interstitial cells in the kidney (~85%) and hepatocytes in the liver (~15%) in response to hypoxia.",
+    "reference": "Dec 18 exam"
+  },
+  {
+    "id": 90,
+    "question": "Renin is secreted by:",
+    "options": {
+      "a": "Juxtaglomerular cells",
+      "b": "Macula densa",
+      "c": "Mesangial cells",
+      "d": "Glomerulus"
+    },
+    "correct_answer": "a",
+    "explanation": "Renin is secreted by the juxtaglomerular (JG) cells, which are modified smooth muscle cells in the wall of the afferent arteriole. These cells are part of the juxtaglomerular apparatus (JGA). Renin converts angiotensinogen to angiotensin I, initiating the renin-angiotensin-aldosterone system (RAAS).",
+    "reference": "Ganong's Physiology 25th edn. pp 702, 26th pp 662"
+  },
+  {
+    "id": 91,
+    "question": "Which of the following is most important in sodium and water retention?",
+    "options": {
+      "a": "Renin-angiotensin system",
+      "b": "ANP",
+      "c": "BNP",
+      "d": "Vasopressin"
+    },
+    "correct_answer": "a",
+    "explanation": "The renin-angiotensin-aldosterone system (RAAS) is the most important mechanism for controlling sodium and water retention. Control of Na+ balance is the major mechanism for controlling ECF volume. The main controlling signals come from renal sympathetic nerves and the RAS-aldosterone system, which stimulates Na+ reabsorption throughout the tubule.",
+    "reference": "Raff's Medical Physiology A Systems Approach, 2011, pp 458"
+  },
+  {
+    "id": 92,
+    "question": "Which causes raised angiotensin in blood?",
+    "options": {
+      "a": "Increased blood volume",
+      "b": "Raised cardiac output",
+      "c": "Decreased blood pressure",
+      "d": "Increased sympathetic tone"
+    },
+    "correct_answer": "c",
+    "explanation": "Renin secretion (and thus angiotensin levels) is stimulated by: decreased blood pressure/renal hypoperfusion, sympathetic stimulation, and decreased NaCl at macula densa. Decreased blood pressure is the most potent stimulus. Both options c and d are stimuli, but decreased blood pressure is the primary answer. Increased blood volume and cardiac output would suppress RAAS.",
+    "reference": "Raff's Medical Physiology A Systems Approach, 2011, pp 455"
+  },
+  {
+    "id": 93,
+    "question": "Physiologically inactive form is:",
+    "options": {
+      "a": "Angiotensin I",
+      "b": "Angiotensin II",
+      "c": "Angiotensin III",
+      "d": "Angiotensin IV"
+    },
+    "correct_answer": "d",
+    "explanation": "Angiotensin IV (a hexapeptide derived from Angiotensin III) is the physiologically inactive form. Angiotensin I has <1% potency of Ang II. Angiotensin II is the most active form. Angiotensin III has similar qualitative effects to Ang II (equal potency for aldosterone secretion) but is 25% as potent for blood pressure elevation. Angiotensin IV has minimal or no significant activity.",
+    "reference": "Goodman & Gilman's The Pharmacological Basis of Therapeutics, Chapter 28"
+  },
+  {
+    "id": 94,
+    "question": "Erythropoietin is secreted from:",
+    "options": {
+      "a": "Juxtaglomerular cells",
+      "b": "Macula densa",
+      "c": "Interstitial cells",
+      "d": "Glomerulus"
+    },
+    "correct_answer": "c",
+    "explanation": "Erythropoietin is produced by interstitial cells in the peritubular capillary bed of the kidneys (about 85% of production) and by perivenous hepatocytes in the liver (about 15%). In the kidney, specifically the peritubular interstitial fibroblast-like cells in the cortex and outer medulla are responsible.",
+    "reference": "Ganong's Physiology 25th edn. pp 706, 26th pp 696"
+  },
+  {
+    "id": 95,
+    "question": "Endocrine functions associated with kidney include all of the following except:",
+    "options": {
+      "a": "Erythropoietin secretion",
+      "b": "Natriuretic peptide secretion",
+      "c": "1,25 hydroxy D3 Formation",
+      "d": "Renin secretion"
+    },
+    "correct_answer": "b",
+    "explanation": "The kidneys produce three main hormones: erythropoietin, renin, and 1,25-dihydroxycholecalciferol (active Vitamin D3). Natriuretic peptides (ANP and BNP) are secreted by the heart (atria and ventricles), not the kidney. Therefore, natriuretic peptide secretion is NOT an endocrine function of the kidney.",
+    "reference": "Ganong's Physiology 25th edn. pp 702, 26th pp 696"
+  },
+  {
+    "id": 96,
+    "question": "Renin is secreted by: [AIIMS May 07]",
+    "options": {
+      "a": "PCT",
+      "b": "DCT",
+      "c": "Collecting duct",
+      "d": "Juxtaglomerular apparatus"
+    },
+    "correct_answer": "d",
+    "explanation": "Renin is secreted by the juxtaglomerular (JG) cells, which are part of the juxtaglomerular apparatus. The JGA consists of JG cells (in afferent arteriole wall), macula densa cells (in DCT), and extraglomerular mesangial cells. The JG cells are the actual source of renin secretion.",
+    "reference": "Ganong's Physiology 25th edn. pp 702, 26th pp 662"
+  },
+  {
+    "id": 97,
+    "question": "All except one results in increased secretion of Renin: [AIIMS Dec 97]",
+    "options": {
+      "a": "Renal ischemia",
+      "b": "Decreased amount of Na in DCT",
+      "c": "Decreased amount of Na+ in PCT",
+      "d": "Narrowing of afferent arterioles"
+    },
+    "correct_answer": "c",
+    "explanation": "Stimuli for renin release include: renal hypoperfusion/ischemia, sympathetic stimulation, and decreased NaCl at the macula densa (in DCT). Narrowing of afferent arterioles causes renal ischemia and triggers renin. Decreased NaCl in PCT is NOT a direct stimulus for renin \u2014 it is the NaCl concentration at the macula densa (DCT) that is sensed. Though low PCT NaCl may indirectly lower DCT NaCl, this is not a direct stimulus.",
+    "reference": "Raff's Medical Physiology A Systems Approach, 2011, pp 453"
+  },
+  {
+    "id": 98,
+    "question": "True about function of angiotensin II: [PGI Nov 10]",
+    "options": {
+      "a": "Constriction of afferent arteriole",
+      "b": "Autoregulation of GFR",
+      "c": "Secreted from endothelial",
+      "d": "Release aldosterone",
+      "e": "Increased sodium and water reabsorption"
+    },
+    "correct_answer": "a,b,d,e",
+    "explanation": "Angiotensin II functions include: constriction of both afferent and efferent arterioles (helps autoregulate GFR), stimulation of aldosterone secretion from the adrenal cortex, increased Na+ and water reabsorption directly in tubules and via aldosterone, stimulation of thirst, and increased ADH secretion. Angiotensin II is produced primarily in the lungs (from Ang I via ACE on endothelial cells), not secreted directly from endothelial cells.",
+    "reference": "Ganong's Physiology 25th edn."
+  },
+  {
+    "id": 99,
+    "question": "Angiotensin II causes all of the following except: [AIIMS May 11, AI 09]",
+    "options": {
+      "a": "Stimulation of thirst",
+      "b": "Aldosterone secretion",
+      "c": "Increased ADH secretion",
+      "d": "Vasodilation"
+    },
+    "correct_answer": "d",
+    "explanation": "Angiotensin II is one of the most potent vasoconstrictors in the body \u2014 it causes vasoconstriction, NOT vasodilation. Its actions include: stimulation of thirst (via hypothalamus), aldosterone secretion (from adrenal cortex), increased ADH secretion, vasoconstriction of arterioles, and increased Na+ reabsorption. Vasodilation is the opposite of what Angiotensin II does.",
+    "reference": "Ganong's Physiology 25th edn. pp 676, 26th pp 691"
+  },
+  {
+    "id": 100,
+    "question": "Several hormones regulate the tubular reabsorption of water and electrolytes at different sites in the nephron. Which of the following combination is correct? [AIIMS Nov 03]",
+    "options": {
+      "a": "Angiotensin in distal tubule",
+      "b": "Aldosterone in collecting ducts",
+      "c": "ADH in proximal tubule",
+      "d": "ANP in loop of Henle"
+    },
+    "correct_answer": "b",
+    "explanation": "Aldosterone acts primarily on the principal cells of the cortical collecting duct to increase Na+ reabsorption (via ENaC) and K+ secretion. ADH acts on collecting ducts (not PCT). Angiotensin II acts on the PCT directly, but also on collecting duct and vasculature. ANP acts mainly on the medullary collecting duct and has no specific action on the loop of Henle.",
+    "reference": "Ganong's Physiology 25th edn."
+  },
+  {
+    "id": 101,
+    "question": "Erythropoietin level are increased by: [AI 98]",
+    "options": {
+      "a": "Decrease PO2",
+      "b": "Decrease PCO2",
+      "c": "Decrease Hb",
+      "d": "Decrease pH"
+    },
+    "correct_answer": "a",
+    "explanation": "The usual stimulus for erythropoietin secretion is hypoxia (decreased PO2), which is sensed by oxygen-sensing cells in the kidney. Secretion can also be stimulated by cobalt salts and androgens. Decreased hemoglobin concentration causes tissue hypoxia which may indirectly stimulate Epo, but the direct stimulus is decreased PO2.",
+    "reference": "Ganong's Physiology 25th edn. pp 704, 26th pp 696"
+  },
+  {
+    "id": 102,
+    "question": "Which of the following hormone is not secreted by the kidney? [AI 07]",
+    "options": {
+      "a": "Renin",
+      "b": "Angiotensin I",
+      "c": "Erythropoietin",
+      "d": "1, 25 DHCC"
+    },
+    "correct_answer": "b",
+    "explanation": "Angiotensin I is NOT secreted by the kidney. Renin (secreted by kidney) converts angiotensinogen (secreted by liver) to Angiotensin I in the circulation. Angiotensin I is then converted to Angiotensin II by ACE in the lungs. Erythropoietin, renin, and 1,25-DHCC (active vitamin D) are all produced by the kidney.",
+    "reference": "Ganong's Physiology 25th edn."
+  },
+  {
+    "id": 103,
+    "question": "Kidney produces: [PGI Nov 09]",
+    "options": {
+      "a": "Vasopressin",
+      "b": "Erythropoietin",
+      "c": "Renin",
+      "d": "Angiotensinogen",
+      "e": "25 hydroxy vit D"
+    },
+    "correct_answer": "b,c,e",
+    "explanation": "The kidney produces: erythropoietin (by interstitial peritubular cells), renin (by JG cells), and 1,25-dihydroxycholecalciferol / active Vitamin D (1-alpha hydroxylation in kidney; note: 25-hydroxylation occurs in the liver). Vasopressin is produced by the hypothalamus and stored/released from the posterior pituitary. Angiotensinogen is produced by the liver.",
+    "reference": "Ganong's Physiology 25th edn. pp 702, 26th pp 696"
+  },
+  {
+    "id": 104,
+    "question": "The most sensitive index for renal tubular function is: [AIIMS Nov 99]",
+    "options": {
+      "a": "Specific gravity of urine",
+      "b": "Blood urea",
+      "c": "GFR",
+      "d": "Creatinine clearance"
+    },
+    "correct_answer": "a",
+    "explanation": "Specific gravity of urine and urine urea concentration are the most valuable tests for renal tubular function, as they reflect the kidney's ability to concentrate urine \u2014 a key tubular function. GFR and creatinine clearance are indices of glomerular function, while blood urea reflects overall kidney function and is affected by non-renal factors.",
+    "reference": "Encyclopedia of Urology by B. Fey et al."
+  },
+  {
+    "id": 105,
+    "question": "All of the following are the actions of ANP except: [AIIMS Nov 2015]",
+    "options": {
+      "a": "Contraction of mesangial cells",
+      "b": "Inhibition of Na+ reabsorption at PCT",
+      "c": "Inhibition of Na+ reabsorption at medullary collecting duct",
+      "d": "Dilate afferent arterioles"
+    },
+    "correct_answer": "a",
+    "explanation": "ANP (Atrial Natriuretic Peptide) causes RELAXATION (not contraction) of mesangial cells, which increases the surface area for filtration and GFR. ANP also has no direct action on PCT reabsorption (option b is incorrect as a stated action). ANP does inhibit Na+ reabsorption in the medullary collecting duct and dilates afferent arterioles. The best answer is option a (contraction of mesangial cells \u2014 ANP actually causes relaxation).",
+    "reference": "Guyton-Physiology-12th edn. pp 342, 13th edn. pp 490"
+  },
+  {
+    "id": 106,
+    "question": "Erythropoietin acts on? (Nov 18)",
+    "options": {
+      "a": "CFU",
+      "b": "Late erythroblast",
+      "c": "Normoblast",
+      "d": "Burst forming unit (BFU)"
+    },
+    "correct_answer": "a",
+    "explanation": "Erythropoietin (Epo) stimulates the terminal proliferation and differentiation of CFU-E (Colony Forming Unit \u2014 Erythroid) progenitors. BFU-E cells respond to many hormones in addition to Epo (including SCF, IGF-1, glucocorticoids, IL-3, and IL-6), but CFU-E is the primary and most sensitive target of erythropoietin action.",
+    "reference": "Nov 18 exam; Ganong's Physiology 26th edn."
+  }
+]

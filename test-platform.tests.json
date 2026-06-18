@@ -1,0 +1,2421 @@
+[{
+  "_id": {
+    "$oid": "6a27d9b00861ce5a3caf3cbf"
+  },
+  "title": "Anatomy-A",
+  "description": "Self assessment and review of anatomy",
+  "category": "Anatomy",
+  "duration": 90,
+  "difficulty": "Intermediate",
+  "price": 0,
+  "questions": [
+    {
+      "$oid": "6a27e8a76129b2128e087f29"
+    },
+    {
+      "$oid": "6a27e8ee6129b2128e087f33"
+    },
+    {
+      "$oid": "6a27e93c6129b2128e087f48"
+    },
+    {
+      "$oid": "6a27ea5f6129b2128e087f6f"
+    },
+    {
+      "$oid": "6a27eaa96129b2128e087f78"
+    },
+    {
+      "$oid": "6a27eae66129b2128e087f82"
+    },
+    {
+      "$oid": "6a27eb266129b2128e087f8b"
+    },
+    {
+      "$oid": "6a27eb516129b2128e087f94"
+    },
+    {
+      "$oid": "6a27eb8a6129b2128e087f9e"
+    },
+    {
+      "$oid": "6a27ebc96129b2128e087fa7"
+    },
+    {
+      "$oid": "6a27ebf66129b2128e087fb0"
+    },
+    {
+      "$oid": "6a27ec346129b2128e087fba"
+    },
+    {
+      "$oid": "6a27ecbb6129b2128e0881cc"
+    },
+    {
+      "$oid": "6a27ecea6129b2128e0881d5"
+    },
+    {
+      "$oid": "6a27ed226129b2128e0881de"
+    },
+    {
+      "$oid": "6a27ed816129b2128e088314"
+    },
+    {
+      "$oid": "6a27edb96129b2128e08831d"
+    },
+    {
+      "$oid": "6a27eded6129b2128e088327"
+    },
+    {
+      "$oid": "6a27ee286129b2128e088330"
+    },
+    {
+      "$oid": "6a27ee5a6129b2128e088339"
+    },
+    {
+      "$oid": "6a27eedf6129b2128e088342"
+    },
+    {
+      "$oid": "6a27ef2e6129b2128e08834d"
+    },
+    {
+      "$oid": "6a27ef8f6129b2128e088357"
+    },
+    {
+      "$oid": "6a27efd76129b2128e0883bf"
+    },
+    {
+      "$oid": "6a27f0296129b2128e0883c9"
+    },
+    {
+      "$oid": "6a27f0af6129b2128e0883d4"
+    },
+    {
+      "$oid": "6a27f1556129b2128e08844a"
+    },
+    {
+      "$oid": "6a27f2016129b2128e0885ac"
+    },
+    {
+      "$oid": "6a27f27b6129b2128e0885b6"
+    },
+    {
+      "$oid": "6a27f2da6129b2128e088637"
+    },
+    {
+      "$oid": "6a27f3436129b2128e088641"
+    },
+    {
+      "$oid": "6a27f7d65f31ca865c706dfe"
+    },
+    {
+      "$oid": "6a27f87a5f31ca865c706e08"
+    },
+    {
+      "$oid": "6a27f9195f31ca865c706e12"
+    },
+    {
+      "$oid": "6a27f9825f31ca865c706ea7"
+    },
+    {
+      "$oid": "6a27f9ba5f31ca865c706eb0"
+    },
+    {
+      "$oid": "6a27f9fa5f31ca865c706eb9"
+    },
+    {
+      "$oid": "6a27fa5c5f31ca865c706ec3"
+    },
+    {
+      "$oid": "6a27fac15f31ca865c706ecd"
+    },
+    {
+      "$oid": "6a27fb165f31ca865c706ed7"
+    },
+    {
+      "$oid": "6a27fb7b5f31ca865c706ee2"
+    },
+    {
+      "$oid": "6a27fbcd5f31ca865c706eec"
+    },
+    {
+      "$oid": "6a28006d5f31ca865c706fa0"
+    },
+    {
+      "$oid": "6a2800cf5f31ca865c706fab"
+    },
+    {
+      "$oid": "6a2801525f31ca865c706fb6"
+    },
+    {
+      "$oid": "6a28019f5f31ca865c707076"
+    },
+    {
+      "$oid": "6a28020b5f31ca865c707081"
+    },
+    {
+      "$oid": "6a2802515f31ca865c70708b"
+    },
+    {
+      "$oid": "6a2802bd5f31ca865c707096"
+    },
+    {
+      "$oid": "6a2803165f31ca865c7070a0"
+    },
+    {
+      "$oid": "6a2803925f31ca865c707176"
+    },
+    {
+      "$oid": "6a2803ee5f31ca865c707180"
+    },
+    {
+      "$oid": "6a2804365f31ca865c707189"
+    },
+    {
+      "$oid": "6a2804a35f31ca865c70719c"
+    },
+    {
+      "$oid": "6a2804f75f31ca865c7071a6"
+    },
+    {
+      "$oid": "6a280a3f2f912d68e4f42472"
+    },
+    {
+      "$oid": "6a280a892f912d68e4f42564"
+    },
+    {
+      "$oid": "6a280ae42f912d68e4f4256e"
+    },
+    {
+      "$oid": "6a280d4e3002ee2b0236d2cf"
+    },
+    {
+      "$oid": "6a280daa3002ee2b0236d2da"
+    },
+    {
+      "$oid": "6a280df83002ee2b0236d2e3"
+    },
+    {
+      "$oid": "6a280eb68cd1c816191931fb"
+    },
+    {
+      "$oid": "6a280eeb8cd1c81619193205"
+    },
+    {
+      "$oid": "6a280f1a8cd1c8161919320e"
+    },
+    {
+      "$oid": "6a280f558cd1c81619193218"
+    }
+  ],
+  "createdAt": {
+    "$date": "2026-06-09T09:15:28.280Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-10T14:39:06.102Z"
+  },
+  "__v": 67,
+  "isFree": false
+},
+{
+  "_id": {
+    "$oid": "6a2813348cd1c81619193267"
+  },
+  "title": "HOMEOSTASIS of BODY FLUIDS",
+  "description": "Review of Physiology",
+  "category": "Physiology ",
+  "duration": 60,
+  "difficulty": "Beginner",
+  "price": 0,
+  "questions": [
+    {
+      "$oid": "6a2813ad8cd1c8161919328c"
+    },
+    {
+      "$oid": "6a28140b8cd1c81619193295"
+    },
+    {
+      "$oid": "6a2814618cd1c8161919329e"
+    },
+    {
+      "$oid": "6a2814a78cd1c816191932a7"
+    },
+    {
+      "$oid": "6a2814f08cd1c816191932b0"
+    },
+    {
+      "$oid": "6a2815398cd1c816191932b9"
+    },
+    {
+      "$oid": "6a2815788cd1c816191932c2"
+    },
+    {
+      "$oid": "6a28163e8cd1c816191932eb"
+    },
+    {
+      "$oid": "6a2816938cd1c81619193317"
+    },
+    {
+      "$oid": "6a2816cb8cd1c81619193320"
+    },
+    {
+      "$oid": "6a2817178cd1c81619193329"
+    },
+    {
+      "$oid": "6a281a2b8cd1c81619193383"
+    },
+    {
+      "$oid": "6a281a698cd1c8161919338c"
+    },
+    {
+      "$oid": "6a281ad38cd1c81619193395"
+    },
+    {
+      "$oid": "6a281b088cd1c8161919339e"
+    },
+    {
+      "$oid": "6a281bfe8cd1c816191933e6"
+    },
+    {
+      "$oid": "6a281c3c8cd1c816191933ef"
+    },
+    {
+      "$oid": "6a281c7e8cd1c816191933f8"
+    },
+    {
+      "$oid": "6a281cb48cd1c81619193401"
+    },
+    {
+      "$oid": "6a281cf28cd1c8161919340a"
+    },
+    {
+      "$oid": "6a281d9f8cd1c816191934c9"
+    },
+    {
+      "$oid": "6a281de18cd1c816191934d2"
+    },
+    {
+      "$oid": "6a281f938cd1c816191934fd"
+    },
+    {
+      "$oid": "6a281fce8cd1c81619193506"
+    },
+    {
+      "$oid": "6a2820118cd1c8161919350f"
+    },
+    {
+      "$oid": "6a282361e380746bfabbe7cb"
+    },
+    {
+      "$oid": "6a2823bae380746bfabbe7d4"
+    },
+    {
+      "$oid": "6a282425e380746bfabbe7dd"
+    },
+    {
+      "$oid": "6a282471e380746bfabbe85c"
+    },
+    {
+      "$oid": "6a2824c1e380746bfabbe865"
+    },
+    {
+      "$oid": "6a282518e380746bfabbe877"
+    },
+    {
+      "$oid": "6a2828633b23d490aa59f93e"
+    },
+    {
+      "$oid": "6a282b866b5657f9fac21474"
+    },
+    {
+      "$oid": "6a282bbe6b5657f9fac21486"
+    },
+    {
+      "$oid": "6a282c246b5657f9fac215b6"
+    },
+    {
+      "$oid": "6a282d5b6b5657f9fac22342"
+    },
+    {
+      "$oid": "6a282da26b5657f9fac22354"
+    },
+    {
+      "$oid": "6a282de06b5657f9fac2235d"
+    },
+    {
+      "$oid": "6a282e126b5657f9fac22366"
+    },
+    {
+      "$oid": "6a282e516b5657f9fac22378"
+    },
+    {
+      "$oid": "6a282f296b5657f9fac224db"
+    },
+    {
+      "$oid": "6a282f796b5657f9fac22599"
+    },
+    {
+      "$oid": "6a282fbb6b5657f9fac225a3"
+    },
+    {
+      "$oid": "6a282ff96b5657f9fac225ac"
+    },
+    {
+      "$oid": "6a2830436b5657f9fac225b5"
+    },
+    {
+      "$oid": "6a2830ad6b5657f9fac225be"
+    },
+    {
+      "$oid": "6a2830ef6b5657f9fac225d1"
+    },
+    {
+      "$oid": "6a2831246b5657f9fac225db"
+    }
+  ],
+  "createdAt": {
+    "$date": "2026-06-09T13:20:52.392Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-10T14:39:06.142Z"
+  },
+  "__v": 48,
+  "rating": 5,
+  "isFree": true
+},
+{
+  "_id": {
+    "$oid": "6a2820a18cd1c81619193517"
+  },
+  "title": "Cell Physiology and Membrane Potential",
+  "description": "Review of Physiology",
+  "category": "Physiology ",
+  "duration": 90,
+  "difficulty": "Intermediate",
+  "price": 0,
+  "questions": [
+    {
+      "$oid": "6a2822f7e380746bfabbe6f2"
+    },
+    {
+      "$oid": "6a2824e1e380746bfabbe86e"
+    },
+    {
+      "$oid": "6a2826143b23d490aa59f76f"
+    },
+    {
+      "$oid": "6a2827273b23d490aa59f885"
+    },
+    {
+      "$oid": "6a2827cc3b23d490aa59f934"
+    },
+    {
+      "$oid": "6a2828903b23d490aa59fc1a"
+    },
+    {
+      "$oid": "6a28290e3b23d490aa5a03c3"
+    },
+    {
+      "$oid": "6a282a0e6b5657f9fac20bb7"
+    },
+    {
+      "$oid": "6a282b996b5657f9fac2147d"
+    },
+    {
+      "$oid": "6a282ccf6b5657f9fac221e6"
+    },
+    {
+      "$oid": "6a282d5f6b5657f9fac2234b"
+    },
+    {
+      "$oid": "6a282e416b5657f9fac2236f"
+    },
+    {
+      "$oid": "6a282f466b5657f9fac2258f"
+    },
+    {
+      "$oid": "6a2830cb6b5657f9fac225c7"
+    },
+    {
+      "$oid": "6a2831626b5657f9fac2274c"
+    },
+    {
+      "$oid": "6a28320b96b1733333eb1f32"
+    },
+    {
+      "$oid": "6a2832c522dfbf7b30de6ea8"
+    },
+    {
+      "$oid": "6a28334822dfbf7b30de6eba"
+    },
+    {
+      "$oid": "6a2833a922dfbf7b30de6f2d"
+    },
+    {
+      "$oid": "6a28342a22dfbf7b30de6f3f"
+    },
+    {
+      "$oid": "6a2849df22dfbf7b30de7211"
+    },
+    {
+      "$oid": "6a284b5e22dfbf7b30de727f"
+    },
+    {
+      "$oid": "6a284cf022dfbf7b30de72bf"
+    },
+    {
+      "$oid": "6a284d8022dfbf7b30de72da"
+    },
+    {
+      "$oid": "6a284e3a22dfbf7b30de7465"
+    },
+    {
+      "$oid": "6a284e3a22dfbf7b30de7476"
+    },
+    {
+      "$oid": "6a284e3a22dfbf7b30de7482"
+    },
+    {
+      "$oid": "6a284e3a22dfbf7b30de747c"
+    },
+    {
+      "$oid": "6a284e3a22dfbf7b30de748c"
+    },
+    {
+      "$oid": "6a284e3a22dfbf7b30de746f"
+    },
+    {
+      "$oid": "6a284e3a22dfbf7b30de7492"
+    },
+    {
+      "$oid": "6a284e3a22dfbf7b30de7499"
+    },
+    {
+      "$oid": "6a284f0322dfbf7b30de7640"
+    },
+    {
+      "$oid": "6a2850a522dfbf7b30de7738"
+    },
+    {
+      "$oid": "6a28541e22dfbf7b30de7a3f"
+    },
+    {
+      "$oid": "6a28549c22dfbf7b30de7a5a"
+    },
+    {
+      "$oid": "6a2900db22dfbf7b30de9404"
+    },
+    {
+      "$oid": "6a29020722dfbf7b30de940d"
+    },
+    {
+      "$oid": "6a29020722dfbf7b30de9416"
+    },
+    {
+      "$oid": "6a29029822dfbf7b30de9493"
+    },
+    {
+      "$oid": "6a29034c22dfbf7b30de95bb"
+    },
+    {
+      "$oid": "6a2907bf22dfbf7b30de9beb"
+    },
+    {
+      "$oid": "6a29083322dfbf7b30de9c08"
+    },
+    {
+      "$oid": "6a2908a822dfbf7b30de9da9"
+    },
+    {
+      "$oid": "6a29092222dfbf7b30de9f7b"
+    },
+    {
+      "$oid": "6a2909ce22dfbf7b30dea04f"
+    },
+    {
+      "$oid": "6a2909ce22dfbf7b30dea058"
+    },
+    {
+      "$oid": "6a290a6622dfbf7b30dea0af"
+    },
+    {
+      "$oid": "6a290acb22dfbf7b30dea0b9"
+    },
+    {
+      "$oid": "6a290b39d0ac815e3d61e2c3"
+    },
+    {
+      "$oid": "6a290b9ad0ac815e3d61e314"
+    },
+    {
+      "$oid": "6a290bf6d0ac815e3d61e333"
+    },
+    {
+      "$oid": "6a290c41d0ac815e3d61e33d"
+    },
+    {
+      "$oid": "6a29140c41a9ff2fe7c4479a"
+    },
+    {
+      "$oid": "6a2914ae41a9ff2fe7c447c2"
+    },
+    {
+      "$oid": "6a29152f41a9ff2fe7c447e0"
+    },
+    {
+      "$oid": "6a2915bb41a9ff2fe7c44927"
+    },
+    {
+      "$oid": "6a29166b41a9ff2fe7c4496e"
+    },
+    {
+      "$oid": "6a2917b041a9ff2fe7c4553c"
+    },
+    {
+      "$oid": "6a29180f41a9ff2fe7c45551"
+    },
+    {
+      "$oid": "6a29187741a9ff2fe7c4561e"
+    },
+    {
+      "$oid": "6a2918e441a9ff2fe7c45628"
+    },
+    {
+      "$oid": "6a2919b7252075e5a1a5a72c"
+    },
+    {
+      "$oid": "6a291a1d252075e5a1a5a736"
+    },
+    {
+      "$oid": "6a291a7b252075e5a1a5a740"
+    },
+    {
+      "$oid": "6a291adb252075e5a1a5a74a"
+    },
+    {
+      "$oid": "6a291b6f252075e5a1a5a754"
+    },
+    {
+      "$oid": "6a291be6252075e5a1a5a75e"
+    },
+    {
+      "$oid": "6a291c3d252075e5a1a5a880"
+    },
+    {
+      "$oid": "6a291eee252075e5a1a5a88c"
+    },
+    {
+      "$oid": "6a291fe9252075e5a1a5abcb"
+    },
+    {
+      "$oid": "6a2920a5252075e5a1a5abd5"
+    },
+    {
+      "$oid": "6a2920f2252075e5a1a5abdf"
+    },
+    {
+      "$oid": "6a292171252075e5a1a5abe9"
+    },
+    {
+      "$oid": "6a292290252075e5a1a5aff2"
+    },
+    {
+      "$oid": "6a292346252075e5a1a5affc"
+    },
+    {
+      "$oid": "6a2923c0252075e5a1a5b006"
+    }
+  ],
+  "createdAt": {
+    "$date": "2026-06-09T14:18:09.583Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-10T14:39:06.102Z"
+  },
+  "__v": 93,
+  "rating": 5,
+  "isFree": false
+},
+{
+  "_id": {
+    "$oid": "6a2832c322dfbf7b30de6ea3"
+  },
+  "title": "Nerve-Muscle Physiology",
+  "description": "Review of Physiology",
+  "category": "Physiology",
+  "duration": 60,
+  "difficulty": "Intermediate",
+  "price": 0,
+  "rating": 5,
+  "questions": [
+    {
+      "$oid": "6a28333a22dfbf7b30de6eb1"
+    },
+    {
+      "$oid": "6a28336c22dfbf7b30de6ec4"
+    },
+    {
+      "$oid": "6a28340222dfbf7b30de6f36"
+    },
+    {
+      "$oid": "6a28343922dfbf7b30de6f48"
+    },
+    {
+      "$oid": "6a2843f722dfbf7b30de6f66"
+    },
+    {
+      "$oid": "6a28444222dfbf7b30de6f6f"
+    },
+    {
+      "$oid": "6a28446c22dfbf7b30de6f78"
+    },
+    {
+      "$oid": "6a28449722dfbf7b30de6f81"
+    },
+    {
+      "$oid": "6a2844cc22dfbf7b30de6f8a"
+    },
+    {
+      "$oid": "6a28452222dfbf7b30de6f93"
+    },
+    {
+      "$oid": "6a28456a22dfbf7b30de6f9c"
+    },
+    {
+      "$oid": "6a2845b222dfbf7b30de6fa5"
+    },
+    {
+      "$oid": "6a2845ed22dfbf7b30de6fae"
+    },
+    {
+      "$oid": "6a28463622dfbf7b30de6fb7"
+    },
+    {
+      "$oid": "6a28467822dfbf7b30de6fc0"
+    },
+    {
+      "$oid": "6a2846af22dfbf7b30de6fc9"
+    },
+    {
+      "$oid": "6a2846f822dfbf7b30de7027"
+    },
+    {
+      "$oid": "6a28473022dfbf7b30de7030"
+    },
+    {
+      "$oid": "6a28479d22dfbf7b30de7039"
+    },
+    {
+      "$oid": "6a2847d122dfbf7b30de7043"
+    },
+    {
+      "$oid": "6a28480d22dfbf7b30de704c"
+    },
+    {
+      "$oid": "6a28486122dfbf7b30de711b"
+    },
+    {
+      "$oid": "6a2848bd22dfbf7b30de7124"
+    },
+    {
+      "$oid": "6a2848f722dfbf7b30de712d"
+    },
+    {
+      "$oid": "6a28496422dfbf7b30de71f5"
+    },
+    {
+      "$oid": "6a28499522dfbf7b30de71fe"
+    },
+    {
+      "$oid": "6a2849d722dfbf7b30de7207"
+    },
+    {
+      "$oid": "6a284a1022dfbf7b30de721a"
+    },
+    {
+      "$oid": "6a284a8a22dfbf7b30de725b"
+    },
+    {
+      "$oid": "6a284acc22dfbf7b30de7264"
+    },
+    {
+      "$oid": "6a284b0e22dfbf7b30de726d"
+    },
+    {
+      "$oid": "6a284b3922dfbf7b30de7276"
+    },
+    {
+      "$oid": "6a284b8922dfbf7b30de7288"
+    },
+    {
+      "$oid": "6a284bb722dfbf7b30de7292"
+    },
+    {
+      "$oid": "6a284be622dfbf7b30de729b"
+    },
+    {
+      "$oid": "6a284c1122dfbf7b30de72a4"
+    },
+    {
+      "$oid": "6a284c4422dfbf7b30de72ad"
+    },
+    {
+      "$oid": "6a284c9622dfbf7b30de72b6"
+    },
+    {
+      "$oid": "6a284d0a22dfbf7b30de72c8"
+    },
+    {
+      "$oid": "6a284d4e22dfbf7b30de72d1"
+    },
+    {
+      "$oid": "6a284d9422dfbf7b30de72e3"
+    },
+    {
+      "$oid": "6a284dea22dfbf7b30de72ed"
+    },
+    {
+      "$oid": "6a284e7322dfbf7b30de74a6"
+    },
+    {
+      "$oid": "6a284eb122dfbf7b30de74af"
+    },
+    {
+      "$oid": "6a284ee422dfbf7b30de74b8"
+    },
+    {
+      "$oid": "6a284f5222dfbf7b30de7649"
+    },
+    {
+      "$oid": "6a284f8b22dfbf7b30de7652"
+    },
+    {
+      "$oid": "6a284fd422dfbf7b30de765b"
+    },
+    {
+      "$oid": "6a2850e422dfbf7b30de7816"
+    },
+    {
+      "$oid": "6a28512122dfbf7b30de781f"
+    },
+    {
+      "$oid": "6a28515f22dfbf7b30de7828"
+    },
+    {
+      "$oid": "6a2851c422dfbf7b30de7832"
+    },
+    {
+      "$oid": "6a28523722dfbf7b30de783b"
+    },
+    {
+      "$oid": "6a2852ca22dfbf7b30de7a12"
+    },
+    {
+      "$oid": "6a28532622dfbf7b30de7a1b"
+    },
+    {
+      "$oid": "6a28537f22dfbf7b30de7a24"
+    },
+    {
+      "$oid": "6a2853bf22dfbf7b30de7a2d"
+    },
+    {
+      "$oid": "6a28541822dfbf7b30de7a36"
+    },
+    {
+      "$oid": "6a28544c22dfbf7b30de7a48"
+    },
+    {
+      "$oid": "6a28547722dfbf7b30de7a51"
+    },
+    {
+      "$oid": "6a2854b622dfbf7b30de7a63"
+    },
+    {
+      "$oid": "6a28550022dfbf7b30de7a6c"
+    },
+    {
+      "$oid": "6a2855ae22dfbf7b30de7d9c"
+    },
+    {
+      "$oid": "6a2855fe22dfbf7b30de7da6"
+    },
+    {
+      "$oid": "6a28563e22dfbf7b30de7fc0"
+    },
+    {
+      "$oid": "6a28569b22dfbf7b30de7fca"
+    },
+    {
+      "$oid": "6a2856de22dfbf7b30de7fd4"
+    },
+    {
+      "$oid": "6a28572922dfbf7b30de7fde"
+    },
+    {
+      "$oid": "6a28575a22dfbf7b30de7fe7"
+    },
+    {
+      "$oid": "6a2857a922dfbf7b30de7ff1"
+    },
+    {
+      "$oid": "6a2857e222dfbf7b30de7ffa"
+    }
+  ],
+  "createdAt": {
+    "$date": "2026-06-09T15:35:31.874Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-10T14:39:06.102Z"
+  },
+  "__v": 77,
+  "isFree": false
+},
+{
+  "_id": {
+    "$oid": "6a28583f22dfbf7b30de8002"
+  },
+  "title": "Physiology of Muscle",
+  "description": "Review of Physiology",
+  "category": "Physiology",
+  "duration": 60,
+  "difficulty": "Intermediate",
+  "price": 0,
+  "rating": 5,
+  "questions": [
+    {
+      "$oid": "6a28592022dfbf7b30de8067"
+    },
+    {
+      "$oid": "6a28596122dfbf7b30de8070"
+    },
+    {
+      "$oid": "6a28599822dfbf7b30de8079"
+    },
+    {
+      "$oid": "6a2859da22dfbf7b30de8082"
+    },
+    {
+      "$oid": "6a285a1d22dfbf7b30de808b"
+    },
+    {
+      "$oid": "6a285a7822dfbf7b30de8094"
+    },
+    {
+      "$oid": "6a285aad22dfbf7b30de809d"
+    },
+    {
+      "$oid": "6a285ae322dfbf7b30de80a6"
+    },
+    {
+      "$oid": "6a285b2622dfbf7b30de80af"
+    },
+    {
+      "$oid": "6a285b6e22dfbf7b30de80b8"
+    },
+    {
+      "$oid": "6a285b9b22dfbf7b30de80c1"
+    },
+    {
+      "$oid": "6a285bcb22dfbf7b30de80ca"
+    },
+    {
+      "$oid": "6a285c0122dfbf7b30de80d3"
+    },
+    {
+      "$oid": "6a285c3822dfbf7b30de80dc"
+    },
+    {
+      "$oid": "6a285c6e22dfbf7b30de80e5"
+    },
+    {
+      "$oid": "6a285caa22dfbf7b30de80ee"
+    },
+    {
+      "$oid": "6a285ce322dfbf7b30de80f7"
+    },
+    {
+      "$oid": "6a285d1d22dfbf7b30de8100"
+    },
+    {
+      "$oid": "6a28669022dfbf7b30de81b6"
+    },
+    {
+      "$oid": "6a2866c322dfbf7b30de81bf"
+    },
+    {
+      "$oid": "6a28670a22dfbf7b30de81c8"
+    },
+    {
+      "$oid": "6a28673a22dfbf7b30de81d1"
+    },
+    {
+      "$oid": "6a28676822dfbf7b30de81da"
+    },
+    {
+      "$oid": "6a2867a922dfbf7b30de81e3"
+    },
+    {
+      "$oid": "6a2867e522dfbf7b30de81ec"
+    },
+    {
+      "$oid": "6a28683f22dfbf7b30de81f5"
+    },
+    {
+      "$oid": "6a28687f22dfbf7b30de81ff"
+    },
+    {
+      "$oid": "6a286d2322dfbf7b30de82dc"
+    },
+    {
+      "$oid": "6a286d7522dfbf7b30de82e5"
+    },
+    {
+      "$oid": "6a286dc922dfbf7b30de8384"
+    },
+    {
+      "$oid": "6a286e1622dfbf7b30de838e"
+    },
+    {
+      "$oid": "6a286e4822dfbf7b30de8397"
+    },
+    {
+      "$oid": "6a286e7c22dfbf7b30de83a0"
+    },
+    {
+      "$oid": "6a286eb622dfbf7b30de83a9"
+    },
+    {
+      "$oid": "6a286ef322dfbf7b30de83b2"
+    },
+    {
+      "$oid": "6a286f3622dfbf7b30de83bb"
+    },
+    {
+      "$oid": "6a286f8722dfbf7b30de83c5"
+    },
+    {
+      "$oid": "6a286ff822dfbf7b30de83d0"
+    },
+    {
+      "$oid": "6a28706722dfbf7b30de851e"
+    },
+    {
+      "$oid": "6a2870bc22dfbf7b30de8527"
+    },
+    {
+      "$oid": "6a2870f822dfbf7b30de8530"
+    },
+    {
+      "$oid": "6a28714522dfbf7b30de8539"
+    },
+    {
+      "$oid": "6a28718222dfbf7b30de8543"
+    },
+    {
+      "$oid": "6a2871b822dfbf7b30de854c"
+    },
+    {
+      "$oid": "6a28720122dfbf7b30de8556"
+    },
+    {
+      "$oid": "6a28726722dfbf7b30de855f"
+    },
+    {
+      "$oid": "6a2872a622dfbf7b30de8569"
+    },
+    {
+      "$oid": "6a2872df22dfbf7b30de857a"
+    },
+    {
+      "$oid": "6a28732d22dfbf7b30de8721"
+    },
+    {
+      "$oid": "6a2873d222dfbf7b30de872b"
+    },
+    {
+      "$oid": "6a28741a22dfbf7b30de8735"
+    },
+    {
+      "$oid": "6a28745222dfbf7b30de873e"
+    },
+    {
+      "$oid": "6a2874d622dfbf7b30de8903"
+    },
+    {
+      "$oid": "6a28755522dfbf7b30de8ad0"
+    },
+    {
+      "$oid": "6a2875d922dfbf7b30de8ca6"
+    },
+    {
+      "$oid": "6a28761a22dfbf7b30de8caf"
+    }
+  ],
+  "createdAt": {
+    "$date": "2026-06-09T18:15:27.311Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-10T14:39:06.102Z"
+  },
+  "__v": 58,
+  "isFree": false
+},
+{
+  "_id": {
+    "$oid": "6a28767122dfbf7b30de8d9f"
+  },
+  "title": "Nerve-Muscle Physiology",
+  "description": "Review of Physiology",
+  "category": "Physiology",
+  "duration": 60,
+  "difficulty": "Intermediate",
+  "price": 0,
+  "rating": 4,
+  "questions": [
+    {
+      "$oid": "6a28772722dfbf7b30de8da4"
+    },
+    {
+      "$oid": "6a28775c22dfbf7b30de8dad"
+    },
+    {
+      "$oid": "6a28779422dfbf7b30de8db6"
+    },
+    {
+      "$oid": "6a2877d622dfbf7b30de8dbf"
+    },
+    {
+      "$oid": "6a28780d22dfbf7b30de8dc8"
+    },
+    {
+      "$oid": "6a28784322dfbf7b30de8dd1"
+    },
+    {
+      "$oid": "6a28787722dfbf7b30de8dda"
+    },
+    {
+      "$oid": "6a2878af22dfbf7b30de8de3"
+    },
+    {
+      "$oid": "6a2878dd22dfbf7b30de8dec"
+    },
+    {
+      "$oid": "6a28792822dfbf7b30de8df6"
+    },
+    {
+      "$oid": "6a28795f22dfbf7b30de8dff"
+    },
+    {
+      "$oid": "6a28799622dfbf7b30de8e08"
+    },
+    {
+      "$oid": "6a2879ce22dfbf7b30de8e11"
+    },
+    {
+      "$oid": "6a2879fe22dfbf7b30de8e1a"
+    },
+    {
+      "$oid": "6a287a4022dfbf7b30de8e23"
+    },
+    {
+      "$oid": "6a287a7022dfbf7b30de8e2c"
+    },
+    {
+      "$oid": "6a287a9f22dfbf7b30de8e35"
+    },
+    {
+      "$oid": "6a287ae822dfbf7b30de8e3e"
+    },
+    {
+      "$oid": "6a287b2322dfbf7b30de8e47"
+    },
+    {
+      "$oid": "6a287b5d22dfbf7b30de8e50"
+    },
+    {
+      "$oid": "6a287b9522dfbf7b30de8e59"
+    },
+    {
+      "$oid": "6a287bce22dfbf7b30de8e62"
+    },
+    {
+      "$oid": "6a287bff22dfbf7b30de8e6b"
+    },
+    {
+      "$oid": "6a287c2e22dfbf7b30de8e74"
+    },
+    {
+      "$oid": "6a287c5522dfbf7b30de8e7d"
+    },
+    {
+      "$oid": "6a287c8622dfbf7b30de8e86"
+    },
+    {
+      "$oid": "6a287cb522dfbf7b30de8e8f"
+    },
+    {
+      "$oid": "6a287cf322dfbf7b30de8e98"
+    },
+    {
+      "$oid": "6a287d3a22dfbf7b30de8ea1"
+    },
+    {
+      "$oid": "6a287d7f22dfbf7b30de8eaa"
+    },
+    {
+      "$oid": "6a287db922dfbf7b30de8eb4"
+    },
+    {
+      "$oid": "6a287df422dfbf7b30de8ebd"
+    },
+    {
+      "$oid": "6a287e4d22dfbf7b30de8ec7"
+    },
+    {
+      "$oid": "6a287eb522dfbf7b30de8ed0"
+    },
+    {
+      "$oid": "6a292d7c252075e5a1a5b535"
+    }
+  ],
+  "createdAt": {
+    "$date": "2026-06-09T20:24:17.149Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-10T14:39:06.102Z"
+  },
+  "__v": 35,
+  "isFree": false
+},
+{
+  "_id": {
+    "$oid": "6a287f7022dfbf7b30de8f38"
+  },
+  "title": "Cardiac Output and Regulation",
+  "description": "Review of Physiology\n",
+  "category": "Physiology",
+  "duration": 60,
+  "difficulty": "Beginner",
+  "price": 0,
+  "rating": 5,
+  "questions": [
+    {
+      "$oid": "6a28f67022dfbf7b30de8fa3"
+    },
+    {
+      "$oid": "6a28f6bd22dfbf7b30de8fac"
+    },
+    {
+      "$oid": "6a28f6eb22dfbf7b30de8fb5"
+    },
+    {
+      "$oid": "6a28f78422dfbf7b30de8fbe"
+    },
+    {
+      "$oid": "6a28f7aa22dfbf7b30de8fc7"
+    },
+    {
+      "$oid": "6a28f7e022dfbf7b30de8fd0"
+    },
+    {
+      "$oid": "6a28f9b522dfbf7b30de9056"
+    },
+    {
+      "$oid": "6a28f9f022dfbf7b30de905f"
+    },
+    {
+      "$oid": "6a28fa1e22dfbf7b30de9068"
+    },
+    {
+      "$oid": "6a28fa5222dfbf7b30de9071"
+    },
+    {
+      "$oid": "6a28faa722dfbf7b30de90db"
+    },
+    {
+      "$oid": "6a28fadb22dfbf7b30de90e4"
+    },
+    {
+      "$oid": "6a28fb1322dfbf7b30de90ed"
+    },
+    {
+      "$oid": "6a28fb5022dfbf7b30de90f6"
+    },
+    {
+      "$oid": "6a28fb9222dfbf7b30de90ff"
+    },
+    {
+      "$oid": "6a28fd8622dfbf7b30de916c"
+    },
+    {
+      "$oid": "6a28fdc422dfbf7b30de9175"
+    },
+    {
+      "$oid": "6a28fe0722dfbf7b30de917e"
+    },
+    {
+      "$oid": "6a28fe7222dfbf7b30de9187"
+    },
+    {
+      "$oid": "6a28fea122dfbf7b30de9190"
+    },
+    {
+      "$oid": "6a28fed722dfbf7b30de9199"
+    },
+    {
+      "$oid": "6a28ff0d22dfbf7b30de91e3"
+    },
+    {
+      "$oid": "6a28ff4722dfbf7b30de91ed"
+    },
+    {
+      "$oid": "6a29001922dfbf7b30de9354"
+    },
+    {
+      "$oid": "6a29004e22dfbf7b30de93f2"
+    },
+    {
+      "$oid": "6a29008122dfbf7b30de93fb"
+    },
+    {
+      "$oid": "6a29024a22dfbf7b30de9481"
+    },
+    {
+      "$oid": "6a29027722dfbf7b30de948a"
+    },
+    {
+      "$oid": "6a2902a722dfbf7b30de949c"
+    },
+    {
+      "$oid": "6a2902f522dfbf7b30de95a9"
+    },
+    {
+      "$oid": "6a29032e22dfbf7b30de95b2"
+    },
+    {
+      "$oid": "6a29035f22dfbf7b30de966d"
+    },
+    {
+      "$oid": "6a29038c22dfbf7b30de9676"
+    },
+    {
+      "$oid": "6a2903e622dfbf7b30de967f"
+    },
+    {
+      "$oid": "6a29042b22dfbf7b30de9688"
+    },
+    {
+      "$oid": "6a29045522dfbf7b30de9692"
+    },
+    {
+      "$oid": "6a2904a222dfbf7b30de974f"
+    },
+    {
+      "$oid": "6a2904e322dfbf7b30de980c"
+    },
+    {
+      "$oid": "6a29051a22dfbf7b30de9815"
+    },
+    {
+      "$oid": "6a29054c22dfbf7b30de981e"
+    },
+    {
+      "$oid": "6a29057922dfbf7b30de9827"
+    },
+    {
+      "$oid": "6a2905c522dfbf7b30de9a4a"
+    },
+    {
+      "$oid": "6a29065222dfbf7b30de9b07"
+    },
+    {
+      "$oid": "6a29068f22dfbf7b30de9b10"
+    },
+    {
+      "$oid": "6a29071422dfbf7b30de9b1a"
+    },
+    {
+      "$oid": "6a29076022dfbf7b30de9bd8"
+    },
+    {
+      "$oid": "6a29079a22dfbf7b30de9be2"
+    },
+    {
+      "$oid": "6a2907e422dfbf7b30de9bf5"
+    },
+    {
+      "$oid": "6a29081822dfbf7b30de9bff"
+    },
+    {
+      "$oid": "6a29086422dfbf7b30de9c12"
+    },
+    {
+      "$oid": "6a29088d22dfbf7b30de9c1c"
+    }
+  ],
+  "createdAt": {
+    "$date": "2026-06-09T21:02:40.464Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-10T14:39:06.142Z"
+  },
+  "__v": 55,
+  "isFree": true
+},
+{
+  "_id": {
+    "$oid": "6a29091a22dfbf7b30de9f16"
+  },
+  "title": "Blood Pressure and Regulation",
+  "description": "Review of Physiology",
+  "category": "Physiology",
+  "duration": 60,
+  "difficulty": "Intermediate",
+  "price": 0,
+  "rating": 5,
+  "questions": [
+    {
+      "$oid": "6a29097722dfbf7b30dea03d"
+    },
+    {
+      "$oid": "6a2909ba22dfbf7b30dea046"
+    },
+    {
+      "$oid": "6a2909e322dfbf7b30dea061"
+    },
+    {
+      "$oid": "6a290a1822dfbf7b30dea06c"
+    },
+    {
+      "$oid": "6a290b95d0ac815e3d61e30a"
+    },
+    {
+      "$oid": "6a290bbbd0ac815e3d61e31f"
+    },
+    {
+      "$oid": "6a290beed0ac815e3d61e329"
+    },
+    {
+      "$oid": "6a290c4ed0ac815e3d61e347"
+    },
+    {
+      "$oid": "6a290c9941a9ff2fe7c43ac9"
+    },
+    {
+      "$oid": "6a290cc141a9ff2fe7c43ad3"
+    },
+    {
+      "$oid": "6a290ef841a9ff2fe7c43f3a"
+    },
+    {
+      "$oid": "6a29102941a9ff2fe7c440bd"
+    },
+    {
+      "$oid": "6a29106241a9ff2fe7c440c7"
+    },
+    {
+      "$oid": "6a29109a41a9ff2fe7c440d1"
+    },
+    {
+      "$oid": "6a2910d041a9ff2fe7c441c2"
+    },
+    {
+      "$oid": "6a29110741a9ff2fe7c441cc"
+    },
+    {
+      "$oid": "6a29113241a9ff2fe7c442bc"
+    },
+    {
+      "$oid": "6a29116c41a9ff2fe7c442c6"
+    },
+    {
+      "$oid": "6a2911af41a9ff2fe7c442d0"
+    },
+    {
+      "$oid": "6a2911e541a9ff2fe7c443c2"
+    },
+    {
+      "$oid": "6a29121241a9ff2fe7c443cc"
+    },
+    {
+      "$oid": "6a29124341a9ff2fe7c444bd"
+    },
+    {
+      "$oid": "6a29128141a9ff2fe7c444c7"
+    },
+    {
+      "$oid": "6a2912e841a9ff2fe7c44680"
+    },
+    {
+      "$oid": "6a29133c41a9ff2fe7c4468a"
+    },
+    {
+      "$oid": "6a29137341a9ff2fe7c4477c"
+    },
+    {
+      "$oid": "6a2913a141a9ff2fe7c44786"
+    },
+    {
+      "$oid": "6a2913d241a9ff2fe7c44790"
+    },
+    {
+      "$oid": "6a29142141a9ff2fe7c447a4"
+    },
+    {
+      "$oid": "6a29145741a9ff2fe7c447ae"
+    },
+    {
+      "$oid": "6a29149641a9ff2fe7c447b8"
+    },
+    {
+      "$oid": "6a2914c041a9ff2fe7c447cc"
+    },
+    {
+      "$oid": "6a29150341a9ff2fe7c447d6"
+    },
+    {
+      "$oid": "6a29157141a9ff2fe7c447ea"
+    },
+    {
+      "$oid": "6a29159b41a9ff2fe7c447f4"
+    },
+    {
+      "$oid": "6a2915f541a9ff2fe7c44931"
+    },
+    {
+      "$oid": "6a29162541a9ff2fe7c4493c"
+    },
+    {
+      "$oid": "6a29165341a9ff2fe7c44946"
+    },
+    {
+      "$oid": "6a29167741a9ff2fe7c449b1"
+    },
+    {
+      "$oid": "6a2916af41a9ff2fe7c44bdb"
+    },
+    {
+      "$oid": "6a2916f941a9ff2fe7c44cfa"
+    },
+    {
+      "$oid": "6a29174e41a9ff2fe7c45528"
+    },
+    {
+      "$oid": "6a29177e41a9ff2fe7c45532"
+    },
+    {
+      "$oid": "6a2917da41a9ff2fe7c45547"
+    },
+    {
+      "$oid": "6a29183941a9ff2fe7c4555c"
+    }
+  ],
+  "createdAt": {
+    "$date": "2026-06-10T06:50:02.071Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-10T14:39:06.102Z"
+  },
+  "__v": 49,
+  "isFree": false
+},
+{
+  "_id": {
+    "$oid": "6a2926d4252075e5a1a5b2e8"
+  },
+  "title": "Vascular System and Regional Circulation",
+  "description": "Review of Physiology",
+  "category": "Physiology",
+  "duration": 60,
+  "difficulty": "Intermediate",
+  "price": 0,
+  "rating": 5,
+  "questions": [
+    {
+      "$oid": "6a29274f252075e5a1a5b350"
+    },
+    {
+      "$oid": "6a292778252075e5a1a5b35a"
+    },
+    {
+      "$oid": "6a2927a3252075e5a1a5b364"
+    },
+    {
+      "$oid": "6a2927c9252075e5a1a5b36e"
+    },
+    {
+      "$oid": "6a292801252075e5a1a5b378"
+    },
+    {
+      "$oid": "6a29282a252075e5a1a5b383"
+    },
+    {
+      "$oid": "6a292856252075e5a1a5b393"
+    },
+    {
+      "$oid": "6a29287d252075e5a1a5b39d"
+    },
+    {
+      "$oid": "6a2928b8252075e5a1a5b3a7"
+    },
+    {
+      "$oid": "6a2929c5252075e5a1a5b4b7"
+    },
+    {
+      "$oid": "6a292a55252075e5a1a5b4c1"
+    },
+    {
+      "$oid": "6a292ad3252075e5a1a5b4cb"
+    },
+    {
+      "$oid": "6a292b47252075e5a1a5b4d5"
+    },
+    {
+      "$oid": "6a292c0f252075e5a1a5b516"
+    },
+    {
+      "$oid": "6a292c6b252075e5a1a5b521"
+    },
+    {
+      "$oid": "6a292d19252075e5a1a5b52b"
+    },
+    {
+      "$oid": "6a292e0e252075e5a1a5b583"
+    },
+    {
+      "$oid": "6a292ea4252075e5a1a5b5d5"
+    },
+    {
+      "$oid": "6a292f05252075e5a1a5b5df"
+    },
+    {
+      "$oid": "6a292f63252075e5a1a5b5e9"
+    },
+    {
+      "$oid": "6a292fcf252075e5a1a5b5f3"
+    },
+    {
+      "$oid": "6a2930e6252075e5a1a5b5ff"
+    },
+    {
+      "$oid": "6a29313f252075e5a1a5b609"
+    },
+    {
+      "$oid": "6a2931ea252075e5a1a5b613"
+    },
+    {
+      "$oid": "6a293251252075e5a1a5b681"
+    },
+    {
+      "$oid": "6a2932a8252075e5a1a5b68b"
+    },
+    {
+      "$oid": "6a293318252075e5a1a5b695"
+    },
+    {
+      "$oid": "6a2933b8252075e5a1a5b69f"
+    },
+    {
+      "$oid": "6a293448252075e5a1a5b6a9"
+    },
+    {
+      "$oid": "6a2934a4252075e5a1a5b6b3"
+    },
+    {
+      "$oid": "6a293500252075e5a1a5b6bd"
+    },
+    {
+      "$oid": "6a293578252075e5a1a5b6c7"
+    },
+    {
+      "$oid": "6a29398b252075e5a1a5b733"
+    },
+    {
+      "$oid": "6a2939fa252075e5a1a5b73d"
+    },
+    {
+      "$oid": "6a293a77252075e5a1a5b7d3"
+    },
+    {
+      "$oid": "6a293adb252075e5a1a5b7dd"
+    },
+    {
+      "$oid": "6a293b1d252075e5a1a5b7e7"
+    },
+    {
+      "$oid": "6a293b75252075e5a1a5b7f1"
+    },
+    {
+      "$oid": "6a293bc6252075e5a1a5b7fb"
+    },
+    {
+      "$oid": "6a293c5c252075e5a1a5b805"
+    },
+    {
+      "$oid": "6a293cd1252075e5a1a5b80f"
+    },
+    {
+      "$oid": "6a293d8a252075e5a1a5b819"
+    },
+    {
+      "$oid": "6a293dec252075e5a1a5b823"
+    },
+    {
+      "$oid": "6a293eb1252075e5a1a5b834"
+    },
+    {
+      "$oid": "6a293f71252075e5a1a5b83e"
+    },
+    {
+      "$oid": "6a293ffb252075e5a1a5b848"
+    },
+    {
+      "$oid": "6a29405d252075e5a1a5b852"
+    },
+    {
+      "$oid": "6a29409f252075e5a1a5b85c"
+    },
+    {
+      "$oid": "6a2940fe252075e5a1a5b866"
+    },
+    {
+      "$oid": "6a29415d252075e5a1a5b870"
+    },
+    {
+      "$oid": "6a294233252075e5a1a5b87a"
+    },
+    {
+      "$oid": "6a2942a0252075e5a1a5b884"
+    },
+    {
+      "$oid": "6a294396252075e5a1a5b88e"
+    },
+    {
+      "$oid": "6a294507252075e5a1a5b89a"
+    },
+    {
+      "$oid": "6a294b4d252075e5a1a5b981"
+    }
+  ],
+  "createdAt": {
+    "$date": "2026-06-10T08:56:52.759Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-10T14:39:06.102Z"
+  },
+  "__v": 55,
+  "isFree": false
+},
+{
+  "_id": {
+    "$oid": "6a296b42252075e5a1a5bd01"
+  },
+  "title": "Mechanics of Respiration with Lung Volumes and Capacities",
+  "description": "Review of Physiology",
+  "category": "Physiology",
+  "duration": 60,
+  "difficulty": "Intermediate",
+  "price": 0,
+  "rating": 5,
+  "questions": [
+    {
+      "$oid": "6a296ca0252075e5a1a5bd67"
+    },
+    {
+      "$oid": "6a296db4252075e5a1a5bd71"
+    },
+    {
+      "$oid": "6a296ddb252075e5a1a5bd7b"
+    },
+    {
+      "$oid": "6a296e21252075e5a1a5bd85"
+    },
+    {
+      "$oid": "6a296e5a252075e5a1a5bd8f"
+    },
+    {
+      "$oid": "6a296e98252075e5a1a5bd99"
+    },
+    {
+      "$oid": "6a297199252075e5a1a5bf2c"
+    },
+    {
+      "$oid": "6a297234252075e5a1a5bf36"
+    },
+    {
+      "$oid": "6a2972f7252075e5a1a5bf40"
+    },
+    {
+      "$oid": "6a29741850368005b8f4c0ab"
+    },
+    {
+      "$oid": "6a29749550368005b8f4c1d8"
+    },
+    {
+      "$oid": "6a29758750368005b8f4cbe4"
+    },
+    {
+      "$oid": "6a29762d50368005b8f4cbee"
+    },
+    {
+      "$oid": "6a2976a050368005b8f4cbfb"
+    },
+    {
+      "$oid": "6a29770c2a4fed8770976b2d"
+    },
+    {
+      "$oid": "6a29777b2a4fed8770976d29"
+    },
+    {
+      "$oid": "6a2977fc2a4fed8770977021"
+    },
+    {
+      "$oid": "6a2978d32a4fed87709770c1"
+    },
+    {
+      "$oid": "6a2979596f6cb8481311794b"
+    },
+    {
+      "$oid": "6a2979e6344415ab5e9c1402"
+    },
+    {
+      "$oid": "6a297c82100e782d1c8df2e0"
+    },
+    {
+      "$oid": "6a297cd8100e782d1c8df6d6"
+    },
+    {
+      "$oid": "6a297d2b100e782d1c8df6e8"
+    },
+    {
+      "$oid": "6a297da6100e782d1c8df6f2"
+    },
+    {
+      "$oid": "6a297e2b100e782d1c8df760"
+    },
+    {
+      "$oid": "6a297e9a100e782d1c8df770"
+    },
+    {
+      "$oid": "6a297f0ca5b20a76347b158e"
+    },
+    {
+      "$oid": "6a297f65a5b20a76347b16a8"
+    },
+    {
+      "$oid": "6a297fb5a5b20a76347b1734"
+    },
+    {
+      "$oid": "6a297ffca5b20a76347b1747"
+    },
+    {
+      "$oid": "6a298034a5b20a76347b1751"
+    },
+    {
+      "$oid": "6a2980ad5282689fd82faf76"
+    },
+    {
+      "$oid": "6a29824c5282689fd82fb4a4"
+    },
+    {
+      "$oid": "6a2983455282689fd82fb9ea"
+    },
+    {
+      "$oid": "6a2983a82ddc0c77dda84c2b"
+    },
+    {
+      "$oid": "6a29842d2ddc0c77dda84dd5"
+    },
+    {
+      "$oid": "6a2984952ddc0c77dda84ea1"
+    },
+    {
+      "$oid": "6a2a8811c14ac6fee01432cf"
+    },
+    {
+      "$oid": "6a2a8842c14ac6fee01432d9"
+    },
+    {
+      "$oid": "6a2a8976c14ac6fee01432e3"
+    },
+    {
+      "$oid": "6a2a8999c14ac6fee01432ed"
+    },
+    {
+      "$oid": "6a2a8a17c14ac6fee01432f7"
+    },
+    {
+      "$oid": "6a2a8a51c14ac6fee0143301"
+    },
+    {
+      "$oid": "6a2a8a97c14ac6fee014330b"
+    },
+    {
+      "$oid": "6a2a8acbc14ac6fee0143315"
+    },
+    {
+      "$oid": "6a2a8b02c14ac6fee014331f"
+    },
+    {
+      "$oid": "6a2a8b2dc14ac6fee0143329"
+    },
+    {
+      "$oid": "6a2a8b74c14ac6fee0143333"
+    },
+    {
+      "$oid": "6a2a8ba7c14ac6fee014333d"
+    },
+    {
+      "$oid": "6a2a8beac14ac6fee0143347"
+    },
+    {
+      "$oid": "6a2a8c22c14ac6fee0143351"
+    },
+    {
+      "$oid": "6a2a8c5cc14ac6fee014335b"
+    },
+    {
+      "$oid": "6a2a8c8ec14ac6fee0143365"
+    },
+    {
+      "$oid": "6a2a99d1c14ac6fee014345d"
+    },
+    {
+      "$oid": "6a2a9a07c14ac6fee0143467"
+    },
+    {
+      "$oid": "6a2a9a30c14ac6fee0143471"
+    },
+    {
+      "$oid": "6a2a9aa2c14ac6fee014347b"
+    },
+    {
+      "$oid": "6a2a9acbc14ac6fee0143485"
+    },
+    {
+      "$oid": "6a2a9af6c14ac6fee014348f"
+    },
+    {
+      "$oid": "6a2a9b1fc14ac6fee0143499"
+    },
+    {
+      "$oid": "6a2a9b4cc14ac6fee01434a3"
+    },
+    {
+      "$oid": "6a2a9d67c14ac6fee01434ad"
+    },
+    {
+      "$oid": "6a2a9db0c14ac6fee01434b7"
+    },
+    {
+      "$oid": "6a2a9de5c14ac6fee01434c1"
+    },
+    {
+      "$oid": "6a2a9e44c14ac6fee01434cc"
+    },
+    {
+      "$oid": "6a2a9e92c14ac6fee01434d7"
+    },
+    {
+      "$oid": "6a2a9efac14ac6fee01434e2"
+    },
+    {
+      "$oid": "6a2a9f38c14ac6fee01434ed"
+    },
+    {
+      "$oid": "6a2a9f63c14ac6fee01434f8"
+    },
+    {
+      "$oid": "6a2a9fb5c14ac6fee0143503"
+    },
+    {
+      "$oid": "6a2a9ff7c14ac6fee014350d"
+    },
+    {
+      "$oid": "6a2aa02dc14ac6fee0143518"
+    }
+  ],
+  "createdAt": {
+    "$date": "2026-06-10T13:48:50.549Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-11T11:46:53.100Z"
+  },
+  "__v": 78,
+  "isFree": false
+},
+{
+  "_id": {
+    "$oid": "6a2aa0bec14ac6fee0143520"
+  },
+  "title": "Gaseous Exchange",
+  "description": "Review of Physiology",
+  "category": "Physiology",
+  "duration": 60,
+  "difficulty": "Intermediate",
+  "price": 0,
+  "rating": 5,
+  "questions": [
+    {
+      "$oid": "6a2aa136c14ac6fee0143526"
+    },
+    {
+      "$oid": "6a2aa161c14ac6fee0143530"
+    },
+    {
+      "$oid": "6a2aa194c14ac6fee0143545"
+    },
+    {
+      "$oid": "6a2aa1c3c14ac6fee014354f"
+    },
+    {
+      "$oid": "6a2aa203c14ac6fee014355a"
+    },
+    {
+      "$oid": "6a2aa245c14ac6fee0143565"
+    },
+    {
+      "$oid": "6a2aa29cc14ac6fee014356f"
+    },
+    {
+      "$oid": "6a2aa2cec14ac6fee0143579"
+    },
+    {
+      "$oid": "6a2aa2f6c14ac6fee0143583"
+    },
+    {
+      "$oid": "6a2aa32ac14ac6fee014358d"
+    },
+    {
+      "$oid": "6a2aa3bec14ac6fee0143597"
+    },
+    {
+      "$oid": "6a2aa3f0c14ac6fee01435a1"
+    },
+    {
+      "$oid": "6a2aa974c14ac6fee01435de"
+    },
+    {
+      "$oid": "6a2aa9b4c14ac6fee01435e8"
+    },
+    {
+      "$oid": "6a2aa9eac14ac6fee01435f2"
+    },
+    {
+      "$oid": "6a2aaa1fc14ac6fee01435fc"
+    },
+    {
+      "$oid": "6a2aaa53c14ac6fee0143606"
+    },
+    {
+      "$oid": "6a2aaa80c14ac6fee0143610"
+    },
+    {
+      "$oid": "6a2aaaeac14ac6fee014361a"
+    },
+    {
+      "$oid": "6a2aab55c14ac6fee0143624"
+    },
+    {
+      "$oid": "6a2aab8bc14ac6fee014362e"
+    },
+    {
+      "$oid": "6a2aabcfc14ac6fee0143638"
+    },
+    {
+      "$oid": "6a2aac62c14ac6fee014369d"
+    },
+    {
+      "$oid": "6a2aacd9c14ac6fee01436a7"
+    },
+    {
+      "$oid": "6a2aad3bc14ac6fee01436b1"
+    },
+    {
+      "$oid": "6a2aad8fc14ac6fee01436bb"
+    },
+    {
+      "$oid": "6a2aadc1c14ac6fee01436c5"
+    },
+    {
+      "$oid": "6a2aadf5c14ac6fee01436cf"
+    },
+    {
+      "$oid": "6a2aae29c14ac6fee01436d9"
+    },
+    {
+      "$oid": "6a2aae5ec14ac6fee01436e4"
+    },
+    {
+      "$oid": "6a2aae96c14ac6fee01436ee"
+    },
+    {
+      "$oid": "6a2aaedac14ac6fee01436f8"
+    },
+    {
+      "$oid": "6a2aaefec14ac6fee0143702"
+    },
+    {
+      "$oid": "6a2aaf39c14ac6fee014370c"
+    },
+    {
+      "$oid": "6a2aaf73c14ac6fee0143717"
+    },
+    {
+      "$oid": "6a2c04d19072d7d0e45a7fff"
+    },
+    {
+      "$oid": "6a2c04fb9072d7d0e45a8009"
+    },
+    {
+      "$oid": "6a2c05c99072d7d0e45a8013"
+    },
+    {
+      "$oid": "6a2c05f69072d7d0e45a801d"
+    },
+    {
+      "$oid": "6a2c06389072d7d0e45a80c8"
+    },
+    {
+      "$oid": "6a2c06779072d7d0e45a80d2"
+    },
+    {
+      "$oid": "6a2c06a19072d7d0e45a80dc"
+    },
+    {
+      "$oid": "6a2c06d29072d7d0e45a80e6"
+    },
+    {
+      "$oid": "6a2c070a9072d7d0e45a80f0"
+    },
+    {
+      "$oid": "6a2c07479072d7d0e45a80fa"
+    },
+    {
+      "$oid": "6a2c07899072d7d0e45a8104"
+    },
+    {
+      "$oid": "6a2c07cd9072d7d0e45a810f"
+    },
+    {
+      "$oid": "6a2c08059072d7d0e45a8119"
+    },
+    {
+      "$oid": "6a2c083f9072d7d0e45a8123"
+    },
+    {
+      "$oid": "6a2c087a9072d7d0e45a81f7"
+    },
+    {
+      "$oid": "6a2c08a19072d7d0e45a8201"
+    },
+    {
+      "$oid": "6a2c08e79072d7d0e45a820c"
+    },
+    {
+      "$oid": "6a2c09309072d7d0e45a8216"
+    },
+    {
+      "$oid": "6a2c0c189072d7d0e45a82fa"
+    },
+    {
+      "$oid": "6a2c0c549072d7d0e45a8305"
+    },
+    {
+      "$oid": "6a2c0cb59072d7d0e45a830f"
+    },
+    {
+      "$oid": "6a2c0cdc9072d7d0e45a8319"
+    },
+    {
+      "$oid": "6a2c0d099072d7d0e45a8323"
+    },
+    {
+      "$oid": "6a2c0d689072d7d0e45a832d"
+    },
+    {
+      "$oid": "6a2c0da19072d7d0e45a8337"
+    },
+    {
+      "$oid": "6a2c0dce9072d7d0e45a8341"
+    },
+    {
+      "$oid": "6a2c0dfc9072d7d0e45a834b"
+    },
+    {
+      "$oid": "6a2c0e309072d7d0e45a8355"
+    },
+    {
+      "$oid": "6a2c0e629072d7d0e45a835f"
+    },
+    {
+      "$oid": "6a2c0e979072d7d0e45a8369"
+    },
+    {
+      "$oid": "6a2c0ec69072d7d0e45a8373"
+    },
+    {
+      "$oid": "6a2c0ef69072d7d0e45a837d"
+    },
+    {
+      "$oid": "6a2c0f289072d7d0e45a8387"
+    },
+    {
+      "$oid": "6a2c0f529072d7d0e45a8391"
+    },
+    {
+      "$oid": "6a2c0f8d9072d7d0e45a839b"
+    },
+    {
+      "$oid": "6a2c0fbd9072d7d0e45a83a6"
+    },
+    {
+      "$oid": "6a2c0ff69072d7d0e45a83b0"
+    },
+    {
+      "$oid": "6a2c101e9072d7d0e45a83bb"
+    },
+    {
+      "$oid": "6a2c10419072d7d0e45a83c5"
+    },
+    {
+      "$oid": "6a2c10689072d7d0e45a83cf"
+    },
+    {
+      "$oid": "6a2c10cf9072d7d0e45a83da"
+    },
+    {
+      "$oid": "6a2c11119072d7d0e45a83e6"
+    },
+    {
+      "$oid": "6a2c114e9072d7d0e45a852e"
+    },
+    {
+      "$oid": "6a2c11809072d7d0e45a853a"
+    }
+  ],
+  "isFree": true,
+  "createdAt": {
+    "$date": "2026-06-11T11:49:18.488Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-12T14:02:40.451Z"
+  },
+  "__v": 79
+},
+{
+  "_id": {
+    "$oid": "6a2c12089072d7d0e45a8542"
+  },
+  "title": "Regulation of Respiration and Applied Physiology",
+  "description": "Review of Physiology",
+  "category": "Physiology",
+  "duration": 60,
+  "difficulty": "Intermediate",
+  "price": 0,
+  "rating": 5,
+  "questions": [
+    {
+      "$oid": "6a2c12669072d7d0e45a8548"
+    },
+    {
+      "$oid": "6a2c13a79072d7d0e45a8559"
+    },
+    {
+      "$oid": "6a2c13f59072d7d0e45a8563"
+    },
+    {
+      "$oid": "6a2c1a6b9072d7d0e45a8598"
+    },
+    {
+      "$oid": "6a2c1ace9072d7d0e45a85b5"
+    },
+    {
+      "$oid": "6a2c1e619072d7d0e45a883f"
+    },
+    {
+      "$oid": "6a2c1f179072d7d0e45a888a"
+    },
+    {
+      "$oid": "6a2c1f739072d7d0e45a8894"
+    },
+    {
+      "$oid": "6a2c1fc99072d7d0e45a889e"
+    },
+    {
+      "$oid": "6a2c20499072d7d0e45a88a8"
+    },
+    {
+      "$oid": "6a2c20b09072d7d0e45a88dd"
+    },
+    {
+      "$oid": "6a2c21389072d7d0e45a88e7"
+    },
+    {
+      "$oid": "6a2c252d9072d7d0e45a8925"
+    },
+    {
+      "$oid": "6a2c256a9072d7d0e45a892f"
+    },
+    {
+      "$oid": "6a2c25999072d7d0e45a8939"
+    },
+    {
+      "$oid": "6a2c25d89072d7d0e45a8943"
+    },
+    {
+      "$oid": "6a2c26039072d7d0e45a894d"
+    },
+    {
+      "$oid": "6a2c262d9072d7d0e45a8957"
+    },
+    {
+      "$oid": "6a2c26629072d7d0e45a8961"
+    },
+    {
+      "$oid": "6a2c26929072d7d0e45a896b"
+    },
+    {
+      "$oid": "6a2c26fa9072d7d0e45a8975"
+    },
+    {
+      "$oid": "6a2c27269072d7d0e45a897f"
+    },
+    {
+      "$oid": "6a2c27519072d7d0e45a8989"
+    },
+    {
+      "$oid": "6a2c27799072d7d0e45a8993"
+    },
+    {
+      "$oid": "6a2c27ab9072d7d0e45a899d"
+    },
+    {
+      "$oid": "6a2c27d49072d7d0e45a89a7"
+    },
+    {
+      "$oid": "6a2c28029072d7d0e45a89b1"
+    },
+    {
+      "$oid": "6a2c28479072d7d0e45a89bb"
+    },
+    {
+      "$oid": "6a2c28ad9072d7d0e45a89c5"
+    },
+    {
+      "$oid": "6a2c28de9072d7d0e45a89cf"
+    },
+    {
+      "$oid": "6a2c29109072d7d0e45a89d9"
+    },
+    {
+      "$oid": "6a2c293c9072d7d0e45a89e3"
+    },
+    {
+      "$oid": "6a2c296b9072d7d0e45a89ed"
+    },
+    {
+      "$oid": "6a2c299b9072d7d0e45a89f8"
+    },
+    {
+      "$oid": "6a2c29c39072d7d0e45a8a03"
+    },
+    {
+      "$oid": "6a2c29f59072d7d0e45a8a0d"
+    },
+    {
+      "$oid": "6a2c2a299072d7d0e45a8a17"
+    },
+    {
+      "$oid": "6a2c2a4b9072d7d0e45a8a22"
+    },
+    {
+      "$oid": "6a2c2a769072d7d0e45a8a2c"
+    },
+    {
+      "$oid": "6a2c2aa09072d7d0e45a8a36"
+    },
+    {
+      "$oid": "6a2c2ac69072d7d0e45a8a40"
+    },
+    {
+      "$oid": "6a2c2ae59072d7d0e45a8a4a"
+    },
+    {
+      "$oid": "6a2c2b159072d7d0e45a8a54"
+    },
+    {
+      "$oid": "6a2c2b599072d7d0e45a8bd2"
+    },
+    {
+      "$oid": "6a2c2b9b9072d7d0e45a8bdc"
+    },
+    {
+      "$oid": "6a2c2bbc9072d7d0e45a8be6"
+    },
+    {
+      "$oid": "6a2c2c159072d7d0e45a8d7b"
+    },
+    {
+      "$oid": "6a2c2c839072d7d0e45a8f18"
+    }
+  ],
+  "isFree": true,
+  "createdAt": {
+    "$date": "2026-06-12T14:04:56.493Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-12T15:57:55.149Z"
+  },
+  "__v": 48
+},
+{
+  "_id": {
+    "$oid": "6a2c2cec9072d7d0e45a8f20"
+  },
+  "title": "Central Nervous System ",
+  "description": "Review of Physiology",
+  "category": "Physiology",
+  "duration": 60,
+  "difficulty": "Intermediate",
+  "price": 0,
+  "rating": 5,
+  "questions": [
+    {
+      "$oid": "6a2c2d369072d7d0e45a8f26"
+    },
+    {
+      "$oid": "6a2c2d649072d7d0e45a8f30"
+    },
+    {
+      "$oid": "6a2c2d959072d7d0e45a8f3a"
+    },
+    {
+      "$oid": "6a2c2dba9072d7d0e45a8f44"
+    },
+    {
+      "$oid": "6a2c2ddf9072d7d0e45a8f4e"
+    },
+    {
+      "$oid": "6a2c2e2a9072d7d0e45a8f58"
+    },
+    {
+      "$oid": "6a2c2e699072d7d0e45a8f62"
+    },
+    {
+      "$oid": "6a2c2e969072d7d0e45a8f6c"
+    },
+    {
+      "$oid": "6a2c2edc9072d7d0e45a8f76"
+    },
+    {
+      "$oid": "6a2c3e479072d7d0e45a8f8b"
+    }
+  ],
+  "isFree": true,
+  "createdAt": {
+    "$date": "2026-06-12T15:59:40.674Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-12T17:20:49.263Z"
+  },
+  "__v": 12
+}]
