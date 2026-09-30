@@ -20,9 +20,21 @@ connectDB();
 
 const app = express();
 
+const allowedOrigins = (process.env.CORS_ORIGINS || 'https://www.mcqvitals.com,https://mcqvitals.com').split(',').map(origin => origin.trim()).filter(Boolean);
+
 app.use(cors({
-    origin: true,
-    credentials: true
+    origin: (origin, callback) => {
+        if (!origin || allowedOrigins.includes(origin)) {
+            callback(null, true);
+            return;
+        }
+
+        callback(new Error('Not allowed by CORS'));
+    },
+    credentials: true,
+    methods: ['GET', 'POST', 'PUT', 'PATCH', 'DELETE', 'OPTIONS'],
+    allowedHeaders: ['Content-Type', 'Authorization', 'X-Requested-With'],
+    optionsSuccessStatus: 204
 }));
 app.use(express.json());
 
