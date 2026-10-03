@@ -1,0 +1,306 @@
+[
+  {
+    "id": 1,
+    "question": "The most effective for gluconeogenesis is: (Nov 2016 AIIMS)",
+    "options": {"a": "Citrate stimulation of acetyl carboxylase", "b": "Acetyl CoA stimulation of pyruvate carboxylase", "c": "Fructose 2,6-bisphosphate stimulation of phosphofructokinase", "d": "Citrate activating pyruvate carboxylase"},
+    "correct_answer": "b",
+    "explanation": "Acetyl CoA is a very important positive allosteric modifier (activator) of pyruvate carboxylase, the first committed enzyme of gluconeogenesis. This acetyl CoA is produced during beta-oxidation of fatty acids in the mitochondria. For gluconeogenesis to occur in the liver, prior beta-oxidation of fatty acids is necessary. Fructose 2,6-bisphosphate activates phosphofructokinase (PFK-1), a glycolytic enzyme, and actually inhibits gluconeogenesis.",
+    "reference": "Harper's Illustrated Biochemistry 30th ed, page 188"
+  },
+  {
+    "id": 2,
+    "question": "Respiratory quotient after a heavy carbohydrate meal is: (Nov 2016 AIIMS)",
+    "options": {"a": "1.2", "b": "0.8", "c": "1.0", "d": "0.7"},
+    "correct_answer": "c",
+    "explanation": "Respiratory Quotient (RQ) = CO2 produced / O2 consumed. RQ values: carbohydrate = 1.00; protein = 0.80; lipid = 0.70; mixed diet = 0.85; after heavy exercise = 1.20 (anaerobic metabolism). After a heavy carbohydrate meal, RQ approaches 1.0.",
+    "reference": "Harper's Illustrated Biochemistry 30th ed"
+  },
+  {
+    "id": 3,
+    "question": "Urine glucose strip negative but Benedict's test for reducing sugar positive. Probable diagnosis: (Nov 2016 AIIMS)",
+    "options": {"a": "Fructosemia", "b": "Galactosemia", "c": "Latent diabetes mellitus", "d": "Hyperaldosteronism"},
+    "correct_answer": "b",
+    "explanation": "Glucose dipstick (glucose oxidase) is negative, indicating no glucose in urine. Benedict's test detects all reducing sugars and is positive, indicating a non-glucose reducing sugar. Galactose is a reducing sugar that gives positive Benedict's but a negative glucose dipstick. Galactosemia leads to galactosuria, making this the classic diagnosis.",
+    "reference": "Harper's Illustrated Biochemistry 30th ed"
+  },
+  {
+    "id": 4,
+    "question": "Which of the following is not a gluconeogenic substrate in humans? (November 2015 AIIMS)",
+    "options": {"a": "Lactate", "b": "Pyruvate", "c": "Oxaloacetate", "d": "Acetyl CoA"},
+    "correct_answer": "d",
+    "explanation": "Acetyl CoA cannot be used for gluconeogenesis because the pyruvate dehydrogenase (PDH) reaction is irreversible; pyruvate cannot be regenerated from acetyl CoA. Gluconeogenic substrates include lactate, pyruvate, oxaloacetate, fumarate, gluconeogenic amino acids, glycerol, and propionic acid. Fatty acids converted to acetyl CoA cannot contribute to net glucose synthesis in humans.",
+    "reference": "Harper's Illustrated Biochemistry 30th ed"
+  },
+  {
+    "id": 5,
+    "question": "Activators of phosphofructokinase-1 of glycolysis include: (PGI)",
+    "options": {"a": "ATP", "b": "AMP", "c": "ADP", "d": "Fructose-1,6-bisphosphate", "e": "Fructose 2,6-bisphosphate"},
+    "correct_answer": "b,e",
+    "explanation": "PFK-1 is the rate-limiting enzyme of glycolysis. Allosteric activators are AMP and fructose 2,6-bisphosphate (the most potent activator, produced by PFK-2). Allosteric inhibitors are ATP, citrate, and H+ (low pH). Fructose-1,6-bisphosphate is the product of PFK-1, not an activator. High ATP inhibits PFK-1; high AMP activates it.",
+    "reference": "Devlin 6th ed, page 599"
+  },
+  {
+    "id": 6,
+    "question": "Total number of ATPs derived from one molecule of Acetyl CoA?",
+    "options": {"a": "8", "b": "9", "c": "10", "d": "12"},
+    "correct_answer": "c",
+    "explanation": "From 1 Acetyl CoA in the TCA cycle: isocitrate dehydrogenase produces 1 NADH (2.5 ATP); alpha-ketoglutarate dehydrogenase produces 1 NADH (2.5 ATP); succinate thiokinase produces 1 GTP (1 ATP); succinate dehydrogenase produces 1 FADH2 (1.5 ATP); malate dehydrogenase produces 1 NADH (2.5 ATP). Total = 10 ATP.",
+    "reference": "Harper's Illustrated Biochemistry 30th ed"
+  },
+  {
+    "id": 7,
+    "question": "All are true about glucuronic acid except:",
+    "options": {"a": "It is a charged molecule at physiological pH", "b": "As a UDP derivative, it can be decarboxylated to a component used in proteoglycan synthesis", "c": "It is a precursor of ascorbic acid in humans", "d": "It can ultimately be converted to xylulose-5-phosphate and enter the pentose phosphate pathway"},
+    "correct_answer": "c",
+    "explanation": "Glucuronic acid is not a precursor of ascorbic acid in humans; humans lack gulonolactone oxidase and cannot synthesize vitamin C. Other animals can. True facts: it is anionic at physiological pH; UDP glucuronic acid decarboxylates to UDP xylose (proteoglycans); reduction leads to xylulose-5-phosphate entering the pentose phosphate pathway.",
+    "reference": "Harper's Illustrated Biochemistry 30th ed"
+  },
+  {
+    "id": 8,
+    "question": "Glycosaminoglycans:",
+    "options": {"a": "Are the carbohydrate portion of the glycoprotein", "b": "Contain large segment of a repeating unit typically consisting of a hexosamine and a uronic acid", "c": "Always contain sulphate", "d": "Exist only in two forms"},
+    "correct_answer": "b",
+    "explanation": "GAGs are characterized by repeating disaccharide units of a hexosamine and a uronic acid. They are carbohydrate portions of proteoglycans, not glycoproteins. Hyaluronate does not contain sulphate, so GAGs do not always have sulphate. There are six classes: heparin, heparan sulphate, keratan sulphate I and II, dermatan sulphate, chondroitin sulphate, and hyaluronate.",
+    "reference": "Harper's Illustrated Biochemistry 30th ed"
+  },
+  {
+    "id": 9,
+    "question": "Which of the following is NOT seen in low insulin/glucagon ratio? [May 2017 AIIMS]",
+    "options": {"a": "Gluconeogenesis", "b": "Glycogen storage", "c": "Glycogen breakdown", "d": "Ketogenesis"},
+    "correct_answer": "b",
+    "explanation": "A low insulin/glucagon ratio (fasting state) promotes gluconeogenesis, glycogenolysis (glycogen breakdown), and ketogenesis. Glycogen storage requires high insulin, which activates glycogen synthase; it does not occur in the low-insulin/high-glucagon state.",
+    "reference": "Harper's Illustrated Biochemistry 30th ed"
+  },
+  {
+    "id": 10,
+    "question": "Which of the following is an anaplerotic reaction? [May 2017 AIIMS]",
+    "options": {"a": "Conversion of pyruvate to acetyl CoA", "b": "Conversion of pyruvate to acetaldehyde", "c": "Conversion of pyruvate to lactic acid", "d": "Conversion of pyruvate to oxaloacetate"},
+    "correct_answer": "d",
+    "explanation": "Anaplerotic reactions replenish TCA cycle intermediates. Pyruvate to oxaloacetate by pyruvate carboxylase (CO2 + ATP) is the major anaplerotic reaction in mammals. Pyruvate to acetyl CoA (PDH) feeds into the cycle but is not anaplerotic. Pyruvate to lactate is anaerobic glycolysis. Pyruvate to acetaldehyde occurs in yeast.",
+    "reference": "Harper's Illustrated Biochemistry 30th ed"
+  },
+  {
+    "id": 11,
+    "question": "Thiamine deficiency results in decreased energy production, because TPP: [May 2017 AIIMS]",
+    "options": {"a": "Interferes with alcohol metabolism", "b": "Interferes with transketolase activity", "c": "Interferes with energy production from amino acids", "d": "Is cofactor for pyruvate and alpha-ketoglutarate dehydrogenase"},
+    "correct_answer": "d",
+    "explanation": "Thiamine pyrophosphate (TPP) is a cofactor for pyruvate dehydrogenase (PDH), alpha-ketoglutarate dehydrogenase (TCA cycle), transketolase (pentose phosphate pathway), and branched-chain alpha-keto acid dehydrogenase. TPP deficiency blocks PDH and alpha-ketoglutarate dehydrogenase, reducing energy production. The brain is particularly affected because it depends on glucose metabolism.",
+    "reference": "Harper's Illustrated Biochemistry 30th ed"
+  },
+  {
+    "id": 12,
+    "question": "Which of the following yields 3 molecules of ATP under anaerobic metabolism? [May 2017 AIIMS]",
+    "options": {"a": "Glucose", "b": "Galactose", "c": "Glycogen", "d": "Amino acid"},
+    "correct_answer": "c",
+    "explanation": "One glucose unit from glycogen yields 3 ATP anaerobically. Free glucose gives only 2 ATP because hexokinase consumes 1 ATP. Glycogen phosphorylase releases glucose as glucose-6-phosphate, bypassing the hexokinase step and saving 1 ATP. Thus glycogen yields 3 net ATP, while galactose gives 2 ATP, similar to free glucose.",
+    "reference": "Harper's Illustrated Biochemistry 30th ed"
+  },
+  {
+    "id": 13,
+    "question": "Positive signals for glycogen breakdown include increase in all of the following except:",
+    "options": {"a": "Cyclic AMP", "b": "Blood glucose", "c": "Epinephrine", "d": "Ca2+"},
+    "correct_answer": "b",
+    "explanation": "Increased blood glucose does not stimulate glycogen breakdown; it stimulates glycogen synthesis instead. Positive signals for glycogenolysis include cAMP (via glucagon/epinephrine, PKA, phosphorylase kinase, and glycogen phosphorylase activation), epinephrine (raises cAMP), and Ca2+ (directly activates phosphorylase kinase). ATP and glucose-6-phosphate inhibit glycogen phosphorylase.",
+    "reference": "Harper's Illustrated Biochemistry 30th ed"
+  },
+  {
+    "id": 14,
+    "question": "Except for succinate dehydrogenase, all other enzymes of the tricarboxylic acid cycle are found in the:",
+    "options": {"a": "Outer mitochondrial membrane", "b": "Inner mitochondrial membrane", "c": "Mitochondrial matrix", "d": "Cristae"},
+    "correct_answer": "c",
+    "explanation": "All TCA cycle enzymes are located in the mitochondrial matrix except succinate dehydrogenase (Complex II), which is embedded in the inner mitochondrial membrane. It is integral to the inner membrane because it directly transfers electrons to coenzyme Q in the electron transport chain.",
+    "reference": "Harper's Illustrated Biochemistry 30th ed"
+  },
+  {
+    "id": 15,
+    "question": "Which of the following enzymes is NOT directly required in conversion of galactose to UDP-glucose?",
+    "options": {"a": "Galactokinase", "b": "An epimerase", "c": "Phosphoglucomutase", "d": "A uridyl transferase"},
+    "correct_answer": "c",
+    "explanation": "Galactose to UDP-glucose: (1) galactokinase converts galactose to galactose-1-P; (2) GALT (uridyl transferase) converts galactose-1-P + UDP-glucose to UDP-galactose + glucose-1-P; (3) epimerase converts UDP-galactose to UDP-glucose. Phosphoglucomutase interconverts glucose-1-P and glucose-6-P; it is not required in this direct pathway.",
+    "reference": "Harper's Illustrated Biochemistry 30th ed"
+  },
+  {
+    "id": 16,
+    "question": "Hyperuricemia is caused by all except:",
+    "options": {"a": "Von Gierke disease", "b": "Fructose intolerance", "c": "Galactosemia", "d": "Xanthine oxidase deficiency"},
+    "correct_answer": "d",
+    "explanation": "Xanthine oxidase deficiency causes hypouricemia because uric acid cannot be produced; xanthine oxidase is the final enzyme converting xanthine to uric acid. Von Gierke disease causes hyperuricemia via increased purine synthesis. Fructose intolerance causes hyperuricemia via ATP depletion, increased AMP catabolism, and uric acid production.",
+    "reference": "Harper's Illustrated Biochemistry 30th ed"
+  },
+  {
+    "id": 17,
+    "question": "Synthesis of glycogen is inhibited in hepatocytes in response to glucagon stimulation primarily as a result of which of the following?",
+    "options": {"a": "A decrease in the level of phosphoprotein phosphatase", "b": "A decrease in the level of phosphorylated phosphorylase kinase", "c": "An increase in the level of the dephosphorylated form of glycogen synthase", "d": "An increase in the level of the phosphorylated form of glycogen synthase"},
+    "correct_answer": "d",
+    "explanation": "Glucagon activates its receptor, adenylate cyclase, cAMP, and PKA. PKA phosphorylates glycogen synthase, and phosphorylated glycogen synthase is inactive. Glucagon thus inhibits glycogen synthesis by increasing the phosphorylated (inactive) form of glycogen synthase, while simultaneously activating glycogen phosphorylase.",
+    "reference": "Harper's Illustrated Biochemistry 30th ed"
+  },
+  {
+    "id": 18,
+    "question": "Which of the following steps is involved in the generation of glucose from lipolysis?",
+    "options": {"a": "Glycerol from lipolysis is converted to triglycerides", "b": "Fatty acids from lipolysis are oxidized, producing NADH and stimulating gluconeogenesis", "c": "Glycerol from lipolysis is phosphorylated, converted to fructose-1,6-bisphosphate, and eventually converted to glucose", "d": "Fatty acids from lipolysis stimulate the citric acid cycle"},
+    "correct_answer": "c",
+    "explanation": "Glycerol from lipolysis enters gluconeogenesis: glycerol to glycerol-3-phosphate (glycerol kinase), to DHAP, to fructose-1,6-bisphosphate (aldolase condensation with G3P), to fructose-6-P, and then glucose. Fatty acids are converted to acetyl CoA and cannot contribute to net glucose synthesis in humans because the PDH reaction is irreversible.",
+    "reference": "Harper's Illustrated Biochemistry 30th ed"
+  },
+  {
+    "id": 19,
+    "question": "Which of the following reactions generates ATP?",
+    "options": {"a": "Glucose-6-phosphate to fructose-6-phosphate", "b": "Glucose to glucose-6-phosphate", "c": "Fructose-6-phosphate to fructose-1,6-diphosphate", "d": "Phosphoenolpyruvate to pyruvate"},
+    "correct_answer": "d",
+    "explanation": "ATP is generated at two substrate-level phosphorylation steps in glycolysis: 1,3-BPG to 3-PG (phosphoglycerate kinase) and PEP to pyruvate (pyruvate kinase), each generating ATP. Reaction a is an isomerization (no ATP). Reaction b (hexokinase) consumes ATP. Reaction c (PFK-1) consumes ATP.",
+    "reference": "Harper's Illustrated Biochemistry 30th ed"
+  },
+  {
+    "id": 20,
+    "question": "The citric acid cycle is inhibited by which of the following:",
+    "options": {"a": "Fluoroacetate", "b": "Fluorouracil", "c": "Aerobic conditions", "d": "Arsenic"},
+    "correct_answer": "a",
+    "explanation": "Fluoroacetate is converted to fluorocitrate, which inhibits aconitase, a TCA cycle enzyme. Arsenite inhibits lipoic acid-containing enzymes (PDH and alpha-ketoglutarate dehydrogenase) but is not a direct TCA enzyme inhibitor. The TCA cycle requires oxygen and is inhibited by anaerobic, not aerobic, conditions. Fluorouracil inhibits thymidylate synthase, not the TCA cycle.",
+    "reference": "Harper's Illustrated Biochemistry 30th ed, p 132"
+  },
+  {
+    "id": 21,
+    "question": "During an overnight fast, the major source of blood glucose is:",
+    "options": {"a": "Dietary glucose from the intestine", "b": "Hepatic glycogenolysis", "c": "Gluconeogenesis", "d": "Muscle glycogenolysis"},
+    "correct_answer": "b",
+    "explanation": "During a short overnight fast (8-12 hours), hepatic glycogenolysis mediated by glucagon is the major source of blood glucose. Muscle glycogenolysis does not contribute to blood glucose because muscle lacks glucose-6-phosphatase. Gluconeogenesis becomes the major source after prolonged fasting (>24 hours), when liver glycogen is depleted.",
+    "reference": "Harper's Illustrated Biochemistry 30th ed"
+  },
+  {
+    "id": 22,
+    "question": "Which one of the following inhibits hepatic gluconeogenesis?",
+    "options": {"a": "Acidosis", "b": "Alcohol", "c": "Insulin", "d": "Glucagon"},
+    "correct_answer": "c",
+    "explanation": "Insulin inhibits hepatic gluconeogenesis by inhibiting PEPCK, pyruvate carboxylase, and glucose-6-phosphatase, and by activating PFK-2. This raises fructose-2,6-bisphosphate, which inhibits fructose-1,6-bisphosphatase. Glucagon, cortisol, and epinephrine stimulate gluconeogenesis.",
+    "reference": "Harper's Illustrated Biochemistry 30th ed"
+  },
+  {
+    "id": 23,
+    "question": "Which one of the following may result in a positive Clinitest reaction?",
+    "options": {"a": "Hyperphosphaturia", "b": "Aminoaciduria", "c": "Rifampicin therapy", "d": "Salicylate therapy"},
+    "correct_answer": "d",
+    "explanation": "Clinitest (copper reduction, similar to Benedict's) detects reducing substances. False positives are associated with glycosuria, galactosemia, hereditary fructosemia, alkaptonuria, and drugs such as salicylates (aspirin), L-dopa, vitamin C, isoniazid, and tetracyclines. Salicylates react with the copper in Clinitest. Rifampicin does not cause a positive Clinitest.",
+    "reference": "Harper's Illustrated Biochemistry 30th ed"
+  },
+  {
+    "id": 24,
+    "question": "Each of the following statements concerning pyruvate dehydrogenase is true except:",
+    "options": {"a": "It is an example of a multienzyme complex", "b": "It requires thiamine pyrophosphate as a cofactor", "c": "It produces oxaloacetate from pyruvate", "d": "It is converted to an inactive form by phosphorylation"},
+    "correct_answer": "c",
+    "explanation": "Pyruvate dehydrogenase (PDH) converts pyruvate to acetyl CoA, not oxaloacetate. Oxaloacetate is produced from pyruvate by pyruvate carboxylase. PDH is a multienzyme complex (E1-PDH, E2-dihydrolipoyl transacetylase, E3-dihydrolipoyl dehydrogenase). Cofactors are TPP, lipoic acid, CoA, NAD+, and FAD. PDH is inactivated by phosphorylation by PDH kinase, stimulated by acetyl CoA and NADH.",
+    "reference": "Harper's Illustrated Biochemistry 30th ed"
+  },
+  {
+    "id": 25,
+    "question": "During exercise, stimulation of the TCA cycle results principally from:",
+    "options": {"a": "Allosteric activation of isocitrate dehydrogenase by increased NADH", "b": "Allosteric activation of fumarase by increased ADP", "c": "A rapid decrease in the concentration of four-carbon intermediates", "d": "Stimulation of the flux through a number of enzymes by a decreased NADH/NAD+ ratio"},
+    "correct_answer": "d",
+    "explanation": "During exercise, increased ATP consumption drives the electron transport chain, oxidizing NADH to NAD+ and decreasing the NADH/NAD+ ratio. This removes product inhibition from TCA dehydrogenases (isocitrate dehydrogenase, alpha-ketoglutarate dehydrogenase, and malate dehydrogenase), stimulating the cycle. Increased NADH would inhibit isocitrate dehydrogenase. Fumarase is not regulated by ADP.",
+    "reference": "Harper's Illustrated Biochemistry 30th ed"
+  },
+  {
+    "id": 26,
+    "question": "A patient with deficient intestinal disaccharidases, after eating milk and oatmeal, will have higher levels of:",
+    "options": {"a": "Maltose, sucrose, and lactose in the stool", "b": "Starch in the stool", "c": "Galactose and fructose in the blood", "d": "Glycogen in the muscles"},
+    "correct_answer": "a",
+    "explanation": "With deficient brush border disaccharidases (sucrase, lactase, maltase), disaccharides cannot be cleaved for absorption. Sucrose, lactose, and maltose pass unabsorbed into the stool. Less monosaccharide is absorbed into blood. Osmotic diarrhea results from undigested sugars in the bowel lumen.",
+    "reference": "Harper's Illustrated Biochemistry 30th ed"
+  },
+  {
+    "id": 27,
+    "question": "Which of the following statements about liver phosphorylase kinase is true?",
+    "options": {"a": "It is present in an inactive form when epinephrine is elevated", "b": "It phosphorylates phosphorylase to an inactive form", "c": "It catalyzes a reaction that requires ATP", "d": "It is phosphorylated in response to elevated insulin"},
+    "correct_answer": "c",
+    "explanation": "Phosphorylase kinase catalyzes phosphorylation requiring ATP: glycogen phosphorylase b + ATP to glycogen phosphorylase a + ADP. When epinephrine is elevated, cAMP activates PKA and phosphorylase kinase. Phosphorylase kinase phosphorylates phosphorylase to its active form. Insulin promotes glycogen synthesis and does not activate phosphorylase kinase.",
+    "reference": "Harper's Illustrated Biochemistry 30th ed"
+  },
+  {
+    "id": 28,
+    "question": "Which of the following proteins represents the calcium-binding regulatory subunit of phosphorylase kinase?",
+    "options": {"a": "Calmodulin", "b": "Fructose-2,6-bisphosphate", "c": "Glycogen synthase kinase-3", "d": "Phosphoprotein phosphatase"},
+    "correct_answer": "a",
+    "explanation": "Phosphorylase kinase contains calmodulin as its delta subunit. Calmodulin binds calcium and allows phosphorylase kinase activation by increased intracellular Ca2+, independently of the cAMP cascade. This is important when muscle is stimulated by alpha-adrenergic epinephrine binding or acetylcholine at the neuromuscular junction, both of which raise intracellular Ca2+.",
+    "reference": "Harper's Illustrated Biochemistry 30th ed; Alberts, page 1093-1094"
+  },
+  {
+    "id": 29,
+    "question": "The molecular basis for shock absorption within articular cartilage is which of the following?",
+    "options": {"a": "Electrostatic interaction of proteoglycans with type IV collagen", "b": "Ability of glycosaminoglycans to bind anions", "c": "Noncovalent binding of glycosaminoglycans to protein cores", "d": "Hydration of glycosaminoglycans"},
+    "correct_answer": "d",
+    "explanation": "Hydration of glycosaminoglycans (GAGs) is the molecular basis for shock absorption in articular cartilage. GAGs carry a large anionic charge (from sulfate, hydroxyl, and carboxyl groups), attracting water and cations to create a highly hydrated gel-like matrix. This provides resilience and resistance to compressive forces during joint movement.",
+    "reference": "Alberts, page 1093-1094; Junqueira, page 113-114"
+  },
+  {
+    "id": 30,
+    "question": "A 25-year-old Nigerian medical student develops hemolytic anemia after taking the antimalarial drug primaquine. Most likely cause:",
+    "options": {"a": "Glucose-6-phosphate dehydrogenase (G6PD) deficiency", "b": "Concomitant scurvy", "c": "Vitamin C deficiency", "d": "Diabetes"},
+    "correct_answer": "a",
+    "explanation": "G6PD deficiency is the most common enzyme-deficiency hemolytic anemia, prevalent in individuals of African, Mediterranean, and Asian descent. G6PD generates NADPH via the pentose phosphate pathway. NADPH regenerates reduced glutathione, protecting RBCs from oxidative damage. Oxidizing drugs (primaquine, sulfa drugs, dapsone) precipitate hemolysis in G6PD-deficient individuals.",
+    "reference": "Harper's Illustrated Biochemistry 30th ed"
+  },
+  {
+    "id": 31,
+    "question": "A newborn girl presents with poor feeding, vomiting, jaundice, and enlarged liver. Urine has reducing substances but is glucose-negative. Which process is most likely abnormal?",
+    "options": {"a": "Conversion of glucose to galactose", "b": "Conversion of lactose to galactose", "c": "Conversion of activated galactose to activated glucose", "d": "Excretion of glucose by the kidney"},
+    "correct_answer": "c",
+    "explanation": "Classical galactosemia is caused by deficiency of GALT (galactose-1-phosphate uridyl transferase). Normal pathway: galactose to galactose-1-P (galactokinase), to UDP-galactose (GALT), to UDP-glucose (epimerase). GALT deficiency blocks conversion of activated galactose (galactose-1-P) to activated glucose (UDP-glucose), causing toxic galactose-1-P accumulation in the liver. Galactose in urine gives positive Benedict's and a negative glucose dipstick.",
+    "reference": "Harper's Illustrated Biochemistry 30th ed"
+  },
+  {
+    "id": 32,
+    "question": "Total number of dehydrogenases in Krebs cycle:",
+    "options": {"a": "3", "b": "2", "c": "4", "d": "5"},
+    "correct_answer": "c",
+    "explanation": "The TCA cycle contains 4 dehydrogenases: (1) isocitrate dehydrogenase produces NADH; (2) alpha-ketoglutarate dehydrogenase produces NADH; (3) succinate dehydrogenase produces FADH2; (4) malate dehydrogenase produces NADH. These account for all reducing equivalents generated in one turn of the TCA cycle (3 NADH + 1 FADH2).",
+    "reference": "Harper's Illustrated Biochemistry 30th ed"
+  },
+  {
+    "id": 33,
+    "question": "Thiamine deficiency causes lactic acidosis due to dysfunction of which enzyme? (May 2015 AIIMS)",
+    "options": {"a": "PEP carboxykinase", "b": "Pyruvate dehydrogenase", "c": "Pyruvate carboxylase", "d": "Phosphofructokinase"},
+    "correct_answer": "b",
+    "explanation": "Thiamine deficiency impairs pyruvate dehydrogenase (PDH), which requires TPP. Without functional PDH, pyruvate cannot be converted to acetyl CoA. Instead, pyruvate is reduced to lactate by LDH (using NADH), causing lactic acidosis. This is the mechanism of lactic acidosis in beriberi and Wernicke's encephalopathy. Pyruvate carboxylase requires biotin, not thiamine.",
+    "reference": "Harper's Illustrated Biochemistry 30th ed"
+  },
+  {
+    "id": 34,
+    "question": "Which of the following enzyme is involved in both glycogenesis and glycogenolysis pathways? (May 2015 AIIMS)",
+    "options": {"a": "Glycogen synthase", "b": "Phosphoglucomutase", "c": "Glucan transferase", "d": "Glycogen phosphorylase"},
+    "correct_answer": "b",
+    "explanation": "Phosphoglucomutase catalyzes reversible interconversion of glucose-6-phosphate and glucose-1-phosphate. During glycogenesis, equilibrium favors glucose-1-phosphate (to UDP-glucose, then glycogen). During glycogenolysis, equilibrium favors glucose-6-phosphate (for glycolysis or release). Thus, phosphoglucomutase participates in both pathways. Glycogen synthase is only in glycogenesis; glycogen phosphorylase is only in glycogenolysis.",
+    "reference": "Harper's Illustrated Biochemistry 30th ed"
+  },
+  {
+    "id": 35,
+    "question": "During fasting state, for metabolism red blood cells can use: (May 2015 AIIMS)",
+    "options": {"a": "Glucose", "b": "Alanine", "c": "Ketone body", "d": "Fatty acid"},
+    "correct_answer": "a",
+    "explanation": "RBCs lack mitochondria and therefore cannot use fatty acids (beta-oxidation requires mitochondria), ketone bodies (mitochondrial enzymes), or amino acids (transamination/TCA cycle). The only fuel RBCs can use is glucose, exclusively via anaerobic glycolysis. This is true in both fed and fasting states.",
+    "reference": "Harper's Illustrated Biochemistry 30th ed"
+  },
+  {
+    "id": 36,
+    "question": "A child presents with accidental cyanide ingestion. It blocks citric acid cycle by blocking: [May AIIMS 2016]",
+    "options": {"a": "Acetyl-CoA production", "b": "Aconitase", "c": "NAD+", "d": "Citrate"},
+    "correct_answer": "c",
+    "explanation": "Cyanide (CN-) inhibits cytochrome c oxidase (Complex IV) of the electron transport chain. This blocks NADH to NAD+ regeneration, depleting NAD+. Without NAD+, TCA cycle dehydrogenases (isocitrate dehydrogenase, alpha-ketoglutarate dehydrogenase, and malate dehydrogenase) cannot function, effectively inhibiting the TCA cycle. Fluoroacetate, not cyanide, directly inhibits aconitase.",
+    "reference": "Harper's Illustrated Biochemistry 30th ed, p 132"
+  },
+  {
+    "id": 37,
+    "question": "Baby has hypoglycemia, especially early morning. Glucagon raises blood glucose in fed state but NOT in fasting state. Liver biopsy shows glycogen accumulation. What is the enzyme deficiency? [May AIIMS 2016]",
+    "options": {"a": "Muscle phosphorylase", "b": "Glucose-6-phosphatase", "c": "Branching enzyme", "d": "Debranching enzyme"},
+    "correct_answer": "d",
+    "explanation": "Cori's disease (Type III glycogen storage disease) is caused by deficiency of the debranching enzyme (amylo-1,6-glucosidase). In the fed state, plentiful glycogen allows glucagon to activate normal phosphorylase, raising blood glucose. During fasting, limit dextrin accumulates and glucagon cannot mobilize glucose further because debranching enzyme is deficient. Liver biopsy shows abnormal glycogen (limit dextrin) accumulation.",
+    "reference": "Harper's Illustrated Biochemistry 30th ed"
+  },
+  {
+    "id": 38,
+    "question": "During exercise, the most rapid way of resynthesis of ATP: (Nov 2016 AIIMS)",
+    "options": {"a": "Glycolysis", "b": "Glycogenolysis", "c": "Phosphocreatine breakdown", "d": "Citric acid cycle"},
+    "correct_answer": "c",
+    "explanation": "Speed of ATP resynthesis during exercise: phosphocreatine breakdown (fastest, seconds) > glycolysis > glycogenolysis > aerobic TCA cycle (slowest). Existing ATP in skeletal muscle lasts only about 2 seconds. Phosphocreatine immediately regenerates ATP via creatine kinase: phosphocreatine + ADP to creatine + ATP. This is fastest, lasting about 10 seconds. Glycolysis then sustains short-duration intense exercise.",
+    "reference": "Harper's Illustrated Biochemistry 30th ed"
+  }
+]

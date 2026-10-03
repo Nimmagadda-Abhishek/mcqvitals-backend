@@ -20,7 +20,7 @@ connectDB();
 
 const app = express();
 
-const allowedOrigins = (process.env.CORS_ORIGINS || 'https://www.mcqvitals.com,https://mcqvitals.com').split(',').map(origin => origin.trim()).filter(Boolean);
+const allowedOrigins = (process.env.CORS_ORIGINS || 'https://www.mcqvitals.com,https://mcqvitals.com,http://localhost:5173').split(',').map(origin => origin.trim()).filter(Boolean);
 
 app.use(cors({
     origin: (origin, callback) => {

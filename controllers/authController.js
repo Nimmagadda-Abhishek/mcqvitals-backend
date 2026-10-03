@@ -25,7 +25,7 @@ const registerUser = async (req, res) => {
         email,
         password,
         role: 'student',
-        isApproved: false,
+        isApproved: true,
         subscription: {
             plan: 'none',
             status: 'inactive',
@@ -38,20 +38,7 @@ const registerUser = async (req, res) => {
         throw new Error('Invalid user data');
     }
 
-    // Notify admin for approval
-    try {
-        const adminEmail = process.env.ADMIN_EMAIL || (await User.findOne({ role: 'admin' })).email;
-        if (adminEmail) {
-            await sendEmail({
-                to: adminEmail,
-                subject: 'New scholar registered - waiting for approval',
-                text: `Hi Admin,\n\nA new scholar has registered to the platform and is waiting for your approval.\n\nScholar: ${user.name} (${user.email})\n\nPlease review and approve them to grant dashboard access.`,
-                html: `<p>Hi Admin,</p><p>A new scholar has <b>registered</b> on the platform and is <b>waiting for your approval</b>.</p><p><b>Scholar:</b> ${user.name} (${user.email})</p><p>Please approve to grant access to the dashboard and best resources.</p>`,
-            });
-        }
-    } catch (e) {
-        console.error('Admin approval email failed:', e.message || e);
-    }
+
 
     res.status(201).json({
         _id: user._id,

@@ -39,6 +39,10 @@ const questionSchema = mongoose.Schema(
             text: { type: String, default: '' },
             images: [{ type: String }],
         },
+        reference: {
+            type: String,
+            default: '',
+        },
     },
     {
         timestamps: true,

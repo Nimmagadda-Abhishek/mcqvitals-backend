@@ -1,0 +1,1060 @@
+{
+  "title": "Postgraduate Medical Entrance Examinations Topic-Wise Master Question Bank",
+  "subjects": [
+    {
+      "subject": "Pharmacology",
+      "total_topics": 4,
+      "total_questions": 85,
+      "topics": [
+        {
+          "topic_number": 1,
+          "topic_name": "General Pharmacology (Pharmacokinetics, Pharmacodynamics & Receptors)",
+          "question_count": 25,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "Low volume of distribution (Vd < 5 L) indicates which of the following?",
+              "options": [
+                "a. Low efficacy",
+                "b. Decreased distribution in tissues and organs (confined to vascular compartment)",
+                "c. Short biological half-life",
+                "d. Poor bioavailability"
+              ],
+              "correct_answer": "b. Decreased distribution in tissues and organs (confined to vascular compartment)",
+              "explanation": "Apparent volume of distribution (Vd) < 5 L indicates that the drug is mainly confined within the intravascular plasma compartment and has minimal distribution into peripheral tissues/organs."
+            },
+            {
+              "question_id": 2,
+              "question": "Glyceryl trinitrate (Nitroglycerine) is administered by the sublingual route primarily because it is:",
+              "options": [
+                "a. Nonionic and more lipid soluble",
+                "b. Ionic and more lipid soluble",
+                "c. Ionic and less lipid soluble",
+                "d. Nonionic and less lipid soluble"
+              ],
+              "correct_answer": "a. Nonionic and more lipid soluble",
+              "explanation": "Sublingual administration requires rapid passive diffusion across the oral mucosa. Nonionic, highly lipid-soluble drugs are rapidly absorbed directly into systemic circulation, bypassing first-pass hepatic metabolism."
+            },
+            {
+              "question_id": 3,
+              "question": "Which of the following ACE inhibitors is NOT a prodrug?",
+              "options": [
+                "a. Enalapril",
+                "b. Lisinopril",
+                "c. Ramipril",
+                "d. Fosinopril"
+              ],
+              "correct_answer": "b. Lisinopril",
+              "explanation": "All ACE inhibitors are prodrugs requiring hepatic esterase activation except Captopril and Lisinopril."
+            },
+            {
+              "question_id": 4,
+              "question": "Loading dose of a drug primarily depends on which pharmacokinetic parameter?",
+              "options": [
+                "a. Volume of distribution (Vd)",
+                "b. Clearance (Cl)",
+                "c. Rate of administration",
+                "d. Half-life (t1/2)"
+              ],
+              "correct_answer": "a. Volume of distribution (Vd)",
+              "explanation": "Loading dose = Vd \u00d7 Target Plasma Concentration (C). Maintenance dose depends on clearance (Cl)."
+            },
+            {
+              "question_id": 5,
+              "question": "Maintenance dose of a drug is calculated using which formula/parameter?",
+              "options": [
+                "a. Clearance \u00d7 Target Plasma Concentration",
+                "b. Volume of distribution \u00d7 Target Plasma Concentration",
+                "c. Half-life \u00d7 Bioavailability",
+                "d. Elimination rate constant / Vd"
+              ],
+              "correct_answer": "a. Clearance \u00d7 Target Plasma Concentration",
+              "explanation": "Maintenance dose = Clearance (Cl) \u00d7 Target Plasma Concentration (C). It balances the rate of drug elimination to maintain steady state."
+            },
+            {
+              "question_id": 6,
+              "question": "Which of the following drugs follows pseudo-zero order elimination kinetics at therapeutic or toxic doses?",
+              "options": [
+                "a. Aspirin, Alcohol, Phenytoin, Theophylline",
+                "b. Penicillin, Amoxicillin, Cephalexin",
+                "c. Digoxin, Propranolol, Atenolol",
+                "d. Gentamicin, Amikacin, Tobramycin"
+              ],
+              "correct_answer": "a. Aspirin, Alcohol, Phenytoin, Theophylline",
+              "explanation": "Zero-order kinetics (constant amount of drug eliminated per unit time) is exhibited by Aspirin, Alcohol, Theophylline, Tolbutamide, Phenytoin, Phenylbutazone, Heparin, Methanol, and Warfarin (mnemonic: 'Zero ATP Has Made Weaker')."
+            },
+            {
+              "question_id": 7,
+              "question": "How many half-lives are required for a drug to achieve >95% steady-state plasma concentration during continuous IV infusion?",
+              "options": [
+                "a. 1 half-life",
+                "b. 2 half-lives",
+                "c. 3 half-lives",
+                "d. 4 to 5 half-lives"
+              ],
+              "correct_answer": "d. 4 to 5 half-lives",
+              "explanation": "Steady state concentration (Css) is reached after 4 to 5 half-lives (t1/2): 1 t1/2 = 50%, 2 t1/2 = 75%, 3 t1/2 = 87.5%, 4 t1/2 = 93.75%, 5 t1/2 = 96.88%."
+            },
+            {
+              "question_id": 8,
+              "question": "Which receptor class represents the fastest-acting cell signaling receptor mechanism?",
+              "options": [
+                "a. G-protein coupled receptors (GPCR)",
+                "b. Ligand-gated ion channels (Ionotropic)",
+                "c. Enzyme-linked receptors (Tyrosine Kinase)",
+                "d. Nuclear / Intracellular receptors"
+              ],
+              "correct_answer": "b. Ligand-gated ion channels (Ionotropic)",
+              "explanation": "Ligand-gated ion channels (e.g., GABAA, Nicotinic ACh, 5-HT3, NMDA) act within milliseconds, making them the fastest. Nuclear receptors (e.g., Steroid, Thyroid) are the slowest (hours to days)."
+            },
+            {
+              "question_id": 9,
+              "question": "Which parameter signifies maximal clinical response that can be elicited by a drug?",
+              "options": [
+                "a. Potency",
+                "b. Efficacy",
+                "c. Therapeutic index",
+                "d. EC50"
+              ],
+              "correct_answer": "b. Efficacy",
+              "explanation": "Efficacy (represented by the height/plateau of the Dose-Response Curve) measures the maximal response elicited by a drug. Potency (EC50) reflects the dose required to produce 50% of maximal effect."
+            },
+            {
+              "question_id": 10,
+              "question": "An inverse agonist is defined as a ligand that:",
+              "options": [
+                "a. Binds to a receptor and produces maximal intrinsic response (+1)",
+                "b. Binds to a receptor and produces submaximal response (0 to +1)",
+                "c. Binds to a receptor with zero intrinsic activity (0)",
+                "d. Binds to a receptor and produces an opposite physiological response (intrinsic activity < 0)"
+              ],
+              "correct_answer": "d. Binds to a receptor and produces an opposite physiological response (intrinsic activity < 0)",
+              "explanation": "An inverse agonist binds to the same receptor site as an agonist but suppresses constitutive baseline activity, yielding negative intrinsic activity (0 to -1)."
+            },
+            {
+              "question_id": 11,
+              "question": "Competitive reversible antagonism is characterized on the Dose-Response Curve (DRC) by:",
+              "options": [
+                "a. Parallel rightward shift of DRC without change in maximal efficacy",
+                "b. Downward shift of DRC with reduction in maximal efficacy",
+                "c. Leftward shift of DRC with increased potency",
+                "d. Sigmoidal to hyperbolic transformation"
+              ],
+              "correct_answer": "a. Parallel rightward shift of DRC without change in maximal efficacy",
+              "explanation": "Competitive reversible antagonists compete with the agonist for the same binding site. Increasing the agonist concentration overcomes the blockade, shifting the DRC to the right (increased EC50, decreased potency) while preserving maximal efficacy."
+            },
+            {
+              "question_id": 12,
+              "question": "Noncompetitive antagonism decreases which kinetic parameter of the enzyme/receptor system?",
+              "options": [
+                "a. Km (Michaelis constant)",
+                "b. Vmax (Maximal velocity / Efficacy)",
+                "c. Substrate affinity",
+                "d. Half-life"
+              ],
+              "correct_answer": "b. Vmax (Maximal velocity / Efficacy)",
+              "explanation": "Noncompetitive antagonists bind to an allosteric site distal to the agonist binding site. Excess agonist cannot overcome the block, reducing Vmax (efficacy) while leaving Km (affinity) unchanged."
+            },
+            {
+              "question_id": 13,
+              "question": "The primary isoform of Cytochrome P450 responsible for metabolizing the majority (~50%) of clinical drugs is:",
+              "options": [
+                "a. CYP1A2",
+                "b. CYP2D6",
+                "c. CYP2C9",
+                "d. CYP3A4"
+              ],
+              "correct_answer": "d. CYP3A4",
+              "explanation": "CYP3A4 is the most abundant hepatic and intestinal P450 enzyme, metabolizing over 50% of all therapeutic agents."
+            },
+            {
+              "question_id": 14,
+              "question": "Which Phase II conjugation reaction occurs in the endoplasmic reticulum (microsomal) rather than cytosol?",
+              "options": [
+                "a. Acetylation",
+                "b. Glucuronidation",
+                "c. Sulfation",
+                "d. Glutathionation"
+              ],
+              "correct_answer": "b. Glucuronidation",
+              "explanation": "Most Phase II conjugation reactions occur in the cytosol, but Glucuronidation is catalyzed by UDP-glucuronosyltransferases located in the endoplasmic reticulum membrane (microsomal)."
+            },
+            {
+              "question_id": 15,
+              "question": "Which drug interaction occurs when Grapefruit juice is taken concurrently with oral CYP3A4 substrates?",
+              "options": [
+                "a. Enzyme induction leading to treatment failure",
+                "b. Enzyme inhibition leading to increased drug bioavailability and toxicity",
+                "c. Enhanced renal excretion",
+                "d. Reduced gastrointestinal absorption"
+              ],
+              "correct_answer": "b. Enzyme inhibition leading to increased drug bioavailability and toxicity",
+              "explanation": "Grapefruit juice contains furanocoumarins that irreversibly inhibit intestinal CYP3A4 and P-glycoprotein, significantly increasing oral bioavailability and serum levels of drugs like Statins, CCBs, and Cyclosporine."
+            },
+            {
+              "question_id": 16,
+              "question": "Phenytoin, Aspirin, and Alcohol at high doses switch from 1st order to zero order kinetics because of:",
+              "options": [
+                "a. Saturation of drug-metabolizing enzymes / elimination pathways",
+                "b. Increased plasma protein binding",
+                "c. Downregulation of renal transport channels",
+                "d. Decreased volume of distribution"
+              ],
+              "correct_answer": "a. Saturation of drug-metabolizing enzymes / elimination pathways",
+              "explanation": "When drug concentration exceeds the capacity of metabolic enzymes or clearance pathways, elimination becomes saturated (Michaelis-Menten kinetics), transitioning from first-order (proportional rate) to zero-order (constant rate)."
+            },
+            {
+              "question_id": 17,
+              "question": "Alkalinization of urine with Sodium Bicarbonate enhances the excretion of weak acid drug toxicities (e.g., Phenobarbital, Salicylates) by:",
+              "options": [
+                "a. Increasing un-ionized lipid-soluble drug fraction",
+                "b. Increasing ionized water-soluble drug fraction in renal tubules (ion trapping)",
+                "c. Inhibiting P-glycoprotein efflux pumps",
+                "d. Blocking proximal tubular reabsorption of glucose"
+              ],
+              "correct_answer": "b. Increasing ionized water-soluble drug fraction in renal tubules (ion trapping)",
+              "explanation": "Weakly acidic drugs become heavily ionized in alkaline tubular fluid (pH > pKa). Ionized molecules cannot passively diffuse across lipid membranes, trapping them in urine for excretion ('ion trapping')."
+            },
+            {
+              "question_id": 18,
+              "question": "Thiopentone's ultrashort duration of action during anesthesia induction is primarily due to:",
+              "options": [
+                "a. Rapid hepatic metabolism by CYP3A4",
+                "b. Rapid renal excretion",
+                "c. Redistribution from brain to muscle and adipose tissue",
+                "d. Irreversible binding to plasma albumin"
+              ],
+              "correct_answer": "c. Redistribution from brain to muscle and adipose tissue",
+              "explanation": "Thiopentone is highly lipophilic and rapidly enters vascular CNS tissues to induce anesthesia. It quickly redistributes into muscle and adipose tissues, causing rapid awakening despite a long terminal elimination half-life."
+            },
+            {
+              "question_id": 19,
+              "question": "Which of the following is a classic example of physiological (functional) antagonism?",
+              "options": [
+                "a. Histamine-induced bronchoconstriction reversed by Epinephrine",
+                "b. Heparin neutralized by Protamine sulfate",
+                "c. Acetylcholine blocked by Atropine",
+                "d. Morphine blocked by Naloxone"
+              ],
+              "correct_answer": "a. Histamine-induced bronchoconstriction reversed by Epinephrine",
+              "explanation": "Physiological antagonism occurs when two agonists act through different receptors to produce opposite physiological effects (Histamine on H1 causes bronchoconstriction; Epinephrine on \u03b22 causes bronchodilation)."
+            },
+            {
+              "question_id": 20,
+              "question": "Protamine sulfate neutralizing Heparin is an example of:",
+              "options": [
+                "a. Pharmacokinetic antagonism",
+                "b. Chemical antagonism",
+                "c. Competitive pharmacological antagonism",
+                "d. Physiological antagonism"
+              ],
+              "correct_answer": "b. Chemical antagonism",
+              "explanation": "Positively charged Protamine binds directly and stoichiometrically to negatively charged Heparin in solution/blood, neutralizing its anticoagulant activity without involving receptor sites."
+            },
+            {
+              "question_id": 21,
+              "question": "P-glycoprotein (P-gp / MDR1) functions as:",
+              "options": [
+                "a. An ATP-dependent efflux pump that pumps xenobiotics out of cells into intestinal lumen, bile, or urine",
+                "b. A Phase I microsomal oxidation enzyme",
+                "c. A nuclear receptor for steroid hormones",
+                "d. A lysosomal storage enzyme"
+              ],
+              "correct_answer": "a. An ATP-dependent efflux pump that pumps xenobiotics out of cells into intestinal lumen, bile, or urine",
+              "explanation": "P-glycoprotein is an ATP-binding cassette transporter located in intestinal epithelium, liver, kidney, blood-brain barrier, and tumor cells that actively pumps substrates out of cells, limiting absorption and causing multidrug resistance."
+            },
+            {
+              "question_id": 22,
+              "question": "A partial agonist in the presence of a full agonist acts as a:",
+              "options": [
+                "a. Synergist",
+                "b. Competitive antagonist",
+                "c. Inverse agonist",
+                "d. Irreversible inhibitor"
+              ],
+              "correct_answer": "b. Competitive antagonist",
+              "explanation": "Because a partial agonist occupies receptor sites with lower intrinsic activity, it competes with and displaces full agonists, reducing overall biological response and effectively acting as a competitive antagonist."
+            },
+            {
+              "question_id": 23,
+              "question": "Which of the following drugs is highly bound to Alpha-1 Acid Glycoprotein rather than Albumin?",
+              "options": [
+                "a. Warfarin",
+                "b. Phenytoin",
+                "c. Lignocaine / Verapamil / Propranolol",
+                "d. Salicylates"
+              ],
+              "correct_answer": "c. Lignocaine / Verapamil / Propranolol",
+              "explanation": "Basic drugs (e.g., Lignocaine, Verapamil, Propranolol, Quinidine, Bupivacaine) bind predominantly to Alpha-1 Acid Glycoprotein. Acidic drugs (Warfarin, Phenytoin, NSAIDs, Barbiturates) bind to Albumin."
+            },
+            {
+              "question_id": 24,
+              "question": "Which G-protein alpha subunit pathway leads to activation of Phospholipase C and generation of IP3 and DAG?",
+              "options": [
+                "a. Gs",
+                "b. Gi",
+                "c. Gq",
+                "d. Go"
+              ],
+              "correct_answer": "c. Gq",
+              "explanation": "Gq activates Phospholipase C (PLC), which cleaves PIP2 into Inositol trisphosphate (IP3, releasing intracellular Ca2+) and Diacylglycerol (DAG, activating Protein Kinase C). Gs stimulates Adenylyl Cyclase; Gi inhibits Adenylyl Cyclase."
+            },
+            {
+              "question_id": 25,
+              "question": "Which of the following drugs exhibits zero bioavailability when administered by the oral route?",
+              "options": [
+                "a. Valproate",
+                "b. Heparin / Aminoglycosides / d-Tubocurarine",
+                "c. Diazepam",
+                "d. Lithium"
+              ],
+              "correct_answer": "b. Heparin / Aminoglycosides / d-Tubocurarine",
+              "explanation": "Heparin, Aminoglycosides (Gentamicin/Amikacin), and d-Tubocurarine are highly polar/charged large molecules with 0% oral bioavailability and must be administered parenterally."
+            }
+          ]
+        },
+        {
+          "topic_number": 2,
+          "topic_name": "Clinical Pharmacology, Drug Development & Teratogenicity",
+          "question_count": 15,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "In clinical trials, Phase 1 is primarily conducted to evaluate:",
+              "options": [
+                "a. Efficacy in a large patient population",
+                "b. Safety, toxicity, maximum tolerated dose, and pharmacokinetics in healthy human volunteers",
+                "c. Post-marketing surveillance for rare adverse effects",
+                "d. Drug-drug interactions in geriatric patients"
+              ],
+              "correct_answer": "b. Safety, toxicity, maximum tolerated dose, and pharmacokinetics in healthy human volunteers",
+              "explanation": "Phase 1 trials involve 20-100 healthy volunteers (except for toxic drugs like antineoplastics, conducted in cancer patients) to establish safety, tolerability, MTD, and PK/PD profiles."
+            },
+            {
+              "question_id": 2,
+              "question": "The phase of clinical trials associated with the highest rate of drug failure (~75%) due to lack of efficacy is:",
+              "options": [
+                "a. Phase 1",
+                "b. Phase 2",
+                "c. Phase 3",
+                "d. Phase 4"
+              ],
+              "correct_answer": "b. Phase 2",
+              "explanation": "Phase 2 (Therapeutic Exploratory) trials evaluate efficacy and dose-range in 100-500 targeted patients. Around 75% of drug candidates fail in Phase 2 due to insufficient clinical efficacy."
+            },
+            {
+              "question_id": 3,
+              "question": "Microdosing studies performed with sub-therapeutic radiolabeled drug doses before Phase 1 are known as:",
+              "options": [
+                "a. Phase 0 clinical trial",
+                "b. Phase 2a trial",
+                "c. Preclinical animal screening",
+                "d. Phase 5 pharmacoepidemiology"
+              ],
+              "correct_answer": "a. Phase 0 clinical trial",
+              "explanation": "Phase 0 (Microdosing) uses extremely small doses (1/100th of human therapeutic dose or <100 \u00b5g) in 10-15 volunteers to assess human PK and receptor binding using accelerator mass spectrometry before Phase 1."
+            },
+            {
+              "question_id": 4,
+              "question": "Post-marketing surveillance to detect rare or long-term adverse drug reactions is conducted in:",
+              "options": [
+                "a. Phase 1",
+                "b. Phase 2",
+                "c. Phase 3",
+                "d. Phase 4"
+              ],
+              "correct_answer": "d. Phase 4",
+              "explanation": "Phase 4 (Post-Marketing Surveillance) monitors real-world safety, rare adverse events, long-term toxicity, and new indications after NDA approval."
+            },
+            {
+              "question_id": 5,
+              "question": "Ethical clearance from Human Institutional Ethics Committee is NOT required for:",
+              "options": [
+                "a. Phase 1 trial",
+                "b. Phase 2 trial",
+                "c. Phase 3 trial",
+                "d. Phase 4 post-marketing observational study"
+              ],
+              "correct_answer": "d. Phase 4 post-marketing observational study",
+              "explanation": "Phase 4 post-marketing observational surveillance monitors approved marketed drugs during routine clinical practice, so formal human trial ethical clearance is not required."
+            },
+            {
+              "question_id": 6,
+              "question": "An 'Orphan Drug' is defined as a drug developed for:",
+              "options": [
+                "a. Treatment of orphaned children",
+                "b. Treatment or diagnosis of rare diseases (affecting < 200,000 individuals in US / low prevalence)",
+                "c. Common tropical diseases",
+                "d. Over-the-counter sales without prescription"
+              ],
+              "correct_answer": "b. Treatment or diagnosis of rare diseases (affecting < 200,000 individuals in US / low prevalence)",
+              "explanation": "Orphan drugs are biologicals or pharmaceuticals designated for diagnosing, preventing, or treating rare diseases where commercial development is economically unviable without government incentives."
+            },
+            {
+              "question_id": 7,
+              "question": "Therapeutic Index (TI) is calculated as:",
+              "options": [
+                "a. LD50 / ED50",
+                "b. ED50 / LD50",
+                "c. Clearance / Vd",
+                "d. Bioavailability \u00d7 Dose"
+              ],
+              "correct_answer": "a. LD50 / ED50",
+              "explanation": "Therapeutic Index = Median Lethal Dose (LD50) / Median Effective Dose (ED50). Higher TI indicates a safer drug."
+            },
+            {
+              "question_id": 8,
+              "question": "Therapeutic Drug Monitoring (TDM) is essential for drugs with:",
+              "options": [
+                "a. High therapeutic index and wide safety margin",
+                "b. Narrow therapeutic index and poor correlation between dose and response",
+                "c. Complete 100% bioavailability",
+                "d. Short half-life under 1 minute"
+              ],
+              "correct_answer": "b. Narrow therapeutic index and poor correlation between dose and response",
+              "explanation": "TDM measures serum drug concentrations to optimize therapy and avoid toxicity for drugs with narrow therapeutic windows (e.g., Lithium, Digoxin, Phenytoin, Aminoglycosides, Theophylline, Cyclosporine)."
+            },
+            {
+              "question_id": 9,
+              "question": "Fetal Hydantoin Syndrome (facial clefts, microcephaly, hypertelorism, hypoplastic nails, triphalangeal thumb) is caused by maternal ingestion of:",
+              "options": [
+                "a. Thalidomide",
+                "b. Phenytoin",
+                "c. Warfarin",
+                "d. Valproate"
+              ],
+              "correct_answer": "b. Phenytoin",
+              "explanation": "Maternal Phenytoin intake during pregnancy causes Fetal Hydantoin Syndrome characterized by cleft lip/palate, microcephaly, hypertelorism, digital hypoplasia, and congenital heart defects."
+            },
+            {
+              "question_id": 10,
+              "question": "Phocomelia (seal-like limb deformities / amelia) is the classic teratogenic defect caused by:",
+              "options": [
+                "a. Thalidomide",
+                "b. Isotretinoin",
+                "c. Alcohol",
+                "d. Lithium"
+              ],
+              "correct_answer": "a. Thalidomide",
+              "explanation": "Thalidomide taken during early pregnancy (28-42 days post-conception) causes phocomelia (severe limb reduction defects where hands/feet attach directly to trunk), ear malformations, and cardiac defects."
+            },
+            {
+              "question_id": 11,
+              "question": "Maternal Warfarin intake during pregnancy leads to Warfarin Fetopathy characterized by:",
+              "options": [
+                "a. Ebstein anomaly of tricuspid valve",
+                "b. Nasal hypoplasia, depressed nasal bridge (saddle nose), and epiphyseal stippling",
+                "c. Neural tube defects (spina bifida)",
+                "d. Gray baby syndrome"
+              ],
+              "correct_answer": "b. Nasal hypoplasia, depressed nasal bridge (saddle nose), and epiphyseal stippling",
+              "explanation": "Warfarin exposure during the 1st trimester causes Warfarin Fetopathy (nasal hypoplasia, stippled epiphyses, hypoplastic digits, and optic atrophy). Heparin is preferred as it does not cross the placenta."
+            },
+            {
+              "question_id": 12,
+              "question": "Which antiepileptic drug is specifically associated with the highest risk of Neural Tube Defects (Spina Bifida) in offspring?",
+              "options": [
+                "a. Levetiracetam",
+                "b. Sodium Valproate",
+                "c. Lamotrigine",
+                "d. Ethosuximide"
+              ],
+              "correct_answer": "b. Sodium Valproate",
+              "explanation": "Sodium Valproate inhibits folate metabolism and is associated with a 1-2% risk of neural tube defects (spina bifida, meningomyelocele), hypospadias, and craniofacial anomalies."
+            },
+            {
+              "question_id": 13,
+              "question": "Ebstein's anomaly (downward displacement of tricuspid valve leaflets into right ventricle) in neonates is linked to maternal ingestion of:",
+              "options": [
+                "a. Lithium",
+                "b. Carbamazepine",
+                "c. Diazepam",
+                "d. Chloramphenicol"
+              ],
+              "correct_answer": "a. Lithium",
+              "explanation": "Lithium exposure during the 1st trimester increases the specific risk of Ebstein anomaly of the tricuspid valve in fetus."
+            },
+            {
+              "question_id": 14,
+              "question": "Which causality assessment scale is widely used in Pharmacovigilance to evaluate Adverse Drug Reactions (ADRs)?",
+              "options": [
+                "a. Naranjo Scale",
+                "b. Glasgow Coma Scale",
+                "c. APGAR Score",
+                "d. Tanner Scale"
+              ],
+              "correct_answer": "a. Naranjo Scale",
+              "explanation": "The Naranjo Probability Scale assesses ADR causality (Definite, Probable, Possible, Doubtful) based on a structured 10-question scoring algorithm."
+            },
+            {
+              "question_id": 15,
+              "question": "In India, Schedule H of the Drugs and Cosmetics Rules designates drugs that:",
+              "options": [
+                "a. Can be sold only upon prescription of a Registered Medical Practitioner",
+                "b. Are psychotropic substances requiring special manufacturing license (Schedule X)",
+                "c. Do not require prescription and are sold OTC",
+                "d. Are exempted from clinical trials"
+              ],
+              "correct_answer": "a. Can be sold only upon prescription of a Registered Medical Practitioner",
+              "explanation": "Schedule H lists prescription-only drugs bearing mandatory warning labels prohibiting over-the-counter sale without a licensed medical practitioner's prescription."
+            }
+          ]
+        },
+        {
+          "topic_number": 3,
+          "topic_name": "Autonomic Nervous System (Cholinergic & Adrenergic Pharmacology)",
+          "question_count": 25,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "Rate-limiting step in acetylcholine synthesis is:",
+              "options": [
+                "a. Choline uptake into presynaptic nerve terminal via Na+-dependent choline transporter",
+                "b. Acetyl-CoA synthesis in mitochondria",
+                "c. Choline acetyltransferase (ChAT) activity",
+                "d. Vesicular storage by VAChT"
+              ],
+              "correct_answer": "a. Choline uptake into presynaptic nerve terminal via Na+-dependent choline transporter",
+              "explanation": "High-affinity Na+-dependent active uptake of choline into the presynaptic terminal is the rate-limiting step of ACh synthesis, blocked by Hemicholinium."
+            },
+            {
+              "question_id": 2,
+              "question": "Botulinum toxin produces skeletal muscle paralysis and anhidrosis by:",
+              "options": [
+                "a. Blocking post-synaptic nicotinic Nm receptors",
+                "b. Cleaving SNARE proteins (SNAP-25/Synaptobrevin) to inhibit ACh exocytosis",
+                "c. Inhibiting acetylcholinesterase enzyme",
+                "d. Blocking voltage-gated Na+ channels"
+              ],
+              "correct_answer": "b. Cleaving SNARE proteins (SNAP-25/Synaptobrevin) to inhibit ACh exocytosis",
+              "explanation": "Botulinum neurotoxin cleaves SNARE proteins (SNAP-25, VAMP/synaptobrevin), preventing synaptic vesicle fusion and Ach release at cholinergic nerve terminals."
+            },
+            {
+              "question_id": 3,
+              "question": "Which lipid-soluble tertiary amine anticholinesterase crosses the Blood-Brain Barrier and is the Drug of Choice for Atropine / Belladonna poisoning?",
+              "options": [
+                "a. Neostigmine",
+                "b. Physostigmine",
+                "c. Pyridostigmine",
+                "d. Edrophonium"
+              ],
+              "correct_answer": "b. Physostigmine",
+              "explanation": "Physostigmine is a tertiary amine (lipid soluble) that crosses the BBB to reverse both central and peripheral manifestations of atropine/belladonna toxicity. Quaternary amines (Neostigmine, Pyridostigmine) do not cross BBB."
+            },
+            {
+              "question_id": 4,
+              "question": "The shortest-acting anticholinesterase used in the Tensilon test for diagnosing Myasthenia Gravis is:",
+              "options": [
+                "a. Edrophonium",
+                "b. Neostigmine",
+                "c. Pyridostigmine",
+                "d. Donepezil"
+              ],
+              "correct_answer": "a. Edrophonium",
+              "explanation": "Edrophonium binds reversibly via ionic bonds to the anionic site of AChE with a short duration of action (~5-10 min), making it ideal for the Tensilon diagnostic test."
+            },
+            {
+              "question_id": 5,
+              "question": "Which drug is the oral Drug of Choice for long-term maintenance treatment of Myasthenia Gravis?",
+              "options": [
+                "a. Edrophonium",
+                "b. Pyridostigmine",
+                "c. Physostigmine",
+                "d. Atropine"
+              ],
+              "correct_answer": "b. Pyridostigmine",
+              "explanation": "Pyridostigmine is a quaternary carbamate with longer duration of action (3-6 hours) and better oral tolerance than neostigmine, making it the DOC for chronic Myasthenia Gravis."
+            },
+            {
+              "question_id": 6,
+              "question": "Organophosphate poisoning (e.g., Parathion, Malathion) causes irreversible inhibition of AChE through:",
+              "options": [
+                "a. Reversible carbamylation of anionic site",
+                "b. Covalent phosphorylation of esteratic site followed by aging",
+                "c. Allosteric competitive inhibition",
+                "d. Direct blockade of muscarinic M3 receptors"
+              ],
+              "correct_answer": "b. Covalent phosphorylation of esteratic site followed by aging",
+              "explanation": "Organophosphates phosphorylate the serine hydroxyl group at the esteratic site of AChE. Over time, 'aging' occurs (loss of alkyl group), making inhibition irreversible unless oximes (Pralidoxime) are administered early."
+            },
+            {
+              "question_id": 7,
+              "question": "The initial specific Drug of Choice to reverse muscarinic toxicity in Organophosphate poisoning is:",
+              "options": [
+                "a. Atropine",
+                "b. Pralidoxime (2-PAM)",
+                "c. Physostigmine",
+                "d. Neostigmine"
+              ],
+              "correct_answer": "a. Atropine",
+              "explanation": "Atropine competitively blocks muscarinic receptors, reversing life-threatening bronchorrhea, bronchospasm, bradycardia, and central symptoms. Pralidoxime reactivates AChE at nicotinic neuromuscular junctions."
+            },
+            {
+              "question_id": 8,
+              "question": "Pralidoxime (2-PAM) is ineffective in treating pesticide poisoning caused by:",
+              "options": [
+                "a. Parathion",
+                "b. Malathion",
+                "c. Carbamates (e.g., Propoxur, Carbaryl)",
+                "d. Chlorpyrifos"
+              ],
+              "correct_answer": "c. Carbamates (e.g., Propoxur, Carbaryl)",
+              "explanation": "Oximes (Pralidoxime) do not reactivate carbamylated AChE and may even worsen toxicity in carbamate poisoning (Baygon/Propoxur). Atropine alone is used for carbamate toxicity."
+            },
+            {
+              "question_id": 9,
+              "question": "First-line Medical Drug of Choice for reducing Intraocular Pressure in Open-Angle Glaucoma is:",
+              "options": [
+                "a. Prostaglandin Analogs (e.g., Latanoprost, Travoprost)",
+                "b. Acetazolamide",
+                "c. Pilocarpine",
+                "d. Atropine"
+              ],
+              "correct_answer": "a. Prostaglandin Analogs (e.g., Latanoprost, Travoprost)",
+              "explanation": "Topical Prostaglandin F2\u03b1 analogs (Latanoprost, Travoprost, Bimatoprost) applied once daily at night are 1st line for open-angle glaucoma, increasing uveoscleral outflow of aqueous humor."
+            },
+            {
+              "question_id": 10,
+              "question": "Characteristic ocular side effects of topical Latanoprost therapy include:",
+              "options": [
+                "a. Iris hyperpigmentation (heterochromia iridis) and eyelash lengthening (trichomegaly)",
+                "b. Corneal clouding and cataract",
+                "c. Mydriasis and photophobia",
+                "d. Retinal detachment"
+              ],
+              "correct_answer": "a. Iris hyperpigmentation (heterochromia iridis) and eyelash lengthening (trichomegaly)",
+              "explanation": "Latanoprost increases melanin synthesis in iris stroma (irreversible darkening of iris) and causes hypertrichosis (increased growth/pigmentation of eyelashes) and periorbital fat depletion."
+            },
+            {
+              "question_id": 11,
+              "question": "Which M3-selective anticholinergic drug has high uroselectivity for treating Overactive Bladder / Urge Incontinence with minimal central side effects?",
+              "options": [
+                "a. Darifenacin / Solifenacin",
+                "b. Atropine",
+                "c. Dicyclomine",
+                "d. Benztropine"
+              ],
+              "correct_answer": "a. Darifenacin / Solifenacin",
+              "explanation": "Darifenacin and Solifenacin selectively block M3 receptors on detrusor muscle, reducing involuntary contractions in overactive bladder while causing fewer central cognitive deficits than nonselective agents (Oxybutynin)."
+            },
+            {
+              "question_id": 12,
+              "question": "Transdermal Scopolamine (Hyoscine) is the Drug of Choice for prophylaxis of:",
+              "options": [
+                "a. Motion sickness",
+                "b. Bronchial asthma",
+                "c. Peptic ulcer disease",
+                "d. Myasthenia gravis"
+              ],
+              "correct_answer": "a. Motion sickness",
+              "explanation": "Scopolamine blocks M1 receptors in vestibular nuclei and vomiting center, making transdermal scopolamine patches the most effective agent for motion sickness prevention."
+            },
+            {
+              "question_id": 13,
+              "question": "Tiotropium bromide is a long-acting quaternary anticholinergic used as 1st-line maintenance therapy in:",
+              "options": [
+                "a. Chronic Obstructive Pulmonary Disease (COPD)",
+                "b. Acute anaphylactic shock",
+                "c. Hypertension",
+                "d. Benign Prostatic Hyperplasia"
+              ],
+              "correct_answer": "a. Chronic Obstructive Pulmonary Disease (COPD)",
+              "explanation": "Tiotropium is a long-acting inhaled M1/M3 antagonist (LAMA) that produces potent bronchodilation, serving as first-line maintenance therapy in COPD."
+            },
+            {
+              "question_id": 14,
+              "question": "The rate-limiting enzyme in catecholamine (Norepinephrine/Epinephrine) biosynthesis is:",
+              "options": [
+                "a. Tyrosine hydroxylase",
+                "b. Dopa decarboxylase",
+                "c. Dopamine beta-hydroxylase",
+                "d. Phenylethanolamine N-methyltransferase (PNMT)"
+              ],
+              "correct_answer": "a. Tyrosine hydroxylase",
+              "explanation": "Tyrosine hydroxylase converts L-tyrosine to L-DOPA in presynaptic sympathetic terminals and adrenal medulla, representing the rate-limiting step in catecholamine synthesis (inhibited by Metyrosine)."
+            },
+            {
+              "question_id": 15,
+              "question": "Epinephrine is the Drug of Choice in Anaphylactic Shock because of its combined actions on:",
+              "options": [
+                "a. Alpha-1 (vasoconstriction/decreased mucosal edema) and Beta-2 (bronchodilation/inhibited mast cell release) + Beta-1 (cardiac output)",
+                "b. Alpha-2 (central sedation) and M3 (increased secretion)",
+                "c. Dopamine D1 (renal dilation) and Nicotinic Nm (muscle contraction)",
+                "d. Beta-3 (lipolysis) alone"
+              ],
+              "correct_answer": "a. Alpha-1 (vasoconstriction/decreased mucosal edema) and Beta-2 (bronchodilation/inhibited mast cell release) + Beta-1 (cardiac output)",
+              "explanation": "Epinephrine stimulates \u03b11 (reverses hypotension/laryngeal edema), \u03b22 (causes bronchodilation and suppresses mediator release from mast cells), and \u03b21 (supports HR/blood pressure), making intramuscular 1:1000 Epinephrine the DOC."
+            },
+            {
+              "question_id": 16,
+              "question": "Which catecholamine is the Drug of Choice for Septic / Vasodilatory Shock?",
+              "options": [
+                "a. Norepinephrine",
+                "b. Isoprenaline",
+                "c. Dobutamine",
+                "d. Ephedrine"
+              ],
+              "correct_answer": "a. Norepinephrine",
+              "explanation": "Norepinephrine is a potent \u03b11 agonist (causes intense vasoconstriction) with moderate \u03b21 cardiac activity, making it the 1st-line vasopressor for septic/distributive shock."
+            },
+            {
+              "question_id": 17,
+              "question": "Dopamine infusion at low rates (< 2 \u00b5g/kg/min) acts on which vascular receptors to induce renal vasodilation?",
+              "options": [
+                "a. D1 dopamine receptors",
+                "b. Beta-1 receptors",
+                "c. Alpha-1 receptors",
+                "d. Muscarinic M2 receptors"
+              ],
+              "correct_answer": "a. D1 dopamine receptors",
+              "explanation": "At low doses (<2 \u00b5g/kg/min), Dopamine selectively stimulates vascular D1 receptors in renal, mesenteric, and coronary beds, increasing cAMP to induce vasodilation and diuresis."
+            },
+            {
+              "question_id": 18,
+              "question": "Dobutamine is a selective Beta-1 agonist primarily indicated for:",
+              "options": [
+                "a. Acute decompensated heart failure / cardiogenic shock",
+                "b. Anaphylactic shock",
+                "c. Benign Prostatic Hyperplasia",
+                "d. Migraine prophylaxis"
+              ],
+              "correct_answer": "a. Acute decompensated heart failure / cardiogenic shock",
+              "explanation": "Dobutamine is a synthetic inotrope that increases cardiac contractility (\u03b21) with minimal increase in heart rate or peripheral vascular resistance, preferred in acute heart failure and cardiogenic shock."
+            },
+            {
+              "question_id": 19,
+              "question": "Clonidine acts as a central Alpha-2 agonist resulting in:",
+              "options": [
+                "a. Decreased sympathetic outflow from vasomotor center in brainstem",
+                "b. Increased peripheral norepinephrine release",
+                "c. Direct vascular smooth muscle contraction",
+                "d. Blockade of \u03b21 receptors"
+              ],
+              "correct_answer": "a. Decreased sympathetic outflow from vasomotor center in brainstem",
+              "explanation": "Clonidine stimulates presynaptic \u03b12 autoreceptors in the rostral ventrolateral medulla, decreasing central sympathetic outflow, vascular resistance, and blood pressure."
+            },
+            {
+              "question_id": 20,
+              "question": "Tamsulosin and Silodosin are highly selective Alpha-1A receptor antagonists preferred in BPH because they:",
+              "options": [
+                "a. Relax prostatic smooth muscle without causing significant postural hypotension",
+                "b. Shrink prostate gland volume by inhibiting 5-alpha reductase",
+                "c. Increase cardiac output",
+                "d. Block central dopamine receptors"
+              ],
+              "correct_answer": "a. Relax prostatic smooth muscle without causing significant postural hypotension",
+              "explanation": "Tamsulosin and Silodosin selectively block \u03b11A receptors in the prostate stroma and bladder neck, relieving urinary obstruction in BPH with lower incidence of vascular \u03b11B-mediated orthostatic hypotension."
+            },
+            {
+              "question_id": 21,
+              "question": "Before surgical resection of Pheochromocytoma, hypertension must be controlled by administering:",
+              "options": [
+                "a. Alpha-blocker (Phenoxybenzamine / Prazosin) FIRST, followed by Beta-blocker",
+                "b. Beta-blocker FIRST, followed by Alpha-blocker",
+                "c. Beta-blocker alone",
+                "d. Thiazide diuretic alone"
+              ],
+              "correct_answer": "a. Alpha-blocker (Phenoxybenzamine / Prazosin) FIRST, followed by Beta-blocker",
+              "explanation": "Alpha-blockers must be established first to prevent hypertensive crisis. Giving beta-blockers alone or first leaves \u03b11-mediated vasoconstriction unopposed, causing dangerous blood pressure spikes."
+            },
+            {
+              "question_id": 22,
+              "question": "Which ultra-short-acting Beta-1 selective blocker (half-life ~8-9 min) is metabolized by red blood cell esterases?",
+              "options": [
+                "a. Esmolol",
+                "b. Propranolol",
+                "c. Atenolol",
+                "d. Metoprolol"
+              ],
+              "correct_answer": "a. Esmolol",
+              "explanation": "Esmolol contains an ester linkage rapidly hydrolyzed by erythrocyte esterases (t1/2 ~9 min), allowing precise titration in intraoperative hypertension, SVT, or aortic dissection."
+            },
+            {
+              "question_id": 23,
+              "question": "Which 3rd-generation beta-blocker produces endothelium-dependent vasodilation through Nitric Oxide (NO) release?",
+              "options": [
+                "a. Nebivolol",
+                "b. Propranolol",
+                "c. Atenolol",
+                "d. Timolol"
+              ],
+              "correct_answer": "a. Nebivolol",
+              "explanation": "Nebivolol is a highly selective \u03b21 blocker whose d-enantiomer blocks \u03b21 receptors while the l-enantiomer stimulates endothelial beta-3 receptors to release Nitric Oxide (NO), causing vasodilation."
+            },
+            {
+              "question_id": 24,
+              "question": "Non-selective beta-blockers (e.g., Propranolol) are contraindicated in patients with Asthma because they block:",
+              "options": [
+                "a. Beta-2 receptors in bronchial smooth muscle, triggering severe bronchospasm",
+                "b. Alpha-1 receptors in nasal mucosa",
+                "c. Muscarinic M3 receptors",
+                "d. Histamine H1 receptors"
+              ],
+              "correct_answer": "a. Beta-2 receptors in bronchial smooth muscle, triggering severe bronchospasm",
+              "explanation": "Propranolol blocks \u03b22 receptors on airway smooth muscle, preventing physiological adrenergic bronchodilation and precipitating fatal bronchospasm in asthmatics/COPD patients."
+            },
+            {
+              "question_id": 25,
+              "question": "In Beta-blocker overdose (bradycardia, AV block, severe hypotension), the specific pharmacological Antidote of Choice is:",
+              "options": [
+                "a. IV Glucagon",
+                "b. Atropine",
+                "c. Naloxone",
+                "d. Flumazenil"
+              ],
+              "correct_answer": "a. IV Glucagon",
+              "explanation": "IV Glucagon bypasses blocked beta-adrenoceptors by binding glucagon receptors, stimulating adenylyl cyclase via Gs to raise intracellular cAMP, increasing heart rate and contractility."
+            }
+          ]
+        },
+        {
+          "topic_number": 4,
+          "topic_name": "Cardiovascular Pharmacology & Antiarrhythmics",
+          "question_count": 20,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "Class IA antiarrhythmics (Quinidine, Procainamide, Disopyramide) block sodium channels and potassium channels, resulting in:",
+              "options": [
+                "a. Moderate Phase 0 inhibition and prolongation of Action Potential Duration (APD) & QT interval",
+                "b. Shortening of Action Potential Duration",
+                "c. No change in refractory period",
+                "d. Selective calcium channel blockade"
+              ],
+              "correct_answer": "a. Moderate Phase 0 inhibition and prolongation of Action Potential Duration (APD) & QT interval",
+              "explanation": "Class IA drugs block fast Na+ channels (slowing Phase 0 depolarization) and delayed rectifier K+ channels (delaying Phase 3 repolarization), prolonging APD and QTc interval."
+            },
+            {
+              "question_id": 2,
+              "question": "Drug of Choice for acute management of sustained Ventricular Tachycardia in acute Myocardial Infarction and Digitalis Toxicity is:",
+              "options": [
+                "a. Lidocaine (Lignocaine)",
+                "b. Digoxin",
+                "c. Verapamil",
+                "d. Adenosine"
+              ],
+              "correct_answer": "a. Lidocaine (Lignocaine)",
+              "explanation": "Lidocaine (Class IB) selectively binds depolarized/ischemic sodium channels in ventricles without depressing normal SA/AV node conduction, making it DOC for ischemic ventricular arrhythmias."
+            },
+            {
+              "question_id": 3,
+              "question": "Procainamide is the Drug of Choice for managing Atrial Fibrillation in patients with:",
+              "options": [
+                "a. Wolff-Parkinson-White (WPW) syndrome",
+                "b. Complete heart block",
+                "c. Severe asthma",
+                "d. Hyperthyroidism"
+              ],
+              "correct_answer": "a. Wolff-Parkinson-White (WPW) syndrome",
+              "explanation": "Procainamide slows conduction velocity and prolongs refractory period in both normal myocardium and the accessory bundle of Kent, making it the intravenous DOC for AF in WPW syndrome."
+            },
+            {
+              "question_id": 4,
+              "question": "Amiodarone is a Class III antiarrhythmic with broad-spectrum Class I, II, III, IV activity. Its elimination half-life is approximately:",
+              "options": [
+                "a. 2 hours",
+                "b. 24 hours",
+                "c. 53 days (several weeks)",
+                "d. 6 months"
+              ],
+              "correct_answer": "c. 53 days (several weeks)",
+              "explanation": "Amiodarone is highly lipophilic with an immense Vd (~5000 L), accumulating in fat and organs. Its elimination half-life averages ~53 days (25-110 days)."
+            },
+            {
+              "question_id": 5,
+              "question": "Characteristic adverse effects associated with chronic Amiodarone therapy include:",
+              "options": [
+                "a. Pulmonary fibrosis, Thyroid dysfunction (hypo/hyperthyroidism), Corneal microdeposits (verticillata), and Blue-gray skin discoloration",
+                "b. Nephrotic syndrome and bone marrow suppression",
+                "c. Gingival hyperplasia and hirsutism",
+                "d. Ototoxicity and pancreatitis"
+              ],
+              "correct_answer": "a. Pulmonary fibrosis, Thyroid dysfunction (hypo/hyperthyroidism), Corneal microdeposits (verticillata), and Blue-gray skin discoloration",
+              "explanation": "Amiodarone contains iodine and causes pulmonary toxicity/fibrosis, thyroid dysfunction (hypothyroidism > hyperthyroidism), corneal verticillata (100%), blue-skin pigmentation, photosensitivity, and hepatotoxicity."
+            },
+            {
+              "question_id": 6,
+              "question": "Drug of Choice for acute termination of Paroxysmal Supraventricular Tachycardia (PSVT) is:",
+              "options": [
+                "a. Adenosine (rapid IV push)",
+                "b. Digoxin",
+                "c. Lignocaine",
+                "d. Amiodarone"
+              ],
+              "correct_answer": "a. Adenosine (rapid IV push)",
+              "explanation": "Adenosine acts on A1 receptors in AV node to open K+ channels and inhibit cAMP, causing transient AV nodal conduction block. Due to its ultra-short half-life (1-5 sec), 6-12 mg rapid IV bolus is DOC for PSVT."
+            },
+            {
+              "question_id": 7,
+              "question": "Drug of Choice for treating Torsades de Pointes (polymorphic ventricular tachycardia associated with prolonged QT) is:",
+              "options": [
+                "a. Intravenous Magnesium Sulfate",
+                "b. Quinidine",
+                "c. Procainamide",
+                "d. Digoxin"
+              ],
+              "correct_answer": "a. Intravenous Magnesium Sulfate",
+              "explanation": "IV Magnesium Sulfate (2 g) stabilizes cardiac membrane potentials and suppresses early afterdepolarizations (EADs), serving as DOC for Torsades de Pointes."
+            },
+            {
+              "question_id": 8,
+              "question": "Digoxin exerts its positive inotropic effect on cardiac myocytes by inhibiting:",
+              "options": [
+                "a. Sarcolemmal Na+/K+-ATPase pump",
+                "b. Sarcoplasmic reticulum SERCA pump",
+                "c. L-type Ca2+ channels",
+                "d. Phosphodiesterase-3"
+              ],
+              "correct_answer": "a. Sarcolemmal Na+/K+-ATPase pump",
+              "explanation": "Digoxin reversibly inhibits Na+/K+-ATPase, increasing intracellular Na+. This reduces Na+/Ca2+ exchanger (NCX) activity, increasing intracellular Ca2+ stored in sarcoplasmic reticulum for enhanced contraction."
+            },
+            {
+              "question_id": 9,
+              "question": "The most specific electrocardiographic or clinical arrhythmia characteristic of Digitalis toxicity is:",
+              "options": [
+                "a. Atrial Tachycardia with AV Block",
+                "b. Sinus bradycardia alone",
+                "c. Bundle branch block",
+                "d. Torsades de Pointes"
+              ],
+              "correct_answer": "a. Atrial Tachycardia with AV Block",
+              "explanation": "While Ventricular Bigeminy is the most common digitalis arrhythmia, Paroxysmal Atrial Tachycardia with Variable AV Block is considered the most specific arrhythmia of digitalis toxicity."
+            },
+            {
+              "question_id": 10,
+              "question": "Electrolyte imbalances that precipitate or worsen Digitalis toxicity include:",
+              "options": [
+                "a. Hypokalemia, Hypercalcemia, and Hypomagnesemia",
+                "b. Hyperkalemia and Hypocalcemia",
+                "c. Hyponatremia alone",
+                "d. Hypermagnesemia"
+              ],
+              "correct_answer": "a. Hypokalemia, Hypercalcemia, and Hypomagnesemia",
+              "explanation": "K+ competes with digoxin for Na+/K+-ATPase binding; hypokalemia increases digoxin binding and toxicity. Hypercalcemia and hypomagnesemia synergistically enhance intracellular Ca2+ overload."
+            },
+            {
+              "question_id": 11,
+              "question": "Specific antidote for life-threatening Digoxin overdose / severe digitalis toxicity is:",
+              "options": [
+                "a. Digoxin Immune Fab (Digibind)",
+                "b. Atropine",
+                "c. Pralidoxime",
+                "d. Naloxone"
+              ],
+              "correct_answer": "a. Digoxin Immune Fab (Digibind)",
+              "explanation": "Digoxin Immune Fab (Digibind) consists of specific antigen-binding Fab fragments that bind free digoxin in intravascular fluid, promoting rapid renal clearance."
+            },
+            {
+              "question_id": 12,
+              "question": "Which of the following heart failure medications have proven mortality reduction benefits in chronic heart failure?",
+              "options": [
+                "a. ACE Inhibitors / ARBs, Beta-blockers (Carvedilol/Bisoprolol/Metoprolol succinate), and Aldosterone Antagonists (Spironolactone)",
+                "b. Digoxin and Loop Diuretics",
+                "c. Short-acting Nitrates alone",
+                "d. Dobutamine infusion"
+              ],
+              "correct_answer": "a. ACE Inhibitors / ARBs, Beta-blockers (Carvedilol/Bisoprolol/Metoprolol succinate), and Aldosterone Antagonists (Spironolactone)",
+              "explanation": "ACEi/ARBs, Beta-blockers, Aldosterone antagonists, Sacubitril-Valsartan (ARNI), and SGLT2 inhibitors retard neurohormonal cardiac remodeling and significantly reduce mortality in chronic heart failure."
+            },
+            {
+              "question_id": 13,
+              "question": "The combination Sacubitril / Valsartan (ARNI) acts by:",
+              "options": [
+                "a. Inhibiting Neutral Endopeptidase (Neprilysin) to increase natriuretic peptides + blocking AT1 receptors",
+                "b. Inhibiting PDE-5 and beta-1 receptors",
+                "c. Blocking Na+/K+-ATPase and aldosterone",
+                "d. Inhibiting HMG-CoA reductase"
+              ],
+              "correct_answer": "a. Inhibiting Neutral Endopeptidase (Neprilysin) to increase natriuretic peptides + blocking AT1 receptors",
+              "explanation": "Sacubitril inhibits Neprilysin (preventing breakdown of ANP/BNP/bradykinin to promote natriuresis/vasodilation), while Valsartan blocks AT1 receptors, significantly reducing heart failure mortality."
+            },
+            {
+              "question_id": 14,
+              "question": "Which classes of antihypertensive drugs are 1st line for a hypertensive patient with Type 2 Diabetes Mellitus or Diabetic Nephropathy?",
+              "options": [
+                "a. ACE Inhibitors or Angiotensin Receptor Blockers (ARBs)",
+                "b. Thiazide diuretics alone",
+                "c. Non-selective beta-blockers",
+                "d. Direct vasodilators (Hydralazine)"
+              ],
+              "correct_answer": "a. ACE Inhibitors or Angiotensin Receptor Blockers (ARBs)",
+              "explanation": "ACEi and ARBs preferentially dilate efferent glomerular arterioles, reducing intraglomerular hydrostatic pressure, slowing diabetic nephropathy progression and proteinuria."
+            },
+            {
+              "question_id": 15,
+              "question": "Dry cough associated with ACE inhibitor therapy is caused by accumulation of:",
+              "options": [
+                "a. Bradykinin and Substance P in bronchial mucosa",
+                "b. Angiotensin II",
+                "c. Renin",
+                "d. Histamine H1"
+              ],
+              "correct_answer": "a. Bradykinin and Substance P in bronchial mucosa",
+              "explanation": "ACE (Kininase II) breaks down bradykinin. Inhibiting ACE leads to bradykinin and substance P accumulation in lungs, triggering dry cough in 5-20% of patients. Switching to ARBs resolves cough."
+            },
+            {
+              "question_id": 16,
+              "question": "ACE inhibitors and ARBs are strictly contraindicated in pregnancy and in patients with:",
+              "options": [
+                "a. Bilateral Renal Artery Stenosis (or solitary kidney with RAS)",
+                "b. Essential hypertension",
+                "c. Heart failure",
+                "d. Diabetic nephropathy"
+              ],
+              "correct_answer": "a. Bilateral Renal Artery Stenosis (or solitary kidney with RAS)",
+              "explanation": "In bilateral RAS, GFR depends on Angiotensin II-mediated efferent arteriolar constriction. ACEi/ARBs remove this constriction, causing acute renal failure."
+            },
+            {
+              "question_id": 17,
+              "question": "Ivabradine lowers heart rate in angina and heart failure by selectively inhibiting:",
+              "options": [
+                "a. Hyperpolarization-activated cyclic nucleotide-gated (HCN) 'funny' current (If) in SA node",
+                "b. L-type calcium channels",
+                "c. Beta-1 adrenergic receptors",
+                "d. Na+/K+-ATPase"
+              ],
+              "correct_answer": "a. Hyperpolarization-activated cyclic nucleotide-gated (HCN) 'funny' current (If) in SA node",
+              "explanation": "Ivabradine selectively blocks SA node If channels, slowing Phase 4 pacemaker depolarization and heart rate without affecting cardiac contractility or BP."
+            },
+            {
+              "question_id": 18,
+              "question": "Anti-anginal mechanism of Nitroglycerine (GTN) in classic stable angina is primarily:",
+              "options": [
+                "a. Venodilation leading to reduced venous return, end-diastolic pressure, and cardiac preload",
+                "b. Direct myocardial inotropy",
+                "c. Selective arterial constriction",
+                "d. Blockade of beta-1 receptors"
+              ],
+              "correct_answer": "a. Venodilation leading to reduced venous return, end-diastolic pressure, and cardiac preload",
+              "explanation": "Nitrates release Nitric Oxide (NO) in smooth muscle, activating guanylyl cyclase to form cGMP. At therapeutic doses, venodilation predominates, reducing venous return (preload) and myocardial O2 demand."
+            },
+            {
+              "question_id": 19,
+              "question": "Statins (e.g., Atorvastatin, Rosuvastatin) lower LDL cholesterol by competitively inhibiting:",
+              "options": [
+                "a. HMG-CoA reductase (3-hydroxy-3-methylglutaryl-coenzyme A reductase)",
+                "b. Lipoprotein lipase",
+                "c. Niemann-Pick C1-Like 1 (NPC1L1) protein",
+                "d. PCSK9"
+              ],
+              "correct_answer": "a. HMG-CoA reductase (3-hydroxy-3-methylglutaryl-coenzyme A reductase)",
+              "explanation": "Statins inhibit HMG-CoA reductase, the rate-limiting enzyme in hepatic cholesterol synthesis. Up-regulated hepatic LDL receptors clear LDL particles from circulation."
+            },
+            {
+              "question_id": 20,
+              "question": "Ezetimibe lowers plasma LDL cholesterol by selectively inhibiting:",
+              "options": [
+                "a. NPC1L1 (Niemann-Pick C1-Like 1) transporter in intestinal brush border",
+                "b. HMG-CoA reductase",
+                "c. VLDL secretion",
+                "d. Bile acid reabsorption"
+              ],
+              "correct_answer": "a. NPC1L1 (Niemann-Pick C1-Like 1) transporter in intestinal brush border",
+              "explanation": "Ezetimibe binds the NPC1L1 protein on jejunal enterocytes, selectively blocking intestinal absorption of dietary and biliary cholesterol."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
