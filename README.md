@@ -9,6 +9,7 @@ A Node.js/Express backend API utilizing MongoDB, AWS S3, Firebase, and Razorpay.
 - **Authentication**: JWT & bcryptjs
 - **Storage**: AWS S3 integration with presigned URLs and Multer
 - **Integrations**: Firebase, Nodemailer, Razorpay
+- **Payments**: One-time Razorpay payments; plans do not automatically renew
 
 ## Prerequisites
 
